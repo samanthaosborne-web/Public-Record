@@ -1,0 +1,329 @@
+[
+  {
+    "id": "clm_demo-0001",
+    "politicianId": "pol_demo-vance-eleanor",
+    "quote": "Since we came to government, regional road fatalities have fallen by 40 per cent.",
+    "summary": "Regional road deaths down 40 per cent since the government took office.",
+    "date": "2026-01-04",
+    "context": "Press conference, Kestrel Bay",
+    "issueIds": [
+      "iss_infrastructure"
+    ],
+    "originalSourceId": "src_demo-transcript-vance-2026-01-04",
+    "checkable": true,
+    "currentAssessmentId": "asm_demo-0001-v1",
+    "isDemonstration": true,
+    "createdAt": "2026-01-09T10:00:00+11:00",
+    "updatedAt": "2026-01-09T10:00:00+10:00"
+  },
+  {
+    "id": "clm_demo-0002",
+    "politicianId": "pol_demo-oyelaran-marcus",
+    "quote": "Household disposable income has fallen 8 per cent since this government was elected.",
+    "summary": "Household disposable income down 8 per cent since the election.",
+    "date": "2026-02-03",
+    "context": "Doorstop interview, Parliament House",
+    "issueIds": [
+      "iss_economy"
+    ],
+    "originalSourceId": "src_demo-doorstop-oyelaran-2026-02-03",
+    "checkable": true,
+    "currentAssessmentId": "asm_demo-0002-v1",
+    "isDemonstration": true,
+    "createdAt": "2026-02-05T10:00:00+11:00",
+    "updatedAt": "2026-02-06T10:00:00+10:00"
+  },
+  {
+    "id": "clm_demo-0003",
+    "politicianId": "pol_demo-oyelaran-marcus",
+    "quote": "Australians are worse off than ever.",
+    "summary": "Australians are 'worse off than ever'.",
+    "date": "2026-02-03",
+    "context": "Doorstop interview, Parliament House",
+    "issueIds": [
+      "iss_economy"
+    ],
+    "originalSourceId": "src_demo-doorstop-oyelaran-2026-02-03",
+    "checkable": false,
+    "currentAssessmentId": "asm_demo-0003-v1",
+    "isDemonstration": true,
+    "createdAt": "2026-02-05T10:00:00+11:00",
+    "updatedAt": "2026-02-06T10:00:00+10:00"
+  },
+  {
+    "id": "clm_demo-0004",
+    "politicianId": "pol_demo-natarajan-priya",
+    "quote": "We have delivered 40,000 new homes under the Housing Accelerator.",
+    "summary": "40,000 new homes delivered under the Housing Accelerator.",
+    "date": "2026-04-22",
+    "context": "Senate Estimates, Infrastructure and Housing committee",
+    "issueIds": [
+      "iss_housing"
+    ],
+    "originalSourceId": "src_demo-estimates-2026-04-22",
+    "checkable": true,
+    "currentAssessmentId": "asm_demo-0004-v1",
+    "isDemonstration": true,
+    "createdAt": "2026-04-24T10:00:00+10:00",
+    "updatedAt": "2026-04-26T10:00:00+10:00"
+  },
+  {
+    "id": "clm_demo-0005",
+    "politicianId": "pol_demo-brackenridge-tom",
+    "quote": "Wholesale electricity prices in the National Electricity Market were 18 per cent higher in the March quarter than a year earlier.",
+    "summary": "Wholesale electricity prices up 18 per cent year on year in the March quarter.",
+    "date": "2026-05-14",
+    "context": "Speech to the Energy Industry Conference, Perth",
+    "issueIds": [
+      "iss_energy"
+    ],
+    "originalSourceId": "src_demo-speech-brackenridge-2026-05-14",
+    "checkable": true,
+    "currentAssessmentId": "asm_demo-0005-v1",
+    "isDemonstration": true,
+    "createdAt": "2026-05-16T10:00:00+10:00",
+    "updatedAt": "2026-05-18T10:00:00+10:00"
+  },
+  {
+    "id": "clm_demo-0006",
+    "politicianId": "pol_demo-fenwick-isla",
+    "quote": "Every dollar spent on the port upgrade returns three dollars to the Tasmanian economy.",
+    "summary": "Port upgrade returns three dollars for every dollar spent.",
+    "date": "2026-06-11",
+    "context": "Senate, second reading debate",
+    "issueIds": [
+      "iss_infrastructure",
+      "iss_economy"
+    ],
+    "originalSourceId": "src_demo-hansard-senate-2026-06-11",
+    "checkable": true,
+    "currentAssessmentId": "asm_demo-0006-v1",
+    "isDemonstration": true,
+    "createdAt": "2026-06-15T10:00:00+10:00",
+    "updatedAt": "2026-06-16T10:00:00+10:00"
+  },
+  {
+    "id": "clm_demo-0007",
+    "politicianId": "pol_demo-vance-eleanor",
+    "quote": "Our government has funded 2,000 kilometres of regional road upgrades this term.",
+    "summary": "2,000 km of regional road upgrades funded this term.",
+    "date": "2026-03-07",
+    "context": "House of Representatives, Question Time",
+    "issueIds": [
+      "iss_infrastructure"
+    ],
+    "originalSourceId": "src_demo-hansard-house-2026-03-07",
+    "checkable": true,
+    "currentAssessmentId": "asm_demo-0007-v1",
+    "isDemonstration": true,
+    "createdAt": "2026-03-10T10:00:00+11:00",
+    "updatedAt": "2026-03-11T10:00:00+10:00"
+  },
+  {
+    "id": "clm_demo-0008",
+    "politicianId": "pol_demo-natarajan-priya",
+    "quote": "Rents grew more slowly in the past year than in any year since 2020.",
+    "summary": "Rent growth in the past year the slowest since 2020.",
+    "date": "2026-07-15",
+    "context": "Press conference, Brisbane",
+    "issueIds": [
+      "iss_housing"
+    ],
+    "originalSourceId": "src_demo-transcript-natarajan-2026-07-15",
+    "checkable": true,
+    "currentAssessmentId": "asm_demo-0008-v2",
+    "isDemonstration": true,
+    "createdAt": "2026-07-18T10:00:00+10:00",
+    "updatedAt": "2026-09-12T10:00:00+10:00"
+  },
+  {
+    "id": "clm_demo-0009",
+    "politicianId": "pol_demo-brackenridge-tom",
+    "quote": "I was told privately by the regulator's chair that the price cap would be lifted next year.",
+    "summary": "Regulator's chair privately said the price cap would be lifted next year.",
+    "date": "2026-08-20",
+    "context": "Evening news interview",
+    "issueIds": [
+      "iss_energy"
+    ],
+    "originalSourceId": "src_demo-tv-brackenridge-2026-08-20",
+    "checkable": true,
+    "currentAssessmentId": "asm_demo-0009-v1",
+    "isDemonstration": true,
+    "createdAt": "2026-08-21T10:00:00+10:00",
+    "updatedAt": "2026-08-22T10:00:00+10:00"
+  },
+  {
+    "id": "clm_demo-0010",
+    "politicianId": "pol_demo-natarajan-priya",
+    "quote": "Regional road deaths are down 40 per cent under this government.",
+    "summary": "Regional road deaths down 40 per cent (repeats an earlier claim).",
+    "date": "2026-09-22",
+    "context": "Senate, Question Time",
+    "issueIds": [
+      "iss_infrastructure"
+    ],
+    "originalSourceId": "src_demo-hansard-senate-2026-09-22",
+    "checkable": true,
+    "currentAssessmentId": "asm_demo-0010-v1",
+    "isDemonstration": true,
+    "createdAt": "2026-09-30T08:30:00+10:00",
+    "updatedAt": "2026-09-30T10:00:00+10:00",
+    "repeatsClaimId": "clm_demo-0001"
+  },
+  {
+    "id": "clm_demo-0011",
+    "politicianId": "pol_demo-fenwick-isla",
+    "quote": "Tasmania has the lowest median taxable income of any state.",
+    "summary": "Tasmania has the lowest median taxable income of any state.",
+    "date": "2026-08-05",
+    "context": "Senate, matters of public importance",
+    "issueIds": [
+      "iss_tax",
+      "iss_economy"
+    ],
+    "originalSourceId": "src_demo-hansard-senate-2026-08-05",
+    "checkable": true,
+    "currentAssessmentId": "asm_demo-0011-v1",
+    "isDemonstration": true,
+    "createdAt": "2026-08-07T10:00:00+10:00",
+    "updatedAt": "2026-08-08T10:00:00+10:00"
+  },
+  {
+    "id": "clm_demo-0012",
+    "politicianId": "pol_demo-brackenridge-tom",
+    "quote": "Australia's emissions have risen every year since 2022.",
+    "summary": "Emissions have risen every year since 2022.",
+    "date": "2026-06-30",
+    "context": "Media release",
+    "issueIds": [
+      "iss_climate",
+      "iss_energy"
+    ],
+    "originalSourceId": "src_demo-release-brackenridge-2026-06-30",
+    "checkable": true,
+    "currentAssessmentId": "asm_demo-0012-v1",
+    "isDemonstration": true,
+    "createdAt": "2026-07-02T10:00:00+10:00",
+    "updatedAt": "2026-07-03T10:00:00+10:00"
+  },
+  {
+    "id": "clm_demo-0013",
+    "politicianId": "pol_demo-vance-eleanor",
+    "quote": "Kestrel Bay will be the fastest-growing region in the country within five years.",
+    "summary": "Kestrel Bay will be the fastest-growing region within five years.",
+    "date": "2026-04-02",
+    "context": "Regional development forum",
+    "issueIds": [
+      "iss_economy"
+    ],
+    "originalSourceId": "src_demo-transcript-vance-2026-04-02",
+    "checkable": false,
+    "currentAssessmentId": "asm_demo-0013-v1",
+    "isDemonstration": true,
+    "createdAt": "2026-04-03T10:00:00+11:00",
+    "updatedAt": "2026-04-04T10:00:00+10:00"
+  },
+  {
+    "id": "clm_demo-0014",
+    "politicianId": "pol_demo-oyelaran-marcus",
+    "quote": "Net overseas migration is running at record levels.",
+    "summary": "Net overseas migration at record levels.",
+    "date": "2026-05-20",
+    "context": "House of Representatives, Question Time",
+    "issueIds": [
+      "iss_immigration"
+    ],
+    "originalSourceId": "src_demo-hansard-house-2026-05-20",
+    "checkable": true,
+    "currentAssessmentId": "asm_demo-0014-v1",
+    "isDemonstration": true,
+    "createdAt": "2026-05-22T10:00:00+10:00",
+    "updatedAt": "2026-05-23T10:00:00+10:00"
+  },
+  {
+    "id": "clm_demo-0015",
+    "politicianId": "pol_demo-natarajan-priya",
+    "quote": "Bulk-billing rates for GP visits rose to 79 per cent in the June quarter.",
+    "summary": "GP bulk-billing rate rose to 79 per cent in the June quarter.",
+    "date": "2026-08-27",
+    "context": "Media release",
+    "issueIds": [
+      "iss_health"
+    ],
+    "originalSourceId": "src_demo-release-natarajan-2026-08-27",
+    "checkable": true,
+    "currentAssessmentId": "asm_demo-0015-v1",
+    "isDemonstration": true,
+    "createdAt": "2026-09-01T10:00:00+10:00",
+    "updatedAt": "2026-09-01T10:00:00+10:00"
+  },
+  {
+    "id": "clm_demo-0016",
+    "politicianId": "pol_demo-fenwick-isla",
+    "quote": "One in three Tasmanian students is below the national minimum standard in reading.",
+    "summary": "One in three Tasmanian students below the minimum reading standard.",
+    "date": "2026-03-18",
+    "context": "Senate, adjournment debate",
+    "issueIds": [
+      "iss_education"
+    ],
+    "originalSourceId": "src_demo-hansard-senate-2026-03-18",
+    "checkable": true,
+    "currentAssessmentId": "asm_demo-0016-v1",
+    "isDemonstration": true,
+    "createdAt": "2026-03-20T10:00:00+11:00",
+    "updatedAt": "2026-03-21T10:00:00+10:00"
+  },
+  {
+    "id": "clm_demo-0017",
+    "politicianId": "pol_demo-brackenridge-tom",
+    "quote": "Defence spending will reach 2.3 per cent of GDP in 2028-29 under the current budget.",
+    "summary": "Defence spending to reach 2.3 per cent of GDP in 2028-29.",
+    "date": "2026-05-14",
+    "context": "Speech to the Energy Industry Conference, Perth",
+    "issueIds": [
+      "iss_defence"
+    ],
+    "originalSourceId": "src_demo-speech-brackenridge-2026-05-14",
+    "checkable": true,
+    "currentAssessmentId": "asm_demo-0017-v1",
+    "isDemonstration": true,
+    "createdAt": "2026-05-16T10:00:00+10:00",
+    "updatedAt": "2026-05-18T10:00:00+10:00"
+  },
+  {
+    "id": "clm_demo-0018",
+    "politicianId": "pol_demo-oyelaran-marcus",
+    "quote": "Break-ins in Wattle Plains have doubled in two years.",
+    "summary": "Break-ins in Wattle Plains doubled in two years.",
+    "date": "2026-07-29",
+    "context": "Community forum, Wattle Plains",
+    "issueIds": [
+      "iss_crime"
+    ],
+    "originalSourceId": "src_demo-forum-oyelaran-2026-07-29",
+    "checkable": true,
+    "currentAssessmentId": "asm_demo-0018-v1",
+    "isDemonstration": true,
+    "createdAt": "2026-07-31T10:00:00+10:00",
+    "updatedAt": "2026-08-01T10:00:00+10:00"
+  },
+  {
+    "id": "clm_demo-0019",
+    "politicianId": "pol_demo-castellan-hugh",
+    "quote": "The Silvergum hospital has lost 200 beds since 2020.",
+    "summary": "Silvergum hospital has lost 200 beds since 2020.",
+    "date": "2026-09-28",
+    "context": "House of Representatives, members' statements",
+    "issueIds": [
+      "iss_health"
+    ],
+    "originalSourceId": "src_demo-hansard-house-2026-09-28",
+    "checkable": true,
+    "currentAssessmentId": "asm_demo-0019-v1",
+    "isDemonstration": true,
+    "createdAt": "2026-09-30T08:00:00+10:00",
+    "updatedAt": "2026-09-30T10:00:00+10:00"
+  }
+]

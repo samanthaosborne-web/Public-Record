@@ -1,0 +1,46 @@
+[
+  {
+    "id": "rep_demo-001",
+    "claimId": "clm_demo-0001",
+    "date": "2026-02-12",
+    "context": "Regional Breakfast radio interview",
+    "sourceId": "src_demo-radio-vance-2026-02-12",
+    "reworded": false,
+    "evidenceChanged": false,
+    "createdAt": "2026-02-12T12:00:00+10:00",
+    "updatedAt": "2026-02-12T12:00:00+10:00"
+  },
+  {
+    "id": "rep_demo-002",
+    "claimId": "clm_demo-0001",
+    "date": "2026-03-07",
+    "context": "House of Representatives, Question Time",
+    "sourceId": "src_demo-hansard-house-2026-03-07",
+    "reworded": false,
+    "evidenceChanged": false,
+    "createdAt": "2026-03-07T12:00:00+10:00",
+    "updatedAt": "2026-03-07T12:00:00+10:00"
+  },
+  {
+    "id": "rep_demo-003",
+    "claimId": "clm_demo-0001",
+    "date": "2026-05-18",
+    "context": "Media release",
+    "sourceId": "src_demo-release-vance-2026-05-18",
+    "reworded": false,
+    "evidenceChanged": false,
+    "createdAt": "2026-05-18T12:00:00+10:00",
+    "updatedAt": "2026-05-18T12:00:00+10:00"
+  },
+  {
+    "id": "rep_demo-004",
+    "claimId": "clm_demo-0012",
+    "date": "2026-08-12",
+    "context": "Afternoon radio interview",
+    "sourceId": "src_demo-radio-brackenridge-2026-08-12",
+    "reworded": false,
+    "evidenceChanged": false,
+    "createdAt": "2026-08-12T12:00:00+10:00",
+    "updatedAt": "2026-08-12T12:00:00+10:00"
+  }
+]

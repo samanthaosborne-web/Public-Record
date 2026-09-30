@@ -1,0 +1,177 @@
+[
+  {
+    "id": "int_demo-0001",
+    "title": "Referral of Regional Connectivity Grants round 3 to the National Integrity Commission",
+    "politicianId": "pol_demo-vance-eleanor",
+    "date": "2026-02-18",
+    "organisation": "National Integrity Commission (demonstration)",
+    "description": "The Auditor-General reported on 10 December 2025 that 61 per cent of round-3 grant funding went to electorates held by the government and that the minister's office approved 14 grants against departmental advice. An opposition member referred the program to the National Integrity Commission on 18 February 2026. The commission announced a preliminary assessment on 4 March 2026 and a formal investigation on 22 June 2026.",
+    "status": "formal_investigation",
+    "statusHistory": [
+      {
+        "status": "allegation",
+        "date": "2025-12-10",
+        "note": "Auditor-General's report tabled.",
+        "sourceId": "src_demo-auditor-grants-2025-12"
+      },
+      {
+        "status": "referral",
+        "date": "2026-02-18",
+        "note": "Referred by an opposition member.",
+        "sourceId": "src_demo-news-grants-referral"
+      },
+      {
+        "status": "preliminary_assessment",
+        "date": "2026-03-04",
+        "note": "Commission confirmed a preliminary assessment."
+      },
+      {
+        "status": "formal_investigation",
+        "date": "2026-06-22",
+        "note": "Commission announced a formal investigation. Commencement is not a finding.",
+        "sourceId": "src_demo-integrity-commission-2026-06-22"
+      }
+    ],
+    "primarySourceIds": [
+      "src_demo-auditor-grants-2025-12",
+      "src_demo-integrity-commission-2026-06-22"
+    ],
+    "independentSourceIds": [
+      "src_demo-news-grants-referral"
+    ],
+    "responseId": "rsp_demo-005",
+    "lastCheckedAt": "2026-09-29",
+    "humanReviewedAt": "2026-02-19",
+    "createdAt": "2026-02-19T10:00:00+11:00",
+    "updatedAt": "2026-09-29T10:00:00+10:00",
+    "isDemonstration": true
+  },
+  {
+    "id": "int_demo-0002",
+    "title": "Declaration of a family trust interest in property in the Wattle Plains electorate",
+    "politicianId": "pol_demo-oyelaran-marcus",
+    "date": "2025-09-03",
+    "organisation": "House Committee of Privileges and Members' Interests (demonstration)",
+    "description": "A newspaper reported on 3 September 2025 that a family trust connected to Mr Oyelaran held property in his electorate and questioned whether the interest had been declared. The matter was referred to the committee on 10 September 2025. On 26 November 2025 the committee found the interest had been declared within the required 28 days and that no breach occurred.",
+    "status": "cleared",
+    "statusHistory": [
+      {
+        "status": "allegation",
+        "date": "2025-09-03",
+        "note": "Newspaper report.",
+        "sourceId": "src_demo-news-trust-interest"
+      },
+      {
+        "status": "referral",
+        "date": "2025-09-10",
+        "note": "Referred to the committee."
+      },
+      {
+        "status": "cleared",
+        "date": "2025-11-26",
+        "note": "Committee found no breach.",
+        "sourceId": "src_demo-privileges-report-2025-11"
+      }
+    ],
+    "primarySourceIds": [
+      "src_demo-privileges-report-2025-11"
+    ],
+    "independentSourceIds": [
+      "src_demo-news-trust-interest"
+    ],
+    "responseId": "rsp_demo-006",
+    "outcome": "Cleared. The committee found the interest was declared within 28 days as required and that no breach of the register rules occurred.",
+    "lastCheckedAt": "2026-09-29",
+    "humanReviewedAt": "2025-09-12",
+    "createdAt": "2025-09-12T10:00:00+10:00",
+    "updatedAt": "2025-11-26T16:00:00+11:00",
+    "isDemonstration": true
+  },
+  {
+    "id": "int_demo-0003",
+    "title": "Use of electorate office printing for a private business mailing",
+    "politicianId": "pol_demo-brackenridge-tom",
+    "date": "2026-01-15",
+    "organisation": "Parliamentary Expenses Authority (demonstration)",
+    "description": "A newspaper reported on 15 January 2026 that Mr Brackenridge's electorate office printing allocation had been used for a flyer promoting a private business. The authority opened an investigation on 5 February 2026. On 27 March 2026 it found a minor breach, required repayment of $1,240 and found no dishonest intent. The amount was repaid on 2 April 2026.",
+    "status": "official_finding",
+    "statusHistory": [
+      {
+        "status": "allegation",
+        "date": "2026-01-15",
+        "note": "Newspaper report.",
+        "sourceId": "src_demo-news-mailing"
+      },
+      {
+        "status": "referral",
+        "date": "2026-01-20",
+        "note": "Self-referred to the authority by Mr Brackenridge."
+      },
+      {
+        "status": "formal_investigation",
+        "date": "2026-02-05",
+        "note": "Authority opened an investigation."
+      },
+      {
+        "status": "official_finding",
+        "date": "2026-03-27",
+        "note": "Minor breach; repayment required; no dishonest intent found.",
+        "sourceId": "src_demo-expenses-ruling-2026-03-27"
+      }
+    ],
+    "primarySourceIds": [
+      "src_demo-expenses-ruling-2026-03-27"
+    ],
+    "independentSourceIds": [
+      "src_demo-news-mailing"
+    ],
+    "responseId": "rsp_demo-007",
+    "outcome": "Official finding: a minor breach of the electorate office resources rules. Repayment of $1,240 was required and made on 2 April 2026. The authority found no dishonest intent.",
+    "lastCheckedAt": "2026-09-29",
+    "humanReviewedAt": "2026-01-21",
+    "createdAt": "2026-01-21T10:00:00+11:00",
+    "updatedAt": "2026-04-02T10:00:00+10:00",
+    "isDemonstration": true
+  },
+  {
+    "id": "int_demo-0004",
+    "title": "Complaint about authorisation of a pre-election advertisement",
+    "politicianId": "pol_demo-natarajan-priya",
+    "date": "2026-04-09",
+    "organisation": "Electoral Commission (demonstration)",
+    "description": "A complaint lodged with the Electoral Commission alleged that a television advertisement featuring Senator Natarajan lacked the required authorisation statement. On 3 June 2026 the commission found the advertisement was properly authorised and dismissed the complaint.",
+    "status": "dismissed",
+    "statusHistory": [
+      {
+        "status": "allegation",
+        "date": "2026-04-09",
+        "note": "Complaint reported.",
+        "sourceId": "src_demo-news-ad-complaint"
+      },
+      {
+        "status": "preliminary_assessment",
+        "date": "2026-04-20",
+        "note": "Commission assessed the complaint."
+      },
+      {
+        "status": "dismissed",
+        "date": "2026-06-03",
+        "note": "Advertisement found to be properly authorised.",
+        "sourceId": "src_demo-electoral-decision-2026-06-03"
+      }
+    ],
+    "primarySourceIds": [
+      "src_demo-electoral-decision-2026-06-03"
+    ],
+    "independentSourceIds": [
+      "src_demo-news-ad-complaint"
+    ],
+    "responseId": "rsp_demo-008",
+    "outcome": "Dismissed. The commission found the advertisement carried a compliant authorisation statement.",
+    "lastCheckedAt": "2026-09-29",
+    "humanReviewedAt": "2026-04-10",
+    "createdAt": "2026-04-10T10:00:00+10:00",
+    "updatedAt": "2026-06-03T15:00:00+10:00",
+    "isDemonstration": true
+  }
+]

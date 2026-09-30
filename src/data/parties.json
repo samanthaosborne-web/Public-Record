@@ -1,0 +1,11 @@
+[
+  {"id":"alp","name":"Australian Labor Party","shortName":"Labor","abbreviation":"ALP","accentColour":"#D8343B","filterLabel":"LABOR","isDemonstration":false,"createdAt":"2026-09-30T09:00:00+10:00","updatedAt":"2026-09-30T09:00:00+10:00"},
+  {"id":"lib","name":"Liberal Party of Australia","shortName":"Liberal","abbreviation":"LIB","accentColour":"#1F4E9C","filterLabel":"LIBERAL","isDemonstration":false,"createdAt":"2026-09-30T09:00:00+10:00","updatedAt":"2026-09-30T09:00:00+10:00"},
+  {"id":"nat","name":"The Nationals","shortName":"Nationals","abbreviation":"NAT","accentColour":"#0B6E4F","filterLabel":"NATIONALS","isDemonstration":false,"createdAt":"2026-09-30T09:00:00+10:00","updatedAt":"2026-09-30T09:00:00+10:00"},
+  {"id":"grn","name":"Australian Greens","shortName":"Greens","abbreviation":"GRN","accentColour":"#2E9E4F","filterLabel":"GREENS","isDemonstration":false,"createdAt":"2026-09-30T09:00:00+10:00","updatedAt":"2026-09-30T09:00:00+10:00"},
+  {"id":"on","name":"One Nation","shortName":"One Nation","abbreviation":"ON","accentColour":"#E8772E","filterLabel":"ONE NATION","isDemonstration":false,"createdAt":"2026-09-30T09:00:00+10:00","updatedAt":"2026-09-30T09:00:00+10:00"},
+  {"id":"ind","name":"Independent","shortName":"Independent","abbreviation":"IND","accentColour":"#7A7F87","isDemonstration":false,"createdAt":"2026-09-30T09:00:00+10:00","updatedAt":"2026-09-30T09:00:00+10:00"},
+  {"id":"demo-harbour","name":"Harbour Alliance (fictional)","shortName":"Harbour Alliance","abbreviation":"HA","accentColour":"#5B7C99","isDemonstration":true,"createdAt":"2026-09-30T09:00:00+10:00","updatedAt":"2026-09-30T09:00:00+10:00"},
+  {"id":"demo-civic","name":"Civic Reform Party (fictional)","shortName":"Civic Reform","abbreviation":"CRP","accentColour":"#9A7B4F","isDemonstration":true,"createdAt":"2026-09-30T09:00:00+10:00","updatedAt":"2026-09-30T09:00:00+10:00"},
+  {"id":"demo-ind","name":"Independent (fictional)","shortName":"Independent","abbreviation":"IND","accentColour":"#7A7F87","isDemonstration":true,"createdAt":"2026-09-30T09:00:00+10:00","updatedAt":"2026-09-30T09:00:00+10:00"}
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "id": "cnd_demo-0001",
+    "title": "Allegation of assault at a 2023 function",
+    "politicianId": "pol_demo-castellan-hugh",
+    "date": "2026-03-03",
+    "allegationSummary": "A woman publicly alleged, in an on-record interview reported by two national outlets on 3 and 4 March 2026, that Mr Castellan assaulted her at a function in 2023. She reported the matter to police on 4 March 2026. Police confirmed on 6 March 2026 that an investigation was under way. No charges have been laid.",
+    "status": "police_investigation",
+    "statusHistory": [
+      {
+        "status": "allegation",
+        "date": "2026-03-03",
+        "note": "Allegation published by an established outlet on the record.",
+        "sourceId": "src_demo-news-castellan-allegation-a"
+      },
+      {
+        "status": "police_report",
+        "date": "2026-03-04",
+        "note": "Report made to police."
+      },
+      {
+        "status": "police_investigation",
+        "date": "2026-03-06",
+        "note": "Police confirmed an investigation. No charges laid.",
+        "sourceId": "src_demo-police-statement-2026-03-06"
+      }
+    ],
+    "evidenceBasis": "official_record",
+    "primarySourceIds": [
+      "src_demo-police-statement-2026-03-06",
+      "src_demo-statement-castellan-2026-03-04"
+    ],
+    "independentSourceIds": [
+      "src_demo-news-castellan-allegation-a",
+      "src_demo-news-castellan-allegation-b"
+    ],
+    "responseId": "rsp_demo-009",
+    "lastCheckedAt": "2026-09-29",
+    "humanReviewedAt": "2026-03-06",
+    "createdAt": "2026-03-06T17:00:00+11:00",
+    "updatedAt": "2026-09-29T10:00:00+10:00",
+    "isDemonstration": true
+  },
+  {
+    "id": "cnd_demo-0002",
+    "title": "Complaint alleging a push at a 2022 campaign event",
+    "politicianId": "pol_demo-fenwick-isla",
+    "date": "2025-06-17",
+    "allegationSummary": "A man publicly alleged in June 2025 that Senator Fenwick pushed him at a campaign event in 2022, and reported the matter to police on 18 June 2025. Police investigated and announced on 14 October 2025 that no charges would be laid and the investigation was closed.",
+    "status": "no_charges_laid",
+    "statusHistory": [
+      {
+        "status": "allegation",
+        "date": "2025-06-17",
+        "note": "Allegation published by an established outlet.",
+        "sourceId": "src_demo-news-fenwick-allegation"
+      },
+      {
+        "status": "police_report",
+        "date": "2025-06-18",
+        "note": "Report made to police."
+      },
+      {
+        "status": "police_investigation",
+        "date": "2025-07-02",
+        "note": "Police confirmed an investigation."
+      },
+      {
+        "status": "no_charges_laid",
+        "date": "2025-10-14",
+        "note": "Police announced no charges would be laid; investigation closed.",
+        "sourceId": "src_demo-police-statement-2025-10-14"
+      }
+    ],
+    "evidenceBasis": "official_record",
+    "primarySourceIds": [
+      "src_demo-police-statement-2025-10-14",
+      "src_demo-statement-fenwick-2025-06-17"
+    ],
+    "independentSourceIds": [
+      "src_demo-news-fenwick-allegation"
+    ],
+    "responseId": "rsp_demo-010",
+    "outcome": "No charges laid. Police closed the investigation on 14 October 2025 without charge. No finding of guilt was made.",
+    "lastCheckedAt": "2026-09-29",
+    "humanReviewedAt": "2025-06-19",
+    "createdAt": "2025-06-19T10:00:00+10:00",
+    "updatedAt": "2025-10-14T16:00:00+11:00",
+    "isDemonstration": true
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "id": "cor_demo-001",
+    "claimId": "clm_demo-0001",
+    "politicianId": "pol_demo-vance-eleanor",
+    "status": "repeated_unchanged",
+    "description": "The same claim was repeated on three subsequent occasions (12 February, 7 March and 18 May 2026) after the original fact check was published on 9 January 2026. No correction or clarification has been located.",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "date": "2026-05-18",
+    "sourceId": "src_demo-release-vance-2026-05-18"
+  },
+  {
+    "id": "cor_demo-002",
+    "claimId": "clm_demo-0002",
+    "politicianId": "pol_demo-oyelaran-marcus",
+    "status": "corrected",
+    "description": "In a written statement on 10 February 2026, Mr Oyelaran said the figure 'should have been around 5 per cent in real per-capita terms' and issued a corrected transcript.",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "date": "2026-02-10",
+    "sourceId": "src_demo-statement-oyelaran-2026-02-10"
+  },
+  {
+    "id": "cor_demo-003",
+    "claimId": "clm_demo-0004",
+    "politicianId": "pol_demo-natarajan-priya",
+    "status": "clarified",
+    "description": "Speaking in the Senate on 6 May 2026, Senator Natarajan restated the figure as '40,000 homes approved for funding, of which around 18,000 are complete'.",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "date": "2026-05-06",
+    "sourceId": "src_demo-hansard-senate-2026-05-06"
+  },
+  {
+    "id": "cor_demo-004",
+    "claimId": "clm_demo-0012",
+    "politicianId": "pol_demo-brackenridge-tom",
+    "status": "no_correction_located",
+    "description": "PUBLIC RECORD has not located any correction, clarification or restatement of this claim as at 29 September 2026. The claim was repeated unchanged on 12 August 2026.",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cor_demo-005",
+    "claimId": "clm_demo-0018",
+    "politicianId": "pol_demo-oyelaran-marcus",
+    "status": "clarified",
+    "description": "In a statement on 3 August 2026, Mr Oyelaran said he 'should have said break-ins have risen sharply, not doubled', citing the 23 per cent figure.",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "date": "2026-08-03",
+    "sourceId": "src_demo-statement-oyelaran-2026-08-03"
+  },
+  {
+    "id": "cor_demo-006",
+    "claimId": "clm_demo-0008",
+    "politicianId": "pol_demo-natarajan-priya",
+    "status": "updated",
+    "description": "On 14 September 2026 Senator Natarajan restated the claim using the revised September release: 'rents in the capitals are growing at their slowest rate since 2020'.",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "date": "2026-09-14",
+    "sourceId": "src_demo-transcript-natarajan-2026-09-14"
+  },
+  {
+    "id": "cor_demo-007",
+    "claimId": "clm_demo-0014",
+    "politicianId": "pol_demo-oyelaran-marcus",
+    "status": "clarified",
+    "description": "In a statement on 29 September 2026, Mr Oyelaran said his reference to 'record levels' referred to the three-year cumulative total rather than the latest annual figure.",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "date": "2026-09-29",
+    "sourceId": "src_demo-statement-oyelaran-2026-09-29"
+  },
+  {
+    "id": "cor_demo-008",
+    "claimId": "clm_demo-0010",
+    "politicianId": "pol_demo-natarajan-priya",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 30 September 2026.",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cor_demo-009",
+    "claimId": "clm_demo-0006",
+    "politicianId": "pol_demo-fenwick-isla",
+    "status": "no_correction_located",
+    "description": "No correction, clarification or additional evidence located as at 29 September 2026.",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  }
+]

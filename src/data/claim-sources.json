@@ -1,0 +1,466 @@
+[
+  {
+    "id": "cs_demo-001",
+    "claimId": "clm_demo-0001",
+    "sourceId": "src_demo-transcript-vance-2026-01-04",
+    "role": "original",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-002",
+    "claimId": "clm_demo-0001",
+    "sourceId": "src_demo-road-deaths-2025-12",
+    "role": "primary",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "12 per cent reduction over the comparable period."
+  },
+  {
+    "id": "cs_demo-003",
+    "claimId": "clm_demo-0001",
+    "sourceId": "src_demo-road-deaths-2026-08",
+    "role": "primary",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "Updated series: 13 per cent reduction."
+  },
+  {
+    "id": "cs_demo-004",
+    "claimId": "clm_demo-0001",
+    "sourceId": "src_demo-road-deaths-2025-12",
+    "role": "contradictory",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "The series does not show a 40 per cent fall over any period since May 2022."
+  },
+  {
+    "id": "cs_demo-005",
+    "claimId": "clm_demo-0001",
+    "sourceId": "src_demo-factcheck-road-deaths",
+    "role": "independent",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "Reaches the same 12 per cent figure."
+  },
+  {
+    "id": "cs_demo-006",
+    "claimId": "clm_demo-0002",
+    "sourceId": "src_demo-doorstop-oyelaran-2026-02-03",
+    "role": "original",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-007",
+    "claimId": "clm_demo-0002",
+    "sourceId": "src_demo-national-accounts-2025-q4",
+    "role": "primary",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "Real per-capita household disposable income fell 4.6 per cent."
+  },
+  {
+    "id": "cs_demo-008",
+    "claimId": "clm_demo-0002",
+    "sourceId": "src_demo-national-accounts-2025-q4",
+    "role": "contradictory",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "Neither the real nor the nominal series shows an 8 per cent fall."
+  },
+  {
+    "id": "cs_demo-009",
+    "claimId": "clm_demo-0002",
+    "sourceId": "src_demo-news-income-check",
+    "role": "independent",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-010",
+    "claimId": "clm_demo-0002",
+    "sourceId": "src_demo-statement-oyelaran-2026-02-10",
+    "role": "response",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "Correction to 'around 5 per cent'."
+  },
+  {
+    "id": "cs_demo-011",
+    "claimId": "clm_demo-0003",
+    "sourceId": "src_demo-doorstop-oyelaran-2026-02-03",
+    "role": "original",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-012",
+    "claimId": "clm_demo-0004",
+    "sourceId": "src_demo-estimates-2026-04-22",
+    "role": "original",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-013",
+    "claimId": "clm_demo-0004",
+    "sourceId": "src_demo-housing-program-q1-2026",
+    "role": "primary",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "40,300 approved; 17,900 completed."
+  },
+  {
+    "id": "cs_demo-014",
+    "claimId": "clm_demo-0004",
+    "sourceId": "src_demo-news-housing-numbers",
+    "role": "independent",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-015",
+    "claimId": "clm_demo-0004",
+    "sourceId": "src_demo-hansard-senate-2026-05-06",
+    "role": "response",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "Clarification in the Senate."
+  },
+  {
+    "id": "cs_demo-016",
+    "claimId": "clm_demo-0005",
+    "sourceId": "src_demo-speech-brackenridge-2026-05-14",
+    "role": "original",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-017",
+    "claimId": "clm_demo-0005",
+    "sourceId": "src_demo-market-quarterly-q1-2026",
+    "role": "primary",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "18.4 per cent year-on-year increase."
+  },
+  {
+    "id": "cs_demo-018",
+    "claimId": "clm_demo-0006",
+    "sourceId": "src_demo-hansard-senate-2026-06-11",
+    "role": "original",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-019",
+    "claimId": "clm_demo-0006",
+    "sourceId": "src_demo-port-cba-summary",
+    "role": "supporting",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "Proponent-commissioned; assumptions not published."
+  },
+  {
+    "id": "cs_demo-020",
+    "claimId": "clm_demo-0007",
+    "sourceId": "src_demo-hansard-house-2026-03-07",
+    "role": "original",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-021",
+    "claimId": "clm_demo-0007",
+    "sourceId": "src_demo-roads-program-data",
+    "role": "primary",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "1,940 km funded; 1,120 km complete."
+  },
+  {
+    "id": "cs_demo-022",
+    "claimId": "clm_demo-0008",
+    "sourceId": "src_demo-transcript-natarajan-2026-07-15",
+    "role": "original",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-023",
+    "claimId": "clm_demo-0008",
+    "sourceId": "src_demo-rent-index-2026-q2",
+    "role": "primary",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "Initial release: 5.1 per cent."
+  },
+  {
+    "id": "cs_demo-024",
+    "claimId": "clm_demo-0008",
+    "sourceId": "src_demo-rent-index-2026-q2-rev",
+    "role": "primary",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "Revised release: 4.6 per cent nationally."
+  },
+  {
+    "id": "cs_demo-025",
+    "claimId": "clm_demo-0008",
+    "sourceId": "src_demo-rent-index-2026-q2-rev",
+    "role": "contradictory",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "Regional index (5.3 per cent) is above 2021."
+  },
+  {
+    "id": "cs_demo-026",
+    "claimId": "clm_demo-0008",
+    "sourceId": "src_demo-factcheck-rents",
+    "role": "independent",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "Used the initial release."
+  },
+  {
+    "id": "cs_demo-027",
+    "claimId": "clm_demo-0008",
+    "sourceId": "src_demo-transcript-natarajan-2026-09-14",
+    "role": "response",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "Restated using the revised release."
+  },
+  {
+    "id": "cs_demo-028",
+    "claimId": "clm_demo-0009",
+    "sourceId": "src_demo-tv-brackenridge-2026-08-20",
+    "role": "original",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-029",
+    "claimId": "clm_demo-0009",
+    "sourceId": "src_demo-regulator-statement-2026-08-21",
+    "role": "primary",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "Regulator declines to comment."
+  },
+  {
+    "id": "cs_demo-030",
+    "claimId": "clm_demo-0010",
+    "sourceId": "src_demo-hansard-senate-2026-09-22",
+    "role": "original",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-031",
+    "claimId": "clm_demo-0010",
+    "sourceId": "src_demo-road-deaths-2026-08",
+    "role": "primary",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "13 per cent reduction."
+  },
+  {
+    "id": "cs_demo-032",
+    "claimId": "clm_demo-0010",
+    "sourceId": "src_demo-road-deaths-2026-08",
+    "role": "contradictory",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "No 40 per cent fall in the series."
+  },
+  {
+    "id": "cs_demo-033",
+    "claimId": "clm_demo-0010",
+    "sourceId": "src_demo-factcheck-road-deaths",
+    "role": "independent",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "Earlier check of the same claim."
+  },
+  {
+    "id": "cs_demo-034",
+    "claimId": "clm_demo-0011",
+    "sourceId": "src_demo-hansard-senate-2026-08-05",
+    "role": "original",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-035",
+    "claimId": "clm_demo-0011",
+    "sourceId": "src_demo-tax-stats-2023-24",
+    "role": "primary",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-036",
+    "claimId": "clm_demo-0012",
+    "sourceId": "src_demo-release-brackenridge-2026-06-30",
+    "role": "original",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-037",
+    "claimId": "clm_demo-0012",
+    "sourceId": "src_demo-emissions-inventory-2025",
+    "role": "primary",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "Falls in 2023 and 2024; rise in 2025."
+  },
+  {
+    "id": "cs_demo-038",
+    "claimId": "clm_demo-0012",
+    "sourceId": "src_demo-emissions-inventory-2025",
+    "role": "contradictory",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "Emissions fell in two of the three years."
+  },
+  {
+    "id": "cs_demo-039",
+    "claimId": "clm_demo-0013",
+    "sourceId": "src_demo-transcript-vance-2026-04-02",
+    "role": "original",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-040",
+    "claimId": "clm_demo-0014",
+    "sourceId": "src_demo-hansard-house-2026-05-20",
+    "role": "original",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-041",
+    "claimId": "clm_demo-0014",
+    "sourceId": "src_demo-migration-stats-2025",
+    "role": "primary",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "335,000 in 2024–25; peak 536,000 in 2022–23."
+  },
+  {
+    "id": "cs_demo-042",
+    "claimId": "clm_demo-0014",
+    "sourceId": "src_demo-statement-oyelaran-2026-09-29",
+    "role": "response",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "Clarification: cumulative total."
+  },
+  {
+    "id": "cs_demo-043",
+    "claimId": "clm_demo-0015",
+    "sourceId": "src_demo-release-natarajan-2026-08-27",
+    "role": "original",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-044",
+    "claimId": "clm_demo-0015",
+    "sourceId": "src_demo-health-quarterly-2026-q2",
+    "role": "primary",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "79.0 per cent."
+  },
+  {
+    "id": "cs_demo-045",
+    "claimId": "clm_demo-0016",
+    "sourceId": "src_demo-hansard-senate-2026-03-18",
+    "role": "original",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-046",
+    "claimId": "clm_demo-0016",
+    "sourceId": "src_demo-naplan-2025",
+    "role": "primary",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "33.1 per cent in the two lowest bands; 12.4 per cent in the lowest."
+  },
+  {
+    "id": "cs_demo-047",
+    "claimId": "clm_demo-0017",
+    "sourceId": "src_demo-speech-brackenridge-2026-05-14",
+    "role": "original",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-048",
+    "claimId": "clm_demo-0017",
+    "sourceId": "src_demo-budget-2026-27",
+    "role": "primary",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "2.3 per cent of GDP in 2028–29."
+  },
+  {
+    "id": "cs_demo-049",
+    "claimId": "clm_demo-0018",
+    "sourceId": "src_demo-forum-oyelaran-2026-07-29",
+    "role": "original",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-050",
+    "claimId": "clm_demo-0018",
+    "sourceId": "src_demo-crime-stats-2025-26",
+    "role": "primary",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "23 per cent rise over two years."
+  },
+  {
+    "id": "cs_demo-051",
+    "claimId": "clm_demo-0018",
+    "sourceId": "src_demo-crime-stats-2025-26",
+    "role": "contradictory",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "A 23 per cent rise is not a doubling."
+  },
+  {
+    "id": "cs_demo-052",
+    "claimId": "clm_demo-0018",
+    "sourceId": "src_demo-statement-oyelaran-2026-08-03",
+    "role": "response",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "Clarification."
+  },
+  {
+    "id": "cs_demo-053",
+    "claimId": "clm_demo-0019",
+    "sourceId": "src_demo-hansard-house-2026-09-28",
+    "role": "original",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cs_demo-054",
+    "claimId": "clm_demo-0019",
+    "sourceId": "src_demo-hospital-beds-2024-25",
+    "role": "primary",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "note": "412 beds in 2024–25, down 64 from 2020–21."
+  }
+]

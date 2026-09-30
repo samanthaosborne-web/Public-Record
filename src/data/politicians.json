@@ -1,0 +1,1455 @@
+[
+  {
+    "id": "pol_albanese-anthony",
+    "slug": "anthony-albanese",
+    "fullName": "Anthony Albanese",
+    "givenName": "Anthony",
+    "familyName": "Albanese",
+    "sortName": "Albanese, Anthony",
+    "partyId": "alp",
+    "chamber": "house",
+    "state": "NSW",
+    "positions": [
+      {
+        "title": "Prime Minister",
+        "type": "executive",
+        "since": "2022-05-23",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-r36-526eb6"
+      },
+      {
+        "title": "Leader of the Australian Labor Party",
+        "type": "party",
+        "since": "2019-05-27",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-r36-526eb6"
+      },
+      {
+        "title": "Member for Grayndler",
+        "type": "parliamentary",
+        "since": "1996-03-02",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-r36-526eb6"
+      }
+    ],
+    "positionSummary": "Prime Minister",
+    "positionRank": 1,
+    "aphId": "R36",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=R36",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/R36/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 1996,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-r36-526eb6",
+        "src_pm-gov-au-af582b",
+        "src_abc-net-au-news-2026-09-20-australia-bids-seat-united-nations-security-9de1a8"
+      ]
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "electorate": "Grayndler",
+    "officialWebsite": "https://www.pm.gov.au/",
+    "aphDisplayName": "Hon Anthony Albanese MP"
+  },
+  {
+    "id": "pol_marles-richard",
+    "slug": "richard-marles",
+    "fullName": "Richard Marles",
+    "givenName": "Richard",
+    "familyName": "Marles",
+    "sortName": "Marles, Richard",
+    "partyId": "alp",
+    "chamber": "house",
+    "state": "VIC",
+    "positions": [
+      {
+        "title": "Deputy Prime Minister",
+        "type": "executive",
+        "since": "2022-05-23",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-hwq-401437"
+      },
+      {
+        "title": "Minister for Defence",
+        "type": "executive",
+        "since": "2022-06-01",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-hwq-401437"
+      },
+      {
+        "title": "Deputy Leader of the Australian Labor Party",
+        "type": "party",
+        "since": "2019-05-30",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-hwq-401437"
+      },
+      {
+        "title": "Member for Corio",
+        "type": "parliamentary",
+        "since": "2007-11-24",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-hwq-401437"
+      }
+    ],
+    "positionSummary": "Deputy Prime Minister; Minister for Defence",
+    "positionRank": 2,
+    "aphId": "HWQ",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWQ",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/HWQ/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2007,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-hwq-401437",
+        "src_abc-net-au-news-2026-09-15-deputy-prime-minister-richard-marles-speaks-6dff1b"
+      ]
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "electorate": "Corio",
+    "officialWebsite": "https://www.minister.defence.gov.au/current-ministers/2022-06/richard-marles",
+    "aphDisplayName": "Hon Richard Marles MP"
+  },
+  {
+    "id": "pol_chalmers-jim",
+    "slug": "jim-chalmers",
+    "fullName": "Jim Chalmers",
+    "givenName": "Jim",
+    "familyName": "Chalmers",
+    "sortName": "Chalmers, Jim",
+    "partyId": "alp",
+    "chamber": "house",
+    "state": "QLD",
+    "positions": [
+      {
+        "title": "Treasurer",
+        "type": "executive",
+        "since": "2022-05-23",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-37998-2b8d46"
+      },
+      {
+        "title": "Member for Rankin",
+        "type": "parliamentary",
+        "since": "2013-09-07",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-37998-2b8d46"
+      }
+    ],
+    "positionSummary": "Treasurer",
+    "positionRank": 3,
+    "aphId": "37998",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=37998",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/37998/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2013,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-37998-2b8d46",
+        "src_ministers-treasury-gov-au-ministers-jim-chalmers-2022-6a79e7"
+      ]
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "electorate": "Rankin",
+    "officialWebsite": "https://ministers.treasury.gov.au/ministers/jim-chalmers-2022",
+    "aphDisplayName": "Hon Dr Jim Chalmers MP"
+  },
+  {
+    "id": "pol_wong-penny",
+    "slug": "penny-wong",
+    "fullName": "Penny Wong",
+    "givenName": "Penny",
+    "familyName": "Wong",
+    "sortName": "Wong, Penny",
+    "partyId": "alp",
+    "chamber": "senate",
+    "state": "SA",
+    "positions": [
+      {
+        "title": "Minister for Foreign Affairs",
+        "type": "executive",
+        "since": "2022-05-23",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-00aou-e6200c"
+      },
+      {
+        "title": "Leader of the Government in the Senate",
+        "type": "executive",
+        "since": "2022-05-31",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-00aou-e6200c"
+      },
+      {
+        "title": "Senator for South Australia",
+        "type": "parliamentary",
+        "since": "2002-07-01",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-00aou-e6200c"
+      }
+    ],
+    "positionSummary": "Minister for Foreign Affairs; Leader of the Government in the Senate",
+    "positionRank": 4,
+    "aphId": "00AOU",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=00AOU",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/00AOU/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2001,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-00aou-e6200c",
+        "src_abc-net-au-news-2026-09-20-australia-bids-seat-united-nations-security-9de1a8"
+      ]
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "officialWebsite": "https://www.foreignminister.gov.au/minister/penny-wong",
+    "aphDisplayName": "Senator the Hon Penny Wong"
+  },
+  {
+    "id": "pol_gallagher-katy",
+    "slug": "katy-gallagher",
+    "fullName": "Katy Gallagher",
+    "givenName": "Katy",
+    "familyName": "Gallagher",
+    "sortName": "Gallagher, Katy",
+    "partyId": "alp",
+    "chamber": "senate",
+    "state": "ACT",
+    "positions": [
+      {
+        "title": "Minister for Finance",
+        "type": "executive",
+        "since": "2022-05-23",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-ing-f59390"
+      },
+      {
+        "title": "Minister for Women",
+        "type": "executive",
+        "since": "2022-05-23",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-ing-f59390"
+      },
+      {
+        "title": "Minister for the Public Service",
+        "type": "executive",
+        "since": "2022-06-01",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-ing-f59390"
+      },
+      {
+        "title": "Minister for Government Services",
+        "type": "executive",
+        "since": "2025-01-20",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-ing-f59390"
+      },
+      {
+        "title": "Manager of Government Business in the Senate",
+        "type": "executive",
+        "since": "2022-05-31",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-ing-f59390"
+      },
+      {
+        "title": "Senator for the Australian Capital Territory",
+        "type": "parliamentary",
+        "since": "2015-03-25",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-ing-f59390"
+      }
+    ],
+    "positionSummary": "Minister for Finance; Minister for Women; Minister for the Public Service; Minister for Government Services",
+    "positionRank": 5,
+    "aphId": "ING",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=ING",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/ING/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2016,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-ing-f59390",
+        "src_abc-net-au-news-2026-09-18-nt-government-spending-scrutiny-katy-gallag-6b86de"
+      ],
+      "notes": "Entered the Senate in March 2015 by appointment of the ACT Legislative Assembly; first elected 2016 (later ruled void), elected 2019, re-elected 2022 and 2025."
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "officialWebsite": "https://ministers.finance.gov.au/financeminister",
+    "aphDisplayName": "Senator the Hon Katy Gallagher"
+  },
+  {
+    "id": "pol_butler-mark",
+    "slug": "mark-butler",
+    "fullName": "Mark Butler",
+    "givenName": "Mark",
+    "familyName": "Butler",
+    "sortName": "Butler, Mark",
+    "partyId": "alp",
+    "chamber": "house",
+    "state": "SA",
+    "positions": [
+      {
+        "title": "Minister for Health and Ageing",
+        "type": "executive",
+        "since": "2025-05-13",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-hwk-cfa193"
+      },
+      {
+        "title": "Minister for Disability and the National Disability Insurance Scheme",
+        "type": "executive",
+        "since": "2025-05-13",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-hwk-cfa193"
+      },
+      {
+        "title": "Deputy Leader of the House",
+        "type": "parliamentary",
+        "since": "2022-05-31",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-hwk-cfa193"
+      },
+      {
+        "title": "Member for Hindmarsh",
+        "type": "parliamentary",
+        "since": "2019-05-18",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-hwk-cfa193"
+      }
+    ],
+    "positionSummary": "Minister for Health and Ageing; Minister for Disability and the NDIS",
+    "positionRank": 6,
+    "aphId": "HWK",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWK",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/HWK/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2007,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-hwk-cfa193",
+        "src_abc-net-au-news-2026-09-08-federal-politics-live-blog-coalition-review-bbd63a"
+      ]
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "electorate": "Hindmarsh",
+    "officialWebsite": "https://www.health.gov.au/ministers/the-hon-mark-butler-mp",
+    "aphDisplayName": "Hon Mark Butler MP"
+  },
+  {
+    "id": "pol_taylor-angus",
+    "slug": "angus-taylor",
+    "fullName": "Angus Taylor",
+    "givenName": "Angus",
+    "familyName": "Taylor",
+    "sortName": "Taylor, Angus",
+    "partyId": "lib",
+    "chamber": "house",
+    "state": "NSW",
+    "positions": [
+      {
+        "title": "Leader of the Opposition",
+        "type": "opposition",
+        "since": "2026-02-13",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-231027-eb5540"
+      },
+      {
+        "title": "Leader of the Liberal Party of Australia",
+        "type": "party",
+        "since": "2026-02-13",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-231027-eb5540"
+      },
+      {
+        "title": "Member for Hume",
+        "type": "parliamentary",
+        "since": "2013-09-07",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-231027-eb5540"
+      }
+    ],
+    "positionSummary": "Leader of the Opposition",
+    "positionRank": 10,
+    "aphId": "231027",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=231027",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/231027/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2013,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-231027-eb5540",
+        "src_aph-gov-au-media-03-senators-and-members-32-members-lists-members-list-391d51",
+        "src_liberal-org-au-2026-02-17-shadow-ministerial-arrangements-9df342"
+      ],
+      "notes": "Elected Leader of the Liberal Party on 13 February 2026 after a party-room ballot (previously Shadow Minister for Defence, 2025–26, and Shadow Treasurer, 2022–25)."
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "electorate": "Hume",
+    "officialWebsite": "https://www.angustaylor.com.au/",
+    "aphDisplayName": "Hon Angus Taylor MP"
+  },
+  {
+    "id": "pol_hume-jane",
+    "slug": "jane-hume",
+    "fullName": "Jane Hume",
+    "givenName": "Jane",
+    "familyName": "Hume",
+    "sortName": "Hume, Jane",
+    "partyId": "lib",
+    "chamber": "senate",
+    "state": "VIC",
+    "positions": [
+      {
+        "title": "Deputy Leader of the Opposition",
+        "type": "opposition",
+        "since": "2026-02-13",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-266499-20fd3b"
+      },
+      {
+        "title": "Deputy Leader of the Liberal Party of Australia",
+        "type": "party",
+        "since": "2026-02-13",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-266499-20fd3b"
+      },
+      {
+        "title": "Shadow Minister for Employment and Industrial Relations",
+        "type": "opposition",
+        "since": "2026-02-17",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-266499-20fd3b"
+      },
+      {
+        "title": "Shadow Minister for Productivity and Deregulation",
+        "type": "opposition",
+        "since": "2026-02-17",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-266499-20fd3b"
+      },
+      {
+        "title": "Senator for Victoria",
+        "type": "parliamentary",
+        "since": "2016-07-02",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-266499-20fd3b"
+      }
+    ],
+    "positionSummary": "Deputy Leader of the Opposition; Shadow Minister for Employment and Industrial Relations",
+    "positionRank": 11,
+    "aphId": "266499",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=266499",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/266499/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2016,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-266499-20fd3b",
+        "src_aph-gov-au-media-03-senators-and-members-31-senators-contacts-los-pdf-09667e",
+        "src_liberal-org-au-2026-09-23-deputy-leaders-address-to-the-housing-constr-488bfe"
+      ],
+      "notes": "A Liberal Party release of 30 September 2026 also styles her Acting Shadow Minister for Finance; the substantive portfolio is held by another senator, so the acting role is not listed here."
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "officialWebsite": "https://www.senatorhume.com/",
+    "aphDisplayName": "Senator the Hon Jane Hume"
+  },
+  {
+    "id": "pol_cash-michaelia",
+    "slug": "michaelia-cash",
+    "fullName": "Michaelia Cash",
+    "givenName": "Michaelia",
+    "familyName": "Cash",
+    "sortName": "Cash, Michaelia",
+    "partyId": "lib",
+    "chamber": "senate",
+    "state": "WA",
+    "positions": [
+      {
+        "title": "Leader of the Opposition in the Senate",
+        "type": "opposition",
+        "since": "2025-01-25",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-i0m-44f0eb"
+      },
+      {
+        "title": "Shadow Attorney-General",
+        "type": "opposition",
+        "since": "2026-02-17",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-i0m-44f0eb"
+      },
+      {
+        "title": "Senator for Western Australia",
+        "type": "parliamentary",
+        "since": "2008-07-01",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-i0m-44f0eb"
+      }
+    ],
+    "positionSummary": "Leader of the Opposition in the Senate; Shadow Attorney-General",
+    "positionRank": 12,
+    "aphId": "I0M",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=I0M",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/I0M/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2007,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-i0m-44f0eb",
+        "src_aph-gov-au-media-03-senators-and-members-31-senators-contacts-los-pdf-09667e",
+        "src_liberal-org-au-team-michaelia-cash-4d6c8e"
+      ],
+      "notes": "Start date of the Senate leadership (January 2025) is cross-checked against secondary sources only."
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "officialWebsite": "https://www.michaeliacash.com.au/",
+    "aphDisplayName": "Senator the Hon Michaelia Cash"
+  },
+  {
+    "id": "pol_paterson-james",
+    "slug": "james-paterson",
+    "fullName": "James Paterson",
+    "givenName": "James",
+    "familyName": "Paterson",
+    "sortName": "Paterson, James",
+    "partyId": "lib",
+    "chamber": "senate",
+    "state": "VIC",
+    "positions": [
+      {
+        "title": "Shadow Minister for Defence",
+        "type": "opposition",
+        "since": "2026-02-17",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-144138-8e6a04"
+      },
+      {
+        "title": "Senator for Victoria",
+        "type": "parliamentary",
+        "since": "2016-03-09",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-144138-8e6a04"
+      }
+    ],
+    "positionSummary": "Shadow Minister for Defence",
+    "positionRank": 13,
+    "aphId": "144138",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=144138",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/144138/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2016,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-144138-8e6a04",
+        "src_liberal-org-au-team-james-paterson-546981",
+        "src_abc-net-au-news-2026-02-17-angus-taylor-preparing-to-unveil-shadow-min-597a61"
+      ],
+      "notes": "Entered the Senate in March 2016 via a casual vacancy; first elected in his own right at the 2016 election."
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "officialWebsite": "https://www.senatorpaterson.com.au/",
+    "aphDisplayName": "Senator James Paterson"
+  },
+  {
+    "id": "pol_hastie-andrew",
+    "slug": "andrew-hastie",
+    "fullName": "Andrew Hastie",
+    "givenName": "Andrew",
+    "familyName": "Hastie",
+    "sortName": "Hastie, Andrew",
+    "partyId": "lib",
+    "chamber": "house",
+    "state": "WA",
+    "positions": [
+      {
+        "title": "Shadow Minister for Industry and Sovereign Capability",
+        "type": "opposition",
+        "since": "2026-02-17",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-260805-ddff54"
+      },
+      {
+        "title": "Deputy Leader of the Opposition in the House of Representatives",
+        "type": "party",
+        "since": "2026-02-17",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-260805-ddff54"
+      },
+      {
+        "title": "Member for Canning",
+        "type": "parliamentary",
+        "since": "2015-09-19",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-260805-ddff54"
+      }
+    ],
+    "positionSummary": "Shadow Minister for Industry and Sovereign Capability",
+    "positionRank": 14,
+    "aphId": "260805",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=260805",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/260805/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2015,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-260805-ddff54",
+        "src_liberal-org-au-team-andrew-hastie-038933",
+        "src_liberal-org-au-2026-02-17-shadow-ministerial-arrangements-9df342"
+      ],
+      "notes": "Returned to the shadow ministry on 17 February 2026 after resigning from it on 3 October 2025. The 'Deputy Leader in the House' role is a party designation not recorded as a formal office on APH."
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "electorate": "Canning",
+    "officialWebsite": "https://www.andrewhastie.com.au/",
+    "aphDisplayName": "Hon Andrew Hastie MP"
+  },
+  {
+    "id": "pol_canavan-matt",
+    "slug": "matt-canavan",
+    "fullName": "Matt Canavan",
+    "givenName": "Matt",
+    "familyName": "Canavan",
+    "sortName": "Canavan, Matt",
+    "partyId": "nat",
+    "chamber": "senate",
+    "state": "QLD",
+    "positions": [
+      {
+        "title": "Leader of the Nationals",
+        "type": "party",
+        "since": "2026-03-11",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-245212-69b224"
+      },
+      {
+        "title": "Shadow Minister for Trade, Investment and Tourism",
+        "type": "opposition",
+        "since": "2026-03-16",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-245212-69b224"
+      },
+      {
+        "title": "Senator for Queensland",
+        "type": "parliamentary",
+        "since": "2014-07-01",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-245212-69b224"
+      }
+    ],
+    "positionSummary": "Leader of the Nationals; Shadow Minister for Trade, Investment and Tourism",
+    "positionRank": 20,
+    "aphId": "245212",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=245212",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/245212/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2013,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-245212-69b224",
+        "src_aph-gov-au-media-03-senators-and-members-31-senators-shadow-ministry-p-5ef91b",
+        "src_abc-net-au-news-2026-03-11-matt-canavan-elected-nationals-leader-10644-65928c"
+      ],
+      "notes": "Coalition agreement in place as of 30 Sep 2026 (reunited 8 Feb 2026 after a split on 22 Jan 2026; earlier split 20–28 May 2025)."
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "officialWebsite": "https://www.mattcanavan.com.au/",
+    "partyNote": "Member of the Liberal National Party of Queensland (LNP); sits in the federal Nationals party room. APH lists party as The Nationals.",
+    "aphDisplayName": "Senator the Hon Matthew Canavan"
+  },
+  {
+    "id": "pol_chester-darren",
+    "slug": "darren-chester",
+    "fullName": "Darren Chester",
+    "givenName": "Darren",
+    "familyName": "Chester",
+    "sortName": "Chester, Darren",
+    "partyId": "nat",
+    "chamber": "house",
+    "state": "VIC",
+    "positions": [
+      {
+        "title": "Deputy Leader of the Nationals",
+        "type": "party",
+        "since": "2026-03-11",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-ipz-8dd214"
+      },
+      {
+        "title": "Leader of the Nationals in the House",
+        "type": "party",
+        "since": "2026-03-16",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-ipz-8dd214"
+      },
+      {
+        "title": "Shadow Minister for Agriculture, Fisheries and Forestry",
+        "type": "opposition",
+        "since": "2026-03-16",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-ipz-8dd214"
+      },
+      {
+        "title": "Member for Gippsland",
+        "type": "parliamentary",
+        "since": "2008-06-28",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-ipz-8dd214"
+      }
+    ],
+    "positionSummary": "Deputy Leader of the Nationals; Shadow Minister for Agriculture, Fisheries and Forestry",
+    "positionRank": 21,
+    "aphId": "IPZ",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=IPZ",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/IPZ/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2008,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-ipz-8dd214",
+        "src_aph-gov-au-media-03-senators-and-members-31-senators-shadow-ministry-p-5ef91b",
+        "src_nationals-org-au-team-darren-chester-ce2884"
+      ]
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "electorate": "Gippsland",
+    "officialWebsite": "https://darrenchester.com.au/",
+    "aphDisplayName": "Hon Darren Chester MP"
+  },
+  {
+    "id": "pol_mckenzie-bridget",
+    "slug": "bridget-mckenzie",
+    "fullName": "Bridget McKenzie",
+    "givenName": "Bridget",
+    "familyName": "McKenzie",
+    "sortName": "McKenzie, Bridget",
+    "partyId": "nat",
+    "chamber": "senate",
+    "state": "VIC",
+    "positions": [
+      {
+        "title": "Leader of the Nationals in the Senate",
+        "type": "party",
+        "since": "2019-07-02",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-207825-38b3f8"
+      },
+      {
+        "title": "Shadow Minister for Infrastructure and Transport",
+        "type": "opposition",
+        "since": "2026-03-16",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-207825-38b3f8"
+      },
+      {
+        "title": "Shadow Minister for Regional Development, Local Government and Territories",
+        "type": "opposition",
+        "since": "2026-03-16",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-207825-38b3f8"
+      },
+      {
+        "title": "Senator for Victoria",
+        "type": "parliamentary",
+        "since": "2011-07-01",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-207825-38b3f8"
+      }
+    ],
+    "positionSummary": "Leader of the Nationals in the Senate; Shadow Minister for Infrastructure and Transport",
+    "positionRank": 22,
+    "aphId": "207825",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=207825",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/207825/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2010,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-207825-38b3f8",
+        "src_aph-gov-au-media-03-senators-and-members-31-senators-shadow-ministry-p-5ef91b",
+        "src_nationals-org-au-team-bridget-mckenzie-08924b"
+      ]
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "officialWebsite": "https://www.bridgetmckenzie.com.au/",
+    "aphDisplayName": "Senator the Hon Bridget McKenzie"
+  },
+  {
+    "id": "pol_littleproud-david",
+    "slug": "david-littleproud",
+    "fullName": "David Littleproud",
+    "givenName": "David",
+    "familyName": "Littleproud",
+    "sortName": "Littleproud, David",
+    "partyId": "nat",
+    "chamber": "house",
+    "state": "QLD",
+    "positions": [
+      {
+        "title": "Shadow Minister for Emergency Management",
+        "type": "opposition",
+        "since": "2026-03-16",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-265585-60d2d6"
+      },
+      {
+        "title": "Shadow Minister for Tourism",
+        "type": "opposition",
+        "since": "2026-03-16",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-265585-60d2d6"
+      },
+      {
+        "title": "Member for Maranoa",
+        "type": "parliamentary",
+        "since": "2016-07-02",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-265585-60d2d6"
+      }
+    ],
+    "positionSummary": "Shadow Minister for Emergency Management; Shadow Minister for Tourism",
+    "positionRank": 23,
+    "aphId": "265585",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265585",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/265585/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2016,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-265585-60d2d6",
+        "src_aph-gov-au-media-03-senators-and-members-31-senators-shadow-ministry-p-5ef91b",
+        "src_abc-net-au-news-2026-03-11-matt-canavan-elected-nationals-leader-10644-65928c"
+      ],
+      "notes": "Led the Nationals 30 May 2022 – 11 March 2026."
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "electorate": "Maranoa",
+    "officialWebsite": "https://davidlittleproud.com.au/",
+    "partyNote": "APH lists party as Liberal National Party of Queensland (LNP); sits in the federal Nationals party room.",
+    "aphDisplayName": "Hon David Littleproud MP"
+  },
+  {
+    "id": "pol_shoebridge-david",
+    "slug": "david-shoebridge",
+    "fullName": "David Shoebridge",
+    "givenName": "David",
+    "familyName": "Shoebridge",
+    "sortName": "Shoebridge, David",
+    "partyId": "grn",
+    "chamber": "senate",
+    "state": "NSW",
+    "positions": [
+      {
+        "title": "Leader of the Australian Greens",
+        "type": "party",
+        "since": "2026-09-30",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-169119-3d3f90"
+      },
+      {
+        "title": "Greens spokesperson for Foreign Affairs, Defence, Home Affairs and Immigration, Justice, and Digital Rights",
+        "type": "party",
+        "since": "2025-06-04",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-169119-3d3f90"
+      },
+      {
+        "title": "Senator for New South Wales",
+        "type": "parliamentary",
+        "since": "2022-07-01",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-169119-3d3f90"
+      }
+    ],
+    "positionSummary": "Leader of the Australian Greens",
+    "positionRank": 30,
+    "aphId": "169119",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=169119",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/169119/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2022,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-169119-3d3f90",
+        "src_greens-org-au-news-media-release-david-shoebridge-and-steph-hodgins-ma-5657fa",
+        "src_abc-net-au-news-2026-09-30-federal-politics-greens-announce-new-leader-30bd02",
+        "src_abc-net-au-news-2026-09-28-larissa-waters-stepping-down-as-greens-lead-22691d"
+      ],
+      "notes": "Elected Leader of the Australian Greens on 30 September 2026, succeeding Larissa Waters. Verified against the party's release and ABC, SBS and The Conversation reporting on the same day; the APH profile had not yet been updated."
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "officialWebsite": "https://greens.org.au/nsw/person/david-shoebridge",
+    "aphDisplayName": "Senator David Shoebridge"
+  },
+  {
+    "id": "pol_hodgins-may-steph",
+    "slug": "steph-hodgins-may",
+    "fullName": "Steph Hodgins-May",
+    "givenName": "Steph",
+    "familyName": "Hodgins-May",
+    "sortName": "Hodgins-May, Steph",
+    "partyId": "grn",
+    "chamber": "senate",
+    "state": "VIC",
+    "positions": [
+      {
+        "title": "Deputy Leader of the Australian Greens",
+        "type": "party",
+        "since": "2026-09-30",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-310860-56cc91"
+      },
+      {
+        "title": "Greens spokesperson for Early Childhood Education, Democracy and Resources",
+        "type": "party",
+        "since": "2025-06-04",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-310860-56cc91"
+      },
+      {
+        "title": "Chair, Senate Select Committee on Taxation of Gas Resources",
+        "type": "parliamentary",
+        "since": "2026-04-01",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-310860-56cc91"
+      },
+      {
+        "title": "Senator for Victoria",
+        "type": "parliamentary",
+        "since": "2024-05-01",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-310860-56cc91"
+      }
+    ],
+    "positionSummary": "Deputy Leader of the Australian Greens",
+    "positionRank": 31,
+    "aphId": "310860",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=310860",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/310860/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2024,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-310860-56cc91",
+        "src_greens-org-au-news-media-release-david-shoebridge-and-steph-hodgins-ma-5657fa",
+        "src_abc-net-au-news-2026-09-30-federal-politics-greens-announce-new-leader-30bd02"
+      ],
+      "notes": "Entered the Senate in May 2024 via a casual vacancy; first elected in her own right at the 2025 election. Elected Deputy Leader on 30 September 2026."
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "officialWebsite": "https://greens.org.au/vic/person/steph-hodgins-may",
+    "aphDisplayName": "Senator Steph Hodgins-May"
+  },
+  {
+    "id": "pol_faruqi-mehreen",
+    "slug": "mehreen-faruqi",
+    "fullName": "Mehreen Faruqi",
+    "givenName": "Mehreen",
+    "familyName": "Faruqi",
+    "sortName": "Faruqi, Mehreen",
+    "partyId": "grn",
+    "chamber": "senate",
+    "state": "NSW",
+    "positions": [
+      {
+        "title": "Greens spokesperson for Education (Tertiary), Anti-Racism, International Aid and Global Justice, Animal Welfare and Republic",
+        "type": "party",
+        "since": "2025-06-04",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-250362-a27077"
+      },
+      {
+        "title": "Senator for New South Wales",
+        "type": "parliamentary",
+        "since": "2018-08-15",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-250362-a27077"
+      }
+    ],
+    "positionSummary": "Senator for New South Wales",
+    "positionRank": 34,
+    "aphId": "250362",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=250362",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/250362/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2018,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-250362-a27077",
+        "src_abc-net-au-news-2026-09-30-federal-politics-greens-announce-new-leader-30bd02",
+        "src_greens-org-au-mps-adc893"
+      ],
+      "notes": "Deputy Leader of the Australian Greens from 10 June 2022 until the 30 September 2026 party room meeting."
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "officialWebsite": "https://greens.org.au/nsw/person/mehreen-faruqi",
+    "aphDisplayName": "Senator Mehreen Faruqi"
+  },
+  {
+    "id": "pol_hanson-young-sarah",
+    "slug": "sarah-hanson-young",
+    "fullName": "Sarah Hanson-Young",
+    "givenName": "Sarah",
+    "familyName": "Hanson-Young",
+    "sortName": "Hanson-Young, Sarah",
+    "partyId": "grn",
+    "chamber": "senate",
+    "state": "SA",
+    "positions": [
+      {
+        "title": "Manager of Greens Business in the Senate",
+        "type": "party",
+        "since": "2022-06-10",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-i0u-30f86f"
+      },
+      {
+        "title": "Chair, Senate Environment and Communications References Committee",
+        "type": "parliamentary",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-i0u-30f86f"
+      },
+      {
+        "title": "Greens spokesperson for Environment, Water, Arts and Communications",
+        "type": "party",
+        "since": "2022-06-17",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-i0u-30f86f"
+      },
+      {
+        "title": "Senator for South Australia",
+        "type": "parliamentary",
+        "since": "2008-07-01",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-i0u-30f86f"
+      }
+    ],
+    "positionSummary": "Manager of Greens Business in the Senate",
+    "positionRank": 32,
+    "aphId": "I0U",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=I0U",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/I0U/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2007,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-i0u-30f86f",
+        "src_greens-org-au-news-media-release-david-shoebridge-and-steph-hodgins-ma-5657fa"
+      ],
+      "notes": "Contested the 30 September 2026 leadership ballot and was eliminated in the first round."
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "officialWebsite": "https://greens.org.au/sa/person/sarah-hanson-young",
+    "aphDisplayName": "Senator Sarah Hanson-Young"
+  },
+  {
+    "id": "pol_mckim-nick",
+    "slug": "nick-mckim",
+    "fullName": "Nick McKim",
+    "givenName": "Nick",
+    "familyName": "McKim",
+    "sortName": "McKim, Nick",
+    "partyId": "grn",
+    "chamber": "senate",
+    "state": "TAS",
+    "positions": [
+      {
+        "title": "Australian Greens Whip in the Senate",
+        "type": "party",
+        "since": "2021-10-18",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-jkm-3dec54"
+      },
+      {
+        "title": "Greens spokesperson for Economic Justice and Treasury, Forests, and LGBTIQA+",
+        "type": "party",
+        "since": "2025-06-04",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-jkm-3dec54"
+      },
+      {
+        "title": "Senator for Tasmania",
+        "type": "parliamentary",
+        "since": "2015-08-19",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-jkm-3dec54"
+      }
+    ],
+    "positionSummary": "Australian Greens Whip in the Senate",
+    "positionRank": 33,
+    "aphId": "JKM",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=JKM",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/JKM/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2015,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-jkm-3dec54",
+        "src_greens-org-au-news-media-release-david-shoebridge-and-steph-hodgins-ma-5657fa"
+      ],
+      "notes": "Entered the Senate in August 2015 via a casual vacancy; first elected in his own right at the 2016 election."
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "officialWebsite": "https://greens.org.au/tas/person/nick-mckim",
+    "aphDisplayName": "Senator Nick McKim"
+  },
+  {
+    "id": "pol_hanson-pauline",
+    "slug": "pauline-hanson",
+    "fullName": "Pauline Hanson",
+    "givenName": "Pauline",
+    "familyName": "Hanson",
+    "sortName": "Hanson, Pauline",
+    "partyId": "on",
+    "chamber": "senate",
+    "state": "QLD",
+    "positions": [
+      {
+        "title": "Leader of One Nation",
+        "type": "party",
+        "since": "2016-07-02",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-bk6-6fbb2e"
+      },
+      {
+        "title": "Senator for Queensland",
+        "type": "parliamentary",
+        "since": "2016-07-02",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-bk6-6fbb2e"
+      }
+    ],
+    "positionSummary": "Leader of One Nation",
+    "positionRank": 40,
+    "aphId": "BK6",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=BK6",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/BK6/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 1996,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-bk6-6fbb2e",
+        "src_aph-gov-au-senators-and-members-senators-senate-composition-75b17d"
+      ],
+      "notes": "First elected to the House of Representatives for Oxley in 1996; elected to the Senate in 2016. APH records the party as One Nation from 28 January 2026 following its rebranding from Pauline Hanson's One Nation."
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "officialWebsite": "https://www.onenation.org.au/",
+    "aphDisplayName": "Senator Pauline Hanson"
+  },
+  {
+    "id": "pol_roberts-malcolm",
+    "slug": "malcolm-roberts",
+    "fullName": "Malcolm Roberts",
+    "givenName": "Malcolm",
+    "familyName": "Roberts",
+    "sortName": "Roberts, Malcolm",
+    "partyId": "on",
+    "chamber": "senate",
+    "state": "QLD",
+    "positions": [
+      {
+        "title": "Senator for Queensland",
+        "type": "parliamentary",
+        "since": "2019-07-01",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-266524-6a0a18"
+      }
+    ],
+    "positionSummary": "Senator for Queensland",
+    "positionRank": 41,
+    "aphId": "266524",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=266524",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/266524/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2016,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-266524-6a0a18",
+        "src_malcolmrobertsqld-com-au-acdbb5"
+      ],
+      "notes": "Elected in 2016; that election was ruled void by the High Court in October 2017; elected again in 2019 and re-elected in 2025."
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "officialWebsite": "https://www.malcolmrobertsqld.com.au",
+    "aphDisplayName": "Senator Malcolm Roberts"
+  },
+  {
+    "id": "pol_farley-david",
+    "slug": "david-farley",
+    "fullName": "David Farley",
+    "givenName": "David",
+    "familyName": "Farley",
+    "sortName": "Farley, David",
+    "partyId": "on",
+    "chamber": "house",
+    "state": "NSW",
+    "positions": [
+      {
+        "title": "Member for Farrer",
+        "type": "parliamentary",
+        "since": "2026-05-09",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-62329-95eb45"
+      },
+      {
+        "title": "Member, House Standing Committee on Primary Industries",
+        "type": "parliamentary",
+        "since": "2026-06-24",
+        "sourceId": "src_aph-gov-au-senators-and-members-parliamentarian-mpid-62329-95eb45"
+      }
+    ],
+    "positionSummary": "Member for Farrer",
+    "positionRank": 42,
+    "aphId": "62329",
+    "aphProfileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=62329",
+    "photoUrl": "https://www.aph.gov.au/api/parliamentarian/62329/image",
+    "photoCredit": "Parliament of Australia",
+    "firstElected": 2026,
+    "isDemonstration": false,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_aph-gov-au-senators-and-members-parliamentarian-mpid-62329-95eb45",
+        "src_results-aec-gov-au-31633-website-housedivisionpage-31633-118-htm-7f49bb",
+        "src_abc-net-au-news-2026-06-02-federal-politics-live-blog-june-2-106746940-179af6"
+      ],
+      "notes": "Elected at the Farrer by-election held on 9 May 2026, the first One Nation candidate elected to the House of Representatives. No official website is listed on APH."
+    },
+    "lastRecordUpdate": "2026-09-30",
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "electorate": "Farrer",
+    "aphDisplayName": "Mr David Farley MP"
+  },
+  {
+    "id": "pol_demo-vance-eleanor",
+    "slug": "eleanor-vance",
+    "fullName": "Eleanor Vance",
+    "givenName": "Eleanor",
+    "familyName": "Vance",
+    "partyId": "demo-harbour",
+    "chamber": "house",
+    "electorate": "Kestrel Bay",
+    "state": "NSW",
+    "positions": [
+      {
+        "title": "Minister for Regional Infrastructure",
+        "type": "executive",
+        "since": "2025-05-13"
+      },
+      {
+        "title": "Member for Kestrel Bay",
+        "type": "parliamentary",
+        "since": "2019-05-18"
+      }
+    ],
+    "positionSummary": "Minister for Regional Infrastructure",
+    "positionRank": 101,
+    "firstElected": 2019,
+    "lastRecordUpdate": "2026-09-30",
+    "sortName": "Vance, Eleanor",
+    "isDemonstration": true,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_demo-parliament-profiles"
+      ],
+      "notes": "Fictional politician created to demonstrate the record format. No real person is depicted."
+    },
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "pol_demo-oyelaran-marcus",
+    "slug": "marcus-oyelaran",
+    "fullName": "Marcus Oyelaran",
+    "givenName": "Marcus",
+    "familyName": "Oyelaran",
+    "partyId": "demo-civic",
+    "chamber": "house",
+    "electorate": "Wattle Plains",
+    "state": "VIC",
+    "positions": [
+      {
+        "title": "Shadow Treasurer",
+        "type": "opposition",
+        "since": "2025-05-28"
+      },
+      {
+        "title": "Member for Wattle Plains",
+        "type": "parliamentary",
+        "since": "2016-07-02"
+      }
+    ],
+    "positionSummary": "Shadow Treasurer",
+    "positionRank": 102,
+    "firstElected": 2016,
+    "lastRecordUpdate": "2026-09-30",
+    "sortName": "Oyelaran, Marcus",
+    "isDemonstration": true,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_demo-parliament-profiles"
+      ],
+      "notes": "Fictional politician created to demonstrate the record format. No real person is depicted."
+    },
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "pol_demo-natarajan-priya",
+    "slug": "priya-natarajan",
+    "fullName": "Priya Natarajan",
+    "givenName": "Priya",
+    "familyName": "Natarajan",
+    "partyId": "demo-harbour",
+    "chamber": "senate",
+    "state": "QLD",
+    "positions": [
+      {
+        "title": "Assistant Minister for Housing Supply",
+        "type": "executive",
+        "since": "2025-05-13"
+      },
+      {
+        "title": "Senator for Queensland",
+        "type": "parliamentary",
+        "since": "2022-07-01"
+      }
+    ],
+    "positionSummary": "Assistant Minister for Housing Supply",
+    "positionRank": 103,
+    "firstElected": 2022,
+    "lastRecordUpdate": "2026-09-30",
+    "sortName": "Natarajan, Priya",
+    "isDemonstration": true,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_demo-parliament-profiles"
+      ],
+      "notes": "Fictional politician created to demonstrate the record format. No real person is depicted."
+    },
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "pol_demo-brackenridge-tom",
+    "slug": "tom-brackenridge",
+    "fullName": "Tom Brackenridge",
+    "givenName": "Tom",
+    "familyName": "Brackenridge",
+    "partyId": "demo-civic",
+    "chamber": "house",
+    "electorate": "Ironbark",
+    "state": "WA",
+    "positions": [
+      {
+        "title": "Shadow Minister for Energy",
+        "type": "opposition",
+        "since": "2025-05-28"
+      },
+      {
+        "title": "Member for Ironbark",
+        "type": "parliamentary",
+        "since": "2019-05-18"
+      }
+    ],
+    "positionSummary": "Shadow Minister for Energy",
+    "positionRank": 104,
+    "firstElected": 2019,
+    "lastRecordUpdate": "2026-09-29",
+    "sortName": "Brackenridge, Tom",
+    "isDemonstration": true,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_demo-parliament-profiles"
+      ],
+      "notes": "Fictional politician created to demonstrate the record format. No real person is depicted."
+    },
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "pol_demo-fenwick-isla",
+    "slug": "isla-fenwick",
+    "fullName": "Isla Fenwick",
+    "givenName": "Isla",
+    "familyName": "Fenwick",
+    "partyId": "demo-ind",
+    "chamber": "senate",
+    "state": "TAS",
+    "positions": [
+      {
+        "title": "Senator for Tasmania",
+        "type": "parliamentary",
+        "since": "2022-07-01"
+      }
+    ],
+    "positionSummary": "Independent Senator for Tasmania",
+    "positionRank": 105,
+    "firstElected": 2022,
+    "lastRecordUpdate": "2026-09-29",
+    "sortName": "Fenwick, Isla",
+    "isDemonstration": true,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_demo-parliament-profiles"
+      ],
+      "notes": "Fictional politician created to demonstrate the record format. No real person is depicted."
+    },
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "pol_demo-castellan-hugh",
+    "slug": "hugh-castellan",
+    "fullName": "Hugh Castellan",
+    "givenName": "Hugh",
+    "familyName": "Castellan",
+    "partyId": "demo-harbour",
+    "chamber": "house",
+    "electorate": "Silvergum",
+    "state": "SA",
+    "positions": [
+      {
+        "title": "Member for Silvergum",
+        "type": "backbench",
+        "since": "2022-05-21"
+      }
+    ],
+    "positionSummary": "Member for Silvergum",
+    "positionRank": 106,
+    "firstElected": 2022,
+    "lastRecordUpdate": "2026-09-30",
+    "sortName": "Castellan, Hugh",
+    "isDemonstration": true,
+    "verification": {
+      "verifiedAt": "2026-09-30",
+      "sourceIds": [
+        "src_demo-parliament-profiles"
+      ],
+      "notes": "Fictional politician created to demonstrate the record format. No real person is depicted."
+    },
+    "createdAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-09-30T09:00:00+10:00"
+  }
+]

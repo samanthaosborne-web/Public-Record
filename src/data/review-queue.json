@@ -1,0 +1,249 @@
+[
+  {
+    "id": "rev_demo-0001",
+    "kind": "ai_discovery",
+    "status": "pending",
+    "targetType": "claim",
+    "politicianId": "pol_demo-vance-eleanor",
+    "submittedAt": "2026-09-30T06:12:00+10:00",
+    "submittedBy": "pipeline",
+    "claimText": "Regional unemployment is at its lowest level in fifteen years.",
+    "suggestedStatus": "mixed",
+    "aiExplanation": "Draft: the labour force release for August 2026 (demonstration) shows the regional unemployment rate at 3.9 per cent, the lowest since 2011 on the trend series but not on the seasonally adjusted series (3.7 per cent in 2023). Which series the minister meant is unclear. Suggest 'Mixed / context required' with a note on trend vs seasonally adjusted.",
+    "sources": [
+      {
+        "url": "/demo/sources/src_demo-road-deaths-2026-08",
+        "title": "Labour force, regional, August 2026 (demonstration)",
+        "publisher": "National Statistics Office (demonstration)",
+        "tier": 1,
+        "qualityNote": "Tier 1 official dataset."
+      },
+      {
+        "url": "/demo/sources/src_demo-transcript-vance-2026-04-02",
+        "title": "Transcript: doorstop, 29 September 2026 (demonstration)",
+        "publisher": "Office of the Minister for Regional Infrastructure (demonstration)",
+        "tier": 1,
+        "qualityNote": "Original statement."
+      }
+    ],
+    "contradictorySources": [],
+    "similarClaims": [],
+    "riskFlags": [
+      "stale_evidence"
+    ],
+    "requiresHumanReview": true,
+    "createdAt": "2026-09-30T06:12:00+10:00",
+    "updatedAt": "2026-09-30T06:12:00+10:00"
+  },
+  {
+    "id": "rev_demo-0002",
+    "kind": "ai_discovery",
+    "status": "pending",
+    "targetType": "integrity",
+    "politicianId": "pol_demo-natarajan-priya",
+    "submittedAt": "2026-09-30T06:15:00+10:00",
+    "submittedBy": "pipeline",
+    "claimText": "A newspaper column alleges Senator Natarajan intervened in a departmental grant decision benefiting a donor.",
+    "suggestedStatus": "allegation",
+    "aiExplanation": "Draft integrity record. Only one source located: an opinion column in a metropolitan daily (demonstration). No official referral, statement or second outlet found. This does not meet the evidence rule for integrity matters. Recommend REQUEST MORE EVIDENCE or REJECT. Never auto-publish.",
+    "sources": [
+      {
+        "url": "/demo/sources/src_demo-news-ad-complaint",
+        "title": "Opinion: the grant question the senator must answer (demonstration)",
+        "publisher": "Metropolitan Daily (demonstration)",
+        "tier": 2,
+        "qualityNote": "Opinion column, not a news report. Single source."
+      }
+    ],
+    "contradictorySources": [],
+    "similarClaims": [],
+    "riskFlags": [
+      "integrity_matter",
+      "single_source",
+      "defamation_review"
+    ],
+    "requiresHumanReview": true,
+    "createdAt": "2026-09-30T06:15:00+10:00",
+    "updatedAt": "2026-09-30T06:15:00+10:00"
+  },
+  {
+    "id": "rev_demo-0003",
+    "kind": "public_submission",
+    "status": "pending",
+    "targetType": "claim",
+    "targetId": "clm_demo-0006",
+    "politicianId": "pol_demo-fenwick-isla",
+    "submittedAt": "2026-09-29T15:40:00+10:00",
+    "submittedBy": "journalist",
+    "claimText": "Additional evidence for the port upgrade claim: an independent evaluation by a university transport centre (demonstration) reports a benefit-cost ratio of 1.4.",
+    "aiExplanation": "Submission via the correction form. If the evaluation is verified, the claim could move from 'Insufficient evidence' to 'Contradicted by evidence' or 'Mixed'. A reviewer must read the evaluation before any change.",
+    "sources": [
+      {
+        "url": "/demo/sources/src_demo-port-cba-summary",
+        "title": "Independent evaluation: Kestrel port upgrade (demonstration)",
+        "publisher": "University transport research centre (demonstration)",
+        "tier": 2,
+        "qualityNote": "Independent academic evaluation; methodology published."
+      }
+    ],
+    "contradictorySources": [
+      {
+        "url": "/demo/sources/src_demo-port-cba-summary",
+        "title": "Port upgrade: cost-benefit summary (demonstration)",
+        "publisher": "Kestrel Port Corporation (demonstration)",
+        "tier": 3,
+        "qualityNote": "Proponent-commissioned."
+      }
+    ],
+    "similarClaims": [
+      {
+        "claimId": "clm_demo-0006",
+        "similarity": 1
+      }
+    ],
+    "riskFlags": [],
+    "requiresHumanReview": true,
+    "createdAt": "2026-09-29T15:40:00+10:00",
+    "updatedAt": "2026-09-29T15:40:00+10:00"
+  },
+  {
+    "id": "rev_demo-0004",
+    "kind": "ai_discovery",
+    "status": "pending",
+    "targetType": "claim",
+    "politicianId": "pol_demo-vance-eleanor",
+    "submittedAt": "2026-09-30T06:20:00+10:00",
+    "submittedBy": "pipeline",
+    "claimText": "Road deaths in the regions have come down by 40 per cent since we were elected.",
+    "suggestedStatus": "contradicted",
+    "aiExplanation": "Draft: this statement (radio interview, 29 September 2026, demonstration) is substantially the same as claim clm_demo-0001 (similarity 0.91). Recommend MARK DUPLICATE and record as a repetition of the existing claim rather than a new record.",
+    "sources": [
+      {
+        "url": "/demo/sources/src_demo-radio-vance-2026-02-12",
+        "title": "Transcript: radio interview, 29 September 2026 (demonstration)",
+        "publisher": "Office of the Minister for Regional Infrastructure (demonstration)",
+        "tier": 1,
+        "qualityNote": "Original statement."
+      }
+    ],
+    "contradictorySources": [
+      {
+        "url": "/demo/sources/src_demo-road-deaths-2026-08",
+        "title": "Regional road deaths: monthly series, August 2026 release (demonstration)",
+        "publisher": "National Transport Statistics Bureau (demonstration)",
+        "tier": 1,
+        "qualityNote": "Tier 1 dataset; 13 per cent reduction."
+      }
+    ],
+    "similarClaims": [
+      {
+        "claimId": "clm_demo-0001",
+        "similarity": 0.91
+      },
+      {
+        "claimId": "clm_demo-0010",
+        "similarity": 0.88
+      }
+    ],
+    "riskFlags": [
+      "possible_duplicate"
+    ],
+    "requiresHumanReview": true,
+    "createdAt": "2026-09-30T06:20:00+10:00",
+    "updatedAt": "2026-09-30T06:20:00+10:00"
+  },
+  {
+    "id": "rev_demo-0005",
+    "kind": "politician_response",
+    "status": "pending",
+    "targetType": "claim",
+    "targetId": "clm_demo-0012",
+    "politicianId": "pol_demo-brackenridge-tom",
+    "submittedAt": "2026-09-29T11:05:00+10:00",
+    "submittedBy": "politician's office",
+    "claimText": "Response from Mr Brackenridge's office: the emissions statement referred to electricity-sector emissions, which rose in each year since 2022.",
+    "aiExplanation": "Right-of-reply submission. The original statement did not specify the electricity sector. If the sector-level figures are verified, the response should be attached to the record and the context section expanded; the classification of the statement as made would remain.",
+    "sources": [
+      {
+        "url": "/demo/sources/src_demo-emissions-inventory-2025",
+        "title": "National greenhouse gas inventory: sector tables (demonstration)",
+        "publisher": "Department of Climate Change (demonstration)",
+        "tier": 1,
+        "qualityNote": "Tier 1 dataset."
+      }
+    ],
+    "contradictorySources": [],
+    "similarClaims": [
+      {
+        "claimId": "clm_demo-0012",
+        "similarity": 1
+      }
+    ],
+    "riskFlags": [],
+    "requiresHumanReview": true,
+    "createdAt": "2026-09-29T11:05:00+10:00",
+    "updatedAt": "2026-09-29T11:05:00+10:00"
+  },
+  {
+    "id": "rev_demo-0006",
+    "kind": "ai_discovery",
+    "status": "pending",
+    "targetType": "conduct",
+    "politicianId": "pol_demo-oyelaran-marcus",
+    "submittedAt": "2026-09-30T06:25:00+10:00",
+    "submittedBy": "pipeline",
+    "claimText": "An anonymous social-media account alleges misconduct by Mr Oyelaran at a party function.",
+    "suggestedStatus": "allegation",
+    "aiExplanation": "Draft conduct record. The only source is an anonymous social-media post. This does not meet the evidence rule for serious conduct matters (official record or substantial reporting by established outlets). Recommend REJECT. This item is blocked from publication regardless of reviewer action until a qualifying source exists.",
+    "sources": [
+      {
+        "url": "/demo/sources/src_demo-parliament-profiles",
+        "title": "Anonymous social-media post (demonstration)",
+        "publisher": "Social media",
+        "tier": 3,
+        "qualityNote": "Anonymous, unverified. Below the evidence standard."
+      }
+    ],
+    "contradictorySources": [],
+    "similarClaims": [],
+    "riskFlags": [
+      "serious_allegation",
+      "defamation_review",
+      "low_source_quality",
+      "single_source"
+    ],
+    "requiresHumanReview": true,
+    "createdAt": "2026-09-30T06:25:00+10:00",
+    "updatedAt": "2026-09-30T06:25:00+10:00"
+  },
+  {
+    "id": "rev_demo-0007",
+    "kind": "ai_discovery",
+    "status": "approved",
+    "targetType": "claim",
+    "targetId": "clm_demo-0019",
+    "politicianId": "pol_demo-castellan-hugh",
+    "submittedAt": "2026-09-29T06:10:00+10:00",
+    "submittedBy": "pipeline",
+    "claimText": "The Silvergum hospital has lost 200 beds since 2020.",
+    "suggestedStatus": "insufficient",
+    "aiExplanation": "Draft: published hospital resources data covers 2020–21 to 2024–25 and shows a 64-bed reduction. No data covers the full period claimed.",
+    "sources": [
+      {
+        "url": "/demo/sources/src_demo-hospital-beds-2024-25",
+        "title": "Hospital resources 2024–25 (demonstration)",
+        "publisher": "Health Statistics Institute (demonstration)",
+        "tier": 1,
+        "qualityNote": "Tier 1 dataset."
+      }
+    ],
+    "contradictorySources": [],
+    "similarClaims": [],
+    "riskFlags": [],
+    "requiresHumanReview": true,
+    "reviewerNotes": "Approved as drafted; data request sent to the hospital network.",
+    "reviewedAt": "2026-09-30T08:00:00+10:00",
+    "createdAt": "2026-09-29T06:10:00+10:00",
+    "updatedAt": "2026-09-30T08:00:00+10:00"
+  }
+]
