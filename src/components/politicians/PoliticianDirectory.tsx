@@ -58,11 +58,11 @@ export function PoliticianDirectory({
         <div className="mb-5 flex flex-wrap items-center justify-between gap-3">
           {showFilters && (
             <div className="flex flex-wrap gap-2" role="group" aria-label="Filter by party">
-              <button type="button" className={chip(party === "all")} onClick={() => choose("all")} aria-pressed={party === "all"}>
+              <button type="button" data-filter-party="all" className={chip(party === "all")} onClick={() => choose("all")} aria-pressed={party === "all"}>
                 ALL
               </button>
               {filterParties.map((p) => (
-                <button key={p.id} type="button" className={chip(party === p.id)} onClick={() => choose(p.id)} aria-pressed={party === p.id}>
+                <button key={p.id} type="button" data-filter-party={p.id} className={chip(party === p.id)} onClick={() => choose(p.id)} aria-pressed={party === p.id}>
                   <span className="mr-1.5 inline-block h-1.5 w-1.5 rounded-full align-middle" style={{ backgroundColor: p.accentColour }} aria-hidden="true" />
                   {p.filterLabel}
                 </button>
@@ -73,6 +73,7 @@ export function PoliticianDirectory({
             <label className="flex items-center gap-2 text-xs text-ink-muted">
               Sort
               <select
+                data-sort-select
                 value={sort}
                 onChange={(e) => setSort(e.target.value as Sort)}
                 className="rounded border border-line-strong bg-surface px-2 py-1 text-xs text-ink"
@@ -87,15 +88,15 @@ export function PoliticianDirectory({
       {visible.length === 0 ? (
         <p className="rounded border border-dashed border-line-strong px-4 py-8 text-center text-sm text-ink-muted">No profiles match this filter.</p>
       ) : (
-        <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4" data-directory>
           {visible.map((item) => (
-            <li key={item.politician.id}>
+            <li key={item.politician.id} data-party={item.politician.partyId} data-sort-name={item.politician.sortName} data-rank={item.politician.positionRank}>
               <PoliticianCard {...item} />
             </li>
           ))}
         </ul>
       )}
-      <p className="mt-4 text-xs text-ink-faint">
+      <p className="mt-4 text-xs text-ink-faint" data-directory-count>
         {visible.length} profile{visible.length === 1 ? "" : "s"}. Profiles are never ranked; default order is alphabetical.
       </p>
     </div>
