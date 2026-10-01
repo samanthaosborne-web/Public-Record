@@ -1,0 +1,204 @@
+{
+  "careers": [
+    {
+      "politicianSlug": "pauline-hanson",
+      "parliamentaryService": "Elected to the House of Representatives for Oxley, Queensland, at the 1996 general election and defeated at the 1998 election; the Parliament of Australia records her party service in that period as Independent from 2 March 1996 to 27 June 1997 and as Pauline Hanson's One Nation from 27 June 1997 to 3 October 1998. Elected to the Senate for Queensland at the 2016 election and re-elected in 2022. Recorded as Leader of the Federal Parliamentary Pauline Hanson's One Nation from 2 July 2016 and as Leader of One Nation from 28 January 2026, when the party's name changed in the parliamentary record.",
+      "positionsHeld": [
+        { "title": "Leader of One Nation", "from": "2026-01-28", "type": "party" },
+        { "title": "Leader of the Federal Parliamentary Pauline Hanson's One Nation", "from": "2016-07-02", "to": "2026-01-28", "type": "party" },
+        { "title": "Pauline Hanson's One Nation Whip in the Senate", "from": "2019-07-02", "to": "2025-10-27", "type": "party" },
+        { "title": "Deputy Chair, Joint Select Committee on Australia's Family Law System", "from": "2019-10-24", "to": "2021-11-22", "type": "parliamentary" },
+        { "title": "Chair, Senate Select Committee on Lending to Primary Production Customers", "from": "2017-11-13", "to": "2017-12-06", "type": "parliamentary" }
+      ],
+      "currentCommittees": ["Senate Standing Committee for the Selection of Bills"]
+    },
+    {
+      "politicianSlug": "malcolm-roberts",
+      "parliamentaryService": "Elected to the Senate for Queensland at the 2016 election. The Parliament of Australia records that this election was ruled void on 27 October 2017 under section 44(i) of the Constitution, with ineligibility dating from 2 July 2016. Elected to the Senate for Queensland again at the 2019 election, with service from 1 July 2019, and re-elected in 2025. Recorded as a member of Pauline Hanson's One Nation until 28 January 2026 and of One Nation from that date.",
+      "positionsHeld": [
+        { "title": "Pauline Hanson's One Nation Acting Whip", "from": "2021-10-18", "to": "2021-10-21", "type": "party" },
+        { "title": "Chair, Senate Select Committee on Lending to Primary Production Customers", "from": "2017-03-20", "to": "2017-10-27", "type": "parliamentary" }
+      ],
+      "currentCommittees": []
+    },
+    {
+      "politicianSlug": "david-farley",
+      "parliamentaryService": "Elected to the House of Representatives for Farrer, New South Wales, at the 2026 by-election held after the resignation of the Hon Sussan Ley. The Parliament of Australia records his One Nation party service from 9 May 2026 and his membership of the House Standing Committee on Primary Industries from 24 June 2026. No earlier parliamentary service is recorded.",
+      "positionsHeld": [],
+      "currentCommittees": ["House of Representatives Standing Committee on Primary Industries"]
+    }
+  ],
+  "integrityMatters": [
+    {
+      "politicianSlug": "pauline-hanson",
+      "title": "Queensland prosecution over the 1997 registration of Pauline Hanson's One Nation: convictions quashed and acquittals entered",
+      "date": "1998-07-10",
+      "organisation": "Supreme Court of Queensland; Queensland Police Service; Queensland Director of Public Prosecutions; District Court of Queensland; Queensland Court of Appeal; Crime and Misconduct Commission (Queensland)",
+      "description": "In October 1997 Ms Hanson applied to register Pauline Hanson's One Nation as a Queensland political party on the basis that it had more than 500 members. After a civil challenge, the Supreme Court of Queensland set the registration aside in August 1999, finding the Electoral Commissioner's decision had been induced by fraud or misrepresentation. Following a police investigation, Ms Hanson and David Ettridge were charged in July 2001 with dishonestly inducing the registration, and Ms Hanson was also charged with dishonestly obtaining electoral reimbursements. A District Court jury convicted both on 20 August 2003 and each was sentenced to three years' imprisonment. On 6 November 2003 the Queensland Court of Appeal quashed the convictions, set aside the sentences and directed that verdicts of acquittal be entered. A Crime and Misconduct Commission inquiry requested by the Queensland Parliament found in January 2004 that no misconduct or impropriety was associated with the litigation or the police investigation.",
+      "status": "overturned_appealed",
+      "statusHistory": [
+        { "status": "allegation", "date": "1998-07-10", "note": "A disendorsed candidate instituted Supreme Court proceedings challenging the Queensland registration of the party." },
+        { "status": "official_finding", "date": "1999-08-18", "note": "Civil proceedings: the Supreme Court set aside the decision to register the party, finding it had been induced by fraud or misrepresentation; upheld by the Court of Appeal on 10 March 2000." },
+        { "status": "referral", "date": "1999-08-26", "note": "Matter referred on behalf of the Electoral Commissioner to the Commissioner of Police." },
+        { "status": "charged", "date": "2001-07-05", "note": "Ms Hanson and Mr Ettridge charged with dishonestly inducing the Electoral Commissioner to register the party; Ms Hanson also charged with two counts of dishonestly obtaining property." },
+        { "status": "convicted", "date": "2003-08-20", "note": "A District Court jury found both guilty; each was sentenced to three years' imprisonment." },
+        { "status": "overturned_appealed", "date": "2003-11-06", "note": "The Court of Appeal quashed the convictions, set aside the sentences and directed that verdicts of acquittal be entered." },
+        { "status": "overturned_appealed", "date": "2004-01-01", "note": "January 2004: the Crime and Misconduct Commission found no misconduct or impropriety in the litigation or the police investigation, and no evidence of political pressure." }
+      ],
+      "outcome": "Convictions quashed; verdicts of acquittal entered (Queensland Court of Appeal, 6 November 2003). No conviction stands. The Crime and Misconduct Commission (January 2004) found that 'no misconduct or other impropriety has been shown to have been associated with the conduct of the litigation concerning Ms Hanson and Mr Ettridge, or with the police investigations leading to the prosecution'.",
+      "primarySources": [
+        { "title": "R v Hanson; R v Ettridge [2003] QCA 488", "publisher": "Queensland Judgments (Supreme Court Library Queensland)", "url": "https://www.queenslandjudgments.com.au/caselaw/qca/2003/488", "publishedAt": "2003-11-06", "whatItShows": "Court of Appeal orders quashing the convictions and directing verdicts of acquittal." },
+        { "title": "The prosecution of Pauline Hanson and David Ettridge: report on an inquiry into issues raised in a resolution of Parliament", "publisher": "Crime and Misconduct Commission (Queensland), tabled paper", "url": "https://documents.parliament.qld.gov.au/tp/2004/5104T2.pdf", "publishedAt": "2004-01-31", "whatItShows": "Chronology of the civil and criminal proceedings and the Commission's finding of no misconduct in the prosecution." }
+      ],
+      "independentSources": [
+        { "title": "Hanson thanks supporters after jail release", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2003-11-06/hanson-thanks-supporters-after-jail-release/1505162", "publishedAt": "2003-11-06" }
+      ],
+      "politicianResponse": { "kind": "statement", "date": "2003-11-06", "summary": "On release after the Court of Appeal decision, Ms Hanson thanked her supporters and said she wanted to help others she believed had been wrongly imprisoned.", "quote": "People who never gave up believing in me and trusting in me and that's what kept me going.", "source": { "title": "Hanson thanks supporters after jail release", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2003-11-06/hanson-thanks-supporters-after-jail-release/1505162", "publishedAt": "2003-11-06" } }
+    },
+    {
+      "politicianSlug": "pauline-hanson",
+      "title": "Electoral Commission investigation into disclosure of the aircraft used in the party's 2016 campaign (party-level matter)",
+      "date": "2017-04-03",
+      "organisation": "Australian Electoral Commission",
+      "description": "After an ABC Four Corners program on 3 April 2017 raised questions about the provision of an aircraft used by Pauline Hanson's One Nation during the 2016 campaign, the Australian Electoral Commission examined whether the disclosures required under Part XX of the Commonwealth Electoral Act 1918 had been made. The AEC issued 15 compulsory notices and sought advice from the Commonwealth Director of Public Prosecutions. During the investigation the party amended its 2015–16 return to disclose a $30,500 gift in kind, and other parties lodged donor returns. In its report of 16 November 2018 the AEC concluded that the returns and amended returns lodged provided the relevant disclosure and closed the matter. The report makes no finding about Senator Hanson personally; it is recorded here because she led the party concerned.",
+      "status": "no_finding",
+      "statusHistory": [
+        { "status": "allegation", "date": "2017-04-03", "note": "Four Corners aired allegations about the aircraft; the matter was referred to the AEC." },
+        { "status": "formal_investigation", "date": "2017-05-26", "note": "The Electoral Commissioner told Senate estimates the AEC had moved to compulsory notices." },
+        { "status": "no_finding", "date": "2018-11-16", "note": "AEC report concluded disclosure had been achieved through the returns lodged and closed the matter." }
+      ],
+      "outcome": "AEC investigation report, 16 November 2018: 'As disclosure in relation to the plane has been achieved, the matter is considered closed.' No finding was made against Senator Hanson.",
+      "primarySources": [
+        { "title": "Investigation report: Pauline Hanson's One Nation and Others", "publisher": "Australian Electoral Commission", "url": "https://www.aec.gov.au/parties_and_representatives/compliance/files/investigation-report-pauline-hansons-one-nation-others.pdf", "publishedAt": "2018-11-16", "whatItShows": "The AEC's conclusion that disclosure had been achieved and the matter was closed." },
+        { "title": "Investigations and other enquiries", "publisher": "Australian Electoral Commission", "url": "https://www.aec.gov.au/Parties_and_Representatives/compliance/investigations.htm", "whatItShows": "Index listing the 16 November 2018 report." }
+      ],
+      "independentSources": [
+        { "title": "Pauline Hanson's One Nation to be investigated by Electoral Commission over plane ownership", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2017-05-26/electoral-commission-investigates-one-nation-plane/8560062", "publishedAt": "2017-05-26" }
+      ],
+      "politicianResponse": { "kind": "statement", "date": "2017-05-26", "summary": "At Senate estimates in May 2017 Senator Hanson asked the Electoral Commissioner to confirm that the party had provided the aircraft's log book and all information required; the Commissioner declined to comment while the investigation was active.", "source": { "title": "Pauline Hanson's One Nation to be investigated by Electoral Commission over plane ownership", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2017-05-26/electoral-commission-investigates-one-nation-plane/8560062", "publishedAt": "2017-05-26" } }
+    },
+    {
+      "politicianSlug": "pauline-hanson",
+      "title": "Electoral Commission review of the party's 2019 election funding claim: overpayment and enforceable undertaking given as party agent",
+      "date": "2021-03-04",
+      "organisation": "Australian Electoral Commission",
+      "description": "As registered agent for Pauline Hanson's One Nation, Senator Hanson lodged the party's final election funding claim for the 2019 federal election. On review, the AEC found the claim deficient because a number of expenditure items could not be substantiated, being either not electoral expenditure or expenditure that had not been incurred, resulting in an overpayment of $165,442.03. On 4 March 2021 the Electoral Commissioner varied the party's entitlement to $2,675,324.42. Senator Hanson then gave a written undertaking, accepted by the Electoral Commissioner on 15 June 2021 under the Regulatory Powers (Standard Provisions) Act 2014, that future claims would specify all electoral expenditure with invoices matched to evidence of payment. The undertaking was given in her capacity as party agent.",
+      "status": "official_finding",
+      "statusHistory": [
+        { "status": "official_finding", "date": "2021-03-04", "note": "The Electoral Commissioner determined the party's entitlement after finding $165,442.03 had been overpaid on unsubstantiated items." },
+        { "status": "official_finding", "date": "2021-06-15", "note": "The Electoral Commissioner accepted an enforceable undertaking from Senator Hanson as party agent in respect of the record-keeping provision, section 317(1) of the Commonwealth Electoral Act." }
+      ],
+      "outcome": "Entitlement varied to $2,675,324.42 after an overpayment of $165,442.03 was identified; enforceable undertaking accepted on 15 June 2021. No civil penalty proceedings are recorded.",
+      "primarySources": [
+        { "title": "Undertaking to the Electoral Commissioner by Pauline Lee Hanson as agent for Pauline Hanson's One Nation", "publisher": "Australian Electoral Commission (Transparency Register)", "url": "https://www.aec.gov.au/Parties_and_Representatives/financial_disclosure/transparency-register/files/pauline-lee-hanson-enforceable-undertaking.pdf", "publishedAt": "2021-06-15", "whatItShows": "The AEC's finding of a $165,442.03 overpayment and the terms of the undertaking." },
+        { "title": "Publication of enforceable undertakings", "publisher": "Australian Electoral Commission", "url": "https://www.aec.gov.au/Parties_and_Representatives/financial_disclosure/transparency-register/enforceable-undertakings.htm", "whatItShows": "Register entry for the undertaking of 15 June 2021." }
+      ],
+      "independentSources": []
+    },
+    {
+      "politicianSlug": "pauline-hanson",
+      "title": "Federal Court finding that a September 2022 post to Senator Mehreen Faruqi contravened section 18C of the Racial Discrimination Act; appeal dismissed",
+      "date": "2024-11-01",
+      "organisation": "Federal Court of Australia; Full Court of the Federal Court of Australia",
+      "description": "After Senator Faruqi posted about the death of Queen Elizabeth II in September 2022, Senator Hanson replied on X telling her to 'piss off back to Pakistan', and Senator Faruqi brought proceedings under the Racial Discrimination Act 1975. On 1 November 2024 Justice Stewart found the post was reasonably likely to offend, insult, humiliate or intimidate on the basis of race, colour or national or ethnic origin, and ordered it deleted within seven days with costs. On 27 July 2026 the Full Court dismissed Senator Hanson's appeal, holding that none of the grounds was established and rejecting her argument that section 18C impermissibly burdens political communication.",
+      "status": "official_finding",
+      "statusHistory": [
+        { "status": "official_finding", "date": "2024-11-01", "note": "Justice Stewart found the post unlawful under section 18C and ordered its deletion and costs. Senator Hanson announced an appeal." },
+        { "status": "official_finding", "date": "2026-07-27", "note": "The Full Court dismissed the appeal; costs reserved. Senator Hanson said she would consider seeking leave to appeal to the High Court." }
+      ],
+      "outcome": "Appeal dismissed on 27 July 2026; the first-instance orders stand. No High Court application had been located as at 1 October 2026.",
+      "primarySources": [
+        { "title": "Faruqi v Hanson [2024] FCA 1264", "publisher": "Federal Court of Australia", "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2024/2024fca1264", "publishedAt": "2024-11-01", "whatItShows": "First-instance judgment and orders." },
+        { "title": "Hanson v Faruqi: online court file for the appeal", "publisher": "Federal Court of Australia", "url": "https://www.fedcourt.gov.au/services/access-to-files-and-transcripts/online-files/hanson-v-faruqi", "publishedAt": "2026-07-27", "whatItShows": "Links to the Full Court judgment and orders." }
+      ],
+      "independentSources": [
+        { "title": "Federal Court finds Pauline Hanson racially discriminated against Mehreen Faruqi in 'angry personal attack' tweet", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2024-11-01/pauline-hanson-mehreen-faruqi-racial-tweet-verdict/104547814", "publishedAt": "2024-11-01" },
+        { "title": "Pauline Hanson fails in appeal bid against racial discrimination of Mehreen Faruqi", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2026-07-27/nsw-pauline-hanson-appeal-mehreen-faruqi-judgement/106962048", "publishedAt": "2026-07-27" }
+      ],
+      "politicianResponse": { "kind": "defence", "date": "2026-07-27", "summary": "In November 2024 Senator Hanson said she was disappointed and that the ruling showed the inappropriately broad application of section 18C to political expression, and announced an appeal. After the appeal was dismissed she defended the post and said she would consider a High Court appeal.", "quote": "I was incensed by the incredible disrespect that I felt was shown to our late Queen on the day of her death by Senator Fahruqi and others.", "source": { "title": "Pauline Hanson fails in appeal bid against racial discrimination of Mehreen Faruqi", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2026-07-27/nsw-pauline-hanson-appeal-mehreen-faruqi-judgement/106962048", "publishedAt": "2026-07-27" } }
+    },
+    {
+      "politicianSlug": "pauline-hanson",
+      "title": "Senate censure and seven-sitting-day suspension after wearing a burqa in the chamber",
+      "date": "2025-11-24",
+      "organisation": "Senate, Parliament of Australia",
+      "description": "On 24 November 2025, after the Senate declined to allow her to introduce a bill to ban full-face coverings, Senator Hanson entered the chamber wearing a burqa. Proceedings were halted and she was suspended for the rest of the day when she declined to remove it. On 25 November 2025 the Senate agreed to a censure motion moved by the Leader of the Government in the Senate, Senator Penny Wong, and suspended Senator Hanson for seven consecutive sitting days, a penalty that carried into the February 2026 sittings.",
+      "status": "official_finding",
+      "statusHistory": [
+        { "status": "official_finding", "date": "2025-11-24", "note": "Suspended for the remainder of the day's sitting." },
+        { "status": "official_finding", "date": "2025-11-25", "note": "Censured by resolution of the Senate and suspended for seven consecutive sitting days." }
+      ],
+      "outcome": "Censured by the Senate and suspended for seven consecutive sitting days (25 November 2025).",
+      "primarySources": [
+        { "title": "Journals of the Senate, 25 November 2025", "publisher": "Department of the Senate, Parliament of Australia", "url": "https://parlinfo.aph.gov.au/parlInfo/download/chamber/journals/479c3311-d7fa-4833-b3b7-b37e98096ed6/toc_pdf/sen-jn.pdf;fileType=application%2Fpdf", "publishedAt": "2025-11-25", "whatItShows": "The official record of the censure motion and suspension." }
+      ],
+      "independentSources": [
+        { "title": "Pauline Hanson suspended from Senate for seven sitting days over burka stunt", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2025-11-25/federal-politics-live-nov-25/106047174", "publishedAt": "2025-11-25" },
+        { "title": "Far-right Australian senator suspended from Parliament for wearing burqa in protest", "publisher": "Associated Press via PBS NewsHour", "url": "https://www.pbs.org/newshour/world/far-right-australian-senator-suspended-from-parliament-for-wearing-burqa-in-protest", "publishedAt": "2025-11-25" }
+      ],
+      "politicianResponse": { "kind": "defence", "date": "2025-11-25", "summary": "Senator Hanson rejected the censure, noted that the Senate has no formal dress code, and said voters rather than her colleagues would judge her at the next election.", "quote": "They didn't want to ban the burqa, yet they denied me the right to wear it on the floor of Parliament.", "source": { "title": "Far-right Australian senator suspended from Parliament for wearing burqa in protest", "publisher": "Associated Press via PBS NewsHour", "url": "https://www.pbs.org/newshour/world/far-right-australian-senator-suspended-from-parliament-for-wearing-burqa-in-protest", "publishedAt": "2025-11-25" } }
+    },
+    {
+      "politicianSlug": "pauline-hanson",
+      "title": "Australian Federal Police assessment of complaints about televised comments about Muslims: no offence threshold met",
+      "date": "2026-02-01",
+      "organisation": "Australian Federal Police",
+      "description": "After a February 2026 Sky News interview in which Senator Hanson questioned whether there were 'good Muslims' and made remarks about the Sydney suburb of Lakemba, the Australian Federal Police received several complaints. In a statement reported on 31 July 2026, the AFP said it had assessed the comments against relevant offences, including under the Combatting Antisemitism, Hate and Extremism (Criminal and Migration Laws) Act 2026, determined they did not meet the threshold for those offences, and finalised the matter.",
+      "status": "cleared",
+      "statusHistory": [
+        { "status": "allegation", "date": "2026-02-01", "note": "February 2026: the AFP received complaints after the interview." },
+        { "status": "cleared", "date": "2026-07-31", "note": "The AFP said the comments did not meet the threshold for relevant offences and finalised the matter." }
+      ],
+      "outcome": "AFP statement: 'The AFP has determined the comments do not meet the threshold for relevant offences, including within the Combatting Antisemitism, Hate and Extremism (Criminal and Migration Laws) Act 2026. The AFP has finalised this matter.'",
+      "primarySources": [],
+      "independentSources": [
+        { "title": "AFP finalises investigation over Hanson's 'no good muslims' comments", "publisher": "SBS News", "url": "https://www.sbs.com.au/news/article/pauline-hanson-afp-probe-no-good-muslims-comments/ycfkdjc2g", "publishedAt": "2026-07-31" }
+      ],
+      "politicianResponse": { "kind": "statement", "date": "2026-07-31", "summary": "Senator Hanson said she believed there were some good Muslims and offered a qualified apology to anyone offended who did not support Sharia law.", "quote": "If I've offended anyone out there that doesn't believe in Sharia law ... then I apologise to you for my comment.", "source": { "title": "AFP finalises investigation over Hanson's 'no good muslims' comments", "publisher": "SBS News", "url": "https://www.sbs.com.au/news/article/pauline-hanson-afp-probe-no-good-muslims-comments/ycfkdjc2g", "publishedAt": "2026-07-31" } }
+    },
+    {
+      "politicianSlug": "malcolm-roberts",
+      "title": "High Court ruling that the 2016 election was void under section 44(i) of the Constitution",
+      "date": "2017-08-09",
+      "organisation": "High Court of Australia sitting as the Court of Disputed Returns",
+      "description": "On 9 August 2017 the Senate referred questions about Senator Roberts's eligibility to the Court of Disputed Returns after reports that he held British citizenship by descent when he nominated for the 2016 election. On 22 September 2017 Justice Keane found that Senator Roberts was a British citizen at nomination, knew there was at least a real and substantial prospect that he was, and had not taken effective steps to renounce it before nominating; his renunciation took effect on 5 December 2016. On 27 October 2017 the Full Court unanimously held that he had been ineligible to be elected and ordered a special count, under which Fraser Anning was declared elected. In June 2019 the High Court ordered Senator Roberts to pay $6,000 plus costs in an action under the Common Informers (Parliamentary Disqualifications) Act 1975 for the sitting days on which he sat while ineligible. He was elected to the Senate again in 2019.",
+      "status": "official_finding",
+      "statusHistory": [
+        { "status": "referral", "date": "2017-08-09", "note": "The Senate referred questions about his eligibility to the Court of Disputed Returns." },
+        { "status": "official_finding", "date": "2017-09-22", "note": "Justice Keane's findings of fact on citizenship and renunciation." },
+        { "status": "official_finding", "date": "2017-10-27", "note": "The Full Court unanimously held he was ineligible to be elected and ordered a special count." },
+        { "status": "official_finding", "date": "2019-06-24", "note": "High Court order to pay $6,000 plus costs under the Common Informers (Parliamentary Disqualifications) Act, as reported by ABC News." }
+      ],
+      "outcome": "Parliament of Australia record: 'Election ruled void 27.10.2017 under section 44 (i) of the Constitution; ruled ineligible from 2.7.2016.' The vacancy was filled by special count. Senator Roberts was elected again in 2019 and re-elected in 2025.",
+      "primarySources": [
+        { "title": "Re Roberts [2017] HCA 39", "publisher": "High Court of Australia (AustLII)", "url": "https://www.austlii.edu.au/au/cases/cth/HCA/2017/39.html", "publishedAt": "2017-09-22", "whatItShows": "Justice Keane's findings of fact." },
+        { "title": "Re Canavan; Re Ludlam; Re Waters; Re Roberts [No 2]; Re Joyce; Re Nash; Re Xenophon [2017] HCA 45", "publisher": "High Court of Australia (AustLII)", "url": "https://www.austlii.edu.au/au/cases/cth/HCA/2017/45.html", "publishedAt": "2017-10-27", "whatItShows": "The Full Court's unanimous decision." },
+        { "title": "Senator Malcolm Roberts: parliamentary service record", "publisher": "Parliament of Australia", "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=266524", "whatItShows": "Records the 2016 election as ruled void under section 44(i)." }
+      ],
+      "independentSources": [
+        { "title": "Citizenship seven rulings: winners and losers", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2017-10-27/citizenship-seven-rulings-winners-and-losers/9050222", "publishedAt": "2017-10-27" },
+        { "title": "Hanson set to refer Malcolm Roberts to the High Court over dual citizenship questions", "publisher": "The Conversation", "url": "https://theconversation.com/hanson-set-to-refer-malcolm-roberts-to-the-high-court-over-dual-citizenship-questions-82259", "publishedAt": "2017-08-09" },
+        { "title": "Blogger uses obscure law to successfully sue One Nation senator Malcolm Roberts over dual citizenship", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2019-07-16/malcom-roberts-ordered-by-high-court-to-pay-blogger-6000/11313442", "publishedAt": "2019-07-16" }
+      ],
+      "politicianResponse": { "kind": "statement", "date": "2019-07-16", "summary": "Before the referral Senator Roberts said he had always considered himself Australian. After the 2019 order he said he had complied with the Constitution immediately and that the parties had waited months for the court to formalise an agreed outcome.", "quote": "I immediately complied with the Constitution's provisions. We then waited many, many months for the High Court to seal the agreement, as it did recently.", "source": { "title": "Blogger uses obscure law to successfully sue One Nation senator Malcolm Roberts over dual citizenship", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2019-07-16/malcom-roberts-ordered-by-high-court-to-pay-blogger-6000/11313442", "publishedAt": "2019-07-16" } }
+    }
+  ],
+  "conductMatters": [
+    {
+      "politicianSlug": "pauline-hanson",
+      "title": "Allegation by former senator Brian Burston of sexual harassment (2019)",
+      "date": "2019-02-14",
+      "allegationSummary": "On 14 February 2019 former One Nation senator Brian Burston publicly alleged, in comments reported by The Daily Telegraph and ABC News, that in 1998 Senator Hanson had rubbed her fingers up his spine and that she had propositioned him after his 2016 election. Senator Hanson denied the allegations and described them as retaliation. The allegation was later aired in evidence in defamation proceedings between the two; the court's findings in that case concerned Senator Hanson's statements about Mr Burston, not this allegation. PUBLIC RECORD has located no police report, investigation or finding relating to it.",
+      "status": "allegation",
+      "statusHistory": [
+        { "status": "allegation", "date": "2019-02-14", "note": "Allegation reported by established news organisations; denied the same day." }
+      ],
+      "evidenceBasis": "credible_reporting",
+      "primarySources": [],
+      "independentSources": [
+        { "title": "Brian Burston levels sexual harassment allegations at One Nation leader Pauline Hanson", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2019-02-13/burston-levels-sexual-harassment-allegations-at-pauline-hanson/10809710", "publishedAt": "2019-02-14" }
+      ],
+      "politicianResponse": { "kind": "denial", "date": "2019-02-14", "summary": "Senator Hanson denied the allegations on Sky News and called them retaliation.", "quote": "I'm not that desperate.", "source": { "title": "Brian Burston levels sexual harassment allegations at One Nation leader Pauline Hanson", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2019-02-13/burston-levels-sexual-harassment-allegations-at-pauline-hanson/10809710", "publishedAt": "2019-02-14" } }
+    }
+  ]
+}
