@@ -42,8 +42,17 @@ npm run pipeline:dry-run       # run the daily-update pipeline offline (mock sta
   daily feed, a review queue and a change log. Every demonstration record is labelled and every
   demonstration source opens a placeholder page inside the site. No real person is depicted, and
   no allegation about any real politician has been invented.
-* Real politicians currently show **"No verified records added yet."** Candidate records enter the
-  review queue and are published only after human review.
+* **Records for the real politicians, drafted from published sources.** Each profile now carries the
+  politician's parliamentary career from the Parliament of Australia record; claim records built from
+  fact-checks published by AAP FactCheck and RMIT ABC Fact Check (the verbatim statement, its original
+  source, the fact-checker's verdict, the official sources the fact-check relied on, the politician's
+  response and any correction); and integrity matters drawn from court judgments, Auditor-General
+  reports, police statements, electoral and parliamentary records, each with its status history and
+  the politician's response. Every one of these records is labelled **AI draft · pending editorial
+  review** until a human reviewer signs it off. The curated inputs live in
+  `scripts/research/2026-10-01/` and are loaded by `node scripts/ingest-research.cjs <dir>`, which is
+  idempotent. Politicians for whom no qualifying fact-check or official record was located show
+  "No verified records added yet" in that section.
 * **Claims**, **Issues**, **Integrity**, **Serious conduct**, **Today's Record**, **Methodology**,
   **Corrections log**, **Search**, **Submit a correction**, **Review queue (admin)**, **Source register**.
 
@@ -52,9 +61,10 @@ npm run pipeline:dry-run       # run the daily-update pipeline offline (mock sta
 A static, read-only copy of the site is published to the `gh-pages` branch by
 `scripts/build-static-snapshot.mjs` (manually or by the GitHub Actions workflow in
 `.github/workflows/pages.yml`). With GitHub Pages set to serve that branch, it is available at
-https://samanthaosborne-web.github.io/Public-Record/ . The static copy cannot run live search,
-right-of-reply submissions or reviewer decisions; those need the running app or a server
-deployment (for example Vercel, which builds this repository with no extra configuration).
+https://samanthaosborne-web.github.io/Public-Record/ . The static copy runs live search in the
+browser from a bundled index, but right-of-reply submissions and reviewer decisions need the
+running app or a server deployment (for example Vercel, which builds this repository with no extra
+configuration).
 
 ## Architecture
 

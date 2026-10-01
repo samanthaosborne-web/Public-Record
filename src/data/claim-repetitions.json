@@ -42,5 +42,103 @@
     "evidenceChanged": false,
     "createdAt": "2026-08-12T12:00:00+10:00",
     "updatedAt": "2026-08-12T12:00:00+10:00"
+  },
+  {
+    "id": "rep_clm_anthony-albanese-20250731-1-1",
+    "claimId": "clm_anthony-albanese-20250731-1",
+    "date": "2025-11-03",
+    "context": "House of Representatives, Question Time: repeated the claim that the Coalition opposed every round of energy bill relief (recorded in AAP FactCheck's article of 21 November 2025)",
+    "sourceId": "src_aap-com-au-factcheck-pms-claim-about-opposition-policy-rewrites-histor-570e30",
+    "reworded": true,
+    "evidenceChanged": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "rep_clm_mark-butler-20240429-1-1",
+    "claimId": "clm_mark-butler-20240429-1",
+    "date": "2024-04-29",
+    "context": "Interview, ABC News Breakfast, the same day as the media release",
+    "sourceId": "src_health-gov-au-ministers-the-hon-mark-butler-mp-media-television-interv-425008",
+    "reworded": true,
+    "evidenceChanged": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "rep_clm_angus-taylor-20260422-1-1",
+    "claimId": "clm_angus-taylor-20260422-1",
+    "date": "2026-04-26",
+    "context": "Interview, ABC Insiders: 'Just on the current run rate, we're running at about 80,000 a year above Labor's own targets.'",
+    "sourceId": "src_youtu-be-wk9lnyq97-e-d17e8c",
+    "reworded": false,
+    "evidenceChanged": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "rep_clm_angus-taylor-20260319-1-1",
+    "claimId": "clm_angus-taylor-20260319-1",
+    "date": "2026-03-16",
+    "context": "Interview, 2GB radio: 'a minister ... that has imposed emissions constraints on this refinery, which means they have to export their fuel'",
+    "sourceId": "src_web-archive-org-web-20260316073345-https-www-2gb-com-absurd-angus-tayl-08503a",
+    "reworded": true,
+    "evidenceChanged": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "rep_clm_angus-taylor-20240115-1-1",
+    "claimId": "clm_angus-taylor-20240115-1",
+    "date": "2024-02-11",
+    "context": "Interview, ABC Insiders: '27 per cent increase in personal income taxes being paid'",
+    "sourceId": "src_youtube-com-watch-ae89b3",
+    "reworded": true,
+    "evidenceChanged": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "rep_clm_jane-hume-20260215-1-1",
+    "claimId": "clm_jane-hume-20260215-1",
+    "date": "2026-02-16",
+    "context": "Interview, Sky News: 'half a million people coming into this country on an annual basis'",
+    "sourceId": "src_facebook-com-watch-1327bb",
+    "reworded": true,
+    "evidenceChanged": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "rep_clm_jane-hume-20260215-1-2",
+    "claimId": "clm_jane-hume-20260215-1",
+    "date": "2026-02-19",
+    "context": "Interview, Sky News: 'we've seen over half a million people come to our country each year'",
+    "sourceId": "src_facebook-com-watch-caf9ca",
+    "reworded": true,
+    "evidenceChanged": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "rep_clm_pauline-hanson-20260728-1-1",
+    "claimId": "clm_pauline-hanson-20260728-1",
+    "date": "2026-08-06",
+    "context": "News24 interview, similar comments (per AAP FactCheck)",
+    "reworded": false,
+    "evidenceChanged": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "rep_clm_malcolm-roberts-20240301-1-1",
+    "claimId": "clm_malcolm-roberts-20240301-1",
+    "date": "2024-03-25",
+    "context": "Post on X with the speech video",
+    "sourceId": "src_twitter-com-mrobertsqld-status-1772139712230379566-f7d3de",
+    "reworded": false,
+    "evidenceChanged": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
   }
 ]

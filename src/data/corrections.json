@@ -91,5 +91,490 @@
     "description": "No correction, clarification or additional evidence located as at 29 September 2026.",
     "createdAt": "2026-09-30T09:00:00+10:00",
     "updatedAt": "2026-09-30T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_david-shoebridge-20240428-1",
+    "claimId": "clm_david-shoebridge-20240428-1",
+    "politicianId": "pol_shoebridge-david",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_david-shoebridge-20240415-1",
+    "claimId": "clm_david-shoebridge-20240415-1",
+    "politicianId": "pol_shoebridge-david",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_david-shoebridge-20231107-1",
+    "claimId": "clm_david-shoebridge-20231107-1",
+    "politicianId": "pol_shoebridge-david",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_anthony-albanese-20251106-1",
+    "claimId": "clm_anthony-albanese-20251106-1",
+    "politicianId": "pol_albanese-anthony",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_anthony-albanese-20251103-1",
+    "claimId": "clm_anthony-albanese-20251103-1",
+    "politicianId": "pol_albanese-anthony",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_anthony-albanese-20250731-1",
+    "claimId": "clm_anthony-albanese-20250731-1",
+    "politicianId": "pol_albanese-anthony",
+    "status": "repeated_unchanged",
+    "date": "2025-11-03",
+    "description": "The Prime Minister repeated the claim in Question Time on 3 November 2025, after the fact-check was published, as recorded in AAP FactCheck's article of 21 November 2025. No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_anthony-albanese-20250401-1",
+    "claimId": "clm_anthony-albanese-20250401-1",
+    "politicianId": "pol_albanese-anthony",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_anthony-albanese-20250204-1",
+    "claimId": "clm_anthony-albanese-20250204-1",
+    "politicianId": "pol_albanese-anthony",
+    "status": "repeated_unchanged",
+    "date": "2025-04-22",
+    "description": "AAP FactCheck's coverage of the third leaders' debate on 22 April 2025 recorded the Prime Minister using the figure twice after the fact-check was published. No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_anthony-albanese-20240326-1",
+    "claimId": "clm_anthony-albanese-20240326-1",
+    "politicianId": "pol_albanese-anthony",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_anthony-albanese-20230905-1",
+    "claimId": "clm_anthony-albanese-20230905-1",
+    "politicianId": "pol_albanese-anthony",
+    "status": "no_correction_located",
+    "description": "No correction was required; the fact-check found the claim mostly accurate.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_anthony-albanese-20230808-1",
+    "claimId": "clm_anthony-albanese-20230808-1",
+    "politicianId": "pol_albanese-anthony",
+    "status": "no_correction_located",
+    "description": "No correction was required; the fact-check found the claim accurate.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_jim-chalmers-20260216-1",
+    "claimId": "clm_jim-chalmers-20260216-1",
+    "politicianId": "pol_chalmers-jim",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_jim-chalmers-20250409-1",
+    "claimId": "clm_jim-chalmers-20250409-1",
+    "politicianId": "pol_chalmers-jim",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_jim-chalmers-20250311-1",
+    "claimId": "clm_jim-chalmers-20250311-1",
+    "politicianId": "pol_chalmers-jim",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_jim-chalmers-20240401-1",
+    "claimId": "clm_jim-chalmers-20240401-1",
+    "politicianId": "pol_chalmers-jim",
+    "status": "no_correction_located",
+    "description": "No correction was required; the fact-check found the claim close to the mark.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_mark-butler-20250226-1",
+    "claimId": "clm_mark-butler-20250226-1",
+    "politicianId": "pol_butler-mark",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_mark-butler-20240429-1",
+    "claimId": "clm_mark-butler-20240429-1",
+    "politicianId": "pol_butler-mark",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_katy-gallagher-20250114-1",
+    "claimId": "clm_katy-gallagher-20250114-1",
+    "politicianId": "pol_gallagher-katy",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_angus-taylor-20260818-1",
+    "claimId": "clm_angus-taylor-20260818-1",
+    "politicianId": "pol_taylor-angus",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_angus-taylor-20260422-1",
+    "claimId": "clm_angus-taylor-20260422-1",
+    "politicianId": "pol_taylor-angus",
+    "status": "repeated_unchanged",
+    "date": "2026-04-26",
+    "description": "Mr Taylor repeated the figure on ABC Insiders on 26 April 2026 ('we're running at about 80,000 a year above Labor's own targets'). No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_angus-taylor-20260319-1",
+    "claimId": "clm_angus-taylor-20260319-1",
+    "politicianId": "pol_taylor-angus",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_angus-taylor-20251027-1",
+    "claimId": "clm_angus-taylor-20251027-1",
+    "politicianId": "pol_taylor-angus",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_angus-taylor-20250325-1",
+    "claimId": "clm_angus-taylor-20250325-1",
+    "politicianId": "pol_taylor-angus",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_angus-taylor-20250129-1",
+    "claimId": "clm_angus-taylor-20250129-1",
+    "politicianId": "pol_taylor-angus",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_angus-taylor-20240115-1",
+    "claimId": "clm_angus-taylor-20240115-1",
+    "politicianId": "pol_taylor-angus",
+    "status": "repeated_unchanged",
+    "date": "2024-02-11",
+    "description": "Mr Taylor repeated the figure on ABC Insiders on 11 February 2024, before the fact-check was published. No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_angus-taylor-20230507-1",
+    "claimId": "clm_angus-taylor-20230507-1",
+    "politicianId": "pol_taylor-angus",
+    "status": "no_correction_located",
+    "description": "No correction was required; the fact-check found the claim accurate.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_jane-hume-20260215-1",
+    "claimId": "clm_jane-hume-20260215-1",
+    "politicianId": "pol_hume-jane",
+    "status": "repeated_unchanged",
+    "date": "2026-02-19",
+    "description": "Senator Hume repeated the figure on Sky News on 16 and 19 February 2026. No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_jane-hume-20250515-1",
+    "claimId": "clm_jane-hume-20250515-1",
+    "politicianId": "pol_hume-jane",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_jane-hume-20250324-1",
+    "claimId": "clm_jane-hume-20250324-1",
+    "politicianId": "pol_hume-jane",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_jane-hume-20241201-1",
+    "claimId": "clm_jane-hume-20241201-1",
+    "politicianId": "pol_hume-jane",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_jane-hume-20260819-1",
+    "claimId": "clm_jane-hume-20260819-1",
+    "politicianId": "pol_hume-jane",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_michaelia-cash-20230510-1",
+    "claimId": "clm_michaelia-cash-20230510-1",
+    "politicianId": "pol_cash-michaelia",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_james-paterson-20250227-1",
+    "claimId": "clm_james-paterson-20250227-1",
+    "politicianId": "pol_paterson-james",
+    "status": "clarified",
+    "date": "2025-07-28",
+    "description": "Through his office, Senator Paterson told AAP FactCheck in July 2025 that he had misspoken and meant 'in our region'. PUBLIC RECORD has not located a public correction of the original interview.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_andrew-hastie-20250714-1",
+    "claimId": "clm_andrew-hastie-20250714-1",
+    "politicianId": "pol_hastie-andrew",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_andrew-hastie-20250401-1",
+    "claimId": "clm_andrew-hastie-20250401-1",
+    "politicianId": "pol_hastie-andrew",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_matt-canavan-20250728-1",
+    "claimId": "clm_matt-canavan-20250728-1",
+    "politicianId": "pol_canavan-matt",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_matt-canavan-20230428-1",
+    "claimId": "clm_matt-canavan-20230428-1",
+    "politicianId": "pol_canavan-matt",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_bridget-mckenzie-20240219-1",
+    "claimId": "clm_bridget-mckenzie-20240219-1",
+    "politicianId": "pol_mckenzie-bridget",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_david-littleproud-20250301-1",
+    "claimId": "clm_david-littleproud-20250301-1",
+    "politicianId": "pol_littleproud-david",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_david-littleproud-20250217-1",
+    "claimId": "clm_david-littleproud-20250217-1",
+    "politicianId": "pol_littleproud-david",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_david-littleproud-20250101-1",
+    "claimId": "clm_david-littleproud-20250101-1",
+    "politicianId": "pol_littleproud-david",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_david-littleproud-20240923-1",
+    "claimId": "clm_david-littleproud-20240923-1",
+    "politicianId": "pol_littleproud-david",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_david-littleproud-20240818-1",
+    "claimId": "clm_david-littleproud-20240818-1",
+    "politicianId": "pol_littleproud-david",
+    "status": "clarified",
+    "date": "2024-08-22",
+    "description": "Mr Littleproud acknowledged to AAP FactCheck that he misspoke and clarified what he meant. AAP FactCheck noted he had not otherwise publicly corrected the statement, and PUBLIC RECORD has located no public correction.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_pauline-hanson-20241201-1",
+    "claimId": "clm_pauline-hanson-20241201-1",
+    "politicianId": "pol_hanson-pauline",
+    "status": "clarified",
+    "date": "2025-01-08",
+    "description": "Through a spokesperson, Senator Hanson clarified that the statement referred to the number of consecutive quarters of falling per-capita GDP rather than the depth of the fall. The original post was not amended as far as PUBLIC RECORD has located.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_pauline-hanson-20260617-1",
+    "claimId": "clm_pauline-hanson-20260617-1",
+    "politicianId": "pol_hanson-pauline",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_pauline-hanson-20260101-1",
+    "claimId": "clm_pauline-hanson-20260101-1",
+    "politicianId": "pol_hanson-pauline",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_pauline-hanson-20260728-1",
+    "claimId": "clm_pauline-hanson-20260728-1",
+    "politicianId": "pol_hanson-pauline",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_pauline-hanson-20260617-2",
+    "claimId": "clm_pauline-hanson-20260617-2",
+    "politicianId": "pol_hanson-pauline",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_pauline-hanson-20260617-3",
+    "claimId": "clm_pauline-hanson-20260617-3",
+    "politicianId": "pol_hanson-pauline",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_malcolm-roberts-20240207-1",
+    "claimId": "clm_malcolm-roberts-20240207-1",
+    "politicianId": "pol_roberts-malcolm",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_malcolm-roberts-20240130-1",
+    "claimId": "clm_malcolm-roberts-20240130-1",
+    "politicianId": "pol_roberts-malcolm",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_malcolm-roberts-20240301-1",
+    "claimId": "clm_malcolm-roberts-20240301-1",
+    "politicianId": "pol_roberts-malcolm",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cor_clm_david-farley-20260823-1",
+    "claimId": "clm_david-farley-20260823-1",
+    "politicianId": "pol_farley-david",
+    "status": "no_correction_located",
+    "description": "No correction or clarification located as at 1 October 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
   }
 ]

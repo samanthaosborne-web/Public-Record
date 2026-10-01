@@ -1,0 +1,318 @@
+[
+  {
+    "politicianSlug": "anthony-albanese",
+    "quote": "Those opposite, when they were in government, ripped $20 million from Foodbank each and every year",
+    "summary": "The Coalition cut $20 million a year from Foodbank when in government.",
+    "statementDate": "2025-11-06",
+    "statementContext": "House of Representatives, Question Time",
+    "originalSource": {"title": "House of Representatives Hansard, 6 November 2025", "publisher": "Parliament of Australia", "url": "https://parlinfo.aph.gov.au/parlInfo/download/chamber/hansardr/28878/toc_pdf/House%20of%20Representatives_2025_11_06.pdf;fileType=application%2Fpdf", "tier": 1, "kind": "hansard", "publishedAt": "2025-11-06"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Albanese overstates coalition Foodbank cuts", "url": "https://www.aap.com.au/factcheck/albanese-overstates-coalition-foodbank-cuts/", "publishedAt": "2025-11-26", "verdictAsPublished": "False"},
+    "status": "contradicted",
+    "findings": "Funding data supplied to AAP FactCheck by Foodbank Australia showed its total federal funding fell from $1.4 million in 2013-14 to $1.3 million in 2014-15, $1.05 million in 2015-16 and $750,000 a year from 2016-17 to 2018-19, before rising to $16.2 million in 2019-20 during the pandemic. That was a reduction, but far smaller than $20 million a year. Department of Social Services financial statements show that spending on the broader financial wellbeing and capability program, which funds Foodbank among other hardship charities, fell by about $25 million a year between 2014-15 ($124.94 million) and 2017-18 ($99.97 million), which AAP FactCheck said supported the Treasurer's broader statement about 'these programs' but not the Foodbank-specific figure.",
+    "context": "The Prime Minister first referred to the Foodbank cut on 5 November 2025, citing the Treasurer, who had told the House that day that the Coalition 'cut $20 million a year from these programs'. The Prime Minister's office did not respond to AAP FactCheck's request for evidence.",
+    "primarySources": [
+      {"title": "House of Representatives Hansard, 5 November 2025", "publisher": "Parliament of Australia", "url": "https://parlinfo.aph.gov.au/parlInfo/download/chamber/hansardr/28875/toc_pdf/House%20of%20Representatives_2025_11_05.pdf;fileType=application%2Fpdf", "whatItShows": "The Treasurer's statement the previous day that the Coalition 'cut $20 million a year from these programs', which the Prime Minister then echoed."},
+      {"title": "Financial wellbeing and capability: supporting people in financial crises", "publisher": "Department of Social Services", "url": "https://www.dss.gov.au/supporting-people-financial-crises", "whatItShows": "The program line whose annual spending fell by about $25 million between 2014-15 and 2017-18 according to departmental financial statements."}
+    ],
+    "politicianResponse": {"kind": "no_response_located", "summary": "AAP FactCheck asked the Prime Minister's office for evidence but did not receive a response.", "date": "2025-11-26"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["economy"]
+  },
+  {
+    "politicianSlug": "anthony-albanese",
+    "quote": "Every single measure by the government, before the last election and since, has been opposed by those opposite.",
+    "summary": "The Coalition has opposed every measure of the Albanese government.",
+    "statementDate": "2025-11-03",
+    "statementContext": "House of Representatives, Question Time, answering an opposition question on cost of living and food security",
+    "originalSource": {"title": "House of Representatives Hansard, 3 November 2025", "publisher": "Parliament of Australia", "url": "https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber/hansardr/28869/&sid=0000", "tier": 1, "kind": "hansard", "publishedAt": "2025-11-03"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "PM's claim about opposition policy rewrites history", "url": "https://www.aap.com.au/factcheck/pms-claim-about-opposition-policy-rewrites-history/", "publishedAt": "2025-11-21", "verdictAsPublished": "False"},
+    "status": "contradicted",
+    "findings": "Voting records and shadow-minister statements show the Coalition supported several of the government's measures: it matched the $8.5 billion Medicare bulk-billing commitment dollar for dollar in February 2025, spoke and voted for the legislation cutting the PBS co-payment in September 2025, supported the $573 million women's health package, announced a matching freeze on draught beer excise in March 2025, and supported the 2024 extension of paid parental leave to 26 weeks while proposing amendments. The Coalition did oppose other measures, including the student debt cut, free TAFE, the Housing Australia Future Fund and build-to-rent tax changes.",
+    "context": "AAP FactCheck noted that in the same answer the Prime Minister repeated the claim that the Coalition had opposed every round of energy bill relief, which it had earlier found to be wrong, and that the increase in the superannuation guarantee to 12 per cent for which he claimed credit was legislated in 2011. The Prime Minister's office did not respond to a request for evidence.",
+    "primarySources": [
+      {"title": "The Coalition will invest $9 billion into Medicare (23 February 2025)", "publisher": "Liberal Party of Australia", "url": "https://www.liberal.org.au/2025/02/23/the-coalition-will-invest-9-billion-into-medicare", "whatItShows": "Coalition commitment to match the government's $8.5 billion Medicare investment."},
+      {"title": "Senate Hansard, September 2025: Senator Ruston on the PBS co-payment legislation", "publisher": "Parliament of Australia", "url": "https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber/hansards/28844/&sid=0031", "whatItShows": "The opposition health spokeswoman speaking in favour of the cheaper-medicines bill."},
+      {"title": "Albanese Labor Government to freeze draught beer excise", "publisher": "Prime Minister of Australia", "url": "https://www.pm.gov.au/media/albanese-labor-government-freeze-draught-beer-excise", "tier": 1, "kind": "media_release", "whatItShows": "The beer excise freeze, which the Coalition matched in March 2025."},
+      {"title": "Senate division, 13 September 2023: Housing Australia Future Fund", "publisher": "They Vote For You", "url": "https://theyvoteforyou.org.au/divisions/senate/2023-09-13/9", "tier": 2, "kind": "dataset", "whatItShows": "The Coalition voted against the Housing Australia Future Fund."},
+      {"title": "House division, 5 February 2025: Free TAFE bill", "publisher": "They Vote For You", "url": "https://theyvoteforyou.org.au/divisions/representatives/2025-02-05/2", "tier": 2, "kind": "dataset", "whatItShows": "The Coalition voted against the free TAFE legislation."},
+      {"title": "Senate Hansard, 2024: Paid Parental Leave Amendment debate", "publisher": "Parliament of Australia", "url": "https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber/hansards/27577/&sid=0034", "whatItShows": "The Coalition supported the 26-week paid parental leave bill while proposing amendments."}
+    ],
+    "politicianResponse": {"kind": "no_response_located", "summary": "AAP FactCheck emailed the Prime Minister's office for evidence but received no response.", "date": "2025-11-21"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["health", "economy", "housing"]
+  },
+  {
+    "politicianSlug": "anthony-albanese",
+    "quote": "One of the things that my government has done, of course, is introduce energy bill relief - three lots of energy bill relief, all of which were opposed by those opposite",
+    "summary": "The Coalition opposed all three rounds of energy bill relief.",
+    "statementDate": "2025-07-31",
+    "statementContext": "House of Representatives, Question Time, responding to a question from the Leader of the Opposition",
+    "originalSource": {"title": "House of Representatives Hansard, 31 July 2025", "publisher": "Parliament of Australia", "url": "https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber/hansardr/28815/&sid=0112", "tier": 1, "kind": "hansard", "publishedAt": "2025-07-31"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Albanese's claim coalition opposed all three rounds of energy bill relief is wrong", "url": "https://www.aap.com.au/factcheck/albaneses-claim-coalition-opposed-all-three-rounds-of-energy-bill-relief-is-wrong/", "publishedAt": "2025-08-21", "verdictAsPublished": "False"},
+    "status": "contradicted",
+    "findings": "Parliamentary records show the Coalition voted against the December 2022 legislation that created the Energy Bill Relief Fund and funded the first round, although the then Opposition Leader said it would have supported the subsidies if they had been separated from the coal and gas price caps in the same bill. The $300 extension in the 2024-25 budget passed in an appropriation bill without Coalition opposition after the Opposition Leader confirmed support in his budget reply of 17 May 2024. The third round, announced in the 2025-26 budget, lapsed at the dissolution of Parliament, was reintroduced in July 2025, and the then Shadow Treasurer had said in March 2025 the Coalition would not oppose it. AAP FactCheck found no evidence the Coalition opposed the second or third rounds.",
+    "context": "The Prime Minister made a similar statement during the 2025 election campaign ('We provided that $300, then another $300, both of which were opposed by the Coalition') and repeated the claim in Question Time on 3 November 2025, after the fact-check was published. The Prime Minister's office did not respond to AAP FactCheck's request for evidence.",
+    "primarySources": [
+      {"title": "Treasury Laws Amendment (Energy Price Relief Plan) Bill 2022", "publisher": "Parliament of Australia", "url": "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r6969", "whatItShows": "The Coalition voted against the 2022 legislation establishing the Energy Bill Relief Fund."},
+      {"title": "Leader of the Opposition's Budget Address in Reply, 17 May 2024", "publisher": "Liberal Party of Australia", "url": "https://www.liberal.org.au/2024/05/17/leader-oppositions-budget-address-reply", "tier": 1, "kind": "transcript", "whatItShows": "The Coalition confirmed support for the 2024 energy bill relief extension."},
+      {"title": "Budget Speech 2025-26", "publisher": "Treasurer of Australia", "url": "https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/speeches/2025-26-budget-speech-parliament-house-canberra", "tier": 1, "kind": "transcript", "whatItShows": "Announcement of the third round of energy bill relief."},
+      {"title": "Transcript: interview with David Speers, ABC Insiders, 23 March 2025", "publisher": "Office of Angus Taylor", "url": "https://www.angustaylor.com.au/content/transcript-interview-david-speers-insiders-abc-sunday-23-march-2025", "tier": 1, "kind": "transcript", "whatItShows": "The Shadow Treasurer said the Coalition would not oppose the third round of relief."}
+    ],
+    "politicianResponse": {"kind": "no_response_located", "summary": "The Prime Minister's office did not respond to AAP FactCheck's request for evidence.", "date": "2025-08-21"},
+    "correction": {"status": "repeated_unchanged", "date": "2025-11-03", "description": "The Prime Minister repeated the claim in Question Time on 3 November 2025, after the fact-check was published, as recorded in AAP FactCheck's article of 21 November 2025. No correction or clarification located as at 1 October 2026."},
+    "repeated": [
+      {"date": "2025-11-03", "context": "House of Representatives, Question Time: repeated the claim that the Coalition opposed every round of energy bill relief (recorded in AAP FactCheck's article of 21 November 2025)", "reworded": true, "source": {"title": "PM's claim about opposition policy rewrites history", "publisher": "AAP FactCheck", "url": "https://www.aap.com.au/factcheck/pms-claim-about-opposition-policy-rewrites-history/", "publishedAt": "2025-11-21"}}
+    ],
+    "topics": ["energy", "economy"]
+  },
+  {
+    "politicianSlug": "anthony-albanese",
+    "quote": "The last time government changed in Australia, in 2013, in the 2014 budget $30 billion was ripped out of public schools in that budget",
+    "summary": "The Coalition's 2014 budget cut $30 billion from public schools.",
+    "statementDate": "2025-04-01",
+    "datePrecision": "month",
+    "statementContext": "Televised leaders' debates during the 2025 election campaign (Sky News and ABC debates; exact dates not stated in the fact-check)",
+    "originalSource": {"title": "Sky News leaders' debate, April 2025 (video, from 1:23)", "publisher": "Sky News Australia (YouTube)", "url": "https://youtu.be/kQCiFkZNY-U?t=82", "tier": 2, "kind": "transcript"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Albanese's $30b school cuts claim misleads", "url": "https://www.aap.com.au/factcheck/albaneses-30b-school-cuts-claim-misleads/", "publishedAt": "2025-05-02", "verdictAsPublished": "Misleading"},
+    "status": "mixed",
+    "findings": "The figure traces to a 2014-15 Treasury estimate, given in answer to a Senate estimates question, that replacing Labor's school funding indexation with indexation to inflation plus enrolment growth would reduce projected Commonwealth spending by about $28 billion between 2017-18 and 2024-25. That was a reduction in the projected rate of future increases, not a cut to existing funding. The 2014 budget committed to the four funded years of Labor's 2013 plan; Labor's six-year plan had only about a third of its cost budgeted and four jurisdictions signed up. Public finance experts consulted by AAP FactCheck described the change as a re-estimation of unfunded commitments rather than a cut.",
+    "context": "The Labor campaign referred AAP FactCheck to page seven of the 2014 budget overview as evidence. The Prime Minister made the claim several times during the 2025 campaign, including in both the Sky News and ABC leaders' debates; the Education Minister used the same figure. The dispute is over whether a reduction in projected future growth should be described as money 'ripped out'.",
+    "primarySources": [
+      {"title": "Budget 2014-15 Overview", "publisher": "Australian Government (Treasury)", "url": "https://archive.budget.gov.au/2014-15/overview/Budget_Overview.pdf", "whatItShows": "Commits to four years of funding and describes Labor's post-2018 arrangements as unsustainable."},
+      {"title": "Budget 2014-15, Budget Paper No. 2", "publisher": "Australian Government (Treasury)", "url": "https://archive.budget.gov.au/2014-15/bp2/BP2_consolidated.pdf", "whatItShows": "Adoption of inflation indexation with an enrolment allowance from 2018."},
+      {"title": "Treasury answer to Budget Estimates question BET41, 2014-15", "publisher": "Senate Economics Legislation Committee", "url": "https://www.aph.gov.au/~/media/Committees/economics_ctte/estimates/bud_1415/Treasury/answers/BET41_Wong.pdf", "whatItShows": "Estimated saving of about $28 billion between 2017-18 and 2024-25 from the indexation change, the source of the figure."},
+      {"title": "Budget 2013-14, Budget Paper No. 2", "publisher": "Australian Government (Treasury)", "url": "https://archive.budget.gov.au/2013-14/bp2/BP2_consolidated.pdf", "whatItShows": "$2.8 billion allocated to additional schools funding over the first four years of Labor's plan."}
+    ],
+    "politicianResponse": {"kind": "defence", "summary": "The Labor campaign referred AAP FactCheck to page seven of the 2014 budget overview as evidence for the claim.", "date": "2025-05-02"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["education", "economy"]
+  },
+  {
+    "politicianSlug": "anthony-albanese",
+    "quote": "If the Leader of the Opposition and the shadow treasurer had their way, Australian families would be $7200 worse off than they are today",
+    "summary": "Australian families would be $7,200 worse off under the Coalition.",
+    "statementDate": "2025-02-04",
+    "statementContext": "House of Representatives, Question Time",
+    "originalSource": {"title": "House of Representatives Hansard, 4 February 2025", "publisher": "Parliament of Australia", "url": "https://parlinfo.aph.gov.au/parlInfo/download/chamber/hansardr/28682/toc_pdf/House%20of%20Representatives_2025_02_04.pdf;fileType=application%2Fpdf", "tier": 1, "kind": "hansard", "publishedAt": "2025-02-04"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Labor's claim Aussies would be $7k worse off under Dutton is problematic: experts", "url": "https://www.aap.com.au/factcheck/labors-claim-aussies-would-be-7k-worse-off-under-dutton-is-problematic-experts-2/", "publishedAt": "2025-02-18", "verdictAsPublished": "Misleading"},
+    "status": "mixed",
+    "findings": "The figure originated in analysis by the Treasurer's office, which combined ABS average weekly earnings, the 2024 tax cuts and energy bill relief, without adjusting for inflation, and assumed that average earnings growth over the Coalition's 2013-2022 term would simply have continued. Economists consulted by AAP FactCheck said real wages, measured by the wage price index less inflation, fell for most of the government's term and had only recently turned positive; one inflation-adjusted calculation showed real earnings essentially unchanged under both governments. They also said the counterfactual ignored low unemployment and independent Fair Work Commission and Reserve Bank decisions.",
+    "context": "The Treasurer first publicised the $7,200 figure in January 2025 and told AAP FactCheck that 'Australians are earning more and keeping more of what they earn under Labor, and they would be working much longer for less under Peter Dutton'. The Prime Minister repeated it in Question Time on 4 February 2025, as recorded here, and AAP FactCheck's later election-debate coverage noted he used it twice in the third leaders' debate. Other ministers repeated it on social media.",
+    "primarySources": [
+      {"title": "Average Weekly Earnings, Australia", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/average-weekly-earnings-australia/latest-release", "whatItShows": "Nominal earnings data used by the Treasurer's office."},
+      {"title": "Wage Price Index, Australia", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/wage-price-index-australia/latest-release", "whatItShows": "Wage growth measure used by AAP FactCheck to estimate real wages."},
+      {"title": "Consumer Price Index, Australia", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/latest-release", "whatItShows": "Inflation measure; real wages fell through most of the government's term."}
+    ],
+    "politicianResponse": {"kind": "defence", "summary": "The Treasurer's office supplied AAP FactCheck with the calculation method, and the Treasurer said Australians were earning more and keeping more of what they earn under Labor. No separate response from the Prime Minister's office is recorded.", "quote": "Australians are earning more and keeping more of what they earn under Labor, and they would be working much longer for less under Peter Dutton.", "date": "2025-02-18"},
+    "correction": {"status": "repeated_unchanged", "date": "2025-04-22", "description": "AAP FactCheck's coverage of the third leaders' debate on 22 April 2025 recorded the Prime Minister using the figure twice after the fact-check was published. No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["economy", "tax"]
+  },
+  {
+    "politicianSlug": "anthony-albanese",
+    "quote": "That's 790,000 new jobs created. More than any first term government on record.",
+    "summary": "790,000 new jobs have been created under Labor, more than under any first-term government on record.",
+    "statementDate": "2024-03-26",
+    "statementContext": "Post on X (video)",
+    "originalSource": {"title": "Post on X", "publisher": "Anthony Albanese (X)", "url": "https://twitter.com/AlboMP/status/1772733897173762360", "tier": 1, "kind": "transcript"},
+    "factCheck": {"publisher": "RMIT ABC Fact Check", "title": "Anthony Albanese says Labor has created more jobs than any first-term government on record. Is that correct?", "url": "https://www.abc.net.au/news/2024-05-02/fact-check-anthony-albanese-record-jobs-created-labor/103790486", "publishedAt": "2024-05-02", "verdictAsPublished": "There's more to the story"},
+    "status": "mixed",
+    "findings": "ABS labour force data show there were 789,700 more employed people in February 2024 than in May 2022, the largest such increase for a first-term government since 1966, the earliest year for which broadly comparable data exist. Labour economists told RMIT ABC Fact Check that raw numbers ignore population growth: adjusted for population, the increase in employment during the first 21 months of the Hawke government in 1983-84 was larger, and that government also fared better on hours worked, underemployment and the share of new jobs that were full-time. Experts also said governments cannot take sole credit for job creation, most of which occurs in the private sector.",
+    "context": "The Prime Minister and other senior ministers made similar statements from May 2023 onwards, including on X on 19 March 2024 and in an opinion piece in April 2024. The raw figure is accurate; the fact-check's qualifications concern the measure used and the attribution of credit.",
+    "primarySources": [
+      {"title": "Labour Force, Australia, February 2024", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/feb-2024", "whatItShows": "789,700 more employed people than in May 2022."},
+      {"title": "Labour Force Historical Timeseries, Australia, 1966 to 1984", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/AUSSTATS/abs%40.nsf/DetailsPage/6204.0.55.0011966%20to%201984?OpenDocument", "whatItShows": "Employment data for earlier first-term governments, including the Hawke government."}
+    ],
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["economy"]
+  },
+  {
+    "politicianSlug": "anthony-albanese",
+    "quote": "In between I will have the first bilateral visit by an Australian leader to the Philippines in over two decades",
+    "summary": "The Prime Minister's September 2023 trip was the first bilateral visit to the Philippines by an Australian leader in more than 20 years.",
+    "statementDate": "2023-09-05",
+    "statementContext": "House of Representatives, discussing the forthcoming visit to Indonesia, the Philippines and India",
+    "originalSource": {"title": "House of Representatives Hansard, 5 September 2023", "publisher": "Parliament of Australia", "url": "https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber/hansardr/27163/&sid=0081", "tier": 1, "kind": "hansard", "publishedAt": "2023-09-05"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "PM mostly right with bilateral visit claim", "url": "https://www.aap.com.au/factcheck/pm-mostly-right-with-bilateral-visit-claim/", "publishedAt": "2023-09-11", "verdictAsPublished": "Mostly true"},
+    "status": "mostly_supported",
+    "findings": "Former prime minister Malcolm Turnbull held bilateral meetings with Philippine presidents in the Philippines in November 2015 and November 2017, but on both occasions he was in the country for multilateral summits (APEC in 2015 and ASEAN in 2017). The Department of the Prime Minister and Cabinet told AAP FactCheck it defines a bilateral visit as one 'not conducted in the margins of a regional or multilateral summit or conference'. On that definition the claim holds; one international relations expert said that in practical terms a meeting on the sidelines of a summit is 'the same thing'.",
+    "context": "The claim also appeared in a media release from the Prime Minister's office on 11 August 2023 announcing the visit. AAP FactCheck rated it mostly true because it omits the context of Mr Turnbull's meetings.",
+    "primarySources": [
+      {"title": "Visit to Indonesia, the Philippines and India (media release)", "publisher": "Prime Minister of Australia", "url": "https://www.pm.gov.au/media/visit-indonesia-philippines-and-india", "tier": 1, "kind": "media_release", "whatItShows": "The announcement of the 6 to 10 September 2023 visit, including the same claim."},
+      {"title": "Joint press conference of President Aquino and Prime Minister Turnbull, 18 November 2015", "publisher": "Official Gazette of the Republic of the Philippines", "url": "https://www.officialgazette.gov.ph/2015/11/18/president-aquino-joint-presscon-au-malcom-turnbull/", "tier": 2, "kind": "transcript", "whatItShows": "Mr Turnbull's 2015 bilateral meeting, held during the APEC leaders' meeting in Manila."},
+      {"title": "31st ASEAN Summit, Manila, 13 to 14 November 2017", "publisher": "Association of Southeast Asian Nations", "url": "https://asean.org/speechandstatement/31th-asean-summit-manila-philippines-13-14-november-2017/", "tier": 2, "kind": "official_statement", "whatItShows": "The multilateral summit Mr Turnbull was attending when he met President Duterte in 2017."}
+    ],
+    "correction": {"status": "no_correction_located", "description": "No correction was required; the fact-check found the claim mostly accurate."},
+    "repeated": [],
+    "topics": ["defence"]
+  },
+  {
+    "politicianSlug": "anthony-albanese",
+    "quote": "That is the Uluru Statement from the Heart on an A4 bit of paper. That is it.",
+    "summary": "The Uluru Statement from the Heart is a one-page document.",
+    "statementDate": "2023-08-08",
+    "statementContext": "House of Representatives, Question Time, responding to claims that the statement was 26 pages long",
+    "originalSource": {"title": "Question Time, 8 August 2023 (video)", "publisher": "Parliament of Australia (YouTube)", "url": "https://www.youtube.com/watch?v=FS9t1ug86hM", "tier": 2, "kind": "transcript", "publishedAt": "2023-08-08"},
+    "factCheck": {"publisher": "RMIT ABC Fact Check (CheckMate newsletter)", "title": "Is the Uluru Statement from the Heart one page, or 26? Here are the facts", "url": "https://www.abc.net.au/news/2023-08-11/fact-check-uluru-statement-one-page-26/102714792", "publishedAt": "2023-08-11", "verdictAsPublished": "The statement signed by delegates in 2017 is one page, not 26"},
+    "status": "supported",
+    "findings": "The National Indigenous Australians Agency told CheckMate that the Uluru Statement from the Heart is a one-page document, as confirmed by its authors. The 26-page document cited by critics was one of several documents released on the agency's freedom-of-information disclosure log in March 2023; it contains the one-page statement together with background material from the Referendum Council's regional dialogues, which the council's 2017 final report also reproduces.",
+    "context": "The statement was made after a Sky News presenter and the Shadow Minister for Indigenous Australians said a 26-page version of the Uluru Statement had been 'exposed' through freedom of information. The dispute was part of the 2023 Voice referendum campaign. CheckMate did not use a one-word verdict label; its finding is quoted as the verdict.",
+    "primarySources": [
+      {"title": "Agency FOI disclosure log", "publisher": "National Indigenous Australians Agency", "url": "https://www.niaa.gov.au/foi/agency-foi-disclosure-logs", "whatItShows": "The documents released under freedom of information in March 2023, including the 26-page document."},
+      {"title": "Final Report of the Referendum Council (2017)", "publisher": "Referendum Council", "url": "https://www.referendumcouncil.org.au/sites/default/files/report_attachments/Referendum_Council_Final_Report.pdf", "tier": 1, "kind": "official_report", "whatItShows": "The one-page Uluru Statement and the accompanying background from the regional dialogues."}
+    ],
+    "correction": {"status": "no_correction_located", "description": "No correction was required; the fact-check found the claim accurate."},
+    "repeated": [],
+    "topics": []
+  },
+  {
+    "politicianSlug": "jim-chalmers",
+    "quote": "Angus Taylor is the architect of the Liberal Party's policy for higher taxes on workers, bigger deficits and more debt",
+    "summary": "The Coalition went to the 2025 election with a policy of higher taxes, bigger deficits and more debt.",
+    "statementDate": "2026-02-16",
+    "statementContext": "Interview, Today program, Channel Nine",
+    "originalSource": {"title": "Transcript: interview with Sarah Abo, Today, Channel 9", "publisher": "Treasurer of Australia", "url": "https://ministers.treasury.gov.au/ministers/jim-chalmers-2022/transcripts/interview-sarah-abo-today-channel-9-3", "tier": 1, "kind": "transcript", "publishedAt": "2026-02-16"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "More to the story on coalition election debt claim", "url": "https://www.aap.com.au/factcheck/more-to-the-story-on-coalition-election-debt-claim/", "publishedAt": "2026-04-15", "verdictAsPublished": "Mixture"},
+    "status": "mixed",
+    "findings": "The Parliamentary Budget Office's 2025 Election Commitments Report found that the Coalition's policies would have increased deficits in 2025-26 and 2026-27 but reduced cumulative deficits by $6.6 billion over the four years to 2028-29, with net debt $49.9 billion and gross debt $81.7 billion lower over that period. Over the medium term, deficits were projected to be $162.4 billion larger between 2031-32 and 2035-36 and net debt $275.6 billion higher between 2033-34 and 2035-36, driven mainly by the Coalition's commitment to defence spending of 3 per cent of GDP and its 23.9 per cent tax-to-GDP cap. Budget experts consulted by AAP FactCheck said the claim was reasonable for the medium term but not for the forward estimates, and that decade-long projections are unreliable.",
+    "context": "The Treasurer's office referred AAP FactCheck to the Parliamentary Budget Office report and to the Coalition's own costings, and said the costings did not fully capture the potential cost of the Coalition's nuclear policy. Other ministers made similar statements in February 2026. AAP FactCheck's 'Mixture' rating means the claim includes accurate information but also significant errors or problems.",
+    "primarySources": [
+      {"title": "2025 Election Commitments Report", "publisher": "Parliamentary Budget Office", "url": "https://www.pbo.gov.au/elections/2025-general-election/2025-election-commitments-report", "whatItShows": "Independent costing of Coalition commitments: lower deficits and debt to 2028-29, higher over the medium term."},
+      {"title": "2025 Election Commitments Report: party list of election commitments, Coalition", "publisher": "Parliamentary Budget Office", "url": "https://www.pbo.gov.au/sites/default/files/2025-05/2025%20ECR%20-%20Party%20list%20of%20election%20commitments%20-%20Coalition.pdf", "whatItShows": "The Coalition's costed commitments referred to by the Treasurer's office."}
+    ],
+    "politicianResponse": {"kind": "defence", "summary": "The Treasurer's office referred AAP FactCheck to the Parliamentary Budget Office's Election Commitments Report and the Coalition's own costings, and noted the costings did not fully capture the potential cost of the Coalition's nuclear policy.", "date": "2026-04-15"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["economy", "tax"]
+  },
+  {
+    "politicianSlug": "jim-chalmers",
+    "quote": "You just made those numbers up ... You literally made those numbers up.",
+    "summary": "Angus Taylor made up his figures on price rises under Labor (groceries up 30 per cent; gas, electricity and insurance up more than 30 per cent).",
+    "statementDate": "2025-04-09",
+    "statementContext": "Sky News Treasurers' Debate, responding to Angus Taylor's statement that groceries had risen 30 per cent and gas, electricity and insurance by more than 30 per cent under Labor",
+    "originalSource": {"title": "The Treasurers' Debate: Jim Chalmers v Angus Taylor (video, from 29:05)", "publisher": "Sky News Australia", "url": "https://www.skynews.com.au/australia-news/politics/the-treasurers-debate-jim-chalmers-vs-angus-taylor/video/40d6b2e9cfd98b479f284bac237ea07b", "tier": 2, "kind": "transcript", "publishedAt": "2025-04-09"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Chalmers' 'made up' inflation stats claim misleads", "url": "https://www.aap.com.au/factcheck/chalmers-made-up-inflation-stats-claim-misleads/", "publishedAt": "2025-04-17", "verdictAsPublished": "Misleading"},
+    "status": "mixed",
+    "findings": "ABS monthly consumer price data show gas and other household fuels rose 34 per cent between May 2022 and February 2025, and quarterly data show insurance rose 35 per cent between June 2022 and December 2024. AAP FactCheck replicated the Coalition's electricity figure of about 32 per cent on the ABS index that excludes government rebates, although electricity prices including rebates rose only about 1 per cent. Food and non-alcoholic beverages rose 13 per cent, well below the 30 per cent grocery figure, which Mr Taylor's office sourced from an unpublished News Corp supermarket basket analysis. Three of the four figures the Treasurer said were made up were supported by official data on the measures the Coalition used.",
+    "context": "The exchange occurred during the 2025 election campaign. The grocery figure was not supported by ABS data, but the gas, insurance and ex-rebate electricity figures were. The Treasurer's office did not respond to AAP FactCheck's request for evidence that the numbers were made up.",
+    "primarySources": [
+      {"title": "Monthly Consumer Price Index Indicator, February 2025", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/monthly-consumer-price-index-indicator/feb-2025", "whatItShows": "Gas and other household fuels up 34 per cent and food up 13 per cent since May 2022; electricity up about 1 per cent including rebates."},
+      {"title": "Consumer Price Index, Australia, December quarter 2024", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/dec-quarter-2024", "whatItShows": "Insurance prices up 35 per cent between June 2022 and December 2024."}
+    ],
+    "politicianResponse": {"kind": "no_response_located", "summary": "AAP FactCheck contacted the Treasurer's office for evidence that the numbers were made up but did not receive a response.", "date": "2025-04-17"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["economy", "energy"]
+  },
+  {
+    "politicianSlug": "jim-chalmers",
+    "quote": "The biggest risk to Australians on low and fixed incomes is Peter Dutton ... He describes the indexation of pensions and payments as wasteful spending.",
+    "summary": "Peter Dutton described the indexation of pensions and payments as wasteful spending.",
+    "statementDate": "2025-03-11",
+    "statementContext": "Joint media release with the Minister for Social Services",
+    "originalSource": {"title": "Joint media release, Treasurer and Minister for Social Services, 11 March 2025 (archived copy)", "publisher": "Treasurer of Australia (archived by AAP FactCheck)", "url": "https://archive.md/wmpcM", "tier": 3, "kind": "other", "publishedAt": "2025-03-11"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Labor falsely accuses Dutton of attack on automatic welfare increases", "url": "https://www.aap.com.au/factcheck/labor-falsely-accuses-dutton-of-attack-on-automatic-welfare-increases/", "publishedAt": "2025-03-20", "verdictAsPublished": "False"},
+    "status": "contradicted",
+    "findings": "The evidence the ministers' offices supplied to AAP FactCheck, an ABC Insiders interview with the Opposition Leader in February 2025, an interview with the Shadow Treasurer in May 2024 and the Opposition Leader's 2023 budget reply, shows the phrase 'wasteful spending' was used about federal public service numbers and the NDIS, not about indexation. The Shadow Treasurer's $45 billion figure for spending the Coalition had opposed excluded social security payments. AAP FactCheck found no record of the Opposition Leader describing indexation as wasteful, and the opposition confirmed that cutting indexation was not on its agenda. Social policy experts said the transcripts did not support the claim.",
+    "context": "The release was issued during the lead-up to the 2025 election; the Minister for Social Services had made a similar claim a few days earlier. AAP FactCheck's verdict applied to the joint statement by both ministers.",
+    "primarySources": [
+      {"title": "Transcript: interview with David Speers, ABC Insiders, February 2025", "publisher": "Office of Peter Dutton", "url": "https://peterdutton.com.au/leader-of-the-opposition-transcript-interview-with-david-speers-abc-insiders-2/", "tier": 1, "kind": "transcript", "whatItShows": "'Wasteful spending' referred to public service numbers and the NDIS, not indexation."},
+      {"title": "Transcript: interview with David Speers, ABC Insiders, 12 May 2024", "publisher": "Office of Angus Taylor", "url": "https://www.angustaylor.com.au/content/interview-david-speers-abc-insiders-sunday-12-may-2024", "tier": 1, "kind": "transcript", "whatItShows": "The $45 billion figure for opposed spending excluded social security indexation."},
+      {"title": "Leader of the Opposition's Budget in Reply, 2023", "publisher": "Office of Peter Dutton", "url": "https://peterdutton.com.au/leader-of-the-opposition-budget-in-reply-check-against-delivery-2/", "tier": 1, "kind": "transcript", "whatItShows": "No reference to cutting indexation."}
+    ],
+    "politicianResponse": {"kind": "defence", "summary": "The Treasurer's office pointed AAP FactCheck to the Opposition Leader's February 2025 ABC Insiders interview, the Shadow Treasurer's May 2024 ABC interview and reporting on the 2023 budget reply as evidence; AAP FactCheck found none of them supported the claim.", "date": "2025-03-20"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["economy"]
+  },
+  {
+    "politicianSlug": "jim-chalmers",
+    "quote": "That's why instead of only banking around 40 per cent of revenue upgrades like our predecessors averaged, we banked 88 per cent.",
+    "summary": "Labor has banked 88 per cent of revenue upgrades, compared with about 40 per cent under its predecessors.",
+    "statementDate": "2024-04-01",
+    "datePrecision": "month",
+    "statementContext": "Pre-budget address to the Committee for Economic Development of Australia (April 2024; exact date not stated in the fact-check)",
+    "originalSource": {"title": "Address to the Committee for Economic Development of Australia, April 2024 (ParlInfo)", "publisher": "Treasurer of Australia (ParlInfo)", "url": "https://parlinfo.aph.gov.au/parlInfo/download/media/pressrel/9648060/upload_binary/9648060.PDF;fileType=application%2Fpdf", "tier": 1, "kind": "transcript"},
+    "factCheck": {"publisher": "RMIT ABC Fact Check", "title": "Jim Chalmers says Labor has returned 88 per cent of revenue upgrades to the budget, compared to 40 per cent under the Coalition. Is that correct?", "url": "https://www.abc.net.au/news/2024-04-23/fact-check-revenue-upgrades-budget-savings-surplus/103745224", "publishedAt": "2024-04-23", "verdictAsPublished": "Close to the mark"},
+    "status": "mostly_supported",
+    "findings": "Figures supplied by Treasury and verified by RMIT ABC Fact Check against budget documents show the government returned 88.4 per cent of its tax revenue upgrades to the budget since taking office, while the Coalition returned 44.7 per cent over seven revenue upgrades. Using the Grattan Institute's broader method, which also counts lower-than-expected expenses and other variations, Fact Check calculated 85.4 per cent for Labor and 45.1 per cent for the Coalition. Experts noted the Coalition's figures span the pandemic, when banking windfalls was arguably not prudent, and that these figures alone do not settle which party is the better fiscal manager.",
+    "context": "The Treasurer made the statement ahead of the May 2024 budget. The 'around 40 per cent' figure for the Coalition is slightly below the 44.7 per cent that Treasury's figures show.",
+    "primarySources": [
+      {"title": "Budget papers and Mid-Year Economic and Fiscal Outlook documents (budget archive)", "publisher": "Australian Government (Treasury)", "url": "https://archive.budget.gov.au/", "tier": 1, "kind": "official_report", "whatItShows": "The revenue upgrade and policy decision figures used to verify the Treasury calculation."},
+      {"title": "Online budget glossary", "publisher": "Parliamentary Budget Office", "url": "https://www.pbo.gov.au/about-budgets/online-budget-glossary", "whatItShows": "Definitions of the underlying cash balance and related terms."}
+    ],
+    "correction": {"status": "no_correction_located", "description": "No correction was required; the fact-check found the claim close to the mark."},
+    "repeated": [],
+    "topics": ["economy"]
+  },
+  {
+    "politicianSlug": "mark-butler",
+    "quote": "Today, Shadow Health Minister Anne Ruston confirmed Australians will not get free GP visits under Peter Dutton and the Liberals",
+    "summary": "The Shadow Health Minister confirmed Australians would not get free GP visits under a Coalition government.",
+    "statementDate": "2025-02-26",
+    "statementContext": "Media release by the Minister for Health and Aged Care, following the Shadow Health Minister's appearance at Senate estimates",
+    "originalSource": {"title": "Media release: Shadow Health Minister confirms Australians will pay to see a GP under Peter Dutton", "publisher": "Office of Mark Butler", "url": "https://www.markbutler.net.au/news/media-releases/shadow-health-minister-confirms-australians-will-pay-to-see-a-gp-under-peter-dutton", "tier": 1, "kind": "media_release", "publishedAt": "2025-02-26"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Labor falsely represents the coalition's stance on free GP visits", "url": "https://www.aap.com.au/factcheck/labor-falsely-represents-the-coalitions-stance-on-free-gp-visits/", "publishedAt": "2025-03-03", "verdictAsPublished": "False"},
+    "status": "contradicted",
+    "findings": "The Senate estimates recording of 26 February 2025 shows Senator Ruston was arguing that Labor's social media posts about its $8.5 billion plan to lift bulk billing to 90 per cent by 2030 were misleading because not every visit would be free. She said the Coalition had 'never said that Australians will get access to free GP services without exception', then confirmed the Coalition supported bulk billing and, asked whether she wanted Australians to have free access, replied 'No, I do want them to have free access'. The Coalition had committed to match the bulk-billing policy. Other quotes in the release, from Sussan Ley and Peter Dutton, concerned free TAFE and energy and university-debt subsidies rather than Medicare.",
+    "context": "AAP FactCheck also found that a Labor Party social media video cut the words 'without exception' from Senator Ruston's remark. Mr Butler's office did not provide a response to AAP FactCheck's request for evidence. The release date is inferred from its reference to the estimates hearing that day.",
+    "primarySources": [
+      {"title": "Senate estimates hearing, 26 February 2025 (ParlView video)", "publisher": "Parliament of Australia", "url": "https://www.aph.gov.au/News_and_Events/Watch_Read_Listen/ParlView/video/3320582", "tier": 1, "kind": "transcript", "whatItShows": "Senator Ruston's full exchange, including confirmation that the Coalition supported bulk billing and free access."},
+      {"title": "The truth about free TAFE", "publisher": "Office of Sussan Ley", "url": "https://sussanley.com/the-truth-about-free-tafe/", "tier": 1, "kind": "media_release", "whatItShows": "The 'you don't value something unless you pay for it' remark concerned free TAFE, not Medicare."},
+      {"title": "Transcript: interview with Andrew Clennell, Sunday Agenda, Sky News", "publisher": "Office of Peter Dutton", "url": "https://peterdutton.com.au/leader-of-the-opposition-transcript-interview-with-andrew-clennell-sunday-agenda-sky-news/", "tier": 1, "kind": "transcript", "whatItShows": "The 'nothing free in this world' remark concerned energy bill subsidies and university debt."}
+    ],
+    "politicianResponse": {"kind": "no_response_located", "summary": "Mr Butler's office did not provide a response to AAP FactCheck's request for evidence.", "date": "2025-03-03"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["health"]
+  },
+  {
+    "politicianSlug": "mark-butler",
+    "quote": "had been in freefall after a decade of cuts and neglect to Medicare by the former government",
+    "summary": "Bulk billing rates were in free fall under the previous Coalition government.",
+    "statementDate": "2024-04-29",
+    "statementContext": "Media release, 'Bulk billing slide stopped thanks to Albanese Government', repeated the same day in interviews on ABC News Breakfast, ABC Radio AM and Sky News",
+    "originalSource": {"title": "Media release: Bulk billing slide stopped thanks to Albanese Government, 29 April 2024", "publisher": "Minister for Health and Aged Care", "url": "https://www.health.gov.au/ministers/the-hon-mark-butler-mp/media/bulk-billing-slide-stopped-thanks-to-albanese-government?language=en", "tier": 1, "kind": "media_release", "publishedAt": "2024-04-29"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Health minister's bulk billing 'free fall' claim misleads", "url": "https://www.aap.com.au/factcheck/health-ministers-bulk-billing-free-fall-claim-misleads/", "publishedAt": "2024-05-30", "verdictAsPublished": "Misleading"},
+    "status": "mixed",
+    "findings": "Department of Health Medicare statistics for GP non-referred attendances, the measure used in the minister's own release, show the bulk-billing rate rose from 83.1 per cent in the December quarter 2013 to 87 per cent in the June quarter 2022, peaking at 92.5 per cent in June 2020 during pandemic telehealth arrangements. The rate was declining from mid-2021 but fell much faster after the May 2022 election, to 76.5 per cent by the end of 2023; even after the two-point rise the minister cited following the November 2023 incentive increase, the March quarter 2024 rate was about ten points below its level at the election. Health economists told AAP FactCheck the rate was 'certainly declining' before the election but not in free fall, and that the decline was largely structural and would have occurred under either government.",
+    "context": "Mr Butler's office confirmed the release's figures referred to GP non-referred attendances but, as the basis for 'free fall', pointed to a different measure, the share of adult concession card holders always bulk billed, which it said fell five percentage points in the four years to June 2022; it declined to provide comparable post-election figures for that measure. AAP FactCheck's 2025 election coverage recorded the Prime Minister using the 'free fall' description and referred back to this verdict.",
+    "primarySources": [
+      {"title": "Medicare statistics collection", "publisher": "Department of Health and Aged Care", "url": "https://www.health.gov.au/resources/collections/medicare-statistics-collection", "tier": 1, "kind": "dataset", "whatItShows": "Quarterly GP bulk-billing rates: 83.1 per cent (December quarter 2013), 92.5 per cent peak (June quarter 2020), 87 per cent (June quarter 2022), 76.5 per cent (end of 2023)."},
+      {"title": "Increases to bulk billing incentive payments", "publisher": "Department of Health and Aged Care", "url": "https://www.health.gov.au/our-work/increases-to-bulk-billing-incentive-payments", "whatItShows": "The November 2023 tripling of the bulk-billing incentive credited for the subsequent rise."},
+      {"title": "Television interview with Minister Butler, ABC News Breakfast, 29 April 2024", "publisher": "Minister for Health and Aged Care", "url": "https://www.health.gov.au/ministers/the-hon-mark-butler-mp/media/television-interview-with-minister-butler-and-michael-rowland-abc-news-breakfast-29-april-2024?language=en", "tier": 1, "kind": "transcript", "whatItShows": "Repetition of the 'free fall' description the same day."}
+    ],
+    "politicianResponse": {"kind": "defence", "summary": "Mr Butler's office confirmed the release's figures referred to GP non-referred attendances, pointed to the share of adult concession card holders always bulk billed as the basis for 'free fall', and declined to provide comparable post-election figures for that measure.", "date": "2024-05-30"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [
+      {"date": "2024-04-29", "context": "Interview, ABC News Breakfast, the same day as the media release", "reworded": true, "source": {"title": "Television interview with Minister Butler, ABC News Breakfast, 29 April 2024", "publisher": "Minister for Health and Aged Care", "url": "https://www.health.gov.au/ministers/the-hon-mark-butler-mp/media/television-interview-with-minister-butler-and-michael-rowland-abc-news-breakfast-29-april-2024?language=en", "tier": 1, "kind": "transcript"}}
+    ],
+    "topics": ["health"]
+  },
+  {
+    "politicianSlug": "katy-gallagher",
+    "quote": "This is all part of Peter Dutton's plan for $347 billion in cuts to vital services like Medicare, pensions and housing which will leave Australians worse off at a time when people are already doing it tough.",
+    "summary": "Peter Dutton plans $347 billion in cuts to services such as Medicare, pensions and housing.",
+    "statementDate": "2025-01-14",
+    "statementContext": "Media release, 'Services to be worse in Hobart under Dutton'",
+    "originalSource": {"title": "Media release: Services to be worse in Hobart under Dutton, 14 January 2025", "publisher": "Office of Senator Katy Gallagher", "url": "https://www.katygallagher.com.au/media-centre/media-releases/services-to-be-worse-in-hobart-under-dutton/", "tier": 1, "kind": "media_release", "publishedAt": "2025-01-14"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Coalition, Labor miss the mark on $347b spending claim", "url": "https://www.aap.com.au/factcheck/coalition-labor-miss-the-mark-on-347b-spending-claim/", "publishedAt": "2025-02-27", "verdictAsPublished": "No verdict label; AAP FactCheck found 'Labor mischaracterises Mr Dutton's comments'"},
+    "status": "mixed",
+    "findings": "The $347 billion figure is the difference between total payments projected in the Coalition's 2022 Pre-election Economic and Fiscal Outlook and those in the government's 2024-25 Mid-Year Economic and Fiscal Outlook for 2023-24 to 2027-28; most of the gap reflects economic parameters such as inflation, which was 6.1 per cent when the government took office against the 4.25 per cent assumed in the outlook. The Opposition Leader cited the $347 billion as Labor overspending but did not describe it as the scope of any cuts, repeatedly ruled out cuts to Medicare and promised to match the government's $8.5 billion bulk-billing commitment. AAP FactCheck found that Labor's claim mischaracterised his comments, and separately that the Coalition's use of the figure left out key context.",
+    "context": "Senator Gallagher's office directed AAP FactCheck to public statements by Coalition members about the $347 billion figure, including the Opposition Leader, as evidence. The Treasurer and other Labor figures used the same claim. AAP FactCheck did not assign a one-word verdict.",
+    "primarySources": [
+      {"title": "2022 Pre-election Economic and Fiscal Outlook", "publisher": "The Treasury", "url": "https://treasury.gov.au/publication/2022-pefo", "whatItShows": "Baseline payments projections used for the $347 billion comparison."},
+      {"title": "Mid-Year Economic and Fiscal Outlook 2024-25", "publisher": "Australian Government (Treasury)", "url": "https://budget.gov.au/content/myefo/index.htm", "whatItShows": "Current payments forecasts compared against the 2022 outlook."},
+      {"title": "Transcript: interview with David Speers, ABC Insiders, February 2025", "publisher": "Office of Peter Dutton", "url": "https://peterdutton.com.au/leader-of-the-opposition-transcript-interview-with-david-speers-abc-insiders-2/", "tier": 1, "kind": "transcript", "whatItShows": "The Opposition Leader cited the $347 billion as overspending while saying frontline services would be bolstered."}
+    ],
+    "politicianResponse": {"kind": "defence", "summary": "Senator Gallagher's office directed AAP FactCheck to public statements by Coalition members about the $347 billion figure, including the Opposition Leader, as evidence.", "date": "2025-02-27"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["economy", "health"]
+  }
+]

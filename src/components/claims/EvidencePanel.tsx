@@ -14,6 +14,13 @@ function Section({ title, children }: { title: string; children: React.ReactNode
   );
 }
 
+/** Empty-state copy for the contradictory-evidence section, which depends on how the claim was assessed. */
+function contradictoryEmptyText(status: keyof typeof EVIDENCE_STATUS) {
+  if (status === "contradicted") return "The primary evidence listed above is inconsistent with the claim as stated; no separate contradicting source is attached.";
+  if (status === "mixed" || status === "mostly_supported") return "The primary evidence listed above supplies the context the claim needs; no separate contradicting source is attached.";
+  return "No evidence located that contradicts the claim.";
+}
+
 /**
  * SHOW THE EVIDENCE.
  * Rendered as a native <details> element so it works without JavaScript and
@@ -75,7 +82,7 @@ export function EvidencePanel({ detail, defaultOpen = false, id }: { detail: Cla
           {contradictory.length > 0 ? (
             <SourceList sources={contradictory} compact />
           ) : (
-            <p className="text-ink-faint">No evidence located that contradicts the claim.</p>
+            <p className="text-ink-faint">{contradictoryEmptyText(assessment.status)}</p>
           )}
         </Section>
 

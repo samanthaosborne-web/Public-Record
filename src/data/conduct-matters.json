@@ -89,5 +89,31 @@
     "updatedAt": "2025-10-14T16:00:00+11:00",
     "isDemonstration": true,
     "reviewedBy": "human"
+  },
+  {
+    "id": "cnd_pauline-hanson-2019-1",
+    "title": "Allegation by former senator Brian Burston of sexual harassment (2019)",
+    "politicianId": "pol_hanson-pauline",
+    "date": "2019-02-14",
+    "status": "allegation",
+    "statusHistory": [
+      {
+        "status": "allegation",
+        "date": "2019-02-14",
+        "note": "Allegation reported by established news organisations; denied the same day."
+      }
+    ],
+    "primarySourceIds": [],
+    "independentSourceIds": [
+      "src_abc-net-au-news-2019-02-13-burston-levels-sexual-harassment-allegation-351177"
+    ],
+    "responseId": "rsp_cnd_pauline-hanson-2019-1",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "allegationSummary": "On 14 February 2019 former One Nation senator Brian Burston publicly alleged, in comments reported by The Daily Telegraph and ABC News, that in 1998 Senator Hanson had rubbed her fingers up his spine and that she had propositioned him after his 2016 election. Senator Hanson denied the allegations and described them as retaliation. The allegation was later aired in evidence in defamation proceedings between the two; the court's findings in that case concerned Senator Hanson's statements about Mr Burston, not this allegation. PUBLIC RECORD has located no police report, investigation or finding relating to it.",
+    "evidenceBasis": "credible_reporting"
   }
 ]

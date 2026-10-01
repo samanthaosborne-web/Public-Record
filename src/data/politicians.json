@@ -45,12 +45,109 @@
         "src_abc-net-au-news-2026-09-20-australia-bids-seat-united-nations-security-9de1a8"
       ]
     },
-    "lastRecordUpdate": "2026-09-30",
+    "lastRecordUpdate": "2026-10-01",
     "createdAt": "2026-09-30T09:00:00+10:00",
-    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
     "electorate": "Grayndler",
     "officialWebsite": "https://www.pm.gov.au/",
-    "aphDisplayName": "Hon Anthony Albanese MP"
+    "aphDisplayName": "Hon Anthony Albanese MP",
+    "parliamentaryService": "Elected to the House of Representatives for Grayndler, New South Wales, at the 1996 election and re-elected at every election since (1998, 2001, 2004, 2007, 2010, 2013, 2016, 2019, 2022 and 2025). The Parliament of Australia records his Australian Labor Party service from 2 March 1996. He has no Senate or state parliamentary service.",
+    "career": [
+      {
+        "title": "Prime Minister",
+        "type": "executive",
+        "from": "2022-05-23"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2022-05-23"
+      },
+      {
+        "title": "Leader of the Federal Parliamentary Australian Labor Party",
+        "type": "party",
+        "from": "2019-05-27"
+      },
+      {
+        "title": "Leader of the Opposition",
+        "type": "opposition",
+        "from": "2019-05-27",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Shadow Minister for Infrastructure, Transport, Cities and Regional Development",
+        "type": "opposition",
+        "from": "2016-07-23",
+        "to": "2019-06-02"
+      },
+      {
+        "title": "Shadow Minister for Cities",
+        "type": "opposition",
+        "from": "2014-09-24",
+        "to": "2016-07-23"
+      },
+      {
+        "title": "Shadow Minister for Infrastructure and Transport",
+        "type": "opposition",
+        "from": "2013-10-18",
+        "to": "2016-07-23"
+      },
+      {
+        "title": "Shadow Minister for Tourism",
+        "type": "opposition",
+        "from": "2013-10-18",
+        "to": "2019-06-02"
+      },
+      {
+        "title": "Shadow Cabinet Minister",
+        "type": "opposition",
+        "from": "2013-10-18",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Minister for Broadband, Communications and the Digital Economy",
+        "type": "executive",
+        "from": "2013-07-01",
+        "to": "2013-09-18"
+      },
+      {
+        "title": "Deputy Prime Minister",
+        "type": "executive",
+        "from": "2013-06-27",
+        "to": "2013-09-18"
+      },
+      {
+        "title": "Deputy Leader of the Federal Parliamentary Australian Labor Party",
+        "type": "party",
+        "from": "2013-06-26",
+        "to": "2013-10-14"
+      },
+      {
+        "title": "Minister for Regional Development and Local Government",
+        "type": "executive",
+        "from": "2013-03-25",
+        "to": "2013-07-01"
+      },
+      {
+        "title": "Minister for Infrastructure and Transport",
+        "type": "executive",
+        "from": "2010-09-14",
+        "to": "2013-09-18"
+      },
+      {
+        "title": "Leader of the House",
+        "type": "parliamentary",
+        "from": "2008-02-12",
+        "to": "2013-08-05"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2007-12-03",
+        "to": "2013-09-18"
+      }
+    ],
+    "committees": []
   },
   {
     "id": "pol_marles-richard",
@@ -103,12 +200,102 @@
         "src_abc-net-au-news-2026-09-15-deputy-prime-minister-richard-marles-speaks-6dff1b"
       ]
     },
-    "lastRecordUpdate": "2026-09-30",
+    "lastRecordUpdate": "2026-10-01",
     "createdAt": "2026-09-30T09:00:00+10:00",
-    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
     "electorate": "Corio",
     "officialWebsite": "https://www.minister.defence.gov.au/current-ministers/2022-06/richard-marles",
-    "aphDisplayName": "Hon Richard Marles MP"
+    "aphDisplayName": "Hon Richard Marles MP",
+    "parliamentaryService": "Elected to the House of Representatives for Corio, Victoria, at the 2007 election and re-elected in 2010, 2013, 2016, 2019, 2022 and 2025. The Parliament of Australia records his Australian Labor Party service from 24 November 2007. He has no Senate or state parliamentary service.",
+    "career": [
+      {
+        "title": "Minister for Defence",
+        "type": "executive",
+        "from": "2022-06-01"
+      },
+      {
+        "title": "Deputy Prime Minister",
+        "type": "executive",
+        "from": "2022-05-23"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2022-05-23"
+      },
+      {
+        "title": "Minister for Employment",
+        "type": "executive",
+        "from": "2022-05-23",
+        "to": "2022-06-01"
+      },
+      {
+        "title": "Shadow Minister for National Reconstruction, Employment, Skills and Small Business",
+        "type": "opposition",
+        "from": "2021-01-28",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Shadow Minister for Science",
+        "type": "opposition",
+        "from": "2021-01-28",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Deputy Leader of the Federal Parliamentary Australian Labor Party",
+        "type": "party",
+        "from": "2019-05-30"
+      },
+      {
+        "title": "Deputy Leader of the Opposition",
+        "type": "opposition",
+        "from": "2019-05-30",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Shadow Minister for Defence",
+        "type": "opposition",
+        "from": "2016-07-23",
+        "to": "2021-01-28"
+      },
+      {
+        "title": "Shadow Minister for Immigration and Border Protection",
+        "type": "opposition",
+        "from": "2013-10-18",
+        "to": "2016-07-23"
+      },
+      {
+        "title": "Shadow Cabinet Minister",
+        "type": "opposition",
+        "from": "2013-10-18",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Minister for Trade",
+        "type": "executive",
+        "from": "2013-07-01",
+        "to": "2013-09-18"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2013-07-01",
+        "to": "2013-09-18"
+      },
+      {
+        "title": "Parliamentary Secretary for Foreign Affairs",
+        "type": "executive",
+        "from": "2012-03-05",
+        "to": "2013-03-22"
+      },
+      {
+        "title": "Parliamentary Secretary for Pacific Island Affairs",
+        "type": "executive",
+        "from": "2010-09-14",
+        "to": "2013-03-22"
+      }
+    ],
+    "committees": []
   },
   {
     "id": "pol_chalmers-jim",
@@ -149,12 +336,86 @@
         "src_ministers-treasury-gov-au-ministers-jim-chalmers-2022-6a79e7"
       ]
     },
-    "lastRecordUpdate": "2026-09-30",
+    "lastRecordUpdate": "2026-10-01",
     "createdAt": "2026-09-30T09:00:00+10:00",
-    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
     "electorate": "Rankin",
     "officialWebsite": "https://ministers.treasury.gov.au/ministers/jim-chalmers-2022",
-    "aphDisplayName": "Hon Dr Jim Chalmers MP"
+    "aphDisplayName": "Hon Dr Jim Chalmers MP",
+    "parliamentaryService": "Elected to the House of Representatives for Rankin, Queensland, at the 2013 election and re-elected in 2016, 2019, 2022 and 2025. The Parliament of Australia records his Australian Labor Party service from 7 September 2013. He has no Senate or state parliamentary service.",
+    "career": [
+      {
+        "title": "Treasurer",
+        "type": "executive",
+        "from": "2022-05-23"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2022-05-23"
+      },
+      {
+        "title": "Shadow Treasurer",
+        "type": "opposition",
+        "from": "2019-06-02",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Shadow Minister for Finance",
+        "type": "opposition",
+        "from": "2016-07-23",
+        "to": "2019-06-02"
+      },
+      {
+        "title": "Shadow Cabinet Minister",
+        "type": "opposition",
+        "from": "2016-07-23",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Shadow Assistant Minister for Resources",
+        "type": "opposition",
+        "from": "2016-05-04",
+        "to": "2016-07-23"
+      },
+      {
+        "title": "Shadow Minister for Financial Services and Superannuation",
+        "type": "opposition",
+        "from": "2015-10-13",
+        "to": "2016-07-23"
+      },
+      {
+        "title": "Shadow Minister for Sport",
+        "type": "opposition",
+        "from": "2015-10-13",
+        "to": "2016-07-23"
+      },
+      {
+        "title": "Shadow Assistant Minister for Trade and Investment",
+        "type": "opposition",
+        "from": "2015-10-13",
+        "to": "2016-07-23"
+      },
+      {
+        "title": "Shadow Assistant Minister for Productivity",
+        "type": "opposition",
+        "from": "2015-10-13",
+        "to": "2016-07-23"
+      },
+      {
+        "title": "Shadow Parliamentary Secretary to the Leader of the Opposition",
+        "type": "opposition",
+        "from": "2013-10-18",
+        "to": "2015-10-13"
+      },
+      {
+        "title": "Shadow Parliamentary Secretary for Trade and Investment",
+        "type": "opposition",
+        "from": "2013-10-18",
+        "to": "2015-10-13"
+      }
+    ],
+    "committees": []
   },
   {
     "id": "pol_wong-penny",
@@ -201,11 +462,87 @@
         "src_abc-net-au-news-2026-09-20-australia-bids-seat-united-nations-security-9de1a8"
       ]
     },
-    "lastRecordUpdate": "2026-09-30",
+    "lastRecordUpdate": "2026-10-01",
     "createdAt": "2026-09-30T09:00:00+10:00",
-    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
     "officialWebsite": "https://www.foreignminister.gov.au/minister/penny-wong",
-    "aphDisplayName": "Senator the Hon Penny Wong"
+    "aphDisplayName": "Senator the Hon Penny Wong",
+    "parliamentaryService": "Elected to the Senate for South Australia at the 2001 election, with her term beginning on 1 July 2002, and re-elected in 2007, 2013, 2016 and 2022. The Parliament of Australia records her Australian Labor Party service from 1 July 2002 and a parliamentary appointment as President of the Parliamentary Retiring Allowances Trust from 14 September 2010 to 18 September 2013. She has no House of Representatives or state parliamentary service.",
+    "career": [
+      {
+        "title": "Leader of the Government in the Senate",
+        "type": "parliamentary",
+        "from": "2022-05-31"
+      },
+      {
+        "title": "Minister for Foreign Affairs",
+        "type": "executive",
+        "from": "2022-05-23"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2022-05-23"
+      },
+      {
+        "title": "Shadow Minister for Foreign Affairs",
+        "type": "opposition",
+        "from": "2016-07-23",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Shadow Minister for Trade and Investment",
+        "type": "opposition",
+        "from": "2013-10-18",
+        "to": "2016-07-23"
+      },
+      {
+        "title": "Leader of the Opposition in the Senate",
+        "type": "opposition",
+        "from": "2013-10-14",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Shadow Cabinet Minister",
+        "type": "opposition",
+        "from": "2013-10-14",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Leader of the Government in the Senate",
+        "type": "parliamentary",
+        "from": "2013-06-26",
+        "to": "2013-09-18"
+      },
+      {
+        "title": "Deputy Leader of the Government in the Senate",
+        "type": "parliamentary",
+        "from": "2013-02-04",
+        "to": "2013-06-26"
+      },
+      {
+        "title": "Minister for Finance and Deregulation",
+        "type": "executive",
+        "from": "2010-09-14",
+        "to": "2013-09-18"
+      },
+      {
+        "title": "President of the Parliamentary Retiring Allowances Trust",
+        "type": "parliamentary",
+        "from": "2010-09-14",
+        "to": "2013-09-18"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2007-12-03",
+        "to": "2013-09-18"
+      }
+    ],
+    "committees": [
+      "Senate Standing Committee on Appropriations, Staffing and Security (from 1 September 2016)",
+      "Senate Standing Committee on Procedure (from 1 September 2016)"
+    ]
   },
   {
     "id": "pol_gallagher-katy",
@@ -271,11 +608,118 @@
       ],
       "notes": "Entered the Senate in March 2015 by appointment of the ACT Legislative Assembly; first elected 2016 (later ruled void), elected 2019, re-elected 2022 and 2025."
     },
-    "lastRecordUpdate": "2026-09-30",
+    "lastRecordUpdate": "2026-10-01",
     "createdAt": "2026-09-30T09:00:00+10:00",
-    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
     "officialWebsite": "https://ministers.finance.gov.au/financeminister",
-    "aphDisplayName": "Senator the Hon Katy Gallagher"
+    "aphDisplayName": "Senator the Hon Katy Gallagher",
+    "parliamentaryService": "Served in the Australian Capital Territory Legislative Assembly for Molonglo from 2001 until her resignation on 23 December 2014. On 25 March 2015 the Legislative Assembly chose her to fill the Senate casual vacancy created by Senator Kate Lundy's resignation. She was elected to the Senate for the ACT at the 2016 election; the Parliament of Australia records that this election was ruled void on 9 May 2018 under section 44(i) of the Constitution, and records her Australian Labor Party service as 25 March 2015 to 9 May 2018 and from 18 May 2019. She was elected again in 2019 and re-elected in 2022 and 2025. APH also records a parliamentary appointment as President of the Parliamentary Retiring Allowances Trust from 23 May 2022.",
+    "career": [
+      {
+        "title": "Minister for Government Services",
+        "type": "executive",
+        "from": "2025-01-20"
+      },
+      {
+        "title": "Minister for the Public Service",
+        "type": "executive",
+        "from": "2022-06-01"
+      },
+      {
+        "title": "Vice-President of the Executive Council",
+        "type": "executive",
+        "from": "2022-05-31"
+      },
+      {
+        "title": "Manager of Government Business in the Senate",
+        "type": "parliamentary",
+        "from": "2022-05-31"
+      },
+      {
+        "title": "Minister for Finance",
+        "type": "executive",
+        "from": "2022-05-23"
+      },
+      {
+        "title": "Minister for Women",
+        "type": "executive",
+        "from": "2022-05-23"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2022-05-23"
+      },
+      {
+        "title": "President of the Parliamentary Retiring Allowances Trust",
+        "type": "parliamentary",
+        "from": "2022-05-23"
+      },
+      {
+        "title": "Attorney-General",
+        "type": "executive",
+        "from": "2022-05-23",
+        "to": "2022-06-01"
+      },
+      {
+        "title": "Shadow Minister for Finance",
+        "type": "opposition",
+        "from": "2019-06-02",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Shadow Minister for the Public Service",
+        "type": "opposition",
+        "from": "2019-06-02",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Manager of Opposition Business in the Senate",
+        "type": "opposition",
+        "from": "2019-06-02",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Manager of Opposition Business in the Senate",
+        "type": "opposition",
+        "from": "2016-09-14",
+        "to": "2017-12-06"
+      },
+      {
+        "title": "Shadow Minister for Small Business and Financial Services",
+        "type": "opposition",
+        "from": "2016-07-23",
+        "to": "2017-12-06"
+      },
+      {
+        "title": "Shadow Minister Assisting the Leader of the Opposition on State and Territory Relations",
+        "type": "opposition",
+        "from": "2015-10-13",
+        "to": "2016-07-23"
+      },
+      {
+        "title": "Shadow Minister for Housing and Homelessness",
+        "type": "opposition",
+        "from": "2015-10-13",
+        "to": "2016-07-23"
+      },
+      {
+        "title": "Shadow Minister for Mental Health",
+        "type": "opposition",
+        "from": "2015-10-13",
+        "to": "2016-07-23"
+      },
+      {
+        "title": "Shadow Cabinet Minister",
+        "type": "opposition",
+        "from": "2015-10-13",
+        "to": "2017-12-06"
+      }
+    ],
+    "committees": [
+      "Senate Standing Committee on Procedure (from 2 July 2019)",
+      "Senate Standing Committee for the Selection of Bills (from 27 July 2022)"
+    ]
   },
   {
     "id": "pol_butler-mark",
@@ -328,12 +772,114 @@
         "src_abc-net-au-news-2026-09-08-federal-politics-live-blog-coalition-review-bbd63a"
       ]
     },
-    "lastRecordUpdate": "2026-09-30",
+    "lastRecordUpdate": "2026-10-01",
     "createdAt": "2026-09-30T09:00:00+10:00",
-    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
     "electorate": "Hindmarsh",
     "officialWebsite": "https://www.health.gov.au/ministers/the-hon-mark-butler-mp",
-    "aphDisplayName": "Hon Mark Butler MP"
+    "aphDisplayName": "Hon Mark Butler MP",
+    "parliamentaryService": "Elected to the House of Representatives for Port Adelaide, South Australia, at the 2007 election and re-elected there in 2010, 2013 and 2016. After an electoral redistribution he was elected for Hindmarsh, South Australia, in 2019 and re-elected in 2022 and 2025. The Parliament of Australia records his Australian Labor Party service from 24 November 2007. He has no Senate or state parliamentary service.",
+    "career": [
+      {
+        "title": "Minister for Health and Ageing",
+        "type": "executive",
+        "from": "2025-05-13"
+      },
+      {
+        "title": "Minister for Disability and the National Disability Insurance Scheme",
+        "type": "executive",
+        "from": "2025-05-13"
+      },
+      {
+        "title": "Minister for Health and Aged Care",
+        "type": "executive",
+        "from": "2022-06-01",
+        "to": "2025-05-13"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2022-06-01"
+      },
+      {
+        "title": "Deputy Leader of the House",
+        "type": "parliamentary",
+        "from": "2022-05-31"
+      },
+      {
+        "title": "Shadow Minister for Health and Ageing",
+        "type": "opposition",
+        "from": "2021-01-28",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Deputy Manager of Opposition Business in the House",
+        "type": "opposition",
+        "from": "2019-06-02",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Shadow Minister for Climate Change and Energy",
+        "type": "opposition",
+        "from": "2016-07-23",
+        "to": "2021-01-28"
+      },
+      {
+        "title": "Shadow Minister for Environment, Climate Change and Water",
+        "type": "opposition",
+        "from": "2013-10-18",
+        "to": "2016-07-23"
+      },
+      {
+        "title": "Shadow Cabinet Minister",
+        "type": "opposition",
+        "from": "2013-10-18",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Minister for Climate Change",
+        "type": "executive",
+        "from": "2013-07-01",
+        "to": "2013-09-18"
+      },
+      {
+        "title": "Minister for the Environment, Heritage and Water",
+        "type": "executive",
+        "from": "2013-07-01",
+        "to": "2013-09-18"
+      },
+      {
+        "title": "Minister for Housing and Homelessness",
+        "type": "executive",
+        "from": "2013-02-04",
+        "to": "2013-07-01"
+      },
+      {
+        "title": "Minister for Social Inclusion",
+        "type": "executive",
+        "from": "2011-12-14",
+        "to": "2013-07-01"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2011-12-14",
+        "to": "2013-09-18"
+      },
+      {
+        "title": "Minister Assisting the Prime Minister on Mental Health Reform",
+        "type": "executive",
+        "from": "2011-09-12",
+        "to": "2013-07-01"
+      },
+      {
+        "title": "Minister for Mental Health and Ageing",
+        "type": "executive",
+        "from": "2010-09-14",
+        "to": "2013-07-01"
+      }
+    ],
+    "committees": []
   },
   {
     "id": "pol_taylor-angus",
@@ -382,12 +928,86 @@
       ],
       "notes": "Elected Leader of the Liberal Party on 13 February 2026 after a party-room ballot (previously Shadow Minister for Defence, 2025–26, and Shadow Treasurer, 2022–25)."
     },
-    "lastRecordUpdate": "2026-09-30",
+    "lastRecordUpdate": "2026-10-01",
     "createdAt": "2026-09-30T09:00:00+10:00",
-    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
     "electorate": "Hume",
     "officialWebsite": "https://www.angustaylor.com.au/",
-    "aphDisplayName": "Hon Angus Taylor MP"
+    "aphDisplayName": "Hon Angus Taylor MP",
+    "parliamentaryService": "Elected to the House of Representatives for Hume, New South Wales, at the 2013 election and re-elected in 2016, 2019, 2022 and 2025. The Parliament of Australia records his Liberal Party service from 7 September 2013. He held assistant-ministerial and ministerial office from February 2016 to May 2022, served on the Opposition frontbench from June 2022, and is recorded as Leader of the Opposition and Leader of the Federal Parliamentary Liberal Party from 13 February 2026. He has no Senate or state parliamentary service.",
+    "career": [
+      {
+        "title": "Leader of the Opposition",
+        "type": "opposition",
+        "from": "2026-02-13"
+      },
+      {
+        "title": "Leader of the Federal Parliamentary Liberal Party",
+        "type": "party",
+        "from": "2026-02-13"
+      },
+      {
+        "title": "Shadow Minister for Defence",
+        "type": "opposition",
+        "from": "2025-05-28",
+        "to": "2026-02-11"
+      },
+      {
+        "title": "Shadow Treasurer",
+        "type": "opposition",
+        "from": "2022-06-05",
+        "to": "2025-05-28"
+      },
+      {
+        "title": "Shadow Cabinet Minister",
+        "type": "opposition",
+        "from": "2022-06-05",
+        "to": "2026-02-11"
+      },
+      {
+        "title": "Minister for Industry, Energy and Emissions Reduction",
+        "type": "executive",
+        "from": "2021-10-08",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Acting Minister for Industry, Science and Technology",
+        "type": "executive",
+        "from": "2021-09-19",
+        "to": "2021-10-08"
+      },
+      {
+        "title": "Minister for Energy and Emissions Reduction",
+        "type": "executive",
+        "from": "2019-05-29",
+        "to": "2021-10-08"
+      },
+      {
+        "title": "Minister for Energy",
+        "type": "executive",
+        "from": "2018-08-28",
+        "to": "2019-05-29"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2018-08-28",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Minister for Law Enforcement and Cybersecurity",
+        "type": "executive",
+        "from": "2017-12-20",
+        "to": "2018-08-28"
+      },
+      {
+        "title": "Assistant Minister for Cities and Digital Transformation",
+        "type": "executive",
+        "from": "2016-02-18",
+        "to": "2017-12-20"
+      }
+    ],
+    "committees": []
   },
   {
     "id": "pol_hume-jane",
@@ -448,11 +1068,92 @@
       ],
       "notes": "A Liberal Party release of 30 September 2026 also styles her Acting Shadow Minister for Finance; the substantive portfolio is held by another senator, so the acting role is not listed here."
     },
-    "lastRecordUpdate": "2026-09-30",
+    "lastRecordUpdate": "2026-10-01",
     "createdAt": "2026-09-30T09:00:00+10:00",
-    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
     "officialWebsite": "https://www.senatorhume.com/",
-    "aphDisplayName": "Senator the Hon Jane Hume"
+    "aphDisplayName": "Senator the Hon Jane Hume",
+    "parliamentaryService": "Elected to the Senate for Victoria at the 2016 election and re-elected in 2019 and 2025. The Parliament of Australia records her Liberal Party service from 2 July 2016. She served as Temporary Chair of Committees and Government Deputy Whip from September 2018 to May 2019, held assistant-ministerial and ministerial office from May 2019 to May 2022, served in the Shadow Cabinet from June 2022 to May 2025, and is recorded as Deputy Leader of the Opposition and Deputy Leader of the Federal Parliamentary Liberal Party from 13 February 2026. She has no House of Representatives or state parliamentary service.",
+    "career": [
+      {
+        "title": "Shadow Minister for Productivity and Deregulation",
+        "type": "opposition",
+        "from": "2026-02-17"
+      },
+      {
+        "title": "Shadow Minister for Employment and Industrial Relations",
+        "type": "opposition",
+        "from": "2026-02-17"
+      },
+      {
+        "title": "Deputy Leader of the Opposition",
+        "type": "opposition",
+        "from": "2026-02-13"
+      },
+      {
+        "title": "Deputy Leader of the Federal Parliamentary Liberal Party",
+        "type": "party",
+        "from": "2026-02-13"
+      },
+      {
+        "title": "Shadow Minister for Finance",
+        "type": "opposition",
+        "from": "2022-06-05",
+        "to": "2025-05-28"
+      },
+      {
+        "title": "Shadow Minister for the Public Service",
+        "type": "opposition",
+        "from": "2022-06-05",
+        "to": "2025-05-28"
+      },
+      {
+        "title": "Shadow Special Minister of State",
+        "type": "opposition",
+        "from": "2022-06-05",
+        "to": "2025-05-28"
+      },
+      {
+        "title": "Shadow Cabinet Minister",
+        "type": "opposition",
+        "from": "2022-06-05",
+        "to": "2025-05-28"
+      },
+      {
+        "title": "Minister for Women's Economic Security",
+        "type": "executive",
+        "from": "2021-03-30",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Minister for Superannuation, Financial Services and the Digital Economy",
+        "type": "executive",
+        "from": "2020-12-22",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Assistant Minister for Superannuation, Financial Services and Financial Technology",
+        "type": "executive",
+        "from": "2019-05-29",
+        "to": "2020-12-22"
+      },
+      {
+        "title": "Temporary Chair of Committees",
+        "type": "parliamentary",
+        "from": "2018-09-10",
+        "to": "2019-05-29"
+      },
+      {
+        "title": "Government Deputy Whip",
+        "type": "party",
+        "from": "2018-09-10",
+        "to": "2019-05-29"
+      }
+    ],
+    "committees": [
+      "Parliamentary Joint Committee on Parliamentary Standards (from 3 March 2026)",
+      "Senate Standing Committee of Privileges (member from 12 March 2026; Chair from 31 July 2025 to 12 March 2026)"
+    ]
   },
   {
     "id": "pol_cash-michaelia",
@@ -501,11 +1202,146 @@
       ],
       "notes": "Start date of the Senate leadership (January 2025) is cross-checked against secondary sources only."
     },
-    "lastRecordUpdate": "2026-09-30",
+    "lastRecordUpdate": "2026-10-01",
     "createdAt": "2026-09-30T09:00:00+10:00",
-    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
     "officialWebsite": "https://www.michaeliacash.com.au/",
-    "aphDisplayName": "Senator the Hon Michaelia Cash"
+    "aphDisplayName": "Senator the Hon Michaelia Cash",
+    "parliamentaryService": "Elected to the Senate for Western Australia at the 2007 election, with her term beginning on 1 July 2008, and re-elected in 2013, 2016 and 2022. The Parliament of Australia records her Liberal Party service from 1 July 2008. She served as Temporary Chair of Committees in 2010, held shadow parliamentary secretary roles from 2010 to 2013, served continuously as an assistant minister or minister from 18 September 2013 to 23 May 2022, including as Attorney-General from March 2021, and is recorded as Leader of the Opposition in the Senate from 25 January 2025. She has no House of Representatives or state parliamentary service.",
+    "career": [
+      {
+        "title": "Shadow Attorney-General",
+        "type": "opposition",
+        "from": "2026-02-17"
+      },
+      {
+        "title": "Shadow Minister for Foreign Affairs",
+        "type": "opposition",
+        "from": "2025-05-28",
+        "to": "2026-02-17"
+      },
+      {
+        "title": "Leader of the Opposition in the Senate",
+        "type": "opposition",
+        "from": "2025-01-25"
+      },
+      {
+        "title": "Shadow Attorney-General",
+        "type": "opposition",
+        "from": "2023-04-18",
+        "to": "2025-05-28"
+      },
+      {
+        "title": "Shadow Minister for Employment and Workplace Relations",
+        "type": "opposition",
+        "from": "2022-06-05",
+        "to": "2025-05-28"
+      },
+      {
+        "title": "Shadow Cabinet Minister",
+        "type": "opposition",
+        "from": "2022-06-05"
+      },
+      {
+        "title": "Deputy Leader of the Opposition in the Senate",
+        "type": "opposition",
+        "from": "2022-05-30",
+        "to": "2025-01-25"
+      },
+      {
+        "title": "Attorney-General",
+        "type": "executive",
+        "from": "2021-03-30",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Minister for Industrial Relations",
+        "type": "executive",
+        "from": "2021-03-30",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Deputy Leader of the Government in the Senate",
+        "type": "parliamentary",
+        "from": "2020-10-30",
+        "to": "2022-05-21"
+      },
+      {
+        "title": "Minister for Employment, Skills, Small and Family Business",
+        "type": "executive",
+        "from": "2019-05-29",
+        "to": "2021-03-30"
+      },
+      {
+        "title": "Minister for Small and Family Business, Skills and Vocational Education",
+        "type": "executive",
+        "from": "2018-08-28",
+        "to": "2019-05-29"
+      },
+      {
+        "title": "Minister for Jobs and Innovation",
+        "type": "executive",
+        "from": "2017-12-20",
+        "to": "2018-08-28"
+      },
+      {
+        "title": "Minister for Employment",
+        "type": "executive",
+        "from": "2015-09-21",
+        "to": "2017-12-20"
+      },
+      {
+        "title": "Minister for Women",
+        "type": "executive",
+        "from": "2015-09-21",
+        "to": "2017-12-20"
+      },
+      {
+        "title": "Minister Assisting the Prime Minister for the Public Service",
+        "type": "executive",
+        "from": "2015-09-21",
+        "to": "2017-12-20"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2015-09-21",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Assistant Minister for Immigration and Border Protection",
+        "type": "executive",
+        "from": "2013-09-18",
+        "to": "2015-09-21"
+      },
+      {
+        "title": "Minister Assisting the Prime Minister for Women",
+        "type": "executive",
+        "from": "2013-09-18",
+        "to": "2015-09-21"
+      },
+      {
+        "title": "Deputy Manager of Opposition Business in the Senate",
+        "type": "opposition",
+        "from": "2012-09-19",
+        "to": "2013-08-05"
+      },
+      {
+        "title": "Shadow Parliamentary Secretary for Immigration",
+        "type": "opposition",
+        "from": "2010-09-14",
+        "to": "2013-09-18"
+      },
+      {
+        "title": "Shadow Parliamentary Secretary for the Status of Women",
+        "type": "opposition",
+        "from": "2010-09-14",
+        "to": "2013-09-18"
+      }
+    ],
+    "committees": [
+      "Parliamentary Joint Committee on Intelligence and Security (from 25 August 2025)"
+    ]
   },
   {
     "id": "pol_paterson-james",
@@ -548,11 +1384,76 @@
       ],
       "notes": "Entered the Senate in March 2016 via a casual vacancy; first elected in his own right at the 2016 election."
     },
-    "lastRecordUpdate": "2026-09-30",
+    "lastRecordUpdate": "2026-10-01",
     "createdAt": "2026-09-30T09:00:00+10:00",
-    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
     "officialWebsite": "https://www.senatorpaterson.com.au/",
-    "aphDisplayName": "Senator James Paterson"
+    "aphDisplayName": "Senator James Paterson",
+    "parliamentaryService": "Chosen by the Parliament of Victoria on 9 March 2016 under section 15 of the Constitution to fill the Senate casual vacancy created by the resignation of Senator Michael Ronaldson, then elected to the Senate for Victoria at the 2016 election and re-elected in 2019 and 2025. The Parliament of Australia records his Liberal Party service from 9 March 2016 to 9 May 2016 and from 2 July 2016. He has held no ministerial appointment; his frontbench service has been in the Shadow Ministry from June 2022. He has no House of Representatives or state parliamentary service.",
+    "career": [
+      {
+        "title": "Shadow Minister for Defence",
+        "type": "opposition",
+        "from": "2026-02-17"
+      },
+      {
+        "title": "Shadow Cabinet Minister",
+        "type": "opposition",
+        "from": "2026-02-17"
+      },
+      {
+        "title": "Shadow Minister for Finance",
+        "type": "opposition",
+        "from": "2025-05-28",
+        "to": "2026-02-12"
+      },
+      {
+        "title": "Shadow Minister for the Public Service",
+        "type": "opposition",
+        "from": "2025-05-28",
+        "to": "2026-02-12"
+      },
+      {
+        "title": "Shadow Minister for Government Services",
+        "type": "opposition",
+        "from": "2025-05-28",
+        "to": "2026-02-12"
+      },
+      {
+        "title": "Shadow Cabinet Secretary",
+        "type": "opposition",
+        "from": "2024-03-05",
+        "to": "2025-05-28"
+      },
+      {
+        "title": "Shadow Minister for Home Affairs",
+        "type": "opposition",
+        "from": "2023-04-18",
+        "to": "2025-05-28"
+      },
+      {
+        "title": "Shadow Cabinet Minister",
+        "type": "opposition",
+        "from": "2023-04-18",
+        "to": "2026-02-12"
+      },
+      {
+        "title": "Shadow Minister for Cyber Security",
+        "type": "opposition",
+        "from": "2022-06-05",
+        "to": "2025-05-28"
+      },
+      {
+        "title": "Shadow Minister for Countering Foreign Interference",
+        "type": "opposition",
+        "from": "2022-06-05",
+        "to": "2023-04-18"
+      }
+    ],
+    "committees": [
+      "Parliamentary Joint Committee on Intelligence and Security (APH lists him as a member; its record of his chairmanship from 4 February 2021 carries no end date)",
+      "Parliamentary Joint Committee on Defence (from 1 April 2026)"
+    ]
   },
   {
     "id": "pol_hastie-andrew",
@@ -601,12 +1502,73 @@
       ],
       "notes": "Returned to the shadow ministry on 17 February 2026 after resigning from it on 3 October 2025. The 'Deputy Leader in the House' role is a party designation not recorded as a formal office on APH."
     },
-    "lastRecordUpdate": "2026-09-30",
+    "lastRecordUpdate": "2026-10-01",
     "createdAt": "2026-09-30T09:00:00+10:00",
-    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
     "electorate": "Canning",
     "officialWebsite": "https://www.andrewhastie.com.au/",
-    "aphDisplayName": "Hon Andrew Hastie MP"
+    "aphDisplayName": "Hon Andrew Hastie MP",
+    "parliamentaryService": "Elected to the House of Representatives for Canning, Western Australia, at the by-election of 19 September 2015 following the death of Don Randall, and re-elected in 2016, 2019, 2022 and 2025. The Parliament of Australia records his Liberal Party service from 19 September 2015. He was a member of the Speaker's Panel from September 2016 to July 2019, served as Assistant Minister for Defence from December 2020 to May 2022, and has served on the Opposition frontbench since June 2022, including as Deputy Leader of the Opposition in the House of Representatives from 17 February 2026. He has no Senate or state parliamentary service.",
+    "career": [
+      {
+        "title": "Deputy Leader of the Opposition in the House of Representatives",
+        "type": "opposition",
+        "from": "2026-02-17"
+      },
+      {
+        "title": "Shadow Minister for Industry and Sovereign Capability",
+        "type": "opposition",
+        "from": "2026-02-17"
+      },
+      {
+        "title": "Shadow Cabinet Minister",
+        "type": "opposition",
+        "from": "2026-02-17"
+      },
+      {
+        "title": "Shadow Minister for Home Affairs",
+        "type": "opposition",
+        "from": "2025-05-28",
+        "to": "2025-10-03"
+      },
+      {
+        "title": "Shadow Minister for Defence Industry",
+        "type": "opposition",
+        "from": "2024-03-05",
+        "to": "2025-05-28"
+      },
+      {
+        "title": "Shadow Minister for Defence Personnel",
+        "type": "opposition",
+        "from": "2024-03-05",
+        "to": "2025-05-28"
+      },
+      {
+        "title": "Shadow Minister for Defence",
+        "type": "opposition",
+        "from": "2022-06-05",
+        "to": "2025-05-28"
+      },
+      {
+        "title": "Shadow Cabinet Minister",
+        "type": "opposition",
+        "from": "2022-06-05",
+        "to": "2025-10-03"
+      },
+      {
+        "title": "Assistant Minister for Defence",
+        "type": "executive",
+        "from": "2020-12-22",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Member of the Speaker's Panel",
+        "type": "parliamentary",
+        "from": "2016-09-01",
+        "to": "2019-07-22"
+      }
+    ],
+    "committees": []
   },
   {
     "id": "pol_canavan-matt",
@@ -655,12 +1617,112 @@
       ],
       "notes": "Coalition agreement in place as of 30 Sep 2026 (reunited 8 Feb 2026 after a split on 22 Jan 2026; earlier split 20–28 May 2025)."
     },
-    "lastRecordUpdate": "2026-09-30",
+    "lastRecordUpdate": "2026-10-01",
     "createdAt": "2026-09-30T09:00:00+10:00",
-    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
     "officialWebsite": "https://www.mattcanavan.com.au/",
     "partyNote": "Member of the Liberal National Party of Queensland (LNP); sits in the federal Nationals party room. APH lists party as The Nationals.",
-    "aphDisplayName": "Senator the Hon Matthew Canavan"
+    "aphDisplayName": "Senator the Hon Matthew Canavan",
+    "parliamentaryService": "Elected to the Senate for Queensland at the 2013 election and re-elected in 2016 and 2022. The Parliament of Australia records no state parliamentary service and no casual-vacancy appointment. He was a cabinet minister in the Turnbull and Morrison governments from February 2016, standing aside from the ministry on 25 July 2017 during the section 44 citizenship reference and returning on 27 October 2017, the day the High Court ruled he was validly elected; he left the ministry on 3 February 2020. He served as Nationals Whip in the Senate in 2015-16 and 2025-26 and as Deputy Leader of The Nationals in the Senate from 2019 to 2022, and is recorded as Leader of the Federal Parliamentary Nationals from 11 March 2026, with a shadow cabinet portfolio from 16 March 2026.",
+    "career": [
+      {
+        "title": "Shadow Minister for Trade, Investment and Tourism",
+        "type": "opposition",
+        "from": "2026-03-16"
+      },
+      {
+        "title": "Shadow Cabinet Minister",
+        "type": "opposition",
+        "from": "2026-03-16"
+      },
+      {
+        "title": "Leader of the Federal Parliamentary Nationals",
+        "type": "party",
+        "from": "2026-03-11"
+      },
+      {
+        "title": "Nationals Whip in the Senate",
+        "type": "party",
+        "from": "2025-07-21",
+        "to": "2026-03-23"
+      },
+      {
+        "title": "Chair, Senate Rural and Regional Affairs and Transport References Committee",
+        "type": "parliamentary",
+        "from": "2022-08-02",
+        "to": "2026-03-23"
+      },
+      {
+        "title": "Deputy Chair, Senate Rural and Regional Affairs and Transport Legislation Committee",
+        "type": "parliamentary",
+        "from": "2022-08-02",
+        "to": "2026-03-23"
+      },
+      {
+        "title": "Chair, Senate Education and Employment Legislation Committee",
+        "type": "parliamentary",
+        "from": "2021-09-02",
+        "to": "2022-07-25"
+      },
+      {
+        "title": "Deputy Chair, Senate Education and Employment References Committee",
+        "type": "parliamentary",
+        "from": "2021-09-02",
+        "to": "2022-07-25"
+      },
+      {
+        "title": "Deputy Chair, Senate Select Committee on Job Security",
+        "type": "parliamentary",
+        "from": "2020-12-17",
+        "to": "2022-03-30"
+      },
+      {
+        "title": "Deputy Leader of The Nationals in the Senate",
+        "type": "party",
+        "from": "2019-07-02",
+        "to": "2022-09-27"
+      },
+      {
+        "title": "Minister for Resources and Northern Australia",
+        "type": "executive",
+        "from": "2017-10-27",
+        "to": "2020-02-03"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2017-10-27",
+        "to": "2020-02-03"
+      },
+      {
+        "title": "Minister for Resources and Northern Australia",
+        "type": "executive",
+        "from": "2016-07-19",
+        "to": "2017-07-25"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2016-07-19",
+        "to": "2017-07-25"
+      },
+      {
+        "title": "Minister for Northern Australia",
+        "type": "executive",
+        "from": "2016-02-18",
+        "to": "2016-07-19"
+      },
+      {
+        "title": "Nationals Whip in the Senate",
+        "type": "party",
+        "from": "2015-09-10",
+        "to": "2016-02-18"
+      }
+    ],
+    "committees": [
+      "Joint Standing Committee on Trade and Investment Growth",
+      "Joint Standing Committee on Treaties"
+    ]
   },
   {
     "id": "pol_chester-darren",
@@ -714,12 +1776,171 @@
         "src_nationals-org-au-team-darren-chester-ce2884"
       ]
     },
-    "lastRecordUpdate": "2026-09-30",
+    "lastRecordUpdate": "2026-10-01",
     "createdAt": "2026-09-30T09:00:00+10:00",
-    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
     "electorate": "Gippsland",
     "officialWebsite": "https://darrenchester.com.au/",
-    "aphDisplayName": "Hon Darren Chester MP"
+    "aphDisplayName": "Hon Darren Chester MP",
+    "parliamentaryService": "Elected to the House of Representatives for Gippsland, Victoria, at the 2008 by-election following the resignation of Peter McGauran, and re-elected at every general election since (2010, 2013, 2016, 2019, 2022 and 2025). The Parliament of Australia records no state parliamentary service. He served as a parliamentary secretary and assistant minister in the Abbott and Turnbull governments, as Minister for Infrastructure and Transport in cabinet in 2016-17, and as Minister for Veterans' Affairs and Minister for Defence Personnel from 2018 to 2021. He was Deputy Leader of the House in 2016-17 and 2018-21, has held shadow portfolios since 2023, and is recorded as Deputy Leader of the Federal Parliamentary Nationals from 11 March 2026 and Leader of the Nationals in the House from 16 March 2026.",
+    "career": [
+      {
+        "title": "Shadow Minister for Agriculture, Fisheries and Forestry",
+        "type": "opposition",
+        "from": "2026-03-16"
+      },
+      {
+        "title": "Leader of the Nationals in the House",
+        "type": "party",
+        "from": "2026-03-16"
+      },
+      {
+        "title": "Deputy Leader of the Federal Parliamentary Nationals",
+        "type": "party",
+        "from": "2026-03-11"
+      },
+      {
+        "title": "Shadow Cabinet Minister",
+        "type": "opposition",
+        "from": "2026-02-17"
+      },
+      {
+        "title": "Shadow Minister for Veterans' Affairs",
+        "type": "opposition",
+        "from": "2026-02-17",
+        "to": "2026-03-16"
+      },
+      {
+        "title": "Shadow Minister for Veterans' Affairs",
+        "type": "opposition",
+        "from": "2025-05-28",
+        "to": "2026-01-21"
+      },
+      {
+        "title": "Shadow Minister for Regional Education",
+        "type": "opposition",
+        "from": "2023-01-04",
+        "to": "2025-05-28"
+      },
+      {
+        "title": "Shadow Minister for Regional Development",
+        "type": "opposition",
+        "from": "2023-01-04",
+        "to": "2025-05-28"
+      },
+      {
+        "title": "Shadow Minister for Local Government and Territories",
+        "type": "opposition",
+        "from": "2023-01-04",
+        "to": "2025-05-28"
+      },
+      {
+        "title": "Chair, Joint Select Committee on Road Safety",
+        "type": "parliamentary",
+        "from": "2021-08-26",
+        "to": "2022-03-25"
+      },
+      {
+        "title": "Member of the Speaker's Panel",
+        "type": "parliamentary",
+        "from": "2021-07-30",
+        "to": "2022-04-11"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2020-02-06",
+        "to": "2021-07-02"
+      },
+      {
+        "title": "Minister for Veterans' Affairs",
+        "type": "executive",
+        "from": "2018-03-05",
+        "to": "2021-07-02"
+      },
+      {
+        "title": "Minister for Defence Personnel",
+        "type": "executive",
+        "from": "2018-03-05",
+        "to": "2021-07-02"
+      },
+      {
+        "title": "Minister Assisting the Prime Minister for the Centenary of ANZAC",
+        "type": "executive",
+        "from": "2018-03-05",
+        "to": "2019-05-29"
+      },
+      {
+        "title": "Deputy Leader of the House",
+        "type": "parliamentary",
+        "from": "2018-03-05",
+        "to": "2021-07-02"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2018-03-05",
+        "to": "2018-08-28"
+      },
+      {
+        "title": "Chair, House of Representatives Select Committee on Regional Development and Decentralisation",
+        "type": "parliamentary",
+        "from": "2018-02-08",
+        "to": "2018-03-05"
+      },
+      {
+        "title": "Acting Minister for Regional Development",
+        "type": "executive",
+        "from": "2017-10-27",
+        "to": "2017-12-20"
+      },
+      {
+        "title": "Acting Minister for Local Government and Territories",
+        "type": "executive",
+        "from": "2017-10-27",
+        "to": "2017-12-20"
+      },
+      {
+        "title": "Minister for Infrastructure and Transport",
+        "type": "executive",
+        "from": "2016-02-18",
+        "to": "2017-12-20"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2016-02-18",
+        "to": "2017-12-20"
+      },
+      {
+        "title": "Deputy Leader of the House",
+        "type": "parliamentary",
+        "from": "2016-02-18",
+        "to": "2017-12-20"
+      },
+      {
+        "title": "Assistant Minister for Defence",
+        "type": "executive",
+        "from": "2015-09-21",
+        "to": "2016-02-18"
+      },
+      {
+        "title": "Parliamentary Secretary to the Minister for Defence",
+        "type": "executive",
+        "from": "2013-09-18",
+        "to": "2015-09-21"
+      },
+      {
+        "title": "Shadow Parliamentary Secretary for Roads and Regional Transport",
+        "type": "opposition",
+        "from": "2010-09-14",
+        "to": "2013-09-18"
+      }
+    ],
+    "committees": [
+      "House of Representatives Select Committee on Nuclear Energy",
+      "Parliamentary Joint Committee on Parliamentary Standards"
+    ]
   },
   {
     "id": "pol_mckenzie-bridget",
@@ -773,11 +1994,166 @@
         "src_nationals-org-au-team-bridget-mckenzie-08924b"
       ]
     },
-    "lastRecordUpdate": "2026-09-30",
+    "lastRecordUpdate": "2026-10-01",
     "createdAt": "2026-09-30T09:00:00+10:00",
-    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
     "officialWebsite": "https://www.bridgetmckenzie.com.au/",
-    "aphDisplayName": "Senator the Hon Bridget McKenzie"
+    "aphDisplayName": "Senator the Hon Bridget McKenzie",
+    "parliamentaryService": "Elected to the Senate for Victoria at the 2010 election, with her term beginning on 1 July 2011, and re-elected in 2016 and 2022. The Parliament of Australia records no state parliamentary service and no casual-vacancy appointment. She was a Temporary Chair of Committees in 2012-13, Nationals Party Whip in the Senate in 2013-14, and chaired the Senate Education and Employment Legislation Committee for extended periods between 2013 and 2019. She joined cabinet on 20 December 2017 and was Deputy Leader of the Federal Parliamentary Nationals from 7 December 2017 until 2 February 2020, when she left the ministry. She returned to cabinet from 2 July 2021 to 23 May 2022. She is recorded as Leader of the Nationals in the Senate from 2 July 2019 and has held shadow cabinet portfolios since June 2022, with a break from 21 January to 17 February 2026.",
+    "career": [
+      {
+        "title": "Shadow Minister for Infrastructure and Transport",
+        "type": "opposition",
+        "from": "2026-03-16"
+      },
+      {
+        "title": "Shadow Minister for Regional Development, Local Government and Territories",
+        "type": "opposition",
+        "from": "2026-03-16"
+      },
+      {
+        "title": "Shadow Cabinet Minister",
+        "type": "opposition",
+        "from": "2026-02-17"
+      },
+      {
+        "title": "Shadow Minister for Infrastructure, Transport and Regional Development",
+        "type": "opposition",
+        "from": "2026-02-17",
+        "to": "2026-03-16"
+      },
+      {
+        "title": "Chair, Senate Select Committee on Commonwealth Bilateral Air Service Agreements",
+        "type": "parliamentary",
+        "from": "2023-09-06",
+        "to": "2023-10-09"
+      },
+      {
+        "title": "Shadow Minister for Infrastructure, Transport and Regional Development",
+        "type": "opposition",
+        "from": "2022-06-05",
+        "to": "2026-01-21"
+      },
+      {
+        "title": "Shadow Cabinet Minister",
+        "type": "opposition",
+        "from": "2022-06-05",
+        "to": "2026-01-21"
+      },
+      {
+        "title": "Minister for Emergency Management and National Recovery and Resilience",
+        "type": "executive",
+        "from": "2021-07-02",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Minister for Regionalisation, Regional Communications and Regional Education",
+        "type": "executive",
+        "from": "2021-07-02",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2021-07-02",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Leader of the Nationals in the Senate",
+        "type": "party",
+        "from": "2019-07-02"
+      },
+      {
+        "title": "Minister for Agriculture",
+        "type": "executive",
+        "from": "2019-05-29",
+        "to": "2020-02-02"
+      },
+      {
+        "title": "Minister for Regional Services, Local Government and Decentralisation",
+        "type": "executive",
+        "from": "2018-08-28",
+        "to": "2019-05-29"
+      },
+      {
+        "title": "Minister for Rural Health",
+        "type": "executive",
+        "from": "2017-12-20",
+        "to": "2018-08-28"
+      },
+      {
+        "title": "Minister for Sport",
+        "type": "executive",
+        "from": "2017-12-20",
+        "to": "2019-05-29"
+      },
+      {
+        "title": "Minister for Regional Communications",
+        "type": "executive",
+        "from": "2017-12-20",
+        "to": "2018-08-28"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2017-12-20",
+        "to": "2020-02-02"
+      },
+      {
+        "title": "Deputy Leader of the Federal Parliamentary Nationals",
+        "type": "party",
+        "from": "2017-12-07",
+        "to": "2020-02-02"
+      },
+      {
+        "title": "Chair, Senate Education and Employment Legislation Committee",
+        "type": "parliamentary",
+        "from": "2016-09-01",
+        "to": "2019-07-01"
+      },
+      {
+        "title": "Chair, Parliamentary Joint Committee on the Australian Commission for Law Enforcement Integrity",
+        "type": "parliamentary",
+        "from": "2016-09-15",
+        "to": "2017-12-20"
+      },
+      {
+        "title": "Chair, Senate Education and Employment Legislation Committee",
+        "type": "parliamentary",
+        "from": "2014-06-26",
+        "to": "2016-05-09"
+      },
+      {
+        "title": "Chair, Senate Publications Committee",
+        "type": "parliamentary",
+        "from": "2013-12-12",
+        "to": "2014-06-30"
+      },
+      {
+        "title": "Chair, Senate Education and Employment Legislation Committee",
+        "type": "parliamentary",
+        "from": "2013-11-14",
+        "to": "2014-02-10"
+      },
+      {
+        "title": "The Nationals Party Whip in the Senate",
+        "type": "party",
+        "from": "2013-11-12",
+        "to": "2014-06-30"
+      },
+      {
+        "title": "Temporary Chair of Committees",
+        "type": "parliamentary",
+        "from": "2012-05-10",
+        "to": "2013-11-11"
+      }
+    ],
+    "committees": [
+      "Senate Rural and Regional Affairs and Transport References Committee (substitute member)",
+      "Senate Select Committee on Productivity in Australia",
+      "Senate Standing Committee on Procedure",
+      "Senate Standing Committee on Appropriations, Staffing and Security"
+    ]
   },
   {
     "id": "pol_littleproud-david",
@@ -826,13 +2202,99 @@
       ],
       "notes": "Led the Nationals 30 May 2022 – 11 March 2026."
     },
-    "lastRecordUpdate": "2026-09-30",
+    "lastRecordUpdate": "2026-10-01",
     "createdAt": "2026-09-30T09:00:00+10:00",
-    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
     "electorate": "Maranoa",
     "officialWebsite": "https://davidlittleproud.com.au/",
     "partyNote": "APH lists party as Liberal National Party of Queensland (LNP); sits in the federal Nationals party room.",
-    "aphDisplayName": "Hon David Littleproud MP"
+    "aphDisplayName": "Hon David Littleproud MP",
+    "parliamentaryService": "Elected to the House of Representatives for Maranoa, Queensland, at the 2016 election and re-elected in 2019, 2022 and 2025. The Parliament of Australia records no state parliamentary service. He entered cabinet on 20 December 2017 as Minister for Agriculture and Water Resources and held agriculture, water, drought and emergency management portfolios until the change of government on 23 May 2022. He was Deputy Leader of the Federal Parliamentary Nationals from 4 February 2020 to 30 May 2022 and Leader from 30 May 2022 until 11 March 2026, serving as Shadow Minister for Agriculture for most of that period. He is recorded as Shadow Minister for Tourism and Shadow Minister for Emergency Management from 16 March 2026.",
+    "career": [
+      {
+        "title": "Shadow Minister for Tourism",
+        "type": "opposition",
+        "from": "2026-03-16"
+      },
+      {
+        "title": "Shadow Minister for Emergency Management",
+        "type": "opposition",
+        "from": "2026-03-16"
+      },
+      {
+        "title": "Shadow Cabinet Minister",
+        "type": "opposition",
+        "from": "2026-02-17",
+        "to": "2026-03-16"
+      },
+      {
+        "title": "Shadow Minister for Agriculture",
+        "type": "opposition",
+        "from": "2026-02-17",
+        "to": "2026-03-16"
+      },
+      {
+        "title": "Leader of the Federal Parliamentary Nationals",
+        "type": "party",
+        "from": "2022-05-30",
+        "to": "2026-03-11"
+      },
+      {
+        "title": "Shadow Minister for Agriculture",
+        "type": "opposition",
+        "from": "2022-06-05",
+        "to": "2026-01-21"
+      },
+      {
+        "title": "Shadow Cabinet Minister",
+        "type": "opposition",
+        "from": "2022-06-05",
+        "to": "2026-01-21"
+      },
+      {
+        "title": "Minister for Agriculture and Northern Australia",
+        "type": "executive",
+        "from": "2021-07-02",
+        "to": "2022-05-23"
+      },
+      {
+        "title": "Minister for Agriculture, Drought and Emergency Management",
+        "type": "executive",
+        "from": "2020-02-06",
+        "to": "2021-07-02"
+      },
+      {
+        "title": "Deputy Leader of the Federal Parliamentary Nationals",
+        "type": "party",
+        "from": "2020-02-04",
+        "to": "2022-05-30"
+      },
+      {
+        "title": "Minister for Water Resources, Drought, Rural Finance, Natural Disaster and Emergency Management",
+        "type": "executive",
+        "from": "2019-05-29",
+        "to": "2020-02-06"
+      },
+      {
+        "title": "Minister Assisting the Prime Minister for Drought Preparation and Response",
+        "type": "executive",
+        "from": "2018-11-26",
+        "to": "2019-05-29"
+      },
+      {
+        "title": "Minister for Agriculture and Water Resources",
+        "type": "executive",
+        "from": "2017-12-20",
+        "to": "2019-05-29"
+      },
+      {
+        "title": "Cabinet Minister",
+        "type": "executive",
+        "from": "2017-12-20",
+        "to": "2022-05-23"
+      }
+    ],
+    "committees": []
   },
   {
     "id": "pol_shoebridge-david",
@@ -882,9 +2344,9 @@
       ],
       "notes": "Elected Leader of the Australian Greens on 30 September 2026, succeeding Larissa Waters. Verified against the party's release and ABC, SBS and The Conversation reporting on the same day; the APH profile had not yet been updated."
     },
-    "lastRecordUpdate": "2026-09-30",
+    "lastRecordUpdate": "2026-10-01",
     "createdAt": "2026-09-30T09:00:00+10:00",
-    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
     "officialWebsite": "https://greens.org.au/nsw/person/david-shoebridge",
     "aphDisplayName": "Senator David Shoebridge"
   },
@@ -1143,11 +2605,46 @@
       ],
       "notes": "First elected to the House of Representatives for Oxley in 1996; elected to the Senate in 2016. APH records the party as One Nation from 28 January 2026 following its rebranding from Pauline Hanson's One Nation."
     },
-    "lastRecordUpdate": "2026-09-30",
+    "lastRecordUpdate": "2026-10-01",
     "createdAt": "2026-09-30T09:00:00+10:00",
-    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
     "officialWebsite": "https://www.onenation.org.au/",
-    "aphDisplayName": "Senator Pauline Hanson"
+    "aphDisplayName": "Senator Pauline Hanson",
+    "parliamentaryService": "Elected to the House of Representatives for Oxley, Queensland, at the 1996 general election and defeated at the 1998 election; the Parliament of Australia records her party service in that period as Independent from 2 March 1996 to 27 June 1997 and as Pauline Hanson's One Nation from 27 June 1997 to 3 October 1998. Elected to the Senate for Queensland at the 2016 election and re-elected in 2022. Recorded as Leader of the Federal Parliamentary Pauline Hanson's One Nation from 2 July 2016 and as Leader of One Nation from 28 January 2026, when the party's name changed in the parliamentary record.",
+    "career": [
+      {
+        "title": "Leader of One Nation",
+        "type": "party",
+        "from": "2026-01-28"
+      },
+      {
+        "title": "Leader of the Federal Parliamentary Pauline Hanson's One Nation",
+        "type": "party",
+        "from": "2016-07-02",
+        "to": "2026-01-28"
+      },
+      {
+        "title": "Pauline Hanson's One Nation Whip in the Senate",
+        "type": "party",
+        "from": "2019-07-02",
+        "to": "2025-10-27"
+      },
+      {
+        "title": "Deputy Chair, Joint Select Committee on Australia's Family Law System",
+        "type": "parliamentary",
+        "from": "2019-10-24",
+        "to": "2021-11-22"
+      },
+      {
+        "title": "Chair, Senate Select Committee on Lending to Primary Production Customers",
+        "type": "parliamentary",
+        "from": "2017-11-13",
+        "to": "2017-12-06"
+      }
+    ],
+    "committees": [
+      "Senate Standing Committee for the Selection of Bills"
+    ]
   },
   {
     "id": "pol_roberts-malcolm",
@@ -1183,11 +2680,27 @@
       ],
       "notes": "Elected in 2016; that election was ruled void by the High Court in October 2017; elected again in 2019 and re-elected in 2025."
     },
-    "lastRecordUpdate": "2026-09-30",
+    "lastRecordUpdate": "2026-10-01",
     "createdAt": "2026-09-30T09:00:00+10:00",
-    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
     "officialWebsite": "https://www.malcolmrobertsqld.com.au",
-    "aphDisplayName": "Senator Malcolm Roberts"
+    "aphDisplayName": "Senator Malcolm Roberts",
+    "parliamentaryService": "Elected to the Senate for Queensland at the 2016 election. The Parliament of Australia records that this election was ruled void on 27 October 2017 under section 44(i) of the Constitution, with ineligibility dating from 2 July 2016. Elected to the Senate for Queensland again at the 2019 election, with service from 1 July 2019, and re-elected in 2025. Recorded as a member of Pauline Hanson's One Nation until 28 January 2026 and of One Nation from that date.",
+    "career": [
+      {
+        "title": "Pauline Hanson's One Nation Acting Whip",
+        "type": "party",
+        "from": "2021-10-18",
+        "to": "2021-10-21"
+      },
+      {
+        "title": "Chair, Senate Select Committee on Lending to Primary Production Customers",
+        "type": "parliamentary",
+        "from": "2017-03-20",
+        "to": "2017-10-27"
+      }
+    ],
+    "committees": []
   },
   {
     "id": "pol_farley-david",
@@ -1230,11 +2743,16 @@
       ],
       "notes": "Elected at the Farrer by-election held on 9 May 2026, the first One Nation candidate elected to the House of Representatives. No official website is listed on APH."
     },
-    "lastRecordUpdate": "2026-09-30",
+    "lastRecordUpdate": "2026-10-01",
     "createdAt": "2026-09-30T09:00:00+10:00",
-    "updatedAt": "2026-09-30T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
     "electorate": "Farrer",
-    "aphDisplayName": "Mr David Farley MP"
+    "aphDisplayName": "Mr David Farley MP",
+    "parliamentaryService": "Elected to the House of Representatives for Farrer, New South Wales, at the 2026 by-election held after the resignation of the Hon Sussan Ley. The Parliament of Australia records his One Nation party service from 9 May 2026 and his membership of the House Standing Committee on Primary Industries from 24 June 2026. No earlier parliamentary service is recorded.",
+    "career": [],
+    "committees": [
+      "House of Representatives Standing Committee on Primary Industries"
+    ]
   },
   {
     "id": "pol_demo-vance-eleanor",

@@ -325,5 +325,938 @@
     "isDemonstration": true,
     "createdAt": "2026-09-30T08:00:00+10:00",
     "updatedAt": "2026-09-30T10:00:00+10:00"
+  },
+  {
+    "id": "clm_david-shoebridge-20240428-1",
+    "politicianId": "pol_shoebridge-david",
+    "quote": "Compare it to Taiwan, a country with about the same population – and a similar size economy – that faces a vastly larger security threat. We are spending as much as twice what Taiwan spends on military expenditure.",
+    "summary": "Australia spends as much as twice what Taiwan, a country with a similar-sized economy, spends on its military.",
+    "date": "2024-04-28",
+    "context": "Video posted on X",
+    "issueIds": [
+      "iss_defence",
+      "iss_economy"
+    ],
+    "originalSourceId": "src_twitter-com-davidshoebridge-status-1784420837871038520-82e807",
+    "checkable": true,
+    "currentAssessmentId": "asm_david-shoebridge-20240428-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_david-shoebridge-20240415-1",
+    "politicianId": "pol_shoebridge-david",
+    "quote": "It allows the government to ban people from certain countries from ever travelling to Australia. The government has not said what countries this will apply to. But it could be literally any country.",
+    "summary": "The Migration Amendment (Removal and Other Measures) Bill 2024 would let the government ban people from any country from travelling to Australia.",
+    "date": "2024-04-15",
+    "context": "Video posted on X describing the Migration Amendment (Removal and Other Measures) Bill 2024 as a 'Trump-style travel ban bill'",
+    "issueIds": [
+      "iss_immigration"
+    ],
+    "originalSourceId": "src_twitter-com-davidshoebridge-status-1779647157567660250-4ad733",
+    "checkable": true,
+    "currentAssessmentId": "asm_david-shoebridge-20240415-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_david-shoebridge-20231107-1",
+    "politicianId": "pol_shoebridge-david",
+    "quote": "selling weapons, after weapons, after weapons to Israel",
+    "summary": "Australia has been selling weapons after weapons to Israel.",
+    "date": "2023-11-07",
+    "context": "Senate, debate to take note of answers to questions without notice",
+    "issueIds": [
+      "iss_defence"
+    ],
+    "originalSourceId": "src_parlinfo-aph-gov-au-parlinfo-genpdf-chamber-hansards-27137-0134-hansar-a8311b",
+    "checkable": true,
+    "currentAssessmentId": "asm_david-shoebridge-20231107-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_anthony-albanese-20251106-1",
+    "politicianId": "pol_albanese-anthony",
+    "quote": "Those opposite, when they were in government, ripped $20 million from Foodbank each and every year",
+    "summary": "The Coalition cut $20 million a year from Foodbank when in government.",
+    "date": "2025-11-06",
+    "context": "House of Representatives, Question Time",
+    "issueIds": [
+      "iss_economy"
+    ],
+    "originalSourceId": "src_parlinfo-aph-gov-au-parlinfo-download-chamber-hansardr-28878-toc-pdf-h-bbcbe8",
+    "checkable": true,
+    "currentAssessmentId": "asm_anthony-albanese-20251106-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_anthony-albanese-20251103-1",
+    "politicianId": "pol_albanese-anthony",
+    "quote": "Every single measure by the government, before the last election and since, has been opposed by those opposite.",
+    "summary": "The Coalition has opposed every measure of the Albanese government.",
+    "date": "2025-11-03",
+    "context": "House of Representatives, Question Time, answering an opposition question on cost of living and food security",
+    "issueIds": [
+      "iss_health",
+      "iss_economy",
+      "iss_housing"
+    ],
+    "originalSourceId": "src_aph-gov-au-parliamentary-business-hansard-hansard-display-688800",
+    "checkable": true,
+    "currentAssessmentId": "asm_anthony-albanese-20251103-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_anthony-albanese-20250731-1",
+    "politicianId": "pol_albanese-anthony",
+    "quote": "One of the things that my government has done, of course, is introduce energy bill relief - three lots of energy bill relief, all of which were opposed by those opposite",
+    "summary": "The Coalition opposed all three rounds of energy bill relief.",
+    "date": "2025-07-31",
+    "context": "House of Representatives, Question Time, responding to a question from the Leader of the Opposition",
+    "issueIds": [
+      "iss_energy",
+      "iss_economy"
+    ],
+    "originalSourceId": "src_aph-gov-au-parliamentary-business-hansard-hansard-display-20eeea",
+    "checkable": true,
+    "currentAssessmentId": "asm_anthony-albanese-20250731-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_anthony-albanese-20250401-1",
+    "politicianId": "pol_albanese-anthony",
+    "quote": "The last time government changed in Australia, in 2013, in the 2014 budget $30 billion was ripped out of public schools in that budget",
+    "summary": "The Coalition's 2014 budget cut $30 billion from public schools.",
+    "date": "2025-04-01",
+    "datePrecision": "month",
+    "context": "Televised leaders' debates during the 2025 election campaign (Sky News and ABC debates; exact dates not stated in the fact-check)",
+    "issueIds": [
+      "iss_education",
+      "iss_economy"
+    ],
+    "originalSourceId": "src_youtu-be-kqcifkzny-u-765da2",
+    "checkable": true,
+    "currentAssessmentId": "asm_anthony-albanese-20250401-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_anthony-albanese-20250204-1",
+    "politicianId": "pol_albanese-anthony",
+    "quote": "If the Leader of the Opposition and the shadow treasurer had their way, Australian families would be $7200 worse off than they are today",
+    "summary": "Australian families would be $7,200 worse off under the Coalition.",
+    "date": "2025-02-04",
+    "context": "House of Representatives, Question Time",
+    "issueIds": [
+      "iss_economy",
+      "iss_tax"
+    ],
+    "originalSourceId": "src_parlinfo-aph-gov-au-parlinfo-download-chamber-hansardr-28682-toc-pdf-h-7771a4",
+    "checkable": true,
+    "currentAssessmentId": "asm_anthony-albanese-20250204-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_anthony-albanese-20240326-1",
+    "politicianId": "pol_albanese-anthony",
+    "quote": "That's 790,000 new jobs created. More than any first term government on record.",
+    "summary": "790,000 new jobs have been created under Labor, more than under any first-term government on record.",
+    "date": "2024-03-26",
+    "context": "Post on X (video)",
+    "issueIds": [
+      "iss_economy"
+    ],
+    "originalSourceId": "src_twitter-com-albomp-status-1772733897173762360-fb3f50",
+    "checkable": true,
+    "currentAssessmentId": "asm_anthony-albanese-20240326-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_anthony-albanese-20230905-1",
+    "politicianId": "pol_albanese-anthony",
+    "quote": "In between I will have the first bilateral visit by an Australian leader to the Philippines in over two decades",
+    "summary": "The Prime Minister's September 2023 trip was the first bilateral visit to the Philippines by an Australian leader in more than 20 years.",
+    "date": "2023-09-05",
+    "context": "House of Representatives, discussing the forthcoming visit to Indonesia, the Philippines and India",
+    "issueIds": [
+      "iss_defence"
+    ],
+    "originalSourceId": "src_aph-gov-au-parliamentary-business-hansard-hansard-display-a6b6ac",
+    "checkable": true,
+    "currentAssessmentId": "asm_anthony-albanese-20230905-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_anthony-albanese-20230808-1",
+    "politicianId": "pol_albanese-anthony",
+    "quote": "That is the Uluru Statement from the Heart on an A4 bit of paper. That is it.",
+    "summary": "The Uluru Statement from the Heart is a one-page document.",
+    "date": "2023-08-08",
+    "context": "House of Representatives, Question Time, responding to claims that the statement was 26 pages long",
+    "issueIds": [],
+    "originalSourceId": "src_youtube-com-watch-055d31",
+    "checkable": true,
+    "currentAssessmentId": "asm_anthony-albanese-20230808-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_jim-chalmers-20260216-1",
+    "politicianId": "pol_chalmers-jim",
+    "quote": "Angus Taylor is the architect of the Liberal Party's policy for higher taxes on workers, bigger deficits and more debt",
+    "summary": "The Coalition went to the 2025 election with a policy of higher taxes, bigger deficits and more debt.",
+    "date": "2026-02-16",
+    "context": "Interview, Today program, Channel Nine",
+    "issueIds": [
+      "iss_economy",
+      "iss_tax"
+    ],
+    "originalSourceId": "src_ministers-treasury-gov-au-ministers-jim-chalmers-2022-transcripts-inte-126957",
+    "checkable": true,
+    "currentAssessmentId": "asm_jim-chalmers-20260216-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_jim-chalmers-20250409-1",
+    "politicianId": "pol_chalmers-jim",
+    "quote": "You just made those numbers up ... You literally made those numbers up.",
+    "summary": "Angus Taylor made up his figures on price rises under Labor (groceries up 30 per cent; gas, electricity and insurance up more than 30 per cent).",
+    "date": "2025-04-09",
+    "context": "Sky News Treasurers' Debate, responding to Angus Taylor's statement that groceries had risen 30 per cent and gas, electricity and insurance by more than 30 per cent under Labor",
+    "issueIds": [
+      "iss_economy",
+      "iss_energy"
+    ],
+    "originalSourceId": "src_skynews-com-au-australia-news-politics-the-treasurers-debate-jim-chalm-98b80f",
+    "checkable": true,
+    "currentAssessmentId": "asm_jim-chalmers-20250409-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_jim-chalmers-20250311-1",
+    "politicianId": "pol_chalmers-jim",
+    "quote": "The biggest risk to Australians on low and fixed incomes is Peter Dutton ... He describes the indexation of pensions and payments as wasteful spending.",
+    "summary": "Peter Dutton described the indexation of pensions and payments as wasteful spending.",
+    "date": "2025-03-11",
+    "context": "Joint media release with the Minister for Social Services",
+    "issueIds": [
+      "iss_economy"
+    ],
+    "originalSourceId": "src_archive-md-wmpcm-755fbf",
+    "checkable": true,
+    "currentAssessmentId": "asm_jim-chalmers-20250311-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_jim-chalmers-20240401-1",
+    "politicianId": "pol_chalmers-jim",
+    "quote": "That's why instead of only banking around 40 per cent of revenue upgrades like our predecessors averaged, we banked 88 per cent.",
+    "summary": "Labor has banked 88 per cent of revenue upgrades, compared with about 40 per cent under its predecessors.",
+    "date": "2024-04-01",
+    "datePrecision": "month",
+    "context": "Pre-budget address to the Committee for Economic Development of Australia (April 2024; exact date not stated in the fact-check)",
+    "issueIds": [
+      "iss_economy"
+    ],
+    "originalSourceId": "src_parlinfo-aph-gov-au-parlinfo-download-media-pressrel-9648060-upload-bi-906cfe",
+    "checkable": true,
+    "currentAssessmentId": "asm_jim-chalmers-20240401-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_mark-butler-20250226-1",
+    "politicianId": "pol_butler-mark",
+    "quote": "Today, Shadow Health Minister Anne Ruston confirmed Australians will not get free GP visits under Peter Dutton and the Liberals",
+    "summary": "The Shadow Health Minister confirmed Australians would not get free GP visits under a Coalition government.",
+    "date": "2025-02-26",
+    "context": "Media release by the Minister for Health and Aged Care, following the Shadow Health Minister's appearance at Senate estimates",
+    "issueIds": [
+      "iss_health"
+    ],
+    "originalSourceId": "src_markbutler-net-au-news-media-releases-shadow-health-minister-confirms--ee5783",
+    "checkable": true,
+    "currentAssessmentId": "asm_mark-butler-20250226-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_mark-butler-20240429-1",
+    "politicianId": "pol_butler-mark",
+    "quote": "had been in freefall after a decade of cuts and neglect to Medicare by the former government",
+    "summary": "Bulk billing rates were in free fall under the previous Coalition government.",
+    "date": "2024-04-29",
+    "context": "Media release, 'Bulk billing slide stopped thanks to Albanese Government', repeated the same day in interviews on ABC News Breakfast, ABC Radio AM and Sky News",
+    "issueIds": [
+      "iss_health"
+    ],
+    "originalSourceId": "src_health-gov-au-ministers-the-hon-mark-butler-mp-media-bulk-billing-slid-69b1a0",
+    "checkable": true,
+    "currentAssessmentId": "asm_mark-butler-20240429-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_katy-gallagher-20250114-1",
+    "politicianId": "pol_gallagher-katy",
+    "quote": "This is all part of Peter Dutton's plan for $347 billion in cuts to vital services like Medicare, pensions and housing which will leave Australians worse off at a time when people are already doing it tough.",
+    "summary": "Peter Dutton plans $347 billion in cuts to services such as Medicare, pensions and housing.",
+    "date": "2025-01-14",
+    "context": "Media release, 'Services to be worse in Hobart under Dutton'",
+    "issueIds": [
+      "iss_economy",
+      "iss_health"
+    ],
+    "originalSourceId": "src_katygallagher-com-au-media-centre-media-releases-services-to-be-worse--0dd162",
+    "checkable": true,
+    "currentAssessmentId": "asm_katy-gallagher-20250114-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_angus-taylor-20260818-1",
+    "politicianId": "pol_taylor-angus",
+    "quote": "The National Australia Bank has confirmed that Labor's toxic taxes will send rents soaring by 30 per cent.",
+    "summary": "NAB has confirmed that Labor's tax changes will push rents up by 30 per cent.",
+    "date": "2026-08-18",
+    "context": "House of Representatives, Question Time (question to the Prime Minister)",
+    "issueIds": [
+      "iss_housing",
+      "iss_tax",
+      "iss_economy"
+    ],
+    "originalSourceId": "src_aph-gov-au-parliamentary-business-hansard-hansard-display-e4860f",
+    "checkable": true,
+    "currentAssessmentId": "asm_angus-taylor-20260818-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_angus-taylor-20260422-1",
+    "politicianId": "pol_taylor-angus",
+    "quote": "This year alone, 80,000 more than the government's own forecasts",
+    "summary": "Net overseas migration this year is 80,000 above the government's own forecasts.",
+    "date": "2026-04-22",
+    "context": "Comments to the media, 22 April 2026",
+    "issueIds": [
+      "iss_immigration"
+    ],
+    "originalSourceId": "src_aap-com-au-factcheck-taylor-compares-past-figures-with-future-forecast-fadac1",
+    "checkable": true,
+    "currentAssessmentId": "asm_angus-taylor-20260422-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_angus-taylor-20260319-1",
+    "politicianId": "pol_taylor-angus",
+    "quote": "They [Ampol] are being forced by Labor's emissions standards to export their fuel right now",
+    "summary": "Ampol is being forced by Labor's emissions standards to export its fuel.",
+    "date": "2026-03-19",
+    "context": "Sky News interview clip posted by Mr Taylor on Facebook",
+    "issueIds": [
+      "iss_energy",
+      "iss_climate"
+    ],
+    "originalSourceId": "src_facebook-com-watch-5af5dc",
+    "checkable": true,
+    "currentAssessmentId": "asm_angus-taylor-20260319-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_angus-taylor-20251027-1",
+    "politicianId": "pol_taylor-angus",
+    "quote": "Investment has fallen off a cliff under Labor, and that includes, of course, the mining industry and other resource-based industries",
+    "summary": "Investment, including mining investment, has fallen off a cliff under Labor.",
+    "date": "2025-10-27",
+    "context": "Interview, Sky News First Edition",
+    "issueIds": [
+      "iss_economy"
+    ],
+    "originalSourceId": "src_angustaylor-com-au-content-interview-peter-stefanovic-sky-news-first-e-40b14e",
+    "checkable": true,
+    "currentAssessmentId": "asm_angus-taylor-20251027-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_angus-taylor-20250325-1",
+    "politicianId": "pol_taylor-angus",
+    "quote": "We're approaching two million new people in just five years. Labor's lost control",
+    "summary": "Australia is approaching two million new migrants in five years under Labor.",
+    "date": "2025-03-25",
+    "context": "Interview, Sky News",
+    "issueIds": [
+      "iss_immigration"
+    ],
+    "originalSourceId": "src_angustaylor-com-au-content-interview-kieran-gilbert-sky-news-tuesday-2-79138c",
+    "checkable": true,
+    "currentAssessmentId": "asm_angus-taylor-20250325-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_angus-taylor-20250129-1",
+    "politicianId": "pol_taylor-angus",
+    "quote": "We've seen Labor adding 36,000 new Canberra based bureaucrats.",
+    "summary": "Labor has added 36,000 new Canberra-based public servants.",
+    "date": "2025-01-29",
+    "context": "Press conference on inflation data",
+    "issueIds": [
+      "iss_economy"
+    ],
+    "originalSourceId": "src_angustaylor-com-au-content-press-conference-inflation-data-wednesday-2-d36bd2",
+    "checkable": true,
+    "currentAssessmentId": "asm_angus-taylor-20250129-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_angus-taylor-20240115-1",
+    "politicianId": "pol_taylor-angus",
+    "quote": "In the first 18 months of Labor's time in office, personal income tax had increased by a record 27 per cent",
+    "summary": "Personal income tax rose by a record 27 per cent in Labor's first 18 months in office.",
+    "date": "2024-01-15",
+    "context": "Opinion piece in The Australian",
+    "issueIds": [
+      "iss_tax",
+      "iss_economy"
+    ],
+    "originalSourceId": "src_theaustralian-com-au-commentary-australians-deserve-unambiguous-commit-510363",
+    "checkable": true,
+    "currentAssessmentId": "asm_angus-taylor-20240115-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_angus-taylor-20230507-1",
+    "politicianId": "pol_taylor-angus",
+    "quote": "We've got the worst inflation — core inflation — in the G7. It's above the US, it's above the UK, Canada, Europe",
+    "summary": "Australia's core inflation is higher than every G7 country's.",
+    "date": "2023-05-07",
+    "context": "Interview, ABC TV Insiders",
+    "issueIds": [
+      "iss_economy"
+    ],
+    "originalSourceId": "src_abc-net-au-news-2023-05-07-insiders-may-7-102314696-5a51a0",
+    "checkable": true,
+    "currentAssessmentId": "asm_angus-taylor-20230507-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_jane-hume-20260215-1",
+    "politicianId": "pol_hume-jane",
+    "quote": "Around half a million people coming to the country per year has put pressure on our services, pressure on our health system, pressure on our infrastructure, on our roads, and certainly pressure on housing as well.",
+    "summary": "Around half a million people a year are coming to Australia, putting pressure on services and housing.",
+    "date": "2026-02-15",
+    "context": "Interview, ABC Insiders",
+    "issueIds": [
+      "iss_immigration",
+      "iss_housing"
+    ],
+    "originalSourceId": "src_youtu-be-spzg1yng6q4-cb8732",
+    "checkable": true,
+    "currentAssessmentId": "asm_jane-hume-20260215-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_jane-hume-20250515-1",
+    "politicianId": "pol_hume-jane",
+    "quote": "We've never had a tax on unrealised capital gains before",
+    "summary": "Australia has never had a tax on unrealised capital gains.",
+    "date": "2025-05-15",
+    "context": "Interview reported by Sky News after the May 2025 federal election",
+    "issueIds": [
+      "iss_tax"
+    ],
+    "originalSourceId": "src_skynews-com-au-breaking-news-jane-hume-accuses-labor-of-breaking-elect-03019b",
+    "checkable": true,
+    "currentAssessmentId": "asm_jane-hume-20250515-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_jane-hume-20250324-1",
+    "politicianId": "pol_hume-jane",
+    "quote": "It now takes about 50 per cent longer to apply for an age pension. It takes five times longer to apply for a low income card.",
+    "summary": "Age pension applications take 50 per cent longer and low income card applications five times longer.",
+    "date": "2025-03-24",
+    "context": "Interview, ABC",
+    "issueIds": [
+      "iss_economy"
+    ],
+    "originalSourceId": "src_mvau-lt-media-602a7ee4-1767-4f6a-9e33-56155d6b5229-2d55f5",
+    "checkable": true,
+    "currentAssessmentId": "asm_jane-hume-20250324-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_jane-hume-20241201-1",
+    "politicianId": "pol_hume-jane",
+    "quote": "Labor has added $347 billion in spending since the election. They are the biggest spending government outside of wartime or a global crisis.",
+    "summary": "Labor has added $347 billion in spending since the election.",
+    "date": "2024-12-01",
+    "datePrecision": "month",
+    "context": "Post on Instagram (December 2024; exact date not stated in the fact-check)",
+    "issueIds": [
+      "iss_economy"
+    ],
+    "originalSourceId": "src_mvau-lt-media-6ce1b2dc-4c1f-4133-9018-8dc189664d79-4ea6e4",
+    "checkable": true,
+    "currentAssessmentId": "asm_jane-hume-20241201-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_jane-hume-20260819-1",
+    "politicianId": "pol_hume-jane",
+    "quote": "Yesterday NAB came out and said rents would rise by 30 per cent because of Labor's tax changes. Today, it's real estate agent Ray White doubling down.",
+    "summary": "NAB said rents would rise by 30 per cent because of Labor's tax changes.",
+    "date": "2026-08-19",
+    "context": "Video posted on Facebook",
+    "issueIds": [
+      "iss_housing",
+      "iss_tax"
+    ],
+    "originalSourceId": "src_facebook-com-watch-42a0c3",
+    "checkable": true,
+    "currentAssessmentId": "asm_jane-hume-20260819-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_michaelia-cash-20230510-1",
+    "politicianId": "pol_cash-michaelia",
+    "quote": "It is based on a particular person's race and they will have rights that no one else in Australia has. So you are intentionally embedding in the Constitution, paramount rights in favour of a certain group of people. These rights would in normal circumstances breach discrimination laws and be found to be unlawful, but as they are superior rights and are embedded in the Constitution, they will be an exception that the parliament cannot override.",
+    "summary": "The proposed Voice to Parliament would embed in the Constitution paramount rights for one group that would otherwise breach discrimination laws.",
+    "date": "2023-05-10",
+    "context": "Interview with The Australian, shortly after her appointment as Shadow Attorney-General",
+    "issueIds": [],
+    "originalSourceId": "src_theaustralian-com-au-nation-politics-indigenous-voice-to-parliament-is-0893ef",
+    "checkable": true,
+    "currentAssessmentId": "asm_michaelia-cash-20230510-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_james-paterson-20250227-1",
+    "politicianId": "pol_paterson-james",
+    "quote": "We do not exercise under live flight paths. We did not require commercial airliners to divert traffic at the last minute to protect their passengers on board. These are all things that the Chinese Navy has done in our waters.",
+    "summary": "The Chinese Navy conducted live-fire exercises in Australian waters.",
+    "date": "2025-02-27",
+    "context": "Interview, Sky News First Edition",
+    "issueIds": [
+      "iss_defence"
+    ],
+    "originalSourceId": "src_senatorpaterson-com-au-news-transcript-sky-news-first-edition-27-febru-27a862",
+    "checkable": true,
+    "currentAssessmentId": "asm_james-paterson-20250227-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_andrew-hastie-20250714-1",
+    "politicianId": "pol_hastie-andrew",
+    "quote": "If we keep having flotillas sail around our waters—test fire in our waters—without permission or without letting us know about it, if our sailors and airmen are continually harassed up in the Indo-Pacific, as we've seen over the last few years, that's a problem",
+    "summary": "China's navy test-fired in Australian waters without permission.",
+    "date": "2025-07-14",
+    "context": "Interview, ABC Afternoon Briefing",
+    "issueIds": [
+      "iss_defence"
+    ],
+    "originalSourceId": "src_andrewhastie-com-au-patricia-karvelas-005ad3",
+    "checkable": true,
+    "currentAssessmentId": "asm_andrew-hastie-20250714-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_andrew-hastie-20250401-1",
+    "politicianId": "pol_hastie-andrew",
+    "quote": "This shocking backflip by Labor is true to form, and consistent with their approach to Defence which has resulted in more than $80 billion in cuts and delays.",
+    "summary": "Labor's approach to Defence has resulted in more than $80 billion in cuts and delays.",
+    "date": "2025-04-01",
+    "datePrecision": "month",
+    "context": "Joint media statement with Opposition Leader Peter Dutton, 'Broken funding promise', during the 2025 election campaign (April 2025; exact date not stated in the fact-check)",
+    "issueIds": [
+      "iss_defence"
+    ],
+    "originalSourceId": "src_andrewhastie-com-au-joint-statement-broken-funding-promise-edbbee",
+    "checkable": true,
+    "currentAssessmentId": "asm_andrew-hastie-20250401-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_matt-canavan-20250728-1",
+    "politicianId": "pol_canavan-matt",
+    "quote": "BREAKING: The CSIRO has finally admitted that coal is the cheapest form of electricity. And this is even after they bias almost all of their assumptions against coal and in favour of wind and solar!",
+    "summary": "The CSIRO has admitted that coal is the cheapest form of electricity.",
+    "date": "2025-07-28",
+    "context": "Post on Facebook, featuring a cropped image of the CSIRO GenCost levelised-cost-of-electricity chart",
+    "issueIds": [
+      "iss_energy",
+      "iss_climate"
+    ],
+    "originalSourceId": "src_facebook-com-photo-002a59",
+    "checkable": true,
+    "currentAssessmentId": "asm_matt-canavan-20250728-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_matt-canavan-20230428-1",
+    "politicianId": "pol_canavan-matt",
+    "quote": "First day without the Liddell coal power station and the notices of a lack of power are flying thick and fast. Not a good sign and it is not even winter yet.",
+    "summary": "Lack-of-power notices followed the closure of the Liddell power station.",
+    "date": "2023-04-28",
+    "context": "Post on X, with screenshots of four Australian Energy Market Operator market notices",
+    "issueIds": [
+      "iss_energy"
+    ],
+    "originalSourceId": "src_twitter-com-mattjcan-status-1651832420931600386-fd7e48",
+    "checkable": true,
+    "currentAssessmentId": "asm_matt-canavan-20230428-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_bridget-mckenzie-20240219-1",
+    "politicianId": "pol_mckenzie-bridget",
+    "quote": "Labor's family car tax will put thousands of dollars on the price of new cars Australians love to drive",
+    "summary": "Labor's proposed vehicle efficiency standard is a 'family car tax' that will add thousands of dollars to new car prices.",
+    "date": "2024-02-19",
+    "context": "Joint media release with Ted O'Brien, published on the Liberal Party website",
+    "issueIds": [
+      "iss_tax",
+      "iss_climate",
+      "iss_economy"
+    ],
+    "originalSourceId": "src_liberal-org-au-latest-news-2024-02-19-labors-family-car-tax-will-put-t-ce2b50",
+    "checkable": true,
+    "currentAssessmentId": "asm_bridget-mckenzie-20240219-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_david-littleproud-20250301-1",
+    "politicianId": "pol_littleproud-david",
+    "quote": "They're going to bring in 1.8 million new people into this country over the next five years with nowhere to put them",
+    "summary": "Labor will bring 1.8 million new people into Australia over the next five years.",
+    "date": "2025-03-01",
+    "datePrecision": "month",
+    "context": "Interview, 4BC Breakfast radio, Brisbane (March 2025; exact date not stated in the fact-check)",
+    "issueIds": [
+      "iss_immigration",
+      "iss_housing"
+    ],
+    "originalSourceId": "src_omny-fm-shows-4bc-breakfast-nothing-new-rumours-of-internal-fiction-as-c0611b",
+    "checkable": true,
+    "currentAssessmentId": "asm_david-littleproud-20250301-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_david-littleproud-20250217-1",
+    "politicianId": "pol_littleproud-david",
+    "quote": "This government now has a seven-star construction code adding $60,000 to the construction of a home",
+    "summary": "The seven-star National Construction Code adds $60,000 to the cost of building a home.",
+    "date": "2025-02-17",
+    "context": "Interview, Sky News Australia",
+    "issueIds": [
+      "iss_housing",
+      "iss_energy",
+      "iss_economy"
+    ],
+    "originalSourceId": "src_parlinfo-aph-gov-au-parlinfo-search-display-display-w3p-query-id-3a-22-6ff10c",
+    "checkable": true,
+    "currentAssessmentId": "asm_david-littleproud-20250217-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_david-littleproud-20250101-1",
+    "politicianId": "pol_littleproud-david",
+    "quote": "The most popular selling vehicle in Australia - the Ford Everest - will go up by $6000 in purchase price this year, going up to $18,000 as it phases in. And then a RAV4 ... that's going up by nearly $3000 and going up by over $11,000 over this phase-in period.",
+    "summary": "The New Vehicle Efficiency Standard will raise the price of a Ford Everest by $6,000 and a Toyota RAV4 by nearly $3,000 in 2025.",
+    "date": "2025-01-01",
+    "context": "Interview, Sky News Australia",
+    "issueIds": [
+      "iss_climate",
+      "iss_tax",
+      "iss_economy"
+    ],
+    "originalSourceId": "src_skynews-com-au-australia-news-politics-david-littleproud-warns-aussies-801686",
+    "checkable": true,
+    "currentAssessmentId": "asm_david-littleproud-20250101-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_david-littleproud-20240923-1",
+    "politicianId": "pol_littleproud-david",
+    "quote": "Yeah, look, it's over 50 per cent because there's a compounding effect that's gone in every six months",
+    "summary": "More than 50 per cent of the price of a pot of beer is federal tax.",
+    "date": "2024-09-23",
+    "context": "Interview, 3AW Mornings with Tom Elliott, answering how much of the price of a pot of beer is federal tax",
+    "issueIds": [
+      "iss_tax",
+      "iss_economy"
+    ],
+    "originalSourceId": "src_omny-fm-shows-3aw-mornings-3aw-mornings-with-tom-elliott-mon-23-sept-2-d0a517",
+    "checkable": true,
+    "currentAssessmentId": "asm_david-littleproud-20240923-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_david-littleproud-20240818-1",
+    "politicianId": "pol_littleproud-david",
+    "quote": "While the landholders that might get the turbines and solar panels, they may get some financial benefit, those with the transmission lines don't.",
+    "summary": "Landholders who host transmission lines receive no financial benefit.",
+    "date": "2024-08-18",
+    "context": "Interview, ABC Insiders",
+    "issueIds": [
+      "iss_energy",
+      "iss_infrastructure"
+    ],
+    "originalSourceId": "src_youtube-com-watch-7e002f",
+    "checkable": true,
+    "currentAssessmentId": "asm_david-littleproud-20240818-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_pauline-hanson-20241201-1",
+    "politicianId": "pol_hanson-pauline",
+    "quote": "The Albanese Labor Government's poor management of immigration, energy policy, and the economy has left Australians suffering through the worst per-capita recession in our nation's history.",
+    "summary": "Australia is in the worst per-capita recession in its history.",
+    "date": "2024-12-01",
+    "datePrecision": "month",
+    "context": "Post on Facebook (December 2024; exact date not stated in the fact-check)",
+    "issueIds": [
+      "iss_economy"
+    ],
+    "originalSourceId": "src_mvau-lt-media-1d7a7c42-50ab-4f33-ad85-a6ad300953a0-349ab5",
+    "checkable": true,
+    "currentAssessmentId": "asm_pauline-hanson-20241201-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_pauline-hanson-20260617-1",
+    "politicianId": "pol_hanson-pauline",
+    "quote": "Labor has been bringing more than 1375 people per day for the past three years",
+    "summary": "Net migration under Labor has exceeded 1,375 people a day for three years.",
+    "date": "2026-06-17",
+    "context": "Speech, National Press Club, Canberra",
+    "issueIds": [
+      "iss_immigration"
+    ],
+    "originalSourceId": "src_youtu-be-wkz9q3kogr8-3c1786",
+    "checkable": true,
+    "currentAssessmentId": "asm_pauline-hanson-20260617-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_pauline-hanson-20260101-1",
+    "politicianId": "pol_hanson-pauline",
+    "quote": "Did you know in South Australia, I don't know if you know, they're allowing foreign students in the country or people on a visa here for three months to actually vote in your council elections ... So you've got people here on your councils who are not even Australian citizens, as the mayors, and positions on councils",
+    "summary": "South Australia lets short-term visa holders vote in council elections and non-citizens sit on councils as mayors and councillors.",
+    "date": "2026-01-01",
+    "datePrecision": "month",
+    "context": "Podcast interview published on YouTube (late January 2026; exact date not stated in the fact-check)",
+    "issueIds": [
+      "iss_immigration"
+    ],
+    "originalSourceId": "src_youtube-com-watch-1dfb1f",
+    "checkable": true,
+    "currentAssessmentId": "asm_pauline-hanson-20260101-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_pauline-hanson-20260728-1",
+    "politicianId": "pol_hanson-pauline",
+    "quote": "Of that 51,605, only 1800 were in the construction industry",
+    "summary": "Only 1,800 of 51,605 skilled migrants were in the construction industry.",
+    "date": "2026-07-28",
+    "context": "Video posted on Instagram, in which she said 739,000 people were brought in between 2022 and 2023 and only 51,605 were skilled",
+    "issueIds": [
+      "iss_immigration",
+      "iss_housing"
+    ],
+    "originalSourceId": "src_instagram-com-reels-dbwogr2zpyc-6b39dd",
+    "checkable": true,
+    "currentAssessmentId": "asm_pauline-hanson-20260728-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_pauline-hanson-20260617-2",
+    "politicianId": "pol_hanson-pauline",
+    "quote": "around 130,000 Australians are sleeping rough every night",
+    "summary": "About 130,000 Australians sleep rough every night.",
+    "date": "2026-06-17",
+    "context": "Speech, National Press Club, Canberra",
+    "issueIds": [
+      "iss_housing"
+    ],
+    "originalSourceId": "src_youtu-be-n17g0mw43ya-3a1fa1",
+    "checkable": true,
+    "currentAssessmentId": "asm_pauline-hanson-20260617-2-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_pauline-hanson-20260617-3",
+    "politicianId": "pol_hanson-pauline",
+    "quote": "The largest capital gains cohort is younger",
+    "summary": "People under 35 are the largest group reporting capital gains and would be most affected by the proposed CGT changes.",
+    "date": "2026-06-17",
+    "context": "Speech, National Press Club, Canberra (after citing figures on 18 to 34-year-olds reporting capital gains)",
+    "issueIds": [
+      "iss_tax"
+    ],
+    "originalSourceId": "src_youtu-be-n17g0mw43ya-8196ef",
+    "checkable": true,
+    "currentAssessmentId": "asm_pauline-hanson-20260617-3-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_malcolm-roberts-20240207-1",
+    "politicianId": "pol_roberts-malcolm",
+    "quote": "Methane cycle, soil carbon sequestration and forest carbon sequestration absorbs all Australian agricultural emissions, meaning Australian agriculture contributes nothing to global emissions.",
+    "summary": "Australian agriculture contributes nothing to global emissions because natural cycles absorb all of its emissions.",
+    "date": "2024-02-07",
+    "context": "Senate, Question Time",
+    "issueIds": [
+      "iss_climate"
+    ],
+    "originalSourceId": "src_youtube-com-watch-366f78",
+    "checkable": true,
+    "currentAssessmentId": "asm_malcolm-roberts-20240207-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_malcolm-roberts-20240130-1",
+    "politicianId": "pol_roberts-malcolm",
+    "quote": "...And this doesn't include the 2.7 million visa holders in Australia...",
+    "summary": "Australia's 27 million population figure does not include 2.7 million visa holders.",
+    "date": "2024-01-30",
+    "context": "Post on X, sharing an ABC News post about the population reaching 27 million",
+    "issueIds": [
+      "iss_immigration",
+      "iss_housing"
+    ],
+    "originalSourceId": "src_twitter-com-mrobertsqld-status-1752134978396360761-63cb4d",
+    "checkable": true,
+    "currentAssessmentId": "asm_malcolm-roberts-20240130-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_malcolm-roberts-20240301-1",
+    "politicianId": "pol_roberts-malcolm",
+    "quote": "Scientific records show that bleaching has been a natural part of the Great Barrier Reef's cycles and other reef cycles for millennia ... That is fact.",
+    "summary": "Mass bleaching has been a natural part of Great Barrier Reef cycles for millennia.",
+    "date": "2024-03-01",
+    "datePrecision": "month",
+    "context": "Senate speech on a motion about the Great Barrier Reef (March 2024; published on the senator's website and as a video on X on 25 March 2024)",
+    "issueIds": [
+      "iss_climate"
+    ],
+    "originalSourceId": "src_malcolmrobertsqld-com-au-the-great-barrier-reef-is-not-dying-2-d0e1f2",
+    "checkable": true,
+    "currentAssessmentId": "asm_malcolm-roberts-20240301-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "clm_david-farley-20260823-1",
+    "politicianId": "pol_farley-david",
+    "quote": "Forty per cent of the nation's food comes out of Farrer, so it's pretty important.",
+    "summary": "Forty per cent of Australia's food comes from the electorate of Farrer.",
+    "date": "2026-08-23",
+    "context": "Interview, ABC TV Insiders",
+    "issueIds": [
+      "iss_economy",
+      "iss_infrastructure"
+    ],
+    "originalSourceId": "src_youtu-be-umbrzuy2nbm-8fc073",
+    "checkable": true,
+    "currentAssessmentId": "asm_david-farley-20260823-1-v1",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
   }
 ]

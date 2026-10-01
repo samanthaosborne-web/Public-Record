@@ -1,0 +1,369 @@
+[
+  {
+    "politicianSlug": "angus-taylor",
+    "quote": "The National Australia Bank has confirmed that Labor's toxic taxes will send rents soaring by 30 per cent.",
+    "summary": "NAB has confirmed that Labor's tax changes will push rents up by 30 per cent.",
+    "statementDate": "2026-08-18",
+    "statementContext": "House of Representatives, Question Time (question to the Prime Minister)",
+    "originalSource": {"title": "House of Representatives Hansard, 18 August 2026: questions without notice", "publisher": "Parliament of Australia", "url": "https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber/hansardr/29176/&sid=0071", "tier": 1, "kind": "hansard", "publishedAt": "2026-08-18"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Angus Taylor mischaracterises NAB rent rise report", "url": "https://www.aap.com.au/factcheck/angus-taylor-mischaracterises-nab-rent-rise-report/", "publishedAt": "2026-08-28", "verdictAsPublished": "False"},
+    "status": "contradicted",
+    "findings": "NAB's 17 August 2026 economic newsletter described an illustrative scenario: if rental yields rose by one percentage point and property prices stayed flat, Sydney and Melbourne rents would need to rise by 25 to 30 per cent. It said any adjustment was more likely to combine lower dwelling prices and higher rents. In a note issued on 18 August, before the question was asked, NAB stated that the figure 'was not a forecast'. Ray White, whose modelling produced a similar figure, said its scenario assumed no price falls, which it considered unlikely, and was 'not a forecast of rent growth'. No published NAB material forecast a 30 per cent rise in rents.",
+    "context": "The question concerned the changes to negative gearing and capital gains tax announced in the May 2026 budget. Mr Taylor's office told AAP FactCheck the claim was based on a section of NAB's newsletter as reported by The Australian, and on Ray White research. Deputy Liberal leader Jane Hume made a similar claim the next day; it is recorded separately.",
+    "primarySources": [
+      {"title": "Weekly macroeconomic newsletter, 17 August 2026", "publisher": "National Australia Bank", "url": "https://m.update.nab.com.au/nl/jsp/m.jsp?c=%40JEzltDYguTPGPosc8jAO3W%2BhhNuIoMvIgYEJFrefyzM%3D", "whatItShows": "Illustrative scenario in which rents would need to rise 25 to 30 per cent if yields rose one point and prices were unchanged; says the adjustment is more likely a mix of higher rents and lower values."},
+      {"title": "What mix of rent rises and price falls would make property investment stack up again", "publisher": "Ray White Group", "url": "https://www.raywhite.com/news-and-market-insights/economic-updates/what-mix-of-rent-rises-and-price-falls-would-make-property-investment-stack-up-again", "whatItShows": "Models a rise of about 30 per cent only in a no-price-fall scenario that it describes as unlikely."},
+      {"title": "Tax reform: boosting home ownership, reforming negative gearing and capital gains tax", "publisher": "Australian Taxation Office", "url": "https://www.ato.gov.au/about-ato/new-legislation/in-detail/individuals/tax-reform-boosting-home-ownership-reforming-negative-gearing-and-capital-gains-tax", "whatItShows": "The May 2026 budget changes to negative gearing and capital gains tax under debate."}
+    ],
+    "politicianResponse": {"kind": "defence", "summary": "Mr Taylor's office told AAP FactCheck the claim was based on a section of NAB's 17 August newsletter, as reported by The Australian, and on Ray White research.", "date": "2026-08-28"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["housing", "tax", "economy"]
+  },
+  {
+    "politicianSlug": "angus-taylor",
+    "quote": "This year alone, 80,000 more than the government's own forecasts",
+    "summary": "Net overseas migration this year is 80,000 above the government's own forecasts.",
+    "statementDate": "2026-04-22",
+    "statementContext": "Comments to the media, 22 April 2026",
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Taylor compares past figures with future forecast for misleading migration claim", "url": "https://www.aap.com.au/factcheck/taylor-compares-past-figures-with-future-forecast-for-misleading-migration-claim/", "publishedAt": "2026-05-26", "verdictAsPublished": "Misleading"},
+    "status": "mixed",
+    "findings": "Mr Taylor's office said the figure compared the ABS net overseas migration estimate for the year to September 2025 (311,000) with the forecast of 225,000 for 2026-27 in the December 2024 Mid-Year Economic and Fiscal Outlook, a gap of 86,000. The 2026-27 financial year had not begun. Compared with the forecast for the year in progress, 2025-26, of 260,000 in the December 2025 MYEFO, the overshoot was about 51,000. The May 2026 budget later raised the forecasts to 295,000 for 2025-26 and 245,000 for 2026-27. Experts consulted by AAP FactCheck said the like-for-like comparison was with the 2025-26 forecast, while noting that forecasts have routinely undershot actual migration since the pandemic under both governments.",
+    "context": "Migration has exceeded the government's forecasts in several recent years; the dispute is over which forecast the latest actual figure should be compared with. Mr Taylor repeated the figure on ABC Insiders on 26 April 2026.",
+    "primarySources": [
+      {"title": "National, state and territory population (latest release)", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/latest-release", "whatItShows": "Net overseas migration of 311,000 in the year to September 2025."},
+      {"title": "Mid-Year Economic and Fiscal Outlook 2024-25", "publisher": "Australian Government (Treasury)", "url": "https://archive.budget.gov.au/2024-25/myefo/download/myefo2024-25.pdf", "whatItShows": "Net overseas migration forecast of 225,000 for 2026-27, the figure used by Mr Taylor's office."},
+      {"title": "Mid-Year Economic and Fiscal Outlook 2025-26", "publisher": "Australian Government (Treasury)", "url": "https://archive.budget.gov.au/2025-26/myefo/download/myefo-2025-26.pdf", "whatItShows": "Net overseas migration forecast of 260,000 for 2025-26."},
+      {"title": "Budget 2026-27, Budget Paper No. 1", "publisher": "Australian Government (Treasury)", "url": "https://budget.gov.au/content/bp1/download/bp1_2026-27.pdf", "whatItShows": "Forecasts raised to 295,000 for 2025-26 and 245,000 for 2026-27."}
+    ],
+    "politicianResponse": {"kind": "defence", "summary": "Mr Taylor's office told AAP FactCheck the figure compared the latest ABS net overseas migration estimate (311,000 for the year to September 2025) with the December 2024 MYEFO forecast of 225,000 for 2026-27.", "date": "2026-05-26"},
+    "correction": {"status": "repeated_unchanged", "date": "2026-04-26", "description": "Mr Taylor repeated the figure on ABC Insiders on 26 April 2026 ('we're running at about 80,000 a year above Labor's own targets'). No correction or clarification located as at 1 October 2026."},
+    "repeated": [
+      {"date": "2026-04-26", "context": "Interview, ABC Insiders: 'Just on the current run rate, we're running at about 80,000 a year above Labor's own targets.'", "source": {"title": "Insiders, 26 April 2026 (video, from 5:21)", "publisher": "ABC News (YouTube)", "url": "https://youtu.be/wK9LNyQ97_E?t=319", "tier": 2, "kind": "transcript"}}
+    ],
+    "topics": ["immigration"]
+  },
+  {
+    "politicianSlug": "angus-taylor",
+    "quote": "They [Ampol] are being forced by Labor's emissions standards to export their fuel right now",
+    "summary": "Ampol is being forced by Labor's emissions standards to export its fuel.",
+    "statementDate": "2026-03-19",
+    "statementContext": "Sky News interview clip posted by Mr Taylor on Facebook",
+    "originalSource": {"title": "Sky News interview clip posted to Facebook, 19 March 2026", "publisher": "Angus Taylor (Facebook)", "url": "https://www.facebook.com/watch/?v=1497971868615025", "tier": 1, "kind": "transcript", "publishedAt": "2026-03-19"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Taylor's fuel standards claim omits context", "url": "https://www.aap.com.au/factcheck/taylors-fuel-standards-claim-omits-context/", "publishedAt": "2026-04-10", "verdictAsPublished": "Mixed"},
+    "status": "mixed",
+    "findings": "A Parliamentary Library chronology shows that the Morrison government's Fuel Quality Standards (Petrol) Determination 2019 set a 10 parts-per-million sulphur limit from 1 July 2027, and that in 2021-22 the Coalition paid Ampol and Viva Energy $137.5 million each to meet the lower limit by the end of 2024 without legislating that date. The Albanese government legislated a 2024 deadline in 2022, then moved it to December 2025. Ampol told the ASX in October 2025 that its refinery upgrade would not be finished before mid-2026, and it exported higher-sulphur petrol in the meantime. After the standards were temporarily relaxed from 12 March 2026, Ampol said it could supply an extra 80 to 100 million litres a month domestically. The exports were connected to the compliance deadline the current government set, but the standard itself originated under the Coalition.",
+    "context": "Mr Taylor's office pointed AAP FactCheck to the Parliamentary Library chronology and to the December 2023 announcement by Energy Minister Chris Bowen of stricter sulphur and aromatics limits from December 2025. Mr Taylor made a similar statement on 2GB radio on 16 March 2026 and in a Facebook reel.",
+    "primarySources": [
+      {"title": "Vehicle emission standards: a chronology (2024-25)", "publisher": "Parliamentary Library, Parliament of Australia", "url": "https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/Research/Chronologies/2024-25/Vehicle_Emission_Standards", "whatItShows": "Timeline of fuel standards under both governments."},
+      {"title": "Fuel Quality Standards (Petrol) Determination 2019", "publisher": "Federal Register of Legislation", "url": "https://www.legislation.gov.au/F2019L00455/2021-02-10/text", "whatItShows": "Coalition-era rule setting a 10 ppm sulphur limit from 1 July 2027."},
+      {"title": "Fuel Quality Standards (Petrol) Determination 2022", "publisher": "Federal Register of Legislation", "url": "https://www.legislation.gov.au/F2022L00989/asmade/text", "whatItShows": "The 2024 deadline legislated by the Albanese government."},
+      {"title": "Media release, December 2023: sulphur deadline aligned with new aromatics limits", "publisher": "Minister for Climate Change and Energy (via ParlInfo)", "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22media%2Fpressrel%2F9526899%22", "tier": 1, "kind": "media_release", "whatItShows": "Deadline moved to December 2025."},
+      {"title": "Ampol 4Q 2025 trading update, 20 March 2026", "publisher": "Ampol Limited (ASX announcement)", "url": "https://www.listcorp.com/asx/ald/ampol-limited/news/4q-2025-trading-update-3306476.html", "whatItShows": "Relaxed limits enable 80 to 100 million extra litres a month to be supplied domestically."}
+    ],
+    "politicianResponse": {"kind": "defence", "summary": "Mr Taylor's office pointed AAP FactCheck to the Parliamentary Library chronology and to the December 2023 announcement of stricter sulphur and aromatics limits from December 2025.", "date": "2026-04-10"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [
+      {"date": "2026-03-16", "context": "Interview, 2GB radio: 'a minister ... that has imposed emissions constraints on this refinery, which means they have to export their fuel'", "reworded": true, "source": {"title": "'Absurd': Angus Taylor calls Bowen out over broken promises (2GB, archived)", "publisher": "2GB (Internet Archive)", "url": "https://web.archive.org/web/20260316073345/https://www.2gb.com/absurd-angus-taylor-calls-bowen-out-over-broken-promises/", "tier": 3, "kind": "other"}}
+    ],
+    "topics": ["energy", "climate"]
+  },
+  {
+    "politicianSlug": "angus-taylor",
+    "quote": "Investment has fallen off a cliff under Labor, and that includes, of course, the mining industry and other resource-based industries",
+    "summary": "Investment, including mining investment, has fallen off a cliff under Labor.",
+    "statementDate": "2025-10-27",
+    "statementContext": "Interview, Sky News First Edition",
+    "originalSource": {"title": "Transcript: interview with Peter Stefanovic, Sky News First Edition, 27 October 2025", "publisher": "Office of Angus Taylor", "url": "https://www.angustaylor.com.au/content/interview-peter-stefanovic-sky-news-first-edition-monday-october-27-2025", "tier": 1, "kind": "transcript", "publishedAt": "2025-10-27"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Data contradicts MP's claim investment has 'fallen off a cliff'", "url": "https://www.aap.com.au/factcheck/data-contradicts-mps-claim-investment-has-fallen-off-a-cliff/", "publishedAt": "2025-11-13", "verdictAsPublished": "False"},
+    "status": "contradicted",
+    "findings": "ABS private new capital expenditure grew by an average of about 1 per cent a quarter between the June quarter 2022 and the June quarter 2025, plateauing over the most recent 18 months rather than falling sharply. Mining investment grew by an average of about 0.5 per cent a quarter and private gross fixed capital formation by about 1.6 per cent a quarter over the same period. Mr Taylor's office cited a 2024 Minerals Council of Australia analysis, which the council's own material showed covered 2013 to 2023 and tracked a list of major projects rather than economy-wide investment.",
+    "context": "Business investment growth has slowed since early 2024, and the Minerals Council has argued that the pipeline of major resources projects is weakening. The official data do not show a sharp decline in the level of investment under the current government.",
+    "primarySources": [
+      {"title": "Private New Capital Expenditure and Expected Expenditure, Australia (latest release)", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/economy/business-indicators/private-new-capital-expenditure-and-expected-expenditure-australia/latest-release", "whatItShows": "Business and mining investment rose from mid-2022, flattening in the most recent 18 months."},
+      {"title": "Australian National Accounts: National Income, Expenditure and Product, June 2025", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-national-income-expenditure-and-product/jun-2025", "whatItShows": "Private gross fixed capital formation up an average 1.58 per cent a quarter."},
+      {"title": "Australia's investment pipeline leaking $68 billion every year", "publisher": "Minerals Council of Australia", "url": "https://minerals.org.au/resources/australias-investment-pipeline-leaking-68-billion-every-year/", "whatItShows": "The analysis Mr Taylor's office relied on, covering 2013 to 2023."},
+      {"title": "Resources and Energy Major Projects 2024", "publisher": "Department of Industry, Science and Resources", "url": "https://www.industry.gov.au/sites/default/files/2024-12/remp_2024.pdf", "whatItShows": "The project list underlying the Minerals Council analysis, which includes early-stage projects that may not proceed."}
+    ],
+    "politicianResponse": {"kind": "defence", "summary": "Mr Taylor's office pointed AAP FactCheck to a 2024 Minerals Council of Australia analysis, saying major mining projects were being put in the 'too-hard basket' because of Australia's deteriorating investment environment.", "date": "2025-11-13"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["economy"]
+  },
+  {
+    "politicianSlug": "angus-taylor",
+    "quote": "We're approaching two million new people in just five years. Labor's lost control",
+    "summary": "Australia is approaching two million new migrants in five years under Labor.",
+    "statementDate": "2025-03-25",
+    "statementContext": "Interview, Sky News",
+    "originalSource": {"title": "Transcript: interview with Kieran Gilbert, Sky News, 25 March 2025", "publisher": "Office of Angus Taylor", "url": "https://www.angustaylor.com.au/content/interview-kieran-gilbert-sky-news-tuesday-25th-march-2025", "tier": 1, "kind": "transcript", "publishedAt": "2025-03-25"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Experts: Coalition migration claim omits key context", "url": "https://www.aap.com.au/factcheck/experts-coalition-migration-claim-omits-key-context/", "publishedAt": "2025-03-28", "verdictAsPublished": "No verdict label; AAP FactCheck found the claim 'omits key context'"},
+    "status": "mixed",
+    "findings": "Mr Taylor's office said the figure summed net overseas migration for the five years from 2022-23 to 2026-27: two years of ABS actual figures and three years of budget forecasts, totalling 1.791 million. The two post-pandemic years, 2022-23 and 2023-24, account for 54 per cent of that total. Summing the forecasts for the next five years instead gives about 1.27 million, because net migration is forecast to fall sharply. Migration experts consulted by AAP FactCheck said the post-pandemic surge was driven largely by fewer departures, partly because of Coalition-era visa extensions, and that Labor's later delay in tightening student visa rules also contributed.",
+    "context": "AAP FactCheck did not give the article a verdict label; it assessed the context of a figure used by several Coalition frontbenchers, including Opposition Leader Peter Dutton in his budget reply and Nationals leader David Littleproud on 4BC radio. The arithmetic behind the figure is correct for the period chosen; the dispute is over mixing past actual figures with future forecasts and over the causes of the surge.",
+    "primarySources": [
+      {"title": "National, state and territory population (components of change)", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/latest-release", "whatItShows": "Actual net overseas migration for 2022-23 and 2023-24."},
+      {"title": "Budget 2025-26, Budget Paper No. 1", "publisher": "Australian Government (Treasury)", "url": "https://budget.gov.au/content/bp1/download/bp1_2025-26.pdf", "whatItShows": "Net overseas migration forecasts for 2024-25 to 2026-27 and beyond."},
+      {"title": "COVID-19 Pandemic event visa (subclass 408)", "publisher": "Department of Home Affairs", "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/covid-19-pandemic-event-subclass-408", "whatItShows": "Coalition-era visa that allowed temporary entrants to extend their stays, reducing departures."}
+    ],
+    "politicianResponse": {"kind": "defence", "summary": "Mr Taylor's office told AAP FactCheck the claim was based on net overseas migration data over the five years from 2022-23 to 2026-27.", "date": "2025-03-28"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["immigration"]
+  },
+  {
+    "politicianSlug": "angus-taylor",
+    "quote": "We've seen Labor adding 36,000 new Canberra based bureaucrats.",
+    "summary": "Labor has added 36,000 new Canberra-based public servants.",
+    "statementDate": "2025-01-29",
+    "statementContext": "Press conference on inflation data",
+    "originalSource": {"title": "Transcript: press conference on inflation data, 29 January 2025", "publisher": "Office of Angus Taylor", "url": "https://www.angustaylor.com.au/content/press-conference-inflation-data-wednesday-29-january-2025", "tier": 1, "kind": "transcript", "publishedAt": "2025-01-29"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Coalition wrong on number of new public servants in Canberra", "url": "https://www.aap.com.au/factcheck/coalition-wrong-on-number-of-new-public-servants-in-canberra/", "publishedAt": "2025-02-12", "verdictAsPublished": "False"},
+    "status": "contradicted",
+    "findings": "Budget Paper No. 4 for 2024-25, cited by Mr Taylor's office, projects a 36,008 increase in average staffing across the general government sector between 2021-22 and 2024-25. It gives no location breakdown and includes bodies outside the Australian Public Service such as the Australian Federal Police and ASIO. Australian Public Service Commission headcount data show a net rise of 26,153 APS employees between June 2022 and June 2024, of whom 7,464 were in Canberra and 18,689 (71.5 per cent) elsewhere, including more than 5,000 in Melbourne and 3,000 in Sydney. Even if the entire gap between the APS and budget figures were in Canberra, the maximum would be about 17,000.",
+    "context": "The figure was used repeatedly by Coalition frontbenchers in early 2025, including by Mr Taylor on Channel 7's Sunrise on 8 January 2025 and in the Liberal Party's 'Priorities of a Dutton Coalition Government' document. The dispute is about location, not the overall growth in public-sector staffing, which the budget papers do project. Mr Taylor's office directed AAP FactCheck to the budget table but did not provide evidence that the roles were Canberra-based.",
+    "primarySources": [
+      {"title": "Budget Paper No. 4, 2024-25 (Table 2.3)", "publisher": "Australian Government (Department of Finance)", "url": "https://budget.gov.au/content/bp4/download/bp4_2024-25-consolidated.pdf", "whatItShows": "Projected 36,008 increase in general government sector staffing, with no location breakdown."},
+      {"title": "APS Employment Release Tables, 30 June 2024", "publisher": "Australian Public Service Commission", "url": "https://www.apsc.gov.au/node/2638", "whatItShows": "Net APS increase of 26,153 between June 2022 and June 2024; 7,464 in Canberra."},
+      {"title": "List of Commonwealth bodies, 2 January 2025", "publisher": "Department of Finance", "url": "https://www.finance.gov.au/sites/default/files/2024-12/Bodies%20list%202%20January%202025%20-%20FINAL.pdf", "whatItShows": "Which entities make up the general government sector."}
+    ],
+    "politicianResponse": {"kind": "defence", "summary": "Mr Taylor's office directed AAP FactCheck to Table 2.3 of Budget Paper No. 4 but did not provide evidence that the roles were Canberra-based.", "date": "2025-02-12"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["economy"]
+  },
+  {
+    "politicianSlug": "angus-taylor",
+    "quote": "In the first 18 months of Labor's time in office, personal income tax had increased by a record 27 per cent",
+    "summary": "Personal income tax rose by a record 27 per cent in Labor's first 18 months in office.",
+    "statementDate": "2024-01-15",
+    "statementContext": "Opinion piece in The Australian",
+    "originalSource": {"title": "Opinion piece: 'Australians deserve unambiguous commitment to stage three tax cuts'", "publisher": "The Australian (opinion piece by Angus Taylor)", "url": "https://www.theaustralian.com.au/commentary/australians-deserve-unambiguous-commitment-to-stage-three-tax-cuts/news-story/a06c3c28f74f3e21dba1c3f9705e8ecf", "tier": 2, "kind": "news_report", "publishedAt": "2024-01-15"},
+    "factCheck": {"publisher": "RMIT ABC Fact Check", "title": "Angus Taylor says personal income tax increased by a 'record' 27 per cent in the first 18 months of the Albanese government. Is that correct?", "url": "https://www.abc.net.au/news/2024-02-21/fact-check-angus-taylor-27-per-cent-record/103485690", "publishedAt": "2024-02-21", "verdictAsPublished": "Overblown"},
+    "status": "mixed",
+    "findings": "ABS national accounts show income tax paid by individuals rose 27.3 per cent in nominal terms between the March quarter 2022 ($71.5 billion) and the September quarter 2023 ($91.0 billion). That period includes about two months of the previous Coalition government; from the June quarter 2022 the rise was 23.9 per cent. The rise was not a record: larger 18-month increases occurred in 1963-65 (43.5 per cent), 1969-70 (40.9 per cent), 1973-74 (107.2 per cent) and in the first 18 months of the Fraser government (41.7 per cent). Measured as a share of gross household income, income tax rose from 15.1 to 17.2 per cent, an increase of 13.6 per cent, which was also not a record.",
+    "context": "A spokesman for Mr Taylor confirmed to RMIT ABC Fact Check that the figure compared the March 2022 and September 2023 quarterly ABS tax figures. Mr Taylor had used an 'over 27 per cent' figure in press releases on 6 and 13 December 2023 and repeated it on ABC Insiders on 11 February 2024. The Parliamentary Budget Office's explainer on bracket creep describes how income tax collections rise with wages even without rate changes.",
+    "primarySources": [
+      {"title": "Australian National Accounts: National Income, Expenditure and Product, September quarter 2023", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-national-income-expenditure-and-product/sep-2023", "whatItShows": "Quarterly income tax paid by individuals and household income data."},
+      {"title": "Bracket creep and its fiscal impact", "publisher": "Parliamentary Budget Office", "url": "https://www.pbo.gov.au/about-budgets/budget-insights/budget-explainers/bracket-creep-and-its-fiscal-impact", "whatItShows": "How bracket creep raises income tax collections."},
+      {"title": "Media release: 'Australians are being crushed by this economy' (December 2023)", "publisher": "Office of Angus Taylor", "url": "https://www.angustaylor.com.au/media/media-releases/australians-are-being-crushed-economy", "tier": 1, "kind": "media_release", "whatItShows": "Earlier version of the 'over 27 per cent' claim."}
+    ],
+    "politicianResponse": {"kind": "defence", "summary": "A spokesman for the Shadow Treasurer confirmed to RMIT ABC Fact Check that the 27 per cent figure compared the March 2022 and September 2023 quarterly ABS tax figures.", "date": "2024-02-21"},
+    "correction": {"status": "repeated_unchanged", "date": "2024-02-11", "description": "Mr Taylor repeated the figure on ABC Insiders on 11 February 2024, before the fact-check was published. No correction or clarification located as at 1 October 2026."},
+    "repeated": [
+      {"date": "2024-02-11", "context": "Interview, ABC Insiders: '27 per cent increase in personal income taxes being paid'", "reworded": true, "source": {"title": "Insiders, 11 February 2024 (video)", "publisher": "ABC News (YouTube)", "url": "https://www.youtube.com/watch?v=Jo0PwiHBNG8", "tier": 2, "kind": "transcript"}}
+    ],
+    "topics": ["tax", "economy"]
+  },
+  {
+    "politicianSlug": "angus-taylor",
+    "quote": "We've got the worst inflation — core inflation — in the G7. It's above the US, it's above the UK, Canada, Europe",
+    "summary": "Australia's core inflation is higher than every G7 country's.",
+    "statementDate": "2023-05-07",
+    "statementContext": "Interview, ABC TV Insiders",
+    "originalSource": {"title": "Insiders, 7 May 2023", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2023-05-07/insiders-may-7/102314696", "tier": 2, "kind": "transcript", "publishedAt": "2023-05-07"},
+    "factCheck": {"publisher": "RMIT ABC Fact Check", "title": "Angus Taylor says Australia's core inflation is higher than all the countries in the G7. Is that correct?", "url": "https://www.abc.net.au/news/2023-06-06/fact-check-angus-taylor-core-inflation-g7/102441768", "publishedAt": "2023-06-06", "verdictAsPublished": "Checks out"},
+    "status": "supported",
+    "findings": "OECD data for the year to March 2023 put Australia's core inflation (consumer prices excluding food and energy) at 6.6 per cent, above Germany (5.8 per cent), the United Kingdom, the United States and the euro area (5.6 per cent each), Canada (4.9 per cent), Italy (4.7 per cent), France (3.5 per cent) and Japan (2.4 per cent). The latest comparable figure for the EU27, for the December quarter 2022, was 4.7 per cent against Australia's 5.5 per cent. Australia's core inflation was nonetheless below the OECD average of 7.2 per cent.",
+    "context": "Mr Taylor made the comparison several times in early May 2023, including in an Australian Financial Review opinion piece on 2 May and on ABC News Breakfast on 4 May. Australia is not a member of the G7; the comparison was with its members, using the OECD's internationally comparable measure.",
+    "primarySources": [
+      {"title": "Consumer prices (PRICES_CPI) dataset", "publisher": "Organisation for Economic Co-operation and Development", "url": "https://stats.oecd.org/viewhtml.aspx?datasetcode=PRICES_CPI&lang=en", "tier": 2, "kind": "dataset", "whatItShows": "Internationally comparable core inflation rates for the year to March 2023."},
+      {"title": "Consumer Price Index, Australia methodology, March quarter 2023", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/methodologies/consumer-price-index-australia-methodology/mar-quarter-2023", "whatItShows": "Headline CPI of 7 per cent in the year to March 2023."}
+    ],
+    "correction": {"status": "no_correction_located", "description": "No correction was required; the fact-check found the claim accurate."},
+    "repeated": [],
+    "topics": ["economy"]
+  },
+  {
+    "politicianSlug": "jane-hume",
+    "quote": "Around half a million people coming to the country per year has put pressure on our services, pressure on our health system, pressure on our infrastructure, on our roads, and certainly pressure on housing as well.",
+    "summary": "Around half a million people a year are coming to Australia, putting pressure on services and housing.",
+    "statementDate": "2026-02-15",
+    "statementContext": "Interview, ABC Insiders",
+    "originalSource": {"title": "Insiders, 15 February 2026 (video, from 12:30)", "publisher": "ABC News (YouTube)", "url": "https://youtu.be/spzg1YnG6Q4?t=732", "tier": 2, "kind": "transcript", "publishedAt": "2026-02-15"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Liberal migration claims rely on outdated data", "url": "https://www.aap.com.au/factcheck/liberal-migration-claims-rely-on-outdated-data/", "publishedAt": "2026-03-09", "verdictAsPublished": "Misleading"},
+    "status": "mixed",
+    "findings": "ABS overseas migration data show net overseas migration peaked at 555,800 in the year to September 2023, then fell to 364,820 a year later and to 305,570 in the year to June 2025. ANU demographer Alan Gamlen put the five-year average at about 260,000 a year. Gross arrivals were 568,370 in the year to June 2025, below the 607,870 recorded in the year to December 2019. The 'half a million' figure applied to one post-pandemic year, not to migration 'per year' at the time of the statement.",
+    "context": "Experts consulted by AAP FactCheck said the 2022-23 spike was a post-pandemic rebound driven partly by Coalition-era visa settings, including fee waivers and pandemic visas that reduced departures, and by Labor's 2022 decision to lift the permanent intake. Senator Hume's office did not respond to AAP FactCheck's request for evidence. She repeated the figure on Sky News on 16 and 19 February 2026.",
+    "primarySources": [
+      {"title": "Overseas Migration (latest release)", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/people/population/overseas-migration/latest-release", "whatItShows": "Net overseas migration of 555,800 in 2022-23 falling to 305,570 in the year to June 2025; arrivals and departures series."},
+      {"title": "Visa application fee waivers for students and working holiday makers (2022)", "publisher": "Department of Home Affairs", "url": "https://immi.homeaffairs.gov.au/news-media/archive/article?itemId=813", "whatItShows": "Coalition-era policy that lifted arrivals after the borders reopened."},
+      {"title": "COVID-19 Pandemic event visa (subclass 408)", "publisher": "Department of Home Affairs", "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/covid-19-pandemic-event-subclass-408", "whatItShows": "Visa that allowed temporary entrants to extend their stays, reducing departures."}
+    ],
+    "politicianResponse": {"kind": "no_response_located", "summary": "Senator Hume's office did not respond to AAP FactCheck's request for evidence.", "date": "2026-03-09"},
+    "correction": {"status": "repeated_unchanged", "date": "2026-02-19", "description": "Senator Hume repeated the figure on Sky News on 16 and 19 February 2026. No correction or clarification located as at 1 October 2026."},
+    "repeated": [
+      {"date": "2026-02-16", "context": "Interview, Sky News: 'half a million people coming into this country on an annual basis'", "reworded": true, "source": {"title": "Sky News interview clip, 16 February 2026", "publisher": "Facebook", "url": "https://www.facebook.com/watch/?v=1415355956179443", "tier": 3, "kind": "other"}},
+      {"date": "2026-02-19", "context": "Interview, Sky News: 'we've seen over half a million people come to our country each year'", "reworded": true, "source": {"title": "Sky News interview clip, 19 February 2026", "publisher": "Facebook", "url": "https://www.facebook.com/watch/?v=2031268414491488", "tier": 3, "kind": "other"}}
+    ],
+    "topics": ["immigration", "housing"]
+  },
+  {
+    "politicianSlug": "jane-hume",
+    "quote": "We've never had a tax on unrealised capital gains before",
+    "summary": "Australia has never had a tax on unrealised capital gains.",
+    "statementDate": "2025-05-15",
+    "statementContext": "Interview reported by Sky News after the May 2025 federal election",
+    "originalSource": {"title": "Jane Hume accuses Labor of breaking election promise with super tax", "publisher": "Sky News Australia", "url": "https://www.skynews.com.au/breaking-news/jane-hume-accuses-labor-of-breaking-election-promise-with-super-tax/news-story/025ff838e9b73ba6d26c522ece8c2a74", "tier": 2, "kind": "news_report", "publishedAt": "2025-05-15"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Liberal senators falsely claim Australia has never taxed unrealised gains", "url": "https://www.aap.com.au/factcheck/liberal-senators-falsely-claim-australia-has-never-taxed-unrealised-gains/", "publishedAt": "2025-07-08", "verdictAsPublished": "False"},
+    "status": "contradicted",
+    "findings": "Tax law academics and a Treasury spokesperson identified existing and historical taxes levied on unrealised value: state land taxes in Queensland, New South Wales, Victoria, Tasmania and South Australia; the Commonwealth land tax levied from 1910 to 1953; capital gains tax 'exit' rules that deem assets to be disposed of at market value when a taxpayer ceases to be an Australian resident; and accruals-based taxation of financial arrangements for superannuation funds with $100 million or more in assets.",
+    "context": "The statement was made during debate over the proposed tax on superannuation balances above $3 million, which would include unrealised gains. AAP FactCheck's article addressed similar statements by Senators Andrew Bragg and Jane Hume; Senator Bragg argued his claim related to Commonwealth rather than state law. Senator Hume did not respond to a request for evidence.",
+    "primarySources": [
+      {"title": "Land Tax Act 1910 (Cth)", "publisher": "AustLII", "url": "https://classic.austlii.edu.au/au/legis/cth/num_act/lta1910211910117/", "tier": 1, "kind": "legislation", "whatItShows": "Federal tax on unimproved land value, levied from 1910 to 1953."},
+      {"title": "Land tax", "publisher": "Revenue NSW", "url": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/land-tax", "whatItShows": "A current state tax levied on asset value without sale."},
+      {"title": "Treasury Laws Amendment (Better Targeted Superannuation Concessions) Bill", "publisher": "Parliament of Australia", "url": "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7120", "whatItShows": "The proposed tax on superannuation balances over $3 million, including unrealised gains."}
+    ],
+    "politicianResponse": {"kind": "no_response_located", "summary": "Senator Hume did not respond to AAP FactCheck's request for evidence supporting the claim.", "date": "2025-07-08"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["tax"]
+  },
+  {
+    "politicianSlug": "jane-hume",
+    "quote": "It now takes about 50 per cent longer to apply for an age pension. It takes five times longer to apply for a low income card.",
+    "summary": "Age pension applications take 50 per cent longer and low income card applications five times longer.",
+    "statementDate": "2025-03-24",
+    "statementContext": "Interview, ABC",
+    "originalSource": {"title": "Archived copy of ABC interview, 24 March 2025 (from 4:27)", "publisher": "ABC (archived by AAP FactCheck)", "url": "https://mvau.lt/media/602a7ee4-1767-4f6a-9e33-56155d6b5229", "tier": 3, "kind": "other", "publishedAt": "2025-03-24"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Senator's welfare wait time blowout claim uses outdated data", "url": "https://www.aap.com.au/factcheck/senators-welfare-wait-time-blowout-claim-uses-outdated-data/", "publishedAt": "2025-04-23", "verdictAsPublished": "Misleading"},
+    "status": "mixed",
+    "findings": "Services Australia figures show average processing times for age pension claims rose from 35 days in 2021-22 to 76 days in 2023-24, and low income health care card claims took 6.6 times longer in 2023-24 than in 2020-21. The latest data at the time of the statement showed waits had fallen to 32 days for the age pension and 16 days for the low income card in the December quarter of 2024, below the 52 and 48 days recorded in 2019-20. The figures Senator Hume cited were accurate for 2023-24 but out of date by March 2025.",
+    "context": "Services Australia's average staffing fell to 28,519 in 2023-24 and was funded to rise to 30,218 in 2024-25 following the 2023-24 MYEFO and the 2024-25 budget. ANU's Peter Whiteford told AAP FactCheck that using pandemic years as a baseline 'can be misleading'. Senator Hume's office did not respond to AAP FactCheck's request for evidence. She gave similar figures on Sky News in early April 2025.",
+    "primarySources": [
+      {"title": "Budget 2024-25: Services Australia", "publisher": "Services Australia", "url": "https://www.servicesaustralia.gov.au/sites/default/files/2024-05/budget-2024-25-services-australia-1.pdf", "whatItShows": "Extra staffing funding in the 2024-25 budget and claim processing data."},
+      {"title": "Mid-Year Economic and Fiscal Outlook 2023-24", "publisher": "Australian Government (Treasury)", "url": "https://archive.budget.gov.au/2023-24/myefo/download/myefo2023-24.pdf", "whatItShows": "Additional funding for Services Australia staff."},
+      {"title": "Social Services Portfolio Budget Statements 2025-26", "publisher": "Department of Social Services", "url": "https://www.dss.gov.au/system/files/documents/2025-03/2025-26social-servicespbsaccessible.pdf", "whatItShows": "Average staffing levels of 28,519 in 2023-24 and 30,218 in 2024-25."}
+    ],
+    "politicianResponse": {"kind": "no_response_located", "summary": "Senator Hume's office did not respond to AAP FactCheck's request for evidence for the claim.", "date": "2025-04-23"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["economy"]
+  },
+  {
+    "politicianSlug": "jane-hume",
+    "quote": "Labor has added $347 billion in spending since the election. They are the biggest spending government outside of wartime or a global crisis.",
+    "summary": "Labor has added $347 billion in spending since the election.",
+    "statementDate": "2024-12-01",
+    "datePrecision": "month",
+    "statementContext": "Post on Instagram (December 2024; exact date not stated in the fact-check)",
+    "originalSource": {"title": "Archived copy of the Instagram post", "publisher": "Jane Hume (Instagram), archived by AAP FactCheck", "url": "https://mvau.lt/media/6ce1b2dc-4c1f-4133-9018-8dc189664d79", "tier": 3, "kind": "other"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Coalition, Labor miss the mark on $347b spending claim", "url": "https://www.aap.com.au/factcheck/coalition-labor-miss-the-mark-on-347b-spending-claim/", "publishedAt": "2025-02-27", "verdictAsPublished": "No verdict label; AAP FactCheck found the figure 'problematic, as are both the coalition's and Labor's claims'"},
+    "status": "mixed",
+    "findings": "Senator Hume's office said the figure compares total payments forecast in the 2022 Pre-election Economic and Fiscal Outlook with those in the 2024-25 Mid-Year Economic and Fiscal Outlook for 2023-24 to 2027-28. Economists consulted by AAP FactCheck said that comparison mixes deliberate policy decisions with 'parameter' changes such as inflation and population growth: the 2022 PEFO assumed inflation would peak at 4.25 per cent when it was already 6.1 per cent at the election. UNSW accounting academic David Bond's reconciliation of the budget papers attributed $111 billion (about 40 per cent) of the rise in payments from 2023-24 to 2026-27 to Labor policy decisions and $117 billion to parameter variations; economist Chris Richardson put net policy spending at $124 billion.",
+    "context": "AAP FactCheck did not give the article a one-word verdict; it found the figure 'problematic' and also found that Labor's counter-claim that Peter Dutton would cut $347 billion mischaracterised his comments. Opposition Leader Peter Dutton used the same figure on ABC Insiders in February 2025. The exact date of Senator Hume's Instagram post is not stated in the fact-check.",
+    "primarySources": [
+      {"title": "2022 Pre-election Economic and Fiscal Outlook", "publisher": "The Treasury", "url": "https://treasury.gov.au/publication/2022-pefo", "whatItShows": "Baseline payments forecasts used in the comparison; assumed inflation peak of 4.25 per cent."},
+      {"title": "Mid-Year Economic and Fiscal Outlook 2024-25", "publisher": "Australian Government (Treasury)", "url": "https://budget.gov.au/content/myefo/index.htm", "whatItShows": "Payments forecasts for 2023-24 to 2027-28."},
+      {"title": "October 2022-23 Budget, Budget Paper No. 1", "publisher": "Australian Government (Treasury)", "url": "https://archive.budget.gov.au/2022-23-october/bp1/download/bp1_2022-23.pdf", "whatItShows": "Inflation at 6.1 per cent when the government took office."}
+    ],
+    "politicianResponse": {"kind": "defence", "summary": "Senator Hume's office told AAP FactCheck the figure compares totals in the 2022 PEFO with payments forecast in the government's latest MYEFO from 2023-24 to 2027-28.", "date": "2025-02-27"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["economy"]
+  },
+  {
+    "politicianSlug": "jane-hume",
+    "quote": "Yesterday NAB came out and said rents would rise by 30 per cent because of Labor's tax changes. Today, it's real estate agent Ray White doubling down.",
+    "summary": "NAB said rents would rise by 30 per cent because of Labor's tax changes.",
+    "statementDate": "2026-08-19",
+    "statementContext": "Video posted on Facebook",
+    "originalSource": {"title": "Video posted to Facebook, 19 August 2026", "publisher": "Jane Hume (Facebook)", "url": "https://www.facebook.com/watch/?v=1073281138499262", "tier": 1, "kind": "transcript", "publishedAt": "2026-08-19"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Angus Taylor mischaracterises NAB rent rise report", "url": "https://www.aap.com.au/factcheck/angus-taylor-mischaracterises-nab-rent-rise-report/", "publishedAt": "2026-08-28", "verdictAsPublished": "False (verdict given on Mr Taylor's statement; AAP FactCheck said Senator Hume 'made a similar claim')"},
+    "status": "contradicted",
+    "findings": "NAB's 17 August 2026 newsletter described a hypothetical scenario in which rents would need to rise 25 to 30 per cent if rental yields rose by one percentage point and prices stayed flat; it did not forecast that rents would rise by 30 per cent, and NAB said in a note on 18 August that the figure 'was not a forecast'. Ray White, which Senator Hume cited as 'doubling down', told AAP FactCheck that its 30 per cent figure 'was not a forecast of rent growth' but a scenario with unchanged prices that it considered unlikely.",
+    "context": "AAP FactCheck's verdict was given on Angus Taylor's statement in Question Time the previous day; the article records that Senator Hume 'made a similar claim'. The two statements are recorded separately on PUBLIC RECORD.",
+    "primarySources": [
+      {"title": "Weekly macroeconomic newsletter, 17 August 2026", "publisher": "National Australia Bank", "url": "https://m.update.nab.com.au/nl/jsp/m.jsp?c=%40JEzltDYguTPGPosc8jAO3W%2BhhNuIoMvIgYEJFrefyzM%3D", "whatItShows": "Hypothetical 25 to 30 per cent rent scenario, described by NAB as not a forecast."},
+      {"title": "What mix of rent rises and price falls would make property investment stack up again", "publisher": "Ray White Group", "url": "https://www.raywhite.com/news-and-market-insights/economic-updates/what-mix-of-rent-rises-and-price-falls-would-make-property-investment-stack-up-again", "whatItShows": "Scenario modelling, explicitly 'not a forecast'."}
+    ],
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["housing", "tax"]
+  },
+  {
+    "politicianSlug": "michaelia-cash",
+    "quote": "It is based on a particular person's race and they will have rights that no one else in Australia has. So you are intentionally embedding in the Constitution, paramount rights in favour of a certain group of people. These rights would in normal circumstances breach discrimination laws and be found to be unlawful, but as they are superior rights and are embedded in the Constitution, they will be an exception that the parliament cannot override.",
+    "summary": "The proposed Voice to Parliament would embed in the Constitution paramount rights for one group that would otherwise breach discrimination laws.",
+    "statementDate": "2023-05-10",
+    "statementContext": "Interview with The Australian, shortly after her appointment as Shadow Attorney-General",
+    "originalSource": {"title": "Indigenous voice to parliament is divisive and breaches discrimination laws, says Michaelia Cash", "publisher": "The Australian", "url": "https://www.theaustralian.com.au/nation/politics/indigenous-voice-to-parliament-is-divisive-and-breaches-discrimination-laws-says-michaelia-cash/news-story/db65783cc0285d266b8910c8c5a54df1", "tier": 2, "kind": "news_report", "publishedAt": "2023-05-10"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Experts say Cash is wrong on rights claim", "url": "https://www.aap.com.au/factcheck/experts-say-cash-is-wrong-on-rights-claim/", "publishedAt": "2023-07-09", "verdictAsPublished": "False"},
+    "status": "contradicted",
+    "findings": "The government's Constitutional Expert Group advised the Referendum Working Group that the Voice 'does not confer rights, much less special rights', and would not change or remove any right of other Australians. Public law and discrimination law academics consulted by AAP FactCheck (Gabrielle Appleby, Jennifer Nielsen and Alice Taylor) said the proposed body would create at most a right to be heard, that it was based on Aboriginal and Torres Strait Islander peoples' status as First Peoples rather than race, and that it was consistent with the Racial Discrimination Act 1975 and with the international conventions Australia has ratified.",
+    "context": "The statement was made in May 2023 during the campaign on the Voice referendum. The legal effect of the proposed amendment was contested throughout the campaign; AAP FactCheck's assessment relied on the Constitutional Expert Group's advice and on academic legal opinion. Senator Cash's office declined to comment when asked for evidence. The referendum was defeated on 14 October 2023.",
+    "primarySources": [
+      {"title": "Communique: Referendum Working Group (Constitutional Expert Group advice)", "publisher": "Minister for Indigenous Australians", "url": "https://ministers.pmc.gov.au/burney/2022/communique-referendum-working-group-0", "whatItShows": "Expert group advice that the Voice confers no rights or special rights."},
+      {"title": "Racial Discrimination Act 1975", "publisher": "Federal Register of Legislation", "url": "https://www.legislation.gov.au/Details/C2022C00366", "whatItShows": "What constitutes unlawful racial discrimination and the special-measures provision."},
+      {"title": "International Convention on the Elimination of All Forms of Racial Discrimination", "publisher": "UN Office of the High Commissioner for Human Rights", "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/international-convention-elimination-all-forms-racial", "tier": 2, "kind": "legislation", "whatItShows": "International obligations the experts said the Voice complied with."}
+    ],
+    "politicianResponse": {"kind": "no_response_located", "summary": "AAP FactCheck contacted Senator Cash's office to clarify the claim and provide evidence; her office declined to comment.", "date": "2023-07-09"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": []
+  },
+  {
+    "politicianSlug": "james-paterson",
+    "quote": "We do not exercise under live flight paths. We did not require commercial airliners to divert traffic at the last minute to protect their passengers on board. These are all things that the Chinese Navy has done in our waters.",
+    "summary": "The Chinese Navy conducted live-fire exercises in Australian waters.",
+    "statementDate": "2025-02-27",
+    "statementContext": "Interview, Sky News First Edition",
+    "originalSource": {"title": "Transcript: Sky News First Edition, 27 February 2025", "publisher": "Office of Senator James Paterson", "url": "https://www.senatorpaterson.com.au/news/transcript-sky-news-first-edition-27-february-2025", "tier": 1, "kind": "transcript", "publishedAt": "2025-02-27"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Coalition MPs falsely claim China's live-fire drill was in 'our waters'", "url": "https://www.aap.com.au/factcheck/coalition-mps-falsely-claim-chinas-live-fire-drill-was-in-our-waters/", "publishedAt": "2025-07-28", "verdictAsPublished": "False"},
+    "status": "contradicted",
+    "findings": "Defence officials told Senate estimates on 26 February 2025 that the People's Liberation Army Navy's live-fire drills of 21 and 22 February 2025 took place in international waters in the Tasman Sea. Under the United Nations Convention on the Law of the Sea, a state's territorial sea extends 12 nautical miles from its coast and its exclusive economic zone to 200 nautical miles; the high seas lie beyond. International law experts consulted by AAP FactCheck said the drills were not in Australian waters and that live-fire exercises in Australia's territorial sea would have breached the convention.",
+    "context": "Senator Paterson's office told AAP FactCheck he had 'misspoken' and meant to say 'in our region', pointing to other occasions on which he had used that phrase. The same fact-check addressed statements by Andrew Hastie and David Coleman. The drills caused commercial aircraft to divert after a broadcast warning, which was not disputed.",
+    "primarySources": [
+      {"title": "Foreign Affairs, Defence and Trade Legislation Committee, Senate estimates Hansard, 26 February 2025", "publisher": "Parliament of Australia", "url": "https://parlinfo.aph.gov.au/parlInfo/download/committees/estimate/28742/toc_pdf/Foreign%20Affairs,%20Defence%20and%20Trade%20Legislation%20Committee_2025_02_26_Official.pdf;fileType=application%2Fpdf", "whatItShows": "Defence confirmation that the drill occurred in international waters."},
+      {"title": "United Nations Convention on the Law of the Sea", "publisher": "United Nations", "url": "https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf", "tier": 2, "kind": "legislation", "whatItShows": "The 12 nautical mile territorial sea, 200 nautical mile exclusive economic zone and the high seas."}
+    ],
+    "politicianResponse": {"kind": "clarification", "summary": "Senator Paterson's office told AAP FactCheck he had misspoken and meant to say 'in our region' rather than 'in our waters'.", "quote": "He meant to say in our region rather than in our waters.", "date": "2025-07-28"},
+    "correction": {"status": "clarified", "date": "2025-07-28", "description": "Through his office, Senator Paterson told AAP FactCheck in July 2025 that he had misspoken and meant 'in our region'. PUBLIC RECORD has not located a public correction of the original interview."},
+    "repeated": [],
+    "topics": ["defence"]
+  },
+  {
+    "politicianSlug": "andrew-hastie",
+    "quote": "If we keep having flotillas sail around our waters—test fire in our waters—without permission or without letting us know about it, if our sailors and airmen are continually harassed up in the Indo-Pacific, as we've seen over the last few years, that's a problem",
+    "summary": "China's navy test-fired in Australian waters without permission.",
+    "statementDate": "2025-07-14",
+    "statementContext": "Interview, ABC Afternoon Briefing",
+    "originalSource": {"title": "Transcript: interview with Patricia Karvelas, ABC Afternoon Briefing, 14 July 2025", "publisher": "Office of Andrew Hastie", "url": "https://www.andrewhastie.com.au/patricia_karvelas", "tier": 1, "kind": "transcript", "publishedAt": "2025-07-14"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Coalition MPs falsely claim China's live-fire drill was in 'our waters'", "url": "https://www.aap.com.au/factcheck/coalition-mps-falsely-claim-chinas-live-fire-drill-was-in-our-waters/", "publishedAt": "2025-07-28", "verdictAsPublished": "False"},
+    "status": "contradicted",
+    "findings": "Defence officials told Senate estimates on 26 February 2025 that China's live-fire drills of 21 and 22 February 2025 took place in international waters in the Tasman Sea; the government said at the time they occurred on the 'high seas'. Under the United Nations Convention on the Law of the Sea, a state's territorial sea extends 12 nautical miles from its coast and its exclusive economic zone to 200 nautical miles. ANU international law professor Donald Rothwell said 'There was never any debate that the PLAN live-fire incident took place in the high seas' and that the drill's location had been conflated with the later circumnavigation through Australia's exclusive economic zone. Deakin University's Claudio Bozzi noted that live-fire exercises are permitted in international waters and that prior notification is protocol rather than a legal requirement.",
+    "context": "Asked about the claim, Mr Hastie told AAP FactCheck the PLA Navy had 'irresponsibly' conducted live-fire exercises during an 'unprecedented' circumnavigation of Australia, causing 49 aircraft to divert without notice; he did not withdraw the 'our waters' wording. James Paterson and David Coleman made similar statements in February 2025, which AAP FactCheck addressed in the same article.",
+    "primarySources": [
+      {"title": "Foreign Affairs, Defence and Trade Legislation Committee, Senate estimates Hansard, 26 February 2025", "publisher": "Parliament of Australia", "url": "https://parlinfo.aph.gov.au/parlInfo/download/committees/estimate/28742/toc_pdf/Foreign%20Affairs,%20Defence%20and%20Trade%20Legislation%20Committee_2025_02_26_Official.pdf;fileType=application%2Fpdf", "whatItShows": "Defence confirmation that the drill occurred in international waters."},
+      {"title": "United Nations Convention on the Law of the Sea", "publisher": "United Nations", "url": "https://www.un.org/depts/los/convention_agreements/texts/unclos/unclos_e.pdf", "tier": 2, "kind": "legislation", "whatItShows": "Definitions of the territorial sea, exclusive economic zone and high seas."}
+    ],
+    "politicianResponse": {"kind": "defence", "summary": "Mr Hastie told AAP FactCheck that China's navy had 'irresponsibly' conducted live-fire exercises during an 'unprecedented' circumnavigation of Australia, causing 49 aircraft to divert without notice. He did not withdraw the 'our waters' wording.", "quote": "The PLAN live firing exercise was conducted near civil air lanes and disrupted Australian commercial flights.", "date": "2025-07-28"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["defence"]
+  },
+  {
+    "politicianSlug": "andrew-hastie",
+    "quote": "This shocking backflip by Labor is true to form, and consistent with their approach to Defence which has resulted in more than $80 billion in cuts and delays.",
+    "summary": "Labor's approach to Defence has resulted in more than $80 billion in cuts and delays.",
+    "statementDate": "2025-04-01",
+    "datePrecision": "month",
+    "statementContext": "Joint media statement with Opposition Leader Peter Dutton, 'Broken funding promise', during the 2025 election campaign (April 2025; exact date not stated in the fact-check)",
+    "originalSource": {"title": "Joint statement: Broken funding promise", "publisher": "Office of Andrew Hastie", "url": "https://www.andrewhastie.com.au/joint_statement_broken_funding_promise", "tier": 1, "kind": "media_release"},
+    "factCheck": {"publisher": "AAP FactCheck", "title": "Dutton wrong to claim Labor has cut $80 billion from defence", "url": "https://www.aap.com.au/factcheck/dutton-wrong-to-claim-labor-has-cut-80-billion-from-defence/", "publishedAt": "2025-04-29", "verdictAsPublished": "False (verdict given on Mr Dutton's statement that Labor had cut $80 billion from Defence)"},
+    "status": "mixed",
+    "findings": "The 2024 National Defence Strategy added $50.3 billion over the decade to 2033-34 compared with the funding trajectory in the Coalition's 2020 Defence Strategic Update. The 2024 Integrated Investment Program reprioritised $72.8 billion over the decade ($22.5 billion over four years), but Defence told Senate estimates that most of that was unapproved spending: of more than 540 projects, 188 were closed or merged, 45 delayed, 16 reduced in scope and 32 added or accelerated, with the 'vast majority' of approved projects unaffected. Defence analysts consulted by AAP FactCheck said the money was moved within the Defence budget, largely to AUKUS submarines and frigates, rather than removed from it. The 2023 Defence Strategic Review had found that $42 billion of Coalition-era announcements had never been provisioned in the budget.",
+    "context": "AAP FactCheck rated Mr Dutton's statement that Labor had 'cut' or 'ripped' $80 billion out of Defence false. PUBLIC RECORD classifies Mr Hastie's 'cuts and delays' wording as mixed: the reprioritisation of $72.8 billion included project delays, cancellations and reductions in scope, while overall Defence funding increased over the decade. At a joint doorstop in Belmont, Western Australia, Mr Hastie pointed to scaled-back projects including F-35 aircraft, infantry fighting vehicles and two supply ships. Neither Mr Dutton nor Mr Hastie responded to AAP FactCheck's request for evidence.",
+    "primarySources": [
+      {"title": "2024 National Defence Strategy and 2024 Integrated Investment Program", "publisher": "Department of Defence", "url": "https://www.defence.gov.au/about/strategic-planning/2024-national-defence-strategy-2024-integrated-investment-program", "whatItShows": "Decade funding to 2033-34 and the project reprioritisations."},
+      {"title": "Generational investment in Australia's defence (media release, 14 May 2024)", "publisher": "Minister for Defence", "url": "https://www.minister.defence.gov.au/media-releases/2024-05-14/generational-investment-australias-defence", "tier": 1, "kind": "media_release", "whatItShows": "An additional $50.3 billion over the decade."},
+      {"title": "Launch of the National Defence Strategy and Integrated Investment Program (speech, 17 April 2024)", "publisher": "Minister for Defence", "url": "https://www.minister.defence.gov.au/speeches/2024-04-17/launch-national-defence-strategy-and-integrated-investment-program", "tier": 1, "kind": "transcript", "whatItShows": "$22.5 billion over four years and $72.8 billion over the decade reprioritised."},
+      {"title": "Senate estimates, Defence portfolio (2024)", "publisher": "Parliament of Australia", "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22committees%2Festimate%2F28111%2F0002%22", "whatItShows": "Breakdown of 188 closed or merged, 45 delayed, 16 reduced and 32 added projects; most reprioritised funding was unapproved."},
+      {"title": "Defence Strategic Review 2023", "publisher": "Department of Defence", "url": "https://www.defence.gov.au/about/reviews-inquiries/defence-strategic-review", "whatItShows": "$42 billion of announced but unprovisioned spending to 2033."}
+    ],
+    "politicianResponse": {"kind": "no_response_located", "summary": "Neither Mr Dutton nor Mr Hastie responded to AAP FactCheck's request for evidence.", "date": "2025-04-29"},
+    "correction": {"status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026."},
+    "repeated": [],
+    "topics": ["defence"]
+  }
+]

@@ -1,0 +1,202 @@
+{
+  "careers": [
+    {
+      "politicianSlug": "anthony-albanese",
+      "parliamentaryService": "Elected to the House of Representatives for Grayndler, New South Wales, at the 1996 election and re-elected at every election since (1998, 2001, 2004, 2007, 2010, 2013, 2016, 2019, 2022 and 2025). The Parliament of Australia records his Australian Labor Party service from 2 March 1996. He has no Senate or state parliamentary service.",
+      "positionsHeld": [
+        {"title": "Prime Minister", "from": "2022-05-23", "type": "executive"},
+        {"title": "Cabinet Minister", "from": "2022-05-23", "type": "executive"},
+        {"title": "Leader of the Federal Parliamentary Australian Labor Party", "from": "2019-05-27", "type": "party"},
+        {"title": "Leader of the Opposition", "from": "2019-05-27", "to": "2022-05-23", "type": "opposition"},
+        {"title": "Shadow Minister for Infrastructure, Transport, Cities and Regional Development", "from": "2016-07-23", "to": "2019-06-02", "type": "opposition"},
+        {"title": "Shadow Minister for Cities", "from": "2014-09-24", "to": "2016-07-23", "type": "opposition"},
+        {"title": "Shadow Minister for Infrastructure and Transport", "from": "2013-10-18", "to": "2016-07-23", "type": "opposition"},
+        {"title": "Shadow Minister for Tourism", "from": "2013-10-18", "to": "2019-06-02", "type": "opposition"},
+        {"title": "Shadow Cabinet Minister", "from": "2013-10-18", "to": "2022-05-23", "type": "opposition"},
+        {"title": "Minister for Broadband, Communications and the Digital Economy", "from": "2013-07-01", "to": "2013-09-18", "type": "executive"},
+        {"title": "Deputy Prime Minister", "from": "2013-06-27", "to": "2013-09-18", "type": "executive"},
+        {"title": "Deputy Leader of the Federal Parliamentary Australian Labor Party", "from": "2013-06-26", "to": "2013-10-14", "type": "party"},
+        {"title": "Minister for Regional Development and Local Government", "from": "2013-03-25", "to": "2013-07-01", "type": "executive"},
+        {"title": "Minister for Infrastructure and Transport", "from": "2010-09-14", "to": "2013-09-18", "type": "executive"},
+        {"title": "Leader of the House", "from": "2008-02-12", "to": "2013-08-05", "type": "parliamentary"},
+        {"title": "Cabinet Minister", "from": "2007-12-03", "to": "2013-09-18", "type": "executive"}
+      ],
+      "currentCommittees": []
+    },
+    {
+      "politicianSlug": "richard-marles",
+      "parliamentaryService": "Elected to the House of Representatives for Corio, Victoria, at the 2007 election and re-elected in 2010, 2013, 2016, 2019, 2022 and 2025. The Parliament of Australia records his Australian Labor Party service from 24 November 2007. He has no Senate or state parliamentary service.",
+      "positionsHeld": [
+        {"title": "Minister for Defence", "from": "2022-06-01", "type": "executive"},
+        {"title": "Deputy Prime Minister", "from": "2022-05-23", "type": "executive"},
+        {"title": "Cabinet Minister", "from": "2022-05-23", "type": "executive"},
+        {"title": "Minister for Employment", "from": "2022-05-23", "to": "2022-06-01", "type": "executive"},
+        {"title": "Shadow Minister for National Reconstruction, Employment, Skills and Small Business", "from": "2021-01-28", "to": "2022-05-23", "type": "opposition"},
+        {"title": "Shadow Minister for Science", "from": "2021-01-28", "to": "2022-05-23", "type": "opposition"},
+        {"title": "Deputy Leader of the Federal Parliamentary Australian Labor Party", "from": "2019-05-30", "type": "party"},
+        {"title": "Deputy Leader of the Opposition", "from": "2019-05-30", "to": "2022-05-23", "type": "opposition"},
+        {"title": "Shadow Minister for Defence", "from": "2016-07-23", "to": "2021-01-28", "type": "opposition"},
+        {"title": "Shadow Minister for Immigration and Border Protection", "from": "2013-10-18", "to": "2016-07-23", "type": "opposition"},
+        {"title": "Shadow Cabinet Minister", "from": "2013-10-18", "to": "2022-05-23", "type": "opposition"},
+        {"title": "Minister for Trade", "from": "2013-07-01", "to": "2013-09-18", "type": "executive"},
+        {"title": "Cabinet Minister", "from": "2013-07-01", "to": "2013-09-18", "type": "executive"},
+        {"title": "Parliamentary Secretary for Foreign Affairs", "from": "2012-03-05", "to": "2013-03-22", "type": "executive"},
+        {"title": "Parliamentary Secretary for Pacific Island Affairs", "from": "2010-09-14", "to": "2013-03-22", "type": "executive"}
+      ],
+      "currentCommittees": []
+    },
+    {
+      "politicianSlug": "jim-chalmers",
+      "parliamentaryService": "Elected to the House of Representatives for Rankin, Queensland, at the 2013 election and re-elected in 2016, 2019, 2022 and 2025. The Parliament of Australia records his Australian Labor Party service from 7 September 2013. He has no Senate or state parliamentary service.",
+      "positionsHeld": [
+        {"title": "Treasurer", "from": "2022-05-23", "type": "executive"},
+        {"title": "Cabinet Minister", "from": "2022-05-23", "type": "executive"},
+        {"title": "Shadow Treasurer", "from": "2019-06-02", "to": "2022-05-23", "type": "opposition"},
+        {"title": "Shadow Minister for Finance", "from": "2016-07-23", "to": "2019-06-02", "type": "opposition"},
+        {"title": "Shadow Cabinet Minister", "from": "2016-07-23", "to": "2022-05-23", "type": "opposition"},
+        {"title": "Shadow Assistant Minister for Resources", "from": "2016-05-04", "to": "2016-07-23", "type": "opposition"},
+        {"title": "Shadow Minister for Financial Services and Superannuation", "from": "2015-10-13", "to": "2016-07-23", "type": "opposition"},
+        {"title": "Shadow Minister for Sport", "from": "2015-10-13", "to": "2016-07-23", "type": "opposition"},
+        {"title": "Shadow Assistant Minister for Trade and Investment", "from": "2015-10-13", "to": "2016-07-23", "type": "opposition"},
+        {"title": "Shadow Assistant Minister for Productivity", "from": "2015-10-13", "to": "2016-07-23", "type": "opposition"},
+        {"title": "Shadow Parliamentary Secretary to the Leader of the Opposition", "from": "2013-10-18", "to": "2015-10-13", "type": "opposition"},
+        {"title": "Shadow Parliamentary Secretary for Trade and Investment", "from": "2013-10-18", "to": "2015-10-13", "type": "opposition"}
+      ],
+      "currentCommittees": []
+    },
+    {
+      "politicianSlug": "penny-wong",
+      "parliamentaryService": "Elected to the Senate for South Australia at the 2001 election, with her term beginning on 1 July 2002, and re-elected in 2007, 2013, 2016 and 2022. The Parliament of Australia records her Australian Labor Party service from 1 July 2002 and a parliamentary appointment as President of the Parliamentary Retiring Allowances Trust from 14 September 2010 to 18 September 2013. She has no House of Representatives or state parliamentary service.",
+      "positionsHeld": [
+        {"title": "Leader of the Government in the Senate", "from": "2022-05-31", "type": "parliamentary"},
+        {"title": "Minister for Foreign Affairs", "from": "2022-05-23", "type": "executive"},
+        {"title": "Cabinet Minister", "from": "2022-05-23", "type": "executive"},
+        {"title": "Shadow Minister for Foreign Affairs", "from": "2016-07-23", "to": "2022-05-23", "type": "opposition"},
+        {"title": "Shadow Minister for Trade and Investment", "from": "2013-10-18", "to": "2016-07-23", "type": "opposition"},
+        {"title": "Leader of the Opposition in the Senate", "from": "2013-10-14", "to": "2022-05-23", "type": "opposition"},
+        {"title": "Shadow Cabinet Minister", "from": "2013-10-14", "to": "2022-05-23", "type": "opposition"},
+        {"title": "Leader of the Government in the Senate", "from": "2013-06-26", "to": "2013-09-18", "type": "parliamentary"},
+        {"title": "Deputy Leader of the Government in the Senate", "from": "2013-02-04", "to": "2013-06-26", "type": "parliamentary"},
+        {"title": "Minister for Finance and Deregulation", "from": "2010-09-14", "to": "2013-09-18", "type": "executive"},
+        {"title": "President of the Parliamentary Retiring Allowances Trust", "from": "2010-09-14", "to": "2013-09-18", "type": "parliamentary"},
+        {"title": "Cabinet Minister", "from": "2007-12-03", "to": "2013-09-18", "type": "executive"}
+      ],
+      "currentCommittees": [
+        "Senate Standing Committee on Appropriations, Staffing and Security (from 1 September 2016)",
+        "Senate Standing Committee on Procedure (from 1 September 2016)"
+      ]
+    },
+    {
+      "politicianSlug": "katy-gallagher",
+      "parliamentaryService": "Served in the Australian Capital Territory Legislative Assembly for Molonglo from 2001 until her resignation on 23 December 2014. On 25 March 2015 the Legislative Assembly chose her to fill the Senate casual vacancy created by Senator Kate Lundy's resignation. She was elected to the Senate for the ACT at the 2016 election; the Parliament of Australia records that this election was ruled void on 9 May 2018 under section 44(i) of the Constitution, and records her Australian Labor Party service as 25 March 2015 to 9 May 2018 and from 18 May 2019. She was elected again in 2019 and re-elected in 2022 and 2025. APH also records a parliamentary appointment as President of the Parliamentary Retiring Allowances Trust from 23 May 2022.",
+      "positionsHeld": [
+        {"title": "Minister for Government Services", "from": "2025-01-20", "type": "executive"},
+        {"title": "Minister for the Public Service", "from": "2022-06-01", "type": "executive"},
+        {"title": "Vice-President of the Executive Council", "from": "2022-05-31", "type": "executive"},
+        {"title": "Manager of Government Business in the Senate", "from": "2022-05-31", "type": "parliamentary"},
+        {"title": "Minister for Finance", "from": "2022-05-23", "type": "executive"},
+        {"title": "Minister for Women", "from": "2022-05-23", "type": "executive"},
+        {"title": "Cabinet Minister", "from": "2022-05-23", "type": "executive"},
+        {"title": "President of the Parliamentary Retiring Allowances Trust", "from": "2022-05-23", "type": "parliamentary"},
+        {"title": "Attorney-General", "from": "2022-05-23", "to": "2022-06-01", "type": "executive"},
+        {"title": "Shadow Minister for Finance", "from": "2019-06-02", "to": "2022-05-23", "type": "opposition"},
+        {"title": "Shadow Minister for the Public Service", "from": "2019-06-02", "to": "2022-05-23", "type": "opposition"},
+        {"title": "Manager of Opposition Business in the Senate", "from": "2019-06-02", "to": "2022-05-23", "type": "opposition"},
+        {"title": "Manager of Opposition Business in the Senate", "from": "2016-09-14", "to": "2017-12-06", "type": "opposition"},
+        {"title": "Shadow Minister for Small Business and Financial Services", "from": "2016-07-23", "to": "2017-12-06", "type": "opposition"},
+        {"title": "Shadow Minister Assisting the Leader of the Opposition on State and Territory Relations", "from": "2015-10-13", "to": "2016-07-23", "type": "opposition"},
+        {"title": "Shadow Minister for Housing and Homelessness", "from": "2015-10-13", "to": "2016-07-23", "type": "opposition"},
+        {"title": "Shadow Minister for Mental Health", "from": "2015-10-13", "to": "2016-07-23", "type": "opposition"},
+        {"title": "Shadow Cabinet Minister", "from": "2015-10-13", "to": "2017-12-06", "type": "opposition"}
+      ],
+      "currentCommittees": [
+        "Senate Standing Committee on Procedure (from 2 July 2019)",
+        "Senate Standing Committee for the Selection of Bills (from 27 July 2022)"
+      ]
+    },
+    {
+      "politicianSlug": "mark-butler",
+      "parliamentaryService": "Elected to the House of Representatives for Port Adelaide, South Australia, at the 2007 election and re-elected there in 2010, 2013 and 2016. After an electoral redistribution he was elected for Hindmarsh, South Australia, in 2019 and re-elected in 2022 and 2025. The Parliament of Australia records his Australian Labor Party service from 24 November 2007. He has no Senate or state parliamentary service.",
+      "positionsHeld": [
+        {"title": "Minister for Health and Ageing", "from": "2025-05-13", "type": "executive"},
+        {"title": "Minister for Disability and the National Disability Insurance Scheme", "from": "2025-05-13", "type": "executive"},
+        {"title": "Minister for Health and Aged Care", "from": "2022-06-01", "to": "2025-05-13", "type": "executive"},
+        {"title": "Cabinet Minister", "from": "2022-06-01", "type": "executive"},
+        {"title": "Deputy Leader of the House", "from": "2022-05-31", "type": "parliamentary"},
+        {"title": "Shadow Minister for Health and Ageing", "from": "2021-01-28", "to": "2022-05-23", "type": "opposition"},
+        {"title": "Deputy Manager of Opposition Business in the House", "from": "2019-06-02", "to": "2022-05-23", "type": "opposition"},
+        {"title": "Shadow Minister for Climate Change and Energy", "from": "2016-07-23", "to": "2021-01-28", "type": "opposition"},
+        {"title": "Shadow Minister for Environment, Climate Change and Water", "from": "2013-10-18", "to": "2016-07-23", "type": "opposition"},
+        {"title": "Shadow Cabinet Minister", "from": "2013-10-18", "to": "2022-05-23", "type": "opposition"},
+        {"title": "Minister for Climate Change", "from": "2013-07-01", "to": "2013-09-18", "type": "executive"},
+        {"title": "Minister for the Environment, Heritage and Water", "from": "2013-07-01", "to": "2013-09-18", "type": "executive"},
+        {"title": "Minister for Housing and Homelessness", "from": "2013-02-04", "to": "2013-07-01", "type": "executive"},
+        {"title": "Minister for Social Inclusion", "from": "2011-12-14", "to": "2013-07-01", "type": "executive"},
+        {"title": "Cabinet Minister", "from": "2011-12-14", "to": "2013-09-18", "type": "executive"},
+        {"title": "Minister Assisting the Prime Minister on Mental Health Reform", "from": "2011-09-12", "to": "2013-07-01", "type": "executive"},
+        {"title": "Minister for Mental Health and Ageing", "from": "2010-09-14", "to": "2013-07-01", "type": "executive"}
+      ],
+      "currentCommittees": []
+    }
+  ],
+  "integrityMatters": [
+    {
+      "politicianSlug": "katy-gallagher",
+      "title": "High Court ruling that Senator Gallagher was ineligible to be elected at the 2016 election under section 44(i) of the Constitution (Re Gallagher)",
+      "date": "2017-12-06",
+      "organisation": "High Court of Australia sitting as the Court of Disputed Returns, on a reference from the Senate",
+      "description": "Senator Gallagher was a British citizen by descent. She signed a declaration of renunciation on 20 April 2016, lodged with the United Kingdom Home Office on 26 April 2016, but the Home Office did not register the renunciation until 16 August 2016, after nominations for the 2 July 2016 election had closed. On 6 December 2017, at her request, the Senate referred questions about her eligibility to the Court of Disputed Returns. On 9 May 2018 the High Court unanimously held that she was a citizen of a foreign power when nominated and was therefore incapable of being chosen as a senator under section 44(i), and that the exception for cases where foreign law irremediably prevents renunciation did not apply. The vacancy was filled by a special count and she returned to the Senate at the 2019 election. A section 44 ineligibility finding concerns constitutional eligibility; the court made no finding about her honesty or conduct.",
+      "status": "official_finding",
+      "statusHistory": [
+        {"status": "referral", "date": "2017-12-06", "note": "At her own request, the Senate resolved to refer questions concerning her eligibility at the 2016 election to the Court of Disputed Returns."},
+        {"status": "official_finding", "date": "2018-05-09", "note": "The Full Court (Kiefel CJ, Bell, Gageler, Keane, Nettle, Gordon and Edelman JJ) unanimously answered that there was a vacancy in her seat by reason of section 44(i), to be filled by a special count of the ballot papers."},
+        {"status": "official_finding", "date": "2018-05-23", "note": "Following the special count, David Smith was declared elected to the ACT Senate vacancy. The Parliament of Australia's record states 'Election ruled void 9.5.2018 under section 44 (i) of the Constitution'."}
+      ],
+      "outcome": "Court's answers: whether section 44(i) created a vacancy, 'Yes'; how it should be filled, 'by a special count of the ballot papers'. The Parliament of Australia records her 2016 election as 'ruled void 9.5.2018 under section 44 (i) of the Constitution'. She was elected again at the 2019 election.",
+      "primarySources": [
+        {"title": "Re Gallagher [2018] HCA 17 (judgment, 9 May 2018)", "publisher": "High Court of Australia", "url": "https://eresources.hcourt.gov.au/showCase/2018/HCA/17", "publishedAt": "2018-05-09"},
+        {"title": "Re Gallagher [2018] HCA 17: judgment summary", "publisher": "High Court of Australia", "url": "https://www.hcourt.gov.au/assets/publications/judgment-summaries/2018/hca17-2018-05-09.pdf", "publishedAt": "2018-05-09"},
+        {"title": "Senator the Hon Katy Gallagher: parliamentary service record", "publisher": "Parliament of Australia", "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=ING", "kind": "official_profile", "tier": 1}
+      ],
+      "independentSources": [
+        {"title": "Katy Gallagher found ineligible to serve in Parliament after High Court citizenship ruling", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2018-05-09/katy-gallagher-found-ineligible-to-serve-in-federal-parliament/9742114", "publishedAt": "2018-05-09"},
+        {"title": "David Smith to replace ousted senator Katy Gallagher: High Court", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2018-05-23/david-smith-to-replace-ousted-senator-katy-gallagher/9790416", "publishedAt": "2018-05-23"},
+        {"title": "Four MPs resign as citizenship crisis causes more havoc", "publisher": "The Conversation", "url": "https://theconversation.com/four-mps-resign-as-citizenship-crisis-causes-more-havoc-96341", "publishedAt": "2018-05-09"}
+      ],
+      "politicianResponse": {
+        "kind": "statement",
+        "date": "2018-05-09",
+        "summary": "In a statement after the ruling Senator Gallagher said she was deeply disappointed but respected the court's decision, and that she believed she had more to contribute to public life.",
+        "quote": "To have my place in the Senate end like this today is very deeply disappointing but I believe that I have more to contribute to public life and I will take the time to talk with Labor party members on how I can do this over the months ahead.",
+        "source": {"title": "Katy Gallagher found ineligible to serve in Parliament after High Court citizenship ruling", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2018-05-09/katy-gallagher-found-ineligible-to-serve-in-federal-parliament/9742114", "publishedAt": "2018-05-09"}
+      }
+    },
+    {
+      "politicianSlug": "richard-marles",
+      "title": "Federal Court adverse-action claim by Mr Marles's former chief of staff against the Commonwealth, Mr Marles and the Prime Minister's chief of staff, settled without findings",
+      "date": "2024-11-25",
+      "organisation": "Federal Court of Australia (proceeding under the Fair Work Act 2009)",
+      "description": "Jo Tarnawsky, chief of staff to the Deputy Prime Minister, said in October 2024 that she had raised a complaint of bullying and harassment by a senior colleague in Mr Marles's office and had subsequently been kept out of her role and left on leave. She did not allege that Mr Marles personally bullied her. In November 2024 she filed a Federal Court claim under the Fair Work Act alleging adverse action in response to her complaint, naming the Commonwealth, Mr Marles and the Prime Minister's chief of staff as respondents. In March 2025 the parties settled on confidential terms and the proceeding was discontinued; a government spokesperson said no adverse findings had been made against any person. There is no judgment.",
+      "status": "no_finding",
+      "statusHistory": [
+        {"status": "allegation", "date": "2024-11-25", "note": "Statement of claim filed in the Federal Court alleging adverse action under the Fair Work Act. Ms Tarnawsky had said publicly in October 2024 that she was sidelined after making a bullying complaint about a colleague."},
+        {"status": "no_finding", "date": "2025-03-21", "note": "Dispute settled on confidential terms before any hearing; the proceeding was discontinued. A government spokesperson said no adverse findings had been made against any person."}
+      ],
+      "outcome": "Settled confidentially before any hearing; no judgment and no findings. Government spokesperson, 21 March 2025: 'The welfare of all staff has been front of mind and remains so. The proceeding will be discontinued.' The spokesperson noted that no adverse findings had been made against any person.",
+      "primarySources": [],
+      "independentSources": [
+        {"title": "Chief of staff to Richard Marles launches legal action over claims she was forced out of job", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2024-11-25/chief-staff-tarnawsky-marles-legal-job-dismissal/104642438", "publishedAt": "2024-11-25"},
+        {"title": "Marles staffer launches court action against the government, deputy prime minister and Albanese's chief of staff", "publisher": "The Conversation", "url": "https://theconversation.com/marles-staffer-launches-court-action-against-the-government-deputy-prime-minister-and-albaneses-chief-of-staff-242214", "publishedAt": "2024-11-24"},
+        {"title": "Deputy prime minister's former chief of staff settles legal dispute with federal government", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2025-03-21/jo-tarnawsky-settles-dispute-with-government/105083292", "publishedAt": "2025-03-21"}
+      ],
+      "politicianResponse": {
+        "kind": "statement",
+        "date": "2024-11-25",
+        "summary": "Mr Marles's office said a number of Ms Tarnawsky's assertions and recollections were contested. Mr Marles said he was satisfied he had upheld the ministerial code of conduct, including maintaining a safe and respectful workplace, and declined further comment while the matter was before the court.",
+        "quote": "I was satisfied I had upheld the ministerial code of conduct",
+        "source": {"title": "Chief of staff to Richard Marles launches legal action over claims she was forced out of job", "publisher": "ABC News", "url": "https://www.abc.net.au/news/2024-11-25/chief-staff-tarnawsky-marles-legal-job-dismissal/104642438", "publishedAt": "2024-11-25"}
+      }
+    }
+  ],
+  "conductMatters": []
+}

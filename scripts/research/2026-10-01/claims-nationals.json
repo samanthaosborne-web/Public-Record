@@ -1,0 +1,514 @@
+[
+  {
+    "politicianSlug": "matt-canavan",
+    "quote": "BREAKING: The CSIRO has finally admitted that coal is the cheapest form of electricity. And this is even after they bias almost all of their assumptions against coal and in favour of wind and solar!",
+    "summary": "The CSIRO has admitted that coal is the cheapest form of electricity.",
+    "statementDate": "2025-07-28",
+    "statementContext": "Post on Facebook, featuring a cropped image of the CSIRO GenCost levelised-cost-of-electricity chart",
+    "originalSource": {
+      "title": "Facebook post, 28 July 2025",
+      "publisher": "Matt Canavan (Facebook)",
+      "url": "https://www.facebook.com/photo/?fbid=1291594562320639&set=a.338192090994229",
+      "tier": 1,
+      "kind": "transcript",
+      "publishedAt": "2025-07-28"
+    },
+    "factCheck": {
+      "publisher": "AAP FactCheck",
+      "title": "Senator's 'cheapest form of electricity' claim misleads",
+      "url": "https://www.aap.com.au/factcheck/senators-cheapest-form-of-electricity-claim-misleads/",
+      "publishedAt": "2025-10-09",
+      "verdictAsPublished": "Misleading"
+    },
+    "status": "mixed",
+    "findings": "The CSIRO's GenCost 2024-25 final report gives a 2024 levelised cost range of $111 to $178 per megawatt hour for black coal and $120 to $168 for solar and wind with firming, with near-identical midpoints ($144.50 and $144). For 2030 the ranges are $103 to $174 for coal (midpoint $138.50) and $76 to $116 for firmed renewables (midpoint $96). The post used only the low end of the 2024 coal range and omitted the 2030 part of the chart. GenCost's lead author and a CSIRO spokesperson told AAP FactCheck that midpoints are the reasonable comparison and that renewables remain the lowest-cost new-build generation technology.",
+    "context": "The lowest point of the 2024 coal cost range is below the lowest point of the firmed-renewables range, which is the basis of the post. Senator Canavan's office pointed AAP FactCheck to his opinion piece in Central Queensland Today, which he had also posted on Facebook. AAP FactCheck's verdict was that the claim misleads by relying on one end of one year's range.",
+    "primarySources": [
+      {
+        "title": "GenCost 2024-25 final report",
+        "publisher": "CSIRO",
+        "url": "https://www.csiro.au/en/research/technology-space/energy/Electricity-transition/GenCost",
+        "tier": 1,
+        "kind": "official_report",
+        "whatItShows": "Levelised cost ranges and midpoints for coal and firmed renewables for 2024 and 2030."
+      },
+      {
+        "title": "2024-25 GenCost final report (news statement, July 2025)",
+        "publisher": "CSIRO",
+        "url": "https://www.csiro.au/en/news/All/News/2025/July/2024-25-GenCost-Final-Report",
+        "tier": 1,
+        "kind": "official_statement",
+        "whatItShows": "CSIRO statement that renewables remain the lowest-cost new-build electricity generation technology."
+      },
+      {
+        "title": "Time to be coal wise and not penny foolish (opinion piece by Matt Canavan)",
+        "publisher": "Central Queensland Today",
+        "url": "https://cqtoday.com.au/news/2025/08/01/time-to-be-coal-wise-and-not-penny-foolish/",
+        "tier": 3,
+        "kind": "other",
+        "whatItShows": "The material Senator Canavan's office pointed to in support of the claim."
+      }
+    ],
+    "politicianResponse": {
+      "kind": "defence",
+      "summary": "Senator Canavan's office pointed AAP FactCheck to his Central Queensland Today opinion piece, which he had also posted on Facebook.",
+      "date": "2025-10-09"
+    },
+    "correction": {
+      "status": "no_correction_located",
+      "description": "No correction or clarification located as at 1 October 2026."
+    },
+    "repeated": [],
+    "topics": [
+      "energy",
+      "climate"
+    ]
+  },
+  {
+    "politicianSlug": "matt-canavan",
+    "quote": "First day without the Liddell coal power station and the notices of a lack of power are flying thick and fast. Not a good sign and it is not even winter yet.",
+    "summary": "Lack-of-power notices followed the closure of the Liddell power station.",
+    "statementDate": "2023-04-28",
+    "statementContext": "Post on X, with screenshots of four Australian Energy Market Operator market notices",
+    "originalSource": {
+      "title": "Post on X, 28 April 2023",
+      "publisher": "Matt Canavan (X)",
+      "url": "https://twitter.com/mattjcan/status/1651832420931600386",
+      "tier": 1,
+      "kind": "transcript",
+      "publishedAt": "2023-04-28"
+    },
+    "factCheck": {
+      "publisher": "RMIT ABC Fact Check (CheckMate newsletter, with RMIT FactLab)",
+      "title": "Matt Canavan says Liddell power station's closure is linked to several lack of power alerts. Is that correct?",
+      "url": "https://www.abc.net.au/news/2023-05-05/fact-check-liddell-power-station-closed-low-energy-aemo/102304564",
+      "publishedAt": "2023-05-05",
+      "verdictAsPublished": "No verdict label (CheckMate newsletter); experts said it was 'very unlikely' the notices were linked to the closure"
+    },
+    "status": "mixed",
+    "findings": "Four AEMO market notices were issued on the day Liddell's final unit was powered down, as the post showed; three were subsequently cancelled. AEMO's own explainer says a 'lack of reserve level 1' forecast 'simply provides an indication to the market to encourage more generation' and has 'no impact to power system security or reliability'. AEMO's quarterly reports show such notices are routine: 19 in the March 2023 quarter, 45 in the December 2022 quarter and 89 in the September 2022 quarter. Energy analysts Alison Reeve (Grattan Institute) and Bruce Mountain (Victoria University) said neither the New South Wales notices nor a South Australian intervention notice could be attributed to Liddell's closure.",
+    "context": "The notices were real, but the fact-check found no evidence linking them to the closure of Liddell, and the type of notice involved is a routine market signal rather than a warning of supply failure. PUBLIC RECORD classifies the claim as mixed because the notices existed as described while the implied connection to the closure was not supported. No response from Senator Canavan is recorded in the fact-check.",
+    "primarySources": [
+      {
+        "title": "AEMO market notifications explained",
+        "publisher": "Australian Energy Market Operator",
+        "url": "https://aemo.com.au/en/learn/energy-explained/energy-101/aemo-market-notifications-explained",
+        "tier": 1,
+        "kind": "official_report",
+        "whatItShows": "What a lack-of-reserve level 1 notice signals; no impact on system security or reliability."
+      },
+      {
+        "title": "NEM lack of reserve framework quarterly reports",
+        "publisher": "Australian Energy Market Operator",
+        "url": "https://aemo.com.au/en/energy-systems/electricity/national-electricity-market-nem/system-operations/power-system-operation/nem-lack-of-reserve-framework-quarterly-reports",
+        "tier": 1,
+        "kind": "official_report",
+        "whatItShows": "Counts of lack-of-reserve forecasts per quarter."
+      },
+      {
+        "title": "AEMO market notices",
+        "publisher": "Australian Energy Market Operator",
+        "url": "https://aemo.com.au/en/market-notices",
+        "tier": 1,
+        "kind": "dataset",
+        "whatItShows": "Three of the four notices posted were subsequently cancelled."
+      }
+    ],
+    "correction": {
+      "status": "no_correction_located",
+      "description": "No correction or clarification located as at 1 October 2026."
+    },
+    "repeated": [],
+    "topics": [
+      "energy"
+    ]
+  },
+  {
+    "politicianSlug": "bridget-mckenzie",
+    "quote": "Labor's family car tax will put thousands of dollars on the price of new cars Australians love to drive",
+    "summary": "Labor's proposed vehicle efficiency standard is a 'family car tax' that will add thousands of dollars to new car prices.",
+    "statementDate": "2024-02-19",
+    "statementContext": "Joint media release with Ted O'Brien, published on the Liberal Party website",
+    "originalSource": {
+      "title": "Joint media release: Labor's family car tax will put thousands of dollars on the price of new cars Australians love to drive",
+      "publisher": "Liberal Party of Australia (Bridget McKenzie and Ted O'Brien)",
+      "url": "https://www.liberal.org.au/latest-news/2024/02/19/labors-family-car-tax-will-put-thousands-dollars-price-new-cars-australians",
+      "tier": 1,
+      "kind": "media_release",
+      "publishedAt": "2024-02-19"
+    },
+    "factCheck": {
+      "publisher": "RMIT ABC Fact Check (CheckMate newsletter)",
+      "title": "Peter Dutton says Labor's proposed fuel efficiency standards constitute a ute or family car tax. Is that correct?",
+      "url": "https://www.abc.net.au/news/2024-03-15/fact-check-vehicle-missions-standard-ute-family-car-tax/103587622",
+      "publishedAt": "2024-03-15",
+      "verdictAsPublished": "No verdict label (CheckMate newsletter); finding headed 'No, Labor is not taxing the family car'"
+    },
+    "status": "mixed",
+    "findings": "Economists Paul Burke (ANU) and John Quiggin (University of Queensland) and tax law professor Michael Dirkis (University of Sydney) told RMIT ABC Fact Check that the New Vehicle Efficiency Standard is not a tax because it raises no government revenue: it sets fleet-wide emissions limits on manufacturers, with tradeable credits and penalties for non-compliance. The Federal Chamber of Automotive Industries, whose modelling was cited for specific price rises, said its modelling of penalties and credits 'is not a forecast on price impacts'. The fact-check concluded that 'the government's proposal does not amount to a new tax' and that claims of specific price rises were not supported by the industry modelling cited.",
+    "context": "The fact-check's headline subject was Opposition Leader Peter Dutton; the McKenzie and O'Brien release was cited as one example of the same claim, alongside statements by Angus Taylor and Michaelia Cash. PUBLIC RECORD classifies the claim as mixed: the 'tax' characterisation was found not to apply, and the price-impact figure was not supported by the modelling cited, while the policy does impose penalties on manufacturers that could affect prices. No response from Senator McKenzie is recorded in the fact-check.",
+    "primarySources": [
+      {
+        "title": "Cleaner, cheaper to run cars: the Australian New Vehicle Efficiency Standard, consultation impact analysis (February 2024)",
+        "publisher": "Department of Infrastructure, Transport, Regional Development, Communications and the Arts",
+        "url": "https://www.infrastructure.gov.au/sites/default/files/documents/cleaner-cheaper-to-run-cars-the-australian-new-vehicle-efficiency-standard-consultation-impact-analysis-february2024.pdf",
+        "whatItShows": "The policy options, fleet-wide targets, credits and penalties."
+      },
+      {
+        "title": "Joint media release: Delivering Australians more choice of cars that save on fuel",
+        "publisher": "Minister for Climate Change and Energy",
+        "url": "https://minister.dcceew.gov.au/bowen/media-releases/joint-media-release-delivering-australians-more-choice-cars-save-fuel",
+        "tier": 1,
+        "kind": "media_release",
+        "whatItShows": "The government's preferred model for the standard."
+      }
+    ],
+    "correction": {
+      "status": "no_correction_located",
+      "description": "No correction or clarification located as at 1 October 2026."
+    },
+    "repeated": [],
+    "topics": [
+      "tax",
+      "climate",
+      "economy"
+    ]
+  },
+  {
+    "politicianSlug": "david-littleproud",
+    "quote": "They're going to bring in 1.8 million new people into this country over the next five years with nowhere to put them",
+    "summary": "Labor will bring 1.8 million new people into Australia over the next five years.",
+    "statementDate": "2025-03-01",
+    "datePrecision": "month",
+    "statementContext": "Interview, 4BC Breakfast radio, Brisbane (March 2025; exact date not stated in the fact-check)",
+    "originalSource": {
+      "title": "4BC Breakfast interview (audio)",
+      "publisher": "4BC (Omny)",
+      "url": "https://omny.fm/shows/4bc-breakfast/nothing-new-rumours-of-internal-fiction-as-coaliti",
+      "tier": 3,
+      "kind": "other"
+    },
+    "factCheck": {
+      "publisher": "AAP FactCheck",
+      "title": "Experts: Coalition migration claim omits key context",
+      "url": "https://www.aap.com.au/factcheck/experts-coalition-migration-claim-omits-key-context/",
+      "publishedAt": "2025-03-28",
+      "verdictAsPublished": "No verdict label; AAP FactCheck found the claim 'omits key context'"
+    },
+    "status": "mixed",
+    "findings": "Mr Littleproud's and Angus Taylor's offices said the figure summed ABS net overseas migration for 2022-23 and 2023-24 with budget forecasts for 2024-25 to 2026-27, giving 1.791 million; 54 per cent of that total comes from the two post-pandemic years already past. Summing the forecasts for the next five years, as the wording 'over the next five years' implies, gives about 1.27 million, because net migration is forecast to fall sharply from 2024-25. Migration experts Anna Boucher, Alan Gamlen and Abul Rizvi told AAP FactCheck that the post-pandemic surge largely reflected reduced departures and the policies of both Coalition and Labor governments, and that net migration should not be equated with arrivals.",
+    "context": "The same figure was used by Angus Taylor and Peter Dutton in March 2025 and is recorded separately for Mr Taylor. The 1.8 million figure is the sum for a five-year period that includes two years already elapsed; applied to the next five years, as stated, it is overstated by about half a million.",
+    "primarySources": [
+      {
+        "title": "National, state and territory population (latest release)",
+        "publisher": "Australian Bureau of Statistics",
+        "url": "https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/latest-release",
+        "whatItShows": "Actual net overseas migration for 2022-23 and 2023-24."
+      },
+      {
+        "title": "Budget 2025-26, Budget Paper No. 1",
+        "publisher": "Australian Government (Treasury)",
+        "url": "https://budget.gov.au/content/bp1/download/bp1_2025-26.pdf",
+        "whatItShows": "Net overseas migration forecasts for 2024-25 to 2026-27, falling sharply; forward five-year sum of about 1.27 million."
+      },
+      {
+        "title": "COVID-19 Pandemic event visa (subclass 408)",
+        "publisher": "Department of Home Affairs",
+        "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/repealed-visas/covid-19-pandemic-event-subclass-408",
+        "whatItShows": "Coalition-era visa that allowed temporary entrants to extend their stays, reducing departures."
+      }
+    ],
+    "politicianResponse": {
+      "kind": "defence",
+      "summary": "Mr Littleproud's and Mr Taylor's offices told AAP FactCheck the claim was based on net overseas migration data over the five years from 2022-23 to 2026-27.",
+      "date": "2025-03-28"
+    },
+    "correction": {
+      "status": "no_correction_located",
+      "description": "No correction or clarification located as at 1 October 2026."
+    },
+    "repeated": [],
+    "topics": [
+      "immigration",
+      "housing"
+    ]
+  },
+  {
+    "politicianSlug": "david-littleproud",
+    "quote": "This government now has a seven-star construction code adding $60,000 to the construction of a home",
+    "summary": "The seven-star National Construction Code adds $60,000 to the cost of building a home.",
+    "statementDate": "2025-02-17",
+    "statementContext": "Interview, Sky News Australia",
+    "originalSource": {
+      "title": "Transcript: interview, Sky News Australia, 17 February 2025 (ParlInfo)",
+      "publisher": "Parliament of Australia (ParlInfo)",
+      "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22media%2Fpressrel%2F10170221%22;src1=sm1",
+      "tier": 1,
+      "kind": "transcript",
+      "publishedAt": "2025-02-17"
+    },
+    "factCheck": {
+      "publisher": "AAP FactCheck",
+      "title": "Coalition's evidence doesn't show rules added $60,000 cost of building a home",
+      "url": "https://www.aap.com.au/factcheck/coalitions-evidence-doesnt-show-rules-added-60000-cost-of-building-a-home/",
+      "publishedAt": "2025-03-05",
+      "verdictAsPublished": "False"
+    },
+    "status": "contradicted",
+    "findings": "The offices of Mr Littleproud and Michael Sukkar said the figure came from Master Builders Australia and supplied a table comparing ABS average values of new home building approvals in Greater Sydney between the December quarters of 2022 and 2023. That comparison measured overall cost increases from labour, materials and regulation, not the cost of the 2022 National Construction Code seven-star change, as Master Builders itself confirmed. Other estimates of the code change were $2,972 to $5,905 (Australian Glass and Window Association), $20,000 to $30,000 (Master Builders Queensland), $25,000 (Housing Industry Association) and $464 to $7,830 in capital costs with $630 to $9,693 in energy-bill savings (ACIL Allen regulatory impact statement). Building researchers Trivess Moore (RMIT) and Michael Ambrose (CSIRO) said no rigorous study supported $60,000.",
+    "context": "The same claim was made by Peter Dutton in October 2024 and by Michael Sukkar on 2CC radio. Industry estimates of the code change vary widely, but none located by AAP FactCheck approached $60,000. Mr Littleproud's office did not issue a correction.",
+    "primarySources": [
+      {
+        "title": "Understanding the National Construction Code",
+        "publisher": "Australian Building Codes Board",
+        "url": "https://ncc.abcb.gov.au/homeowners/understanding-ncc",
+        "tier": 1,
+        "kind": "official_report",
+        "whatItShows": "What the code is and the 2022 seven-star energy update."
+      },
+      {
+        "title": "Regulatory impact statement for proposed NCC 2022 residential energy efficiency changes",
+        "publisher": "ACIL Allen for the Australian Building Codes Board",
+        "url": "https://acilallen.com.au/uploads/projects/377/ACILAllen_RISProposedNCC2022_2021.pdf",
+        "tier": 2,
+        "kind": "official_report",
+        "whatItShows": "Capital costs of $464 to $7,830 and bill savings of $630 to $9,693 depending on house type and location."
+      },
+      {
+        "title": "Builders fighting to keep the Queensland building dream alive",
+        "publisher": "Master Builders Queensland",
+        "url": "https://www.mbqld.com.au/news-and-publications/media/builders-fighting-to-keep-the-queensland-building-dream-alive",
+        "tier": 3,
+        "kind": "other",
+        "whatItShows": "Industry estimate of $20,000 to $30,000 compliance cost."
+      },
+      {
+        "title": "Interview with Laura Jayes, Sky News",
+        "publisher": "Master Builders Australia",
+        "url": "https://masterbuilders.com.au/interview-with-laura-jayes-sky-news-2/",
+        "tier": 3,
+        "kind": "other",
+        "whatItShows": "Master Builders' chief executive attributing cost rises to labour shortages, materials and regulation combined."
+      }
+    ],
+    "politicianResponse": {
+      "kind": "defence",
+      "summary": "Mr Littleproud's and Mr Sukkar's offices told AAP FactCheck the figure came from Master Builders Australia and provided a table of calculations based on ABS data.",
+      "date": "2025-03-05"
+    },
+    "correction": {
+      "status": "no_correction_located",
+      "description": "No correction or clarification located as at 1 October 2026."
+    },
+    "repeated": [],
+    "topics": [
+      "housing",
+      "energy",
+      "economy"
+    ]
+  },
+  {
+    "politicianSlug": "david-littleproud",
+    "quote": "The most popular selling vehicle in Australia - the Ford Everest - will go up by $6000 in purchase price this year, going up to $18,000 as it phases in. And then a RAV4 ... that's going up by nearly $3000 and going up by over $11,000 over this phase-in period.",
+    "summary": "The New Vehicle Efficiency Standard will raise the price of a Ford Everest by $6,000 and a Toyota RAV4 by nearly $3,000 in 2025.",
+    "statementDate": "2025-01-01",
+    "statementContext": "Interview, Sky News Australia",
+    "originalSource": {
+      "title": "David Littleproud warns Aussies they will pay more for cars as Labor's New Vehicle Efficiency Standard comes into effect",
+      "publisher": "Sky News Australia",
+      "url": "https://www.skynews.com.au/australia-news/politics/david-littleproud-warns-aussies-they-will-pay-more-for-cars-as-labors-new-vehicle-efficiency-standard-comes-into-effect/news-story/0bb970a24c8f09b58720682b511b5df9",
+      "tier": 2,
+      "kind": "news_report",
+      "publishedAt": "2025-01-01"
+    },
+    "factCheck": {
+      "publisher": "AAP FactCheck",
+      "title": "Nationals leader Littleproud wrong on Labor's new car emissions plan",
+      "url": "https://www.aap.com.au/factcheck/nationals-leader-littleproud-wrong-on-labors-new-car-emissions-plan/",
+      "publishedAt": "2025-02-05",
+      "verdictAsPublished": "False"
+    },
+    "status": "contradicted",
+    "findings": "Mr Littleproud's office said the figures came from Federal Chamber of Automotive Industries modelling from February 2024, which used a stricter draft of the policy, 2023 sales data, the Ford Ranger as a proxy for the Everest, and petrol-only RAV4 models that Toyota stopped selling in June 2024; the chamber itself described the figures as 'outdated somewhat'. Applying the legislated formula, AAP FactCheck calculated that every 2025 RAV4 model would earn a credit of $3,390 to $3,880 (confirmed by Toyota), that the highest-emitting Everest would incur a penalty of $3,210 (an average of $420 across nine models), and that by 2029 RAV4 penalties would be $4,420 to $4,910 rather than $11,000. The Ford Everest was not Australia's most popular vehicle in 2024. Transport researchers Robin Smit (UTS) and Hussein Dia (Swinburne) said fleet-wide penalties do not translate into fixed price rises for particular models.",
+    "context": "The New Vehicle Efficiency Standard came into effect on 1 January 2025, the day of the interview. A spokesperson for Mr Littleproud confirmed the Ford Ranger figures were used for the Everest and provided more detailed chamber projections. AAP FactCheck later found a social-media version of the same figures false and noted that Peter Dutton repeated the claim.",
+    "primarySources": [
+      {
+        "title": "New Vehicle Efficiency Standard Act 2024",
+        "publisher": "Federal Register of Legislation",
+        "url": "https://www.legislation.gov.au/F2024L01569/latest/text",
+        "whatItShows": "The legislated targets, $100 per gram per kilometre penalty, credits and carry-over rules."
+      },
+      {
+        "title": "AAP FactCheck appendix: NVES penalty and credit calculations",
+        "publisher": "AAP FactCheck",
+        "url": "https://storage.googleapis.com/pss-prod-aap-ss-web-bkt-fw/public/FactCheck-Uploads/FC-Fuel-appendix-1.pdf?vid=3",
+        "tier": 2,
+        "kind": "fact_check",
+        "whatItShows": "Model-by-model calculations for the RAV4, Everest and Ranger for 2025 and 2029."
+      },
+      {
+        "title": "New record but outlook remains tough (2024 sales)",
+        "publisher": "Federal Chamber of Automotive Industries",
+        "url": "https://www.fcai.com.au/new-record-but-outlook-remains-tough/",
+        "tier": 3,
+        "kind": "other",
+        "whatItShows": "The Ford Everest was not Australia's most popular vehicle in 2024."
+      },
+      {
+        "title": "Toyota press release on the hybrid-only RAV4 range",
+        "publisher": "Toyota Australia",
+        "url": "https://pressroom.toyota.com.au/PressRelease?pr-code=ba0b0d24-66cb-42ba-a366-1c8ecc6102fc",
+        "tier": 3,
+        "kind": "media_release",
+        "whatItShows": "Petrol-only RAV4 models withdrawn from June 2024."
+      }
+    ],
+    "politicianResponse": {
+      "kind": "defence",
+      "summary": "A spokesperson for Mr Littleproud told AAP FactCheck the claim was based on Federal Chamber of Automotive Industries figures from February 2024, confirmed that Ford Ranger figures were used for the Everest, and provided more detailed chamber projections.",
+      "date": "2025-02-05"
+    },
+    "correction": {
+      "status": "no_correction_located",
+      "description": "No correction or clarification located as at 1 October 2026."
+    },
+    "repeated": [],
+    "topics": [
+      "climate",
+      "tax",
+      "economy"
+    ]
+  },
+  {
+    "politicianSlug": "david-littleproud",
+    "quote": "Yeah, look, it's over 50 per cent because there's a compounding effect that's gone in every six months",
+    "summary": "More than 50 per cent of the price of a pot of beer is federal tax.",
+    "statementDate": "2024-09-23",
+    "statementContext": "Interview, 3AW Mornings with Tom Elliott, answering how much of the price of a pot of beer is federal tax",
+    "originalSource": {
+      "title": "3AW Mornings with Tom Elliott, 23 September 2024 (audio, from 1:28:34)",
+      "publisher": "3AW (Omny)",
+      "url": "https://omny.fm/shows/3aw-mornings/3aw-mornings-with-tom-elliott-mon-23-sept-2024?t=88m34s",
+      "tier": 3,
+      "kind": "other",
+      "publishedAt": "2024-09-23"
+    },
+    "factCheck": {
+      "publisher": "AAP FactCheck",
+      "title": "Nationals leader wrong to say over 50pct of beer price is tax",
+      "url": "https://www.aap.com.au/factcheck/nationals-leader-wrong-to-say-over-50pct-of-beer-price-is-tax/",
+      "publishedAt": "2024-10-04",
+      "verdictAsPublished": "False"
+    },
+    "status": "contradicted",
+    "findings": "Using Australian Taxation Office excise rates ($43.22 per litre of pure alcohol for keg beer above 3.5 per cent, with the first 1.15 per cent exempt), AAP FactCheck calculated that a 50-litre keg of 4.6 per cent beer attracts $74.55 in excise, or 42 cents per 285-millilitre pot. With 64 cents of GST on a $7 pot, total tax is about $1.06, or about 15 per cent of the price. An 8 per cent beer would be taxed at about 21 per cent; packaged beer is taxed at a higher rate ($61.32 per litre of alcohol), reaching about 40 per cent of the price of a $60 slab. Brewers Association figures of about 60 cents of tax per pot broadly matched.",
+    "context": "Mr Littleproud was arguing for a pause in the twice-yearly indexation of alcohol excise for beer served in pubs. Beer excise is indexed to inflation every six months, as he said; the fact-check found the share of a pot's price made up of tax to be well under half. Mr Littleproud's office did not respond when AAP FactCheck asked for the basis of the figure.",
+    "primarySources": [
+      {
+        "title": "Excise duty rates for alcohol",
+        "publisher": "Australian Taxation Office",
+        "url": "https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/excise-on-alcohol/excise-duty-rates-for-alcohol",
+        "whatItShows": "Beer excise rates by strength and container, indexed twice yearly."
+      },
+      {
+        "title": "GST industry issues: beverages",
+        "publisher": "Australian Taxation Office",
+        "url": "https://www.ato.gov.au/law/view/document?DocID=GII/GSTIIFL1/NAT/ATO/00001",
+        "whatItShows": "Beer is subject to 10 per cent GST."
+      }
+    ],
+    "politicianResponse": {
+      "kind": "no_response_located",
+      "summary": "Mr Littleproud's office did not respond when AAP FactCheck asked for the basis of the 50 per cent figure.",
+      "date": "2024-10-04"
+    },
+    "correction": {
+      "status": "no_correction_located",
+      "description": "No correction or clarification located as at 1 October 2026."
+    },
+    "repeated": [],
+    "topics": [
+      "tax",
+      "economy"
+    ]
+  },
+  {
+    "politicianSlug": "david-littleproud",
+    "quote": "While the landholders that might get the turbines and solar panels, they may get some financial benefit, those with the transmission lines don't.",
+    "summary": "Landholders who host transmission lines receive no financial benefit.",
+    "statementDate": "2024-08-18",
+    "statementContext": "Interview, ABC Insiders",
+    "originalSource": {
+      "title": "Insiders, 18 August 2024 (video, from 12:57)",
+      "publisher": "ABC News (YouTube)",
+      "url": "https://www.youtube.com/watch?v=QYNXuyJKYY8&t=774s",
+      "tier": 2,
+      "kind": "transcript",
+      "publishedAt": "2024-08-18"
+    },
+    "factCheck": {
+      "publisher": "AAP FactCheck",
+      "title": "Nationals leader misses the mark on transmission lines claim",
+      "url": "https://www.aap.com.au/factcheck/nationals-leader-misses-the-mark-on-transmission-lines-claim/",
+      "publishedAt": "2024-08-22",
+      "verdictAsPublished": "Mostly False"
+    },
+    "status": "contradicted",
+    "findings": "Landholders who host new transmission lines receive compensation for easements and, in several states, additional annual payments: New South Wales and Victoria pay about $200,000 per kilometre of line hosted over 20 to 25 years, and Queensland about $300,000 per kilometre. AAP FactCheck also cited the Department of Climate Change, Energy, the Environment and Water and the Australian Energy Infrastructure Commissioner on easement compensation. The statement that transmission-line hosts receive no financial benefit was not correct.",
+    "context": "Asked for evidence, Mr Littleproud's office said he had misspoken. In a statement to AAP FactCheck he said: 'I acknowledge I misspoke in my answer in that interview. What I was trying to articulate was that those forced into hosting transmission lines don't receive an equitable level of financial benefit in comparison to the wind and solar hosts.' AAP FactCheck noted he had not otherwise publicly corrected the statement. AAP FactCheck's 'Mostly False' rating is recorded here as contradicted because the literal statement was shown to be incorrect; the clarified claim about the relative size of payments is a different claim that the fact-check did not assess.",
+    "primarySources": [
+      {
+        "title": "Strategic Benefit Payments Scheme: overview",
+        "publisher": "EnergyCo (NSW Government)",
+        "url": "https://www.energyco.nsw.gov.au/sites/default/files/2023-01/overview-strategic-benefit-payments-scheme.pdf",
+        "tier": 1,
+        "kind": "official_report",
+        "whatItShows": "NSW scheme paying landholders about $200,000 per kilometre of transmission line hosted, in annual instalments over 20 years."
+      },
+      {
+        "title": "Compensation and landholder payments factsheet",
+        "publisher": "Victorian Government (Energy)",
+        "url": "https://www.energy.vic.gov.au/__data/assets/pdf_file/0013/700105/Compensation-and-landholder-payments-factsheet.pdf",
+        "tier": 1,
+        "kind": "official_report",
+        "whatItShows": "Victorian payments of about $200,000 per kilometre over 25 years."
+      },
+      {
+        "title": "SuperGrid Landholder Payment Framework",
+        "publisher": "Powerlink Queensland",
+        "url": "https://www.powerlink.com.au/sites/default/files/2023-05/SuperGrid-Landholder-Payment-Framework.pdf",
+        "tier": 2,
+        "kind": "official_report",
+        "whatItShows": "Queensland framework with a baseline scenario of about $300,000 per kilometre, subject to land value."
+      },
+      {
+        "title": "Transmission: community engagement",
+        "publisher": "Department of Climate Change, Energy, the Environment and Water",
+        "url": "https://www.dcceew.gov.au/energy/renewable/community-engagement/transmission",
+        "whatItShows": "Landholders with an easement on their property are compensated by transmission companies, which must negotiate access."
+      },
+      {
+        "title": "Observations and recommendations, chapter 1: host landowner negotiations",
+        "publisher": "Australian Energy Infrastructure Commissioner",
+        "url": "https://www.aeic.gov.au/observations-and-recommendations/chapter-1-host-landowner-negotiations",
+        "whatItShows": "How host landholders are paid for wind, solar and transmission projects."
+      }
+    ],
+    "politicianResponse": {
+      "kind": "clarification",
+      "summary": "Mr Littleproud told AAP FactCheck he had misspoken and that he meant hosts of transmission lines do not receive an equitable level of financial benefit compared with wind and solar hosts.",
+      "quote": "I acknowledge I misspoke in my answer in that interview. What I was trying to articulate was that those forced into hosting transmission lines don't receive an equitable level of financial benefit in comparison to the wind and solar hosts.",
+      "date": "2024-08-22"
+    },
+    "correction": {
+      "status": "clarified",
+      "date": "2024-08-22",
+      "description": "Mr Littleproud acknowledged to AAP FactCheck that he misspoke and clarified what he meant. AAP FactCheck noted he had not otherwise publicly corrected the statement, and PUBLIC RECORD has located no public correction."
+    },
+    "repeated": [],
+    "topics": [
+      "energy",
+      "infrastructure"
+    ]
+  }
+]

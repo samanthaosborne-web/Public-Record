@@ -462,5 +462,2427 @@
     "createdAt": "2026-09-30T09:00:00+10:00",
     "updatedAt": "2026-09-30T09:00:00+10:00",
     "note": "412 beds in 2024–25, down 64 from 2020–21."
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20240428-1-original-1",
+    "claimId": "clm_david-shoebridge-20240428-1",
+    "sourceId": "src_twitter-com-davidshoebridge-status-1784420837871038520-82e807",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20240428-1-primary-1",
+    "claimId": "clm_david-shoebridge-20240428-1",
+    "sourceId": "src_milex-sipri-org-sipri-fe55ae",
+    "role": "primary",
+    "note": "2023 military spending of US$32.3 billion (Australia) and US$16.6 billion (Taiwan); 1.9 per cent and 2.2 per cent of GDP respectively.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20240428-1-primary-2",
+    "claimId": "clm_david-shoebridge-20240428-1",
+    "sourceId": "src_data-oecd-org-gdp-gross-domestic-product-gdp-htm-6b5805",
+    "role": "primary",
+    "note": "Australia's nominal GDP of about US$1.87 trillion.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20240428-1-primary-3",
+    "claimId": "clm_david-shoebridge-20240428-1",
+    "sourceId": "src_imf-org-external-datamapper-ngdpd-weo-oemdc-advec-weoworld-aus-twn-2b4ed9",
+    "role": "primary",
+    "note": "Taiwan's nominal GDP of about US$802 billion.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20240428-1-primary-4",
+    "claimId": "clm_david-shoebridge-20240428-1",
+    "sourceId": "src_cia-gov-the-world-factbook-field-real-gdp-purchasing-power-parity-coun-935e6e",
+    "role": "primary",
+    "note": "Purchasing-power-parity GDP of US$1.14 trillion (Taiwan, 2019) and US$1.33 trillion (Australia, 2022), the basis cited by the senator's office.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20240428-1-primary-5",
+    "claimId": "clm_david-shoebridge-20240428-1",
+    "sourceId": "src_power-lowyinstitute-org-data-military-capability-defence-spending-mili-7343de",
+    "role": "primary",
+    "note": "2022 defence spending on a purchasing-power basis of US$36.9 billion (Australia) and US$30 billion (Taiwan).",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20240428-1-independent-1",
+    "claimId": "clm_david-shoebridge-20240428-1",
+    "sourceId": "src_aap-com-au-factcheck-military-spend-comparison-problematic-say-experts-5fe2c6",
+    "role": "independent",
+    "note": "Verdict as published: Mixture.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20240415-1-original-1",
+    "claimId": "clm_david-shoebridge-20240415-1",
+    "sourceId": "src_twitter-com-davidshoebridge-status-1779647157567660250-4ad733",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20240415-1-primary-1",
+    "claimId": "clm_david-shoebridge-20240415-1",
+    "sourceId": "src_aph-gov-au-parliamentary-business-bills-legislation-bills-search-resul-7863e1",
+    "role": "primary",
+    "note": "Bill text proposing the 'removal concern country' designation power.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20240415-1-primary-2",
+    "claimId": "clm_david-shoebridge-20240415-1",
+    "sourceId": "src_parlinfo-aph-gov-au-parlinfo-download-legislation-ems-r7179-ems-15d6c6-5a4dea",
+    "role": "primary",
+    "note": "The minister may designate a country 'if the minister thinks it is in the national interest'; described as a 'discretionary personal power'; exemptions listed.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20240415-1-primary-3",
+    "claimId": "clm_david-shoebridge-20240415-1",
+    "sourceId": "src_aph-gov-au-documentstore-ashx-677ef2",
+    "role": "primary",
+    "note": "Describes the scope of the power as 'exceptionally broad' and decisions as 'effectively incapable of being challenged' because of the national-interest criterion.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20240415-1-primary-4",
+    "claimId": "clm_david-shoebridge-20240415-1",
+    "sourceId": "src_unsw-edu-au-content-dam-pdfs-law-kaldor-resources-2024-04-submissions--dcc20d",
+    "role": "primary",
+    "note": "Concern over a power to 'blacklist' entire countries without the US-style consideration of a country's capacity to cooperate.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20240415-1-primary-5",
+    "claimId": "clm_david-shoebridge-20240415-1",
+    "sourceId": "src_parlinfo-aph-gov-au-parlinfo-search-display-display-w3p-query-id-3a-22-9d7a4a",
+    "role": "primary",
+    "note": "The minister's rationale: some countries will not allow their nationals to return.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20240415-1-primary-6",
+    "claimId": "clm_david-shoebridge-20240415-1",
+    "sourceId": "src_minister-homeaffairs-gov-au-andrewgiles-pages-press-conference-melbour-2b3c9e",
+    "role": "primary",
+    "note": "The minister described the power as 'a diplomatic tool to encourage cooperation'.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20240415-1-primary-7",
+    "claimId": "clm_david-shoebridge-20240415-1",
+    "sourceId": "src_sgp-fas-org-crs-homesec-if11025-pdf-3aa4d2",
+    "role": "primary",
+    "note": "The US visa-sanction designation was used only twice between 1991 and 2017.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20240415-1-primary-8",
+    "claimId": "clm_david-shoebridge-20240415-1",
+    "sourceId": "src_hcourt-gov-au-cases-case-s28-2023-1f0685",
+    "role": "primary",
+    "note": "The November 2023 ruling that ended indefinite immigration detention and prompted the bill.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20240415-1-independent-1",
+    "claimId": "clm_david-shoebridge-20240415-1",
+    "sourceId": "src_abc-net-au-news-2024-06-06-fact-check-david-shoebridge-trump-style-tra-e8a7ed",
+    "role": "independent",
+    "note": "Verdict as published: A fair call.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20231107-1-original-1",
+    "claimId": "clm_david-shoebridge-20231107-1",
+    "sourceId": "src_parlinfo-aph-gov-au-parlinfo-genpdf-chamber-hansards-27137-0134-hansar-a8311b",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20231107-1-primary-1",
+    "claimId": "clm_david-shoebridge-20231107-1",
+    "sourceId": "src_parlinfo-aph-gov-au-parlinfo-download-committees-estimate-27450-toc-pd-aec337",
+    "role": "primary",
+    "note": "351 permits relating to Israel since 2017; none of the 322 permits issued from January 2017 to 31 March 2023 for lethal equipment; permits cover dual-use items.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20231107-1-primary-2",
+    "claimId": "clm_david-shoebridge-20231107-1",
+    "sourceId": "src_defence-gov-au-business-industry-export-controls-about-defence-export--22b873",
+    "role": "primary",
+    "note": "Any defence-related export requires a permit.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20231107-1-primary-3",
+    "claimId": "clm_david-shoebridge-20231107-1",
+    "sourceId": "src_explore-data-abs-gov-au-vis-50523e",
+    "role": "primary",
+    "note": "Exports averaging about $2.6 million a year in 2018 to 2022 and $8,000 in January to September 2023.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20231107-1-primary-4",
+    "claimId": "clm_david-shoebridge-20231107-1",
+    "sourceId": "src_thearmstradetreaty-org-annual-reports-html-f07c75",
+    "role": "primary",
+    "note": "Six 'small arms and light weapons' exported to Israel in 2016 and 2017.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20231107-1-primary-5",
+    "claimId": "clm_david-shoebridge-20231107-1",
+    "sourceId": "src_minister-defence-gov-au-transcripts-2023-11-07-television-interview-ab-38e4f9",
+    "role": "primary",
+    "note": "Mr Marles: 'Israel has not sought any weapons from Australia and we have not provided any'.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-shoebridge-20231107-1-independent-1",
+    "claimId": "clm_david-shoebridge-20231107-1",
+    "sourceId": "src_abc-net-au-news-2023-12-01-fact-check-is-australia-sending-weapons-to--982318",
+    "role": "independent",
+    "note": "Verdict as published: No verdict label (CheckMate newsletter analysis).",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20251106-1-original-1",
+    "claimId": "clm_anthony-albanese-20251106-1",
+    "sourceId": "src_parlinfo-aph-gov-au-parlinfo-download-chamber-hansardr-28878-toc-pdf-h-bbcbe8",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20251106-1-primary-1",
+    "claimId": "clm_anthony-albanese-20251106-1",
+    "sourceId": "src_parlinfo-aph-gov-au-parlinfo-download-chamber-hansardr-28875-toc-pdf-h-89c6da",
+    "role": "primary",
+    "note": "The Treasurer's statement the previous day that the Coalition 'cut $20 million a year from these programs', which the Prime Minister then echoed.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20251106-1-primary-2",
+    "claimId": "clm_anthony-albanese-20251106-1",
+    "sourceId": "src_dss-gov-au-supporting-people-financial-crises-177327",
+    "role": "primary",
+    "note": "The program line whose annual spending fell by about $25 million between 2014-15 and 2017-18 according to departmental financial statements.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20251106-1-independent-1",
+    "claimId": "clm_anthony-albanese-20251106-1",
+    "sourceId": "src_aap-com-au-factcheck-albanese-overstates-coalition-foodbank-cuts-fc80e1",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20251103-1-original-1",
+    "claimId": "clm_anthony-albanese-20251103-1",
+    "sourceId": "src_aph-gov-au-parliamentary-business-hansard-hansard-display-688800",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20251103-1-primary-1",
+    "claimId": "clm_anthony-albanese-20251103-1",
+    "sourceId": "src_liberal-org-au-2025-02-23-the-coalition-will-invest-9-billion-into-med-066531",
+    "role": "primary",
+    "note": "Coalition commitment to match the government's $8.5 billion Medicare investment.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20251103-1-primary-2",
+    "claimId": "clm_anthony-albanese-20251103-1",
+    "sourceId": "src_aph-gov-au-parliamentary-business-hansard-hansard-display-b05c39",
+    "role": "primary",
+    "note": "The opposition health spokeswoman speaking in favour of the cheaper-medicines bill.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20251103-1-primary-3",
+    "claimId": "clm_anthony-albanese-20251103-1",
+    "sourceId": "src_pm-gov-au-media-albanese-labor-government-freeze-draught-beer-excise-4225ce",
+    "role": "primary",
+    "note": "The beer excise freeze, which the Coalition matched in March 2025.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20251103-1-primary-4",
+    "claimId": "clm_anthony-albanese-20251103-1",
+    "sourceId": "src_theyvoteforyou-org-au-divisions-senate-2023-09-13-9-5af504",
+    "role": "primary",
+    "note": "The Coalition voted against the Housing Australia Future Fund.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20251103-1-primary-5",
+    "claimId": "clm_anthony-albanese-20251103-1",
+    "sourceId": "src_theyvoteforyou-org-au-divisions-representatives-2025-02-05-2-f09979",
+    "role": "primary",
+    "note": "The Coalition voted against the free TAFE legislation.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20251103-1-primary-6",
+    "claimId": "clm_anthony-albanese-20251103-1",
+    "sourceId": "src_aph-gov-au-parliamentary-business-hansard-hansard-display-a05d0e",
+    "role": "primary",
+    "note": "The Coalition supported the 26-week paid parental leave bill while proposing amendments.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20251103-1-independent-1",
+    "claimId": "clm_anthony-albanese-20251103-1",
+    "sourceId": "src_aap-com-au-factcheck-pms-claim-about-opposition-policy-rewrites-histor-570e30",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20250731-1-original-1",
+    "claimId": "clm_anthony-albanese-20250731-1",
+    "sourceId": "src_aph-gov-au-parliamentary-business-hansard-hansard-display-20eeea",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20250731-1-primary-1",
+    "claimId": "clm_anthony-albanese-20250731-1",
+    "sourceId": "src_aph-gov-au-parliamentary-business-bills-legislation-bills-search-resul-80e308",
+    "role": "primary",
+    "note": "The Coalition voted against the 2022 legislation establishing the Energy Bill Relief Fund.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20250731-1-primary-2",
+    "claimId": "clm_anthony-albanese-20250731-1",
+    "sourceId": "src_liberal-org-au-2024-05-17-leader-oppositions-budget-address-reply-c09db2",
+    "role": "primary",
+    "note": "The Coalition confirmed support for the 2024 energy bill relief extension.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20250731-1-primary-3",
+    "claimId": "clm_anthony-albanese-20250731-1",
+    "sourceId": "src_ministers-treasury-gov-au-ministers-jim-chalmers-2022-speeches-2025-26-10f0b7",
+    "role": "primary",
+    "note": "Announcement of the third round of energy bill relief.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20250731-1-primary-4",
+    "claimId": "clm_anthony-albanese-20250731-1",
+    "sourceId": "src_angustaylor-com-au-content-transcript-interview-david-speers-insiders--ebbcb6",
+    "role": "primary",
+    "note": "The Shadow Treasurer said the Coalition would not oppose the third round of relief.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20250731-1-independent-1",
+    "claimId": "clm_anthony-albanese-20250731-1",
+    "sourceId": "src_aap-com-au-factcheck-albaneses-claim-coalition-opposed-all-three-round-4233da",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20250401-1-original-1",
+    "claimId": "clm_anthony-albanese-20250401-1",
+    "sourceId": "src_youtu-be-kqcifkzny-u-765da2",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20250401-1-primary-1",
+    "claimId": "clm_anthony-albanese-20250401-1",
+    "sourceId": "src_archive-budget-gov-au-2014-15-overview-budget-overview-pdf-5617e7",
+    "role": "primary",
+    "note": "Commits to four years of funding and describes Labor's post-2018 arrangements as unsustainable.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20250401-1-primary-2",
+    "claimId": "clm_anthony-albanese-20250401-1",
+    "sourceId": "src_archive-budget-gov-au-2014-15-bp2-bp2-consolidated-pdf-bcd0c1",
+    "role": "primary",
+    "note": "Adoption of inflation indexation with an enrolment allowance from 2018.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20250401-1-primary-3",
+    "claimId": "clm_anthony-albanese-20250401-1",
+    "sourceId": "src_aph-gov-au-media-committees-economics-ctte-estimates-bud-1415-treasury-d72ebb",
+    "role": "primary",
+    "note": "Estimated saving of about $28 billion between 2017-18 and 2024-25 from the indexation change, the source of the figure.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20250401-1-primary-4",
+    "claimId": "clm_anthony-albanese-20250401-1",
+    "sourceId": "src_archive-budget-gov-au-2013-14-bp2-bp2-consolidated-pdf-8787e2",
+    "role": "primary",
+    "note": "$2.8 billion allocated to additional schools funding over the first four years of Labor's plan.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20250401-1-independent-1",
+    "claimId": "clm_anthony-albanese-20250401-1",
+    "sourceId": "src_aap-com-au-factcheck-albaneses-30b-school-cuts-claim-misleads-daf610",
+    "role": "independent",
+    "note": "Verdict as published: Misleading.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20250204-1-original-1",
+    "claimId": "clm_anthony-albanese-20250204-1",
+    "sourceId": "src_parlinfo-aph-gov-au-parlinfo-download-chamber-hansardr-28682-toc-pdf-h-7771a4",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20250204-1-primary-1",
+    "claimId": "clm_anthony-albanese-20250204-1",
+    "sourceId": "src_abs-gov-au-statistics-labour-earnings-and-working-conditions-average-w-f1c4f1",
+    "role": "primary",
+    "note": "Nominal earnings data used by the Treasurer's office.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20250204-1-primary-2",
+    "claimId": "clm_anthony-albanese-20250204-1",
+    "sourceId": "src_abs-gov-au-statistics-economy-price-indexes-and-inflation-wage-price-i-7855aa",
+    "role": "primary",
+    "note": "Wage growth measure used by AAP FactCheck to estimate real wages.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20250204-1-primary-3",
+    "claimId": "clm_anthony-albanese-20250204-1",
+    "sourceId": "src_abs-gov-au-statistics-economy-price-indexes-and-inflation-consumer-pri-baae3a",
+    "role": "primary",
+    "note": "Inflation measure; real wages fell through most of the government's term.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20250204-1-independent-1",
+    "claimId": "clm_anthony-albanese-20250204-1",
+    "sourceId": "src_aap-com-au-factcheck-labors-claim-aussies-would-be-7k-worse-off-under--e7aef9",
+    "role": "independent",
+    "note": "Verdict as published: Misleading.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20240326-1-original-1",
+    "claimId": "clm_anthony-albanese-20240326-1",
+    "sourceId": "src_twitter-com-albomp-status-1772733897173762360-fb3f50",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20240326-1-primary-1",
+    "claimId": "clm_anthony-albanese-20240326-1",
+    "sourceId": "src_abs-gov-au-statistics-labour-employment-and-unemployment-labour-force--d8cf41",
+    "role": "primary",
+    "note": "789,700 more employed people than in May 2022.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20240326-1-primary-2",
+    "claimId": "clm_anthony-albanese-20240326-1",
+    "sourceId": "src_abs-gov-au-ausstats-abs-40-nsf-detailspage-6204-0-55-0011966-20to-2019-ff7b2e",
+    "role": "primary",
+    "note": "Employment data for earlier first-term governments, including the Hawke government.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20240326-1-independent-1",
+    "claimId": "clm_anthony-albanese-20240326-1",
+    "sourceId": "src_abc-net-au-news-2024-05-02-fact-check-anthony-albanese-record-jobs-cre-7d39e1",
+    "role": "independent",
+    "note": "Verdict as published: There's more to the story.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20230905-1-original-1",
+    "claimId": "clm_anthony-albanese-20230905-1",
+    "sourceId": "src_aph-gov-au-parliamentary-business-hansard-hansard-display-a6b6ac",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20230905-1-primary-1",
+    "claimId": "clm_anthony-albanese-20230905-1",
+    "sourceId": "src_pm-gov-au-media-visit-indonesia-philippines-and-india-890f50",
+    "role": "primary",
+    "note": "The announcement of the 6 to 10 September 2023 visit, including the same claim.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20230905-1-primary-2",
+    "claimId": "clm_anthony-albanese-20230905-1",
+    "sourceId": "src_officialgazette-gov-ph-2015-11-18-president-aquino-joint-presscon-au-m-91523b",
+    "role": "primary",
+    "note": "Mr Turnbull's 2015 bilateral meeting, held during the APEC leaders' meeting in Manila.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20230905-1-primary-3",
+    "claimId": "clm_anthony-albanese-20230905-1",
+    "sourceId": "src_asean-org-speechandstatement-31th-asean-summit-manila-philippines-13-1-7a00db",
+    "role": "primary",
+    "note": "The multilateral summit Mr Turnbull was attending when he met President Duterte in 2017.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20230905-1-independent-1",
+    "claimId": "clm_anthony-albanese-20230905-1",
+    "sourceId": "src_aap-com-au-factcheck-pm-mostly-right-with-bilateral-visit-claim-3d581a",
+    "role": "independent",
+    "note": "Verdict as published: Mostly true.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20230808-1-original-1",
+    "claimId": "clm_anthony-albanese-20230808-1",
+    "sourceId": "src_youtube-com-watch-055d31",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20230808-1-primary-1",
+    "claimId": "clm_anthony-albanese-20230808-1",
+    "sourceId": "src_niaa-gov-au-foi-agency-foi-disclosure-logs-43aff2",
+    "role": "primary",
+    "note": "The documents released under freedom of information in March 2023, including the 26-page document.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20230808-1-primary-2",
+    "claimId": "clm_anthony-albanese-20230808-1",
+    "sourceId": "src_referendumcouncil-org-au-sites-default-files-report-attachments-refere-19bc45",
+    "role": "primary",
+    "note": "The one-page Uluru Statement and the accompanying background from the regional dialogues.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_anthony-albanese-20230808-1-independent-1",
+    "claimId": "clm_anthony-albanese-20230808-1",
+    "sourceId": "src_abc-net-au-news-2023-08-11-fact-check-uluru-statement-one-page-26-1027-01a030",
+    "role": "independent",
+    "note": "Verdict as published: The statement signed by delegates in 2017 is one page, not 26.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jim-chalmers-20260216-1-original-1",
+    "claimId": "clm_jim-chalmers-20260216-1",
+    "sourceId": "src_ministers-treasury-gov-au-ministers-jim-chalmers-2022-transcripts-inte-126957",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jim-chalmers-20260216-1-primary-1",
+    "claimId": "clm_jim-chalmers-20260216-1",
+    "sourceId": "src_pbo-gov-au-elections-2025-general-election-2025-election-commitments-r-50120e",
+    "role": "primary",
+    "note": "Independent costing of Coalition commitments: lower deficits and debt to 2028-29, higher over the medium term.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jim-chalmers-20260216-1-primary-2",
+    "claimId": "clm_jim-chalmers-20260216-1",
+    "sourceId": "src_pbo-gov-au-sites-default-files-2025-05-2025-20ecr-20-20party-20list-20-dfecef",
+    "role": "primary",
+    "note": "The Coalition's costed commitments referred to by the Treasurer's office.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jim-chalmers-20260216-1-independent-1",
+    "claimId": "clm_jim-chalmers-20260216-1",
+    "sourceId": "src_aap-com-au-factcheck-more-to-the-story-on-coalition-election-debt-clai-157602",
+    "role": "independent",
+    "note": "Verdict as published: Mixture.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jim-chalmers-20250409-1-original-1",
+    "claimId": "clm_jim-chalmers-20250409-1",
+    "sourceId": "src_skynews-com-au-australia-news-politics-the-treasurers-debate-jim-chalm-98b80f",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jim-chalmers-20250409-1-primary-1",
+    "claimId": "clm_jim-chalmers-20250409-1",
+    "sourceId": "src_abs-gov-au-statistics-economy-price-indexes-and-inflation-monthly-cons-7ae777",
+    "role": "primary",
+    "note": "Gas and other household fuels up 34 per cent and food up 13 per cent since May 2022; electricity up about 1 per cent including rebates.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jim-chalmers-20250409-1-primary-2",
+    "claimId": "clm_jim-chalmers-20250409-1",
+    "sourceId": "src_abs-gov-au-statistics-economy-price-indexes-and-inflation-consumer-pri-0ed8de",
+    "role": "primary",
+    "note": "Insurance prices up 35 per cent between June 2022 and December 2024.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jim-chalmers-20250409-1-independent-1",
+    "claimId": "clm_jim-chalmers-20250409-1",
+    "sourceId": "src_aap-com-au-factcheck-chalmers-made-up-inflation-stats-claim-misleads-245a0e",
+    "role": "independent",
+    "note": "Verdict as published: Misleading.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jim-chalmers-20250311-1-original-1",
+    "claimId": "clm_jim-chalmers-20250311-1",
+    "sourceId": "src_archive-md-wmpcm-755fbf",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jim-chalmers-20250311-1-primary-1",
+    "claimId": "clm_jim-chalmers-20250311-1",
+    "sourceId": "src_peterdutton-com-au-leader-of-the-opposition-transcript-interview-with--56840d",
+    "role": "primary",
+    "note": "'Wasteful spending' referred to public service numbers and the NDIS, not indexation.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jim-chalmers-20250311-1-primary-2",
+    "claimId": "clm_jim-chalmers-20250311-1",
+    "sourceId": "src_angustaylor-com-au-content-interview-david-speers-abc-insiders-sunday--028364",
+    "role": "primary",
+    "note": "The $45 billion figure for opposed spending excluded social security indexation.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jim-chalmers-20250311-1-primary-3",
+    "claimId": "clm_jim-chalmers-20250311-1",
+    "sourceId": "src_peterdutton-com-au-leader-of-the-opposition-budget-in-reply-check-agai-906225",
+    "role": "primary",
+    "note": "No reference to cutting indexation.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jim-chalmers-20250311-1-independent-1",
+    "claimId": "clm_jim-chalmers-20250311-1",
+    "sourceId": "src_aap-com-au-factcheck-labor-falsely-accuses-dutton-of-attack-on-automat-4b6d90",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jim-chalmers-20240401-1-original-1",
+    "claimId": "clm_jim-chalmers-20240401-1",
+    "sourceId": "src_parlinfo-aph-gov-au-parlinfo-download-media-pressrel-9648060-upload-bi-906cfe",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jim-chalmers-20240401-1-primary-1",
+    "claimId": "clm_jim-chalmers-20240401-1",
+    "sourceId": "src_archive-budget-gov-au-75358c",
+    "role": "primary",
+    "note": "The revenue upgrade and policy decision figures used to verify the Treasury calculation.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jim-chalmers-20240401-1-primary-2",
+    "claimId": "clm_jim-chalmers-20240401-1",
+    "sourceId": "src_pbo-gov-au-about-budgets-online-budget-glossary-d54641",
+    "role": "primary",
+    "note": "Definitions of the underlying cash balance and related terms.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jim-chalmers-20240401-1-independent-1",
+    "claimId": "clm_jim-chalmers-20240401-1",
+    "sourceId": "src_abc-net-au-news-2024-04-23-fact-check-revenue-upgrades-budget-savings--69c534",
+    "role": "independent",
+    "note": "Verdict as published: Close to the mark.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_mark-butler-20250226-1-original-1",
+    "claimId": "clm_mark-butler-20250226-1",
+    "sourceId": "src_markbutler-net-au-news-media-releases-shadow-health-minister-confirms--ee5783",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_mark-butler-20250226-1-primary-1",
+    "claimId": "clm_mark-butler-20250226-1",
+    "sourceId": "src_aph-gov-au-news-and-events-watch-read-listen-parlview-video-3320582-43b0e2",
+    "role": "primary",
+    "note": "Senator Ruston's full exchange, including confirmation that the Coalition supported bulk billing and free access.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_mark-butler-20250226-1-primary-2",
+    "claimId": "clm_mark-butler-20250226-1",
+    "sourceId": "src_sussanley-com-the-truth-about-free-tafe-91f977",
+    "role": "primary",
+    "note": "The 'you don't value something unless you pay for it' remark concerned free TAFE, not Medicare.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_mark-butler-20250226-1-primary-3",
+    "claimId": "clm_mark-butler-20250226-1",
+    "sourceId": "src_peterdutton-com-au-leader-of-the-opposition-transcript-interview-with--353b35",
+    "role": "primary",
+    "note": "The 'nothing free in this world' remark concerned energy bill subsidies and university debt.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_mark-butler-20250226-1-independent-1",
+    "claimId": "clm_mark-butler-20250226-1",
+    "sourceId": "src_aap-com-au-factcheck-labor-falsely-represents-the-coalitions-stance-on-f4cbc7",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_mark-butler-20240429-1-original-1",
+    "claimId": "clm_mark-butler-20240429-1",
+    "sourceId": "src_health-gov-au-ministers-the-hon-mark-butler-mp-media-bulk-billing-slid-69b1a0",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_mark-butler-20240429-1-primary-1",
+    "claimId": "clm_mark-butler-20240429-1",
+    "sourceId": "src_health-gov-au-resources-collections-medicare-statistics-collection-a0db53",
+    "role": "primary",
+    "note": "Quarterly GP bulk-billing rates: 83.1 per cent (December quarter 2013), 92.5 per cent peak (June quarter 2020), 87 per cent (June quarter 2022), 76.5 per cent (end of 2023).",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_mark-butler-20240429-1-primary-2",
+    "claimId": "clm_mark-butler-20240429-1",
+    "sourceId": "src_health-gov-au-our-work-increases-to-bulk-billing-incentive-payments-ac9849",
+    "role": "primary",
+    "note": "The November 2023 tripling of the bulk-billing incentive credited for the subsequent rise.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_mark-butler-20240429-1-primary-3",
+    "claimId": "clm_mark-butler-20240429-1",
+    "sourceId": "src_health-gov-au-ministers-the-hon-mark-butler-mp-media-television-interv-425008",
+    "role": "primary",
+    "note": "Repetition of the 'free fall' description the same day.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_mark-butler-20240429-1-independent-1",
+    "claimId": "clm_mark-butler-20240429-1",
+    "sourceId": "src_aap-com-au-factcheck-health-ministers-bulk-billing-free-fall-claim-mis-86c47f",
+    "role": "independent",
+    "note": "Verdict as published: Misleading.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_katy-gallagher-20250114-1-original-1",
+    "claimId": "clm_katy-gallagher-20250114-1",
+    "sourceId": "src_katygallagher-com-au-media-centre-media-releases-services-to-be-worse--0dd162",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_katy-gallagher-20250114-1-primary-1",
+    "claimId": "clm_katy-gallagher-20250114-1",
+    "sourceId": "src_treasury-gov-au-publication-2022-pefo-e791b2",
+    "role": "primary",
+    "note": "Baseline payments projections used for the $347 billion comparison.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_katy-gallagher-20250114-1-primary-2",
+    "claimId": "clm_katy-gallagher-20250114-1",
+    "sourceId": "src_budget-gov-au-content-myefo-index-htm-fe5b88",
+    "role": "primary",
+    "note": "Current payments forecasts compared against the 2022 outlook.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_katy-gallagher-20250114-1-primary-3",
+    "claimId": "clm_katy-gallagher-20250114-1",
+    "sourceId": "src_peterdutton-com-au-leader-of-the-opposition-transcript-interview-with--56840d",
+    "role": "primary",
+    "note": "The Opposition Leader cited the $347 billion as overspending while saying frontline services would be bolstered.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_katy-gallagher-20250114-1-independent-1",
+    "claimId": "clm_katy-gallagher-20250114-1",
+    "sourceId": "src_aap-com-au-factcheck-coalition-labor-miss-the-mark-on-347b-spending-cl-76965c",
+    "role": "independent",
+    "note": "Verdict as published: No verdict label; AAP FactCheck found 'Labor mischaracterises Mr Dutton's comments'.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20260818-1-original-1",
+    "claimId": "clm_angus-taylor-20260818-1",
+    "sourceId": "src_aph-gov-au-parliamentary-business-hansard-hansard-display-e4860f",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20260818-1-primary-1",
+    "claimId": "clm_angus-taylor-20260818-1",
+    "sourceId": "src_m-update-nab-com-au-nl-jsp-m-jsp-22a765",
+    "role": "primary",
+    "note": "Illustrative scenario in which rents would need to rise 25 to 30 per cent if yields rose one point and prices were unchanged; says the adjustment is more likely a mix of higher rents and lower values.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20260818-1-primary-2",
+    "claimId": "clm_angus-taylor-20260818-1",
+    "sourceId": "src_raywhite-com-news-and-market-insights-economic-updates-what-mix-of-ren-12313e",
+    "role": "primary",
+    "note": "Models a rise of about 30 per cent only in a no-price-fall scenario that it describes as unlikely.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20260818-1-primary-3",
+    "claimId": "clm_angus-taylor-20260818-1",
+    "sourceId": "src_ato-gov-au-about-ato-new-legislation-in-detail-individuals-tax-reform--9f20cb",
+    "role": "primary",
+    "note": "The May 2026 budget changes to negative gearing and capital gains tax under debate.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20260818-1-independent-1",
+    "claimId": "clm_angus-taylor-20260818-1",
+    "sourceId": "src_aap-com-au-factcheck-angus-taylor-mischaracterises-nab-rent-rise-repor-c7dcea",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20260422-1-original-1",
+    "claimId": "clm_angus-taylor-20260422-1",
+    "sourceId": "src_aap-com-au-factcheck-taylor-compares-past-figures-with-future-forecast-fadac1",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20260422-1-primary-1",
+    "claimId": "clm_angus-taylor-20260422-1",
+    "sourceId": "src_abs-gov-au-statistics-people-population-national-state-and-territory-p-74c5ec",
+    "role": "primary",
+    "note": "Net overseas migration of 311,000 in the year to September 2025.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20260422-1-primary-2",
+    "claimId": "clm_angus-taylor-20260422-1",
+    "sourceId": "src_archive-budget-gov-au-2024-25-myefo-download-myefo2024-25-pdf-c7bf52",
+    "role": "primary",
+    "note": "Net overseas migration forecast of 225,000 for 2026-27, the figure used by Mr Taylor's office.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20260422-1-primary-3",
+    "claimId": "clm_angus-taylor-20260422-1",
+    "sourceId": "src_archive-budget-gov-au-2025-26-myefo-download-myefo-2025-26-pdf-65b9b4",
+    "role": "primary",
+    "note": "Net overseas migration forecast of 260,000 for 2025-26.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20260422-1-primary-4",
+    "claimId": "clm_angus-taylor-20260422-1",
+    "sourceId": "src_budget-gov-au-content-bp1-download-bp1-2026-27-pdf-f4bc63",
+    "role": "primary",
+    "note": "Forecasts raised to 295,000 for 2025-26 and 245,000 for 2026-27.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20260422-1-independent-1",
+    "claimId": "clm_angus-taylor-20260422-1",
+    "sourceId": "src_aap-com-au-factcheck-taylor-compares-past-figures-with-future-forecast-fadac1",
+    "role": "independent",
+    "note": "Verdict as published: Misleading.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20260319-1-original-1",
+    "claimId": "clm_angus-taylor-20260319-1",
+    "sourceId": "src_facebook-com-watch-5af5dc",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20260319-1-primary-1",
+    "claimId": "clm_angus-taylor-20260319-1",
+    "sourceId": "src_aph-gov-au-about-parliament-parliamentary-departments-parliamentary-li-2f1ebf",
+    "role": "primary",
+    "note": "Timeline of fuel standards under both governments.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20260319-1-primary-2",
+    "claimId": "clm_angus-taylor-20260319-1",
+    "sourceId": "src_legislation-gov-au-f2019l00455-2021-02-10-text-9de8a9",
+    "role": "primary",
+    "note": "Coalition-era rule setting a 10 ppm sulphur limit from 1 July 2027.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20260319-1-primary-3",
+    "claimId": "clm_angus-taylor-20260319-1",
+    "sourceId": "src_legislation-gov-au-f2022l00989-asmade-text-f71116",
+    "role": "primary",
+    "note": "The 2024 deadline legislated by the Albanese government.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20260319-1-primary-4",
+    "claimId": "clm_angus-taylor-20260319-1",
+    "sourceId": "src_parlinfo-aph-gov-au-parlinfo-search-display-display-w3p-query-id-3a-22-92f4c0",
+    "role": "primary",
+    "note": "Deadline moved to December 2025.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20260319-1-primary-5",
+    "claimId": "clm_angus-taylor-20260319-1",
+    "sourceId": "src_listcorp-com-asx-ald-ampol-limited-news-4q-2025-trading-update-3306476-f2bb36",
+    "role": "primary",
+    "note": "Relaxed limits enable 80 to 100 million extra litres a month to be supplied domestically.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20260319-1-independent-1",
+    "claimId": "clm_angus-taylor-20260319-1",
+    "sourceId": "src_aap-com-au-factcheck-taylors-fuel-standards-claim-omits-context-129cd0",
+    "role": "independent",
+    "note": "Verdict as published: Mixed.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20251027-1-original-1",
+    "claimId": "clm_angus-taylor-20251027-1",
+    "sourceId": "src_angustaylor-com-au-content-interview-peter-stefanovic-sky-news-first-e-40b14e",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20251027-1-primary-1",
+    "claimId": "clm_angus-taylor-20251027-1",
+    "sourceId": "src_abs-gov-au-statistics-economy-business-indicators-private-new-capital--00cb26",
+    "role": "primary",
+    "note": "Business and mining investment rose from mid-2022, flattening in the most recent 18 months.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20251027-1-primary-2",
+    "claimId": "clm_angus-taylor-20251027-1",
+    "sourceId": "src_abs-gov-au-statistics-economy-national-accounts-australian-national-ac-f2ec6e",
+    "role": "primary",
+    "note": "Private gross fixed capital formation up an average 1.58 per cent a quarter.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20251027-1-primary-3",
+    "claimId": "clm_angus-taylor-20251027-1",
+    "sourceId": "src_minerals-org-au-resources-australias-investment-pipeline-leaking-68-bi-62df29",
+    "role": "primary",
+    "note": "The analysis Mr Taylor's office relied on, covering 2013 to 2023.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20251027-1-primary-4",
+    "claimId": "clm_angus-taylor-20251027-1",
+    "sourceId": "src_industry-gov-au-sites-default-files-2024-12-remp-2024-pdf-b63295",
+    "role": "primary",
+    "note": "The project list underlying the Minerals Council analysis, which includes early-stage projects that may not proceed.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20251027-1-independent-1",
+    "claimId": "clm_angus-taylor-20251027-1",
+    "sourceId": "src_aap-com-au-factcheck-data-contradicts-mps-claim-investment-has-fallen--524197",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20250325-1-original-1",
+    "claimId": "clm_angus-taylor-20250325-1",
+    "sourceId": "src_angustaylor-com-au-content-interview-kieran-gilbert-sky-news-tuesday-2-79138c",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20250325-1-primary-1",
+    "claimId": "clm_angus-taylor-20250325-1",
+    "sourceId": "src_abs-gov-au-statistics-people-population-national-state-and-territory-p-74c5ec",
+    "role": "primary",
+    "note": "Actual net overseas migration for 2022-23 and 2023-24.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20250325-1-primary-2",
+    "claimId": "clm_angus-taylor-20250325-1",
+    "sourceId": "src_budget-gov-au-content-bp1-download-bp1-2025-26-pdf-ecba0d",
+    "role": "primary",
+    "note": "Net overseas migration forecasts for 2024-25 to 2026-27 and beyond.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20250325-1-primary-3",
+    "claimId": "clm_angus-taylor-20250325-1",
+    "sourceId": "src_immi-homeaffairs-gov-au-visas-getting-a-visa-visa-listing-repealed-vis-f96907",
+    "role": "primary",
+    "note": "Coalition-era visa that allowed temporary entrants to extend their stays, reducing departures.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20250325-1-independent-1",
+    "claimId": "clm_angus-taylor-20250325-1",
+    "sourceId": "src_aap-com-au-factcheck-experts-coalition-migration-claim-omits-key-conte-98b37d",
+    "role": "independent",
+    "note": "Verdict as published: No verdict label; AAP FactCheck found the claim 'omits key context'.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20250129-1-original-1",
+    "claimId": "clm_angus-taylor-20250129-1",
+    "sourceId": "src_angustaylor-com-au-content-press-conference-inflation-data-wednesday-2-d36bd2",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20250129-1-primary-1",
+    "claimId": "clm_angus-taylor-20250129-1",
+    "sourceId": "src_budget-gov-au-content-bp4-download-bp4-2024-25-consolidated-pdf-d12b56",
+    "role": "primary",
+    "note": "Projected 36,008 increase in general government sector staffing, with no location breakdown.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20250129-1-primary-2",
+    "claimId": "clm_angus-taylor-20250129-1",
+    "sourceId": "src_apsc-gov-au-node-2638-373c90",
+    "role": "primary",
+    "note": "Net APS increase of 26,153 between June 2022 and June 2024; 7,464 in Canberra.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20250129-1-primary-3",
+    "claimId": "clm_angus-taylor-20250129-1",
+    "sourceId": "src_finance-gov-au-sites-default-files-2024-12-bodies-20list-202-20january-19c9d1",
+    "role": "primary",
+    "note": "Which entities make up the general government sector.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20250129-1-independent-1",
+    "claimId": "clm_angus-taylor-20250129-1",
+    "sourceId": "src_aap-com-au-factcheck-coalition-wrong-on-number-of-new-public-servants--ba76ca",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20240115-1-original-1",
+    "claimId": "clm_angus-taylor-20240115-1",
+    "sourceId": "src_theaustralian-com-au-commentary-australians-deserve-unambiguous-commit-510363",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20240115-1-primary-1",
+    "claimId": "clm_angus-taylor-20240115-1",
+    "sourceId": "src_abs-gov-au-statistics-economy-national-accounts-australian-national-ac-cc156c",
+    "role": "primary",
+    "note": "Quarterly income tax paid by individuals and household income data.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20240115-1-primary-2",
+    "claimId": "clm_angus-taylor-20240115-1",
+    "sourceId": "src_pbo-gov-au-about-budgets-budget-insights-budget-explainers-bracket-cre-790719",
+    "role": "primary",
+    "note": "How bracket creep raises income tax collections.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20240115-1-primary-3",
+    "claimId": "clm_angus-taylor-20240115-1",
+    "sourceId": "src_angustaylor-com-au-media-media-releases-australians-are-being-crushed--f266ae",
+    "role": "primary",
+    "note": "Earlier version of the 'over 27 per cent' claim.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20240115-1-independent-1",
+    "claimId": "clm_angus-taylor-20240115-1",
+    "sourceId": "src_abc-net-au-news-2024-02-21-fact-check-angus-taylor-27-per-cent-record--1b4119",
+    "role": "independent",
+    "note": "Verdict as published: Overblown.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20230507-1-original-1",
+    "claimId": "clm_angus-taylor-20230507-1",
+    "sourceId": "src_abc-net-au-news-2023-05-07-insiders-may-7-102314696-5a51a0",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20230507-1-primary-1",
+    "claimId": "clm_angus-taylor-20230507-1",
+    "sourceId": "src_stats-oecd-org-viewhtml-aspx-ac0b6c",
+    "role": "primary",
+    "note": "Internationally comparable core inflation rates for the year to March 2023.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20230507-1-primary-2",
+    "claimId": "clm_angus-taylor-20230507-1",
+    "sourceId": "src_abs-gov-au-methodologies-consumer-price-index-australia-methodology-ma-0ea4f2",
+    "role": "primary",
+    "note": "Headline CPI of 7 per cent in the year to March 2023.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_angus-taylor-20230507-1-independent-1",
+    "claimId": "clm_angus-taylor-20230507-1",
+    "sourceId": "src_abc-net-au-news-2023-06-06-fact-check-angus-taylor-core-inflation-g7-1-9e03e1",
+    "role": "independent",
+    "note": "Verdict as published: Checks out.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20260215-1-original-1",
+    "claimId": "clm_jane-hume-20260215-1",
+    "sourceId": "src_youtu-be-spzg1yng6q4-cb8732",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20260215-1-primary-1",
+    "claimId": "clm_jane-hume-20260215-1",
+    "sourceId": "src_abs-gov-au-statistics-people-population-overseas-migration-latest-rele-7102d9",
+    "role": "primary",
+    "note": "Net overseas migration of 555,800 in 2022-23 falling to 305,570 in the year to June 2025; arrivals and departures series.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20260215-1-primary-2",
+    "claimId": "clm_jane-hume-20260215-1",
+    "sourceId": "src_immi-homeaffairs-gov-au-news-media-archive-article-449821",
+    "role": "primary",
+    "note": "Coalition-era policy that lifted arrivals after the borders reopened.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20260215-1-primary-3",
+    "claimId": "clm_jane-hume-20260215-1",
+    "sourceId": "src_immi-homeaffairs-gov-au-visas-getting-a-visa-visa-listing-repealed-vis-f96907",
+    "role": "primary",
+    "note": "Visa that allowed temporary entrants to extend their stays, reducing departures.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20260215-1-independent-1",
+    "claimId": "clm_jane-hume-20260215-1",
+    "sourceId": "src_aap-com-au-factcheck-liberal-migration-claims-rely-on-outdated-data-c1e019",
+    "role": "independent",
+    "note": "Verdict as published: Misleading.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20250515-1-original-1",
+    "claimId": "clm_jane-hume-20250515-1",
+    "sourceId": "src_skynews-com-au-breaking-news-jane-hume-accuses-labor-of-breaking-elect-03019b",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20250515-1-primary-1",
+    "claimId": "clm_jane-hume-20250515-1",
+    "sourceId": "src_classic-austlii-edu-au-au-legis-cth-num-act-lta1910211910117-e7c352",
+    "role": "primary",
+    "note": "Federal tax on unimproved land value, levied from 1910 to 1953.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20250515-1-primary-2",
+    "claimId": "clm_jane-hume-20250515-1",
+    "sourceId": "src_revenue-nsw-gov-au-taxes-duties-levies-royalties-land-tax-b132b5",
+    "role": "primary",
+    "note": "A current state tax levied on asset value without sale.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20250515-1-primary-3",
+    "claimId": "clm_jane-hume-20250515-1",
+    "sourceId": "src_aph-gov-au-parliamentary-business-bills-legislation-bills-search-resul-595ce5",
+    "role": "primary",
+    "note": "The proposed tax on superannuation balances over $3 million, including unrealised gains.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20250515-1-independent-1",
+    "claimId": "clm_jane-hume-20250515-1",
+    "sourceId": "src_aap-com-au-factcheck-liberal-senators-falsely-claim-australia-has-neve-2fa56d",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20250324-1-original-1",
+    "claimId": "clm_jane-hume-20250324-1",
+    "sourceId": "src_mvau-lt-media-602a7ee4-1767-4f6a-9e33-56155d6b5229-2d55f5",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20250324-1-primary-1",
+    "claimId": "clm_jane-hume-20250324-1",
+    "sourceId": "src_servicesaustralia-gov-au-sites-default-files-2024-05-budget-2024-25-se-15b3a2",
+    "role": "primary",
+    "note": "Extra staffing funding in the 2024-25 budget and claim processing data.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20250324-1-primary-2",
+    "claimId": "clm_jane-hume-20250324-1",
+    "sourceId": "src_archive-budget-gov-au-2023-24-myefo-download-myefo2023-24-pdf-fd08c4",
+    "role": "primary",
+    "note": "Additional funding for Services Australia staff.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20250324-1-primary-3",
+    "claimId": "clm_jane-hume-20250324-1",
+    "sourceId": "src_dss-gov-au-system-files-documents-2025-03-2025-26social-servicespbsacc-d12586",
+    "role": "primary",
+    "note": "Average staffing levels of 28,519 in 2023-24 and 30,218 in 2024-25.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20250324-1-independent-1",
+    "claimId": "clm_jane-hume-20250324-1",
+    "sourceId": "src_aap-com-au-factcheck-senators-welfare-wait-time-blowout-claim-uses-out-1b7139",
+    "role": "independent",
+    "note": "Verdict as published: Misleading.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20241201-1-original-1",
+    "claimId": "clm_jane-hume-20241201-1",
+    "sourceId": "src_mvau-lt-media-6ce1b2dc-4c1f-4133-9018-8dc189664d79-4ea6e4",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20241201-1-primary-1",
+    "claimId": "clm_jane-hume-20241201-1",
+    "sourceId": "src_treasury-gov-au-publication-2022-pefo-e791b2",
+    "role": "primary",
+    "note": "Baseline payments forecasts used in the comparison; assumed inflation peak of 4.25 per cent.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20241201-1-primary-2",
+    "claimId": "clm_jane-hume-20241201-1",
+    "sourceId": "src_budget-gov-au-content-myefo-index-htm-fe5b88",
+    "role": "primary",
+    "note": "Payments forecasts for 2023-24 to 2027-28.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20241201-1-primary-3",
+    "claimId": "clm_jane-hume-20241201-1",
+    "sourceId": "src_archive-budget-gov-au-2022-23-october-bp1-download-bp1-2022-23-pdf-864208",
+    "role": "primary",
+    "note": "Inflation at 6.1 per cent when the government took office.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20241201-1-independent-1",
+    "claimId": "clm_jane-hume-20241201-1",
+    "sourceId": "src_aap-com-au-factcheck-coalition-labor-miss-the-mark-on-347b-spending-cl-76965c",
+    "role": "independent",
+    "note": "Verdict as published: No verdict label; AAP FactCheck found the figure 'problematic, as are both the coalition's and Labor's claims'.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20260819-1-original-1",
+    "claimId": "clm_jane-hume-20260819-1",
+    "sourceId": "src_facebook-com-watch-42a0c3",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20260819-1-primary-1",
+    "claimId": "clm_jane-hume-20260819-1",
+    "sourceId": "src_m-update-nab-com-au-nl-jsp-m-jsp-22a765",
+    "role": "primary",
+    "note": "Hypothetical 25 to 30 per cent rent scenario, described by NAB as not a forecast.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20260819-1-primary-2",
+    "claimId": "clm_jane-hume-20260819-1",
+    "sourceId": "src_raywhite-com-news-and-market-insights-economic-updates-what-mix-of-ren-12313e",
+    "role": "primary",
+    "note": "Scenario modelling, explicitly 'not a forecast'.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_jane-hume-20260819-1-independent-1",
+    "claimId": "clm_jane-hume-20260819-1",
+    "sourceId": "src_aap-com-au-factcheck-angus-taylor-mischaracterises-nab-rent-rise-repor-c7dcea",
+    "role": "independent",
+    "note": "Verdict as published: False (verdict given on Mr Taylor's statement; AAP FactCheck said Senator Hume 'made a similar claim').",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_michaelia-cash-20230510-1-original-1",
+    "claimId": "clm_michaelia-cash-20230510-1",
+    "sourceId": "src_theaustralian-com-au-nation-politics-indigenous-voice-to-parliament-is-0893ef",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_michaelia-cash-20230510-1-primary-1",
+    "claimId": "clm_michaelia-cash-20230510-1",
+    "sourceId": "src_ministers-pmc-gov-au-burney-2022-communique-referendum-working-group-0-fdbc01",
+    "role": "primary",
+    "note": "Expert group advice that the Voice confers no rights or special rights.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_michaelia-cash-20230510-1-primary-2",
+    "claimId": "clm_michaelia-cash-20230510-1",
+    "sourceId": "src_legislation-gov-au-details-c2022c00366-68154d",
+    "role": "primary",
+    "note": "What constitutes unlawful racial discrimination and the special-measures provision.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_michaelia-cash-20230510-1-primary-3",
+    "claimId": "clm_michaelia-cash-20230510-1",
+    "sourceId": "src_ohchr-org-en-instruments-mechanisms-instruments-international-conventi-54613a",
+    "role": "primary",
+    "note": "International obligations the experts said the Voice complied with.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_michaelia-cash-20230510-1-independent-1",
+    "claimId": "clm_michaelia-cash-20230510-1",
+    "sourceId": "src_aap-com-au-factcheck-experts-say-cash-is-wrong-on-rights-claim-2f5c18",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_james-paterson-20250227-1-original-1",
+    "claimId": "clm_james-paterson-20250227-1",
+    "sourceId": "src_senatorpaterson-com-au-news-transcript-sky-news-first-edition-27-febru-27a862",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_james-paterson-20250227-1-primary-1",
+    "claimId": "clm_james-paterson-20250227-1",
+    "sourceId": "src_parlinfo-aph-gov-au-parlinfo-download-committees-estimate-28742-toc-pd-086d4a",
+    "role": "primary",
+    "note": "Defence confirmation that the drill occurred in international waters.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_james-paterson-20250227-1-primary-2",
+    "claimId": "clm_james-paterson-20250227-1",
+    "sourceId": "src_un-org-depts-los-convention-agreements-texts-unclos-unclos-e-pdf-79cf3f",
+    "role": "primary",
+    "note": "The 12 nautical mile territorial sea, 200 nautical mile exclusive economic zone and the high seas.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_james-paterson-20250227-1-independent-1",
+    "claimId": "clm_james-paterson-20250227-1",
+    "sourceId": "src_aap-com-au-factcheck-coalition-mps-falsely-claim-chinas-live-fire-dril-f6b463",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_andrew-hastie-20250714-1-original-1",
+    "claimId": "clm_andrew-hastie-20250714-1",
+    "sourceId": "src_andrewhastie-com-au-patricia-karvelas-005ad3",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_andrew-hastie-20250714-1-primary-1",
+    "claimId": "clm_andrew-hastie-20250714-1",
+    "sourceId": "src_parlinfo-aph-gov-au-parlinfo-download-committees-estimate-28742-toc-pd-086d4a",
+    "role": "primary",
+    "note": "Defence confirmation that the drill occurred in international waters.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_andrew-hastie-20250714-1-primary-2",
+    "claimId": "clm_andrew-hastie-20250714-1",
+    "sourceId": "src_un-org-depts-los-convention-agreements-texts-unclos-unclos-e-pdf-79cf3f",
+    "role": "primary",
+    "note": "Definitions of the territorial sea, exclusive economic zone and high seas.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_andrew-hastie-20250714-1-independent-1",
+    "claimId": "clm_andrew-hastie-20250714-1",
+    "sourceId": "src_aap-com-au-factcheck-coalition-mps-falsely-claim-chinas-live-fire-dril-f6b463",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_andrew-hastie-20250401-1-original-1",
+    "claimId": "clm_andrew-hastie-20250401-1",
+    "sourceId": "src_andrewhastie-com-au-joint-statement-broken-funding-promise-edbbee",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_andrew-hastie-20250401-1-primary-1",
+    "claimId": "clm_andrew-hastie-20250401-1",
+    "sourceId": "src_defence-gov-au-about-strategic-planning-2024-national-defence-strategy-e081b4",
+    "role": "primary",
+    "note": "Decade funding to 2033-34 and the project reprioritisations.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_andrew-hastie-20250401-1-primary-2",
+    "claimId": "clm_andrew-hastie-20250401-1",
+    "sourceId": "src_minister-defence-gov-au-media-releases-2024-05-14-generational-investm-f33d77",
+    "role": "primary",
+    "note": "An additional $50.3 billion over the decade.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_andrew-hastie-20250401-1-primary-3",
+    "claimId": "clm_andrew-hastie-20250401-1",
+    "sourceId": "src_minister-defence-gov-au-speeches-2024-04-17-launch-national-defence-st-471ef0",
+    "role": "primary",
+    "note": "$22.5 billion over four years and $72.8 billion over the decade reprioritised.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_andrew-hastie-20250401-1-primary-4",
+    "claimId": "clm_andrew-hastie-20250401-1",
+    "sourceId": "src_parlinfo-aph-gov-au-parlinfo-search-display-display-w3p-query-id-3a-22-0dd52d",
+    "role": "primary",
+    "note": "Breakdown of 188 closed or merged, 45 delayed, 16 reduced and 32 added projects; most reprioritised funding was unapproved.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_andrew-hastie-20250401-1-primary-5",
+    "claimId": "clm_andrew-hastie-20250401-1",
+    "sourceId": "src_defence-gov-au-about-reviews-inquiries-defence-strategic-review-563f99",
+    "role": "primary",
+    "note": "$42 billion of announced but unprovisioned spending to 2033.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_andrew-hastie-20250401-1-independent-1",
+    "claimId": "clm_andrew-hastie-20250401-1",
+    "sourceId": "src_aap-com-au-factcheck-dutton-wrong-to-claim-labor-has-cut-80-billion-fr-9c1da5",
+    "role": "independent",
+    "note": "Verdict as published: False (verdict given on Mr Dutton's statement that Labor had cut $80 billion from Defence).",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_matt-canavan-20250728-1-original-1",
+    "claimId": "clm_matt-canavan-20250728-1",
+    "sourceId": "src_facebook-com-photo-002a59",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_matt-canavan-20250728-1-primary-1",
+    "claimId": "clm_matt-canavan-20250728-1",
+    "sourceId": "src_csiro-au-en-research-technology-space-energy-electricity-transition-ge-21762a",
+    "role": "primary",
+    "note": "Levelised cost ranges and midpoints for coal and firmed renewables for 2024 and 2030.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_matt-canavan-20250728-1-primary-2",
+    "claimId": "clm_matt-canavan-20250728-1",
+    "sourceId": "src_csiro-au-en-news-all-news-2025-july-2024-25-gencost-final-report-959f1d",
+    "role": "primary",
+    "note": "CSIRO statement that renewables remain the lowest-cost new-build electricity generation technology.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_matt-canavan-20250728-1-primary-3",
+    "claimId": "clm_matt-canavan-20250728-1",
+    "sourceId": "src_cqtoday-com-au-news-2025-08-01-time-to-be-coal-wise-and-not-penny-fool-44266f",
+    "role": "primary",
+    "note": "The material Senator Canavan's office pointed to in support of the claim.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_matt-canavan-20250728-1-independent-1",
+    "claimId": "clm_matt-canavan-20250728-1",
+    "sourceId": "src_aap-com-au-factcheck-senators-cheapest-form-of-electricity-claim-misle-c3555f",
+    "role": "independent",
+    "note": "Verdict as published: Misleading.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_matt-canavan-20230428-1-original-1",
+    "claimId": "clm_matt-canavan-20230428-1",
+    "sourceId": "src_twitter-com-mattjcan-status-1651832420931600386-fd7e48",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_matt-canavan-20230428-1-primary-1",
+    "claimId": "clm_matt-canavan-20230428-1",
+    "sourceId": "src_aemo-com-au-en-learn-energy-explained-energy-101-aemo-market-notificat-e29a91",
+    "role": "primary",
+    "note": "What a lack-of-reserve level 1 notice signals; no impact on system security or reliability.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_matt-canavan-20230428-1-primary-2",
+    "claimId": "clm_matt-canavan-20230428-1",
+    "sourceId": "src_aemo-com-au-en-energy-systems-electricity-national-electricity-market--4badb9",
+    "role": "primary",
+    "note": "Counts of lack-of-reserve forecasts per quarter.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_matt-canavan-20230428-1-primary-3",
+    "claimId": "clm_matt-canavan-20230428-1",
+    "sourceId": "src_aemo-com-au-en-market-notices-0ff912",
+    "role": "primary",
+    "note": "Three of the four notices posted were subsequently cancelled.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_matt-canavan-20230428-1-independent-1",
+    "claimId": "clm_matt-canavan-20230428-1",
+    "sourceId": "src_abc-net-au-news-2023-05-05-fact-check-liddell-power-station-closed-low-053d7c",
+    "role": "independent",
+    "note": "Verdict as published: No verdict label (CheckMate newsletter); experts said it was 'very unlikely' the notices were linked to the closure.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_bridget-mckenzie-20240219-1-original-1",
+    "claimId": "clm_bridget-mckenzie-20240219-1",
+    "sourceId": "src_liberal-org-au-latest-news-2024-02-19-labors-family-car-tax-will-put-t-ce2b50",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_bridget-mckenzie-20240219-1-primary-1",
+    "claimId": "clm_bridget-mckenzie-20240219-1",
+    "sourceId": "src_infrastructure-gov-au-sites-default-files-documents-cleaner-cheaper-to-95c231",
+    "role": "primary",
+    "note": "The policy options, fleet-wide targets, credits and penalties.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_bridget-mckenzie-20240219-1-primary-2",
+    "claimId": "clm_bridget-mckenzie-20240219-1",
+    "sourceId": "src_minister-dcceew-gov-au-bowen-media-releases-joint-media-release-delive-44bc6f",
+    "role": "primary",
+    "note": "The government's preferred model for the standard.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_bridget-mckenzie-20240219-1-independent-1",
+    "claimId": "clm_bridget-mckenzie-20240219-1",
+    "sourceId": "src_abc-net-au-news-2024-03-15-fact-check-vehicle-missions-standard-ute-fa-f5f19e",
+    "role": "independent",
+    "note": "Verdict as published: No verdict label (CheckMate newsletter); finding headed 'No, Labor is not taxing the family car'.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20250301-1-original-1",
+    "claimId": "clm_david-littleproud-20250301-1",
+    "sourceId": "src_omny-fm-shows-4bc-breakfast-nothing-new-rumours-of-internal-fiction-as-c0611b",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20250301-1-primary-1",
+    "claimId": "clm_david-littleproud-20250301-1",
+    "sourceId": "src_abs-gov-au-statistics-people-population-national-state-and-territory-p-74c5ec",
+    "role": "primary",
+    "note": "Actual net overseas migration for 2022-23 and 2023-24.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20250301-1-primary-2",
+    "claimId": "clm_david-littleproud-20250301-1",
+    "sourceId": "src_budget-gov-au-content-bp1-download-bp1-2025-26-pdf-ecba0d",
+    "role": "primary",
+    "note": "Net overseas migration forecasts for 2024-25 to 2026-27, falling sharply; forward five-year sum of about 1.27 million.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20250301-1-primary-3",
+    "claimId": "clm_david-littleproud-20250301-1",
+    "sourceId": "src_immi-homeaffairs-gov-au-visas-getting-a-visa-visa-listing-repealed-vis-f96907",
+    "role": "primary",
+    "note": "Coalition-era visa that allowed temporary entrants to extend their stays, reducing departures.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20250301-1-independent-1",
+    "claimId": "clm_david-littleproud-20250301-1",
+    "sourceId": "src_aap-com-au-factcheck-experts-coalition-migration-claim-omits-key-conte-98b37d",
+    "role": "independent",
+    "note": "Verdict as published: No verdict label; AAP FactCheck found the claim 'omits key context'.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20250217-1-original-1",
+    "claimId": "clm_david-littleproud-20250217-1",
+    "sourceId": "src_parlinfo-aph-gov-au-parlinfo-search-display-display-w3p-query-id-3a-22-6ff10c",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20250217-1-primary-1",
+    "claimId": "clm_david-littleproud-20250217-1",
+    "sourceId": "src_ncc-abcb-gov-au-homeowners-understanding-ncc-b93430",
+    "role": "primary",
+    "note": "What the code is and the 2022 seven-star energy update.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20250217-1-primary-2",
+    "claimId": "clm_david-littleproud-20250217-1",
+    "sourceId": "src_acilallen-com-au-uploads-projects-377-acilallen-risproposedncc2022-202-2aee88",
+    "role": "primary",
+    "note": "Capital costs of $464 to $7,830 and bill savings of $630 to $9,693 depending on house type and location.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20250217-1-primary-3",
+    "claimId": "clm_david-littleproud-20250217-1",
+    "sourceId": "src_mbqld-com-au-news-and-publications-media-builders-fighting-to-keep-the-71e4d2",
+    "role": "primary",
+    "note": "Industry estimate of $20,000 to $30,000 compliance cost.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20250217-1-primary-4",
+    "claimId": "clm_david-littleproud-20250217-1",
+    "sourceId": "src_masterbuilders-com-au-interview-with-laura-jayes-sky-news-2-aa1837",
+    "role": "primary",
+    "note": "Master Builders' chief executive attributing cost rises to labour shortages, materials and regulation combined.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20250217-1-independent-1",
+    "claimId": "clm_david-littleproud-20250217-1",
+    "sourceId": "src_aap-com-au-factcheck-coalitions-evidence-doesnt-show-rules-added-60000-bdaff3",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20250101-1-original-1",
+    "claimId": "clm_david-littleproud-20250101-1",
+    "sourceId": "src_skynews-com-au-australia-news-politics-david-littleproud-warns-aussies-801686",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20250101-1-primary-1",
+    "claimId": "clm_david-littleproud-20250101-1",
+    "sourceId": "src_legislation-gov-au-f2024l01569-latest-text-f04df6",
+    "role": "primary",
+    "note": "The legislated targets, $100 per gram per kilometre penalty, credits and carry-over rules.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20250101-1-primary-2",
+    "claimId": "clm_david-littleproud-20250101-1",
+    "sourceId": "src_storage-googleapis-com-pss-prod-aap-ss-web-bkt-fw-public-factcheck-upl-68e49c",
+    "role": "primary",
+    "note": "Model-by-model calculations for the RAV4, Everest and Ranger for 2025 and 2029.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20250101-1-primary-3",
+    "claimId": "clm_david-littleproud-20250101-1",
+    "sourceId": "src_fcai-com-au-new-record-but-outlook-remains-tough-a148c3",
+    "role": "primary",
+    "note": "The Ford Everest was not Australia's most popular vehicle in 2024.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20250101-1-primary-4",
+    "claimId": "clm_david-littleproud-20250101-1",
+    "sourceId": "src_pressroom-toyota-com-au-pressrelease-fa0b7b",
+    "role": "primary",
+    "note": "Petrol-only RAV4 models withdrawn from June 2024.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20250101-1-independent-1",
+    "claimId": "clm_david-littleproud-20250101-1",
+    "sourceId": "src_aap-com-au-factcheck-nationals-leader-littleproud-wrong-on-labors-new--a5a478",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20240923-1-original-1",
+    "claimId": "clm_david-littleproud-20240923-1",
+    "sourceId": "src_omny-fm-shows-3aw-mornings-3aw-mornings-with-tom-elliott-mon-23-sept-2-d0a517",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20240923-1-primary-1",
+    "claimId": "clm_david-littleproud-20240923-1",
+    "sourceId": "src_ato-gov-au-businesses-and-organisations-gst-excise-and-indirect-taxes--0edace",
+    "role": "primary",
+    "note": "Beer excise rates by strength and container, indexed twice yearly.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20240923-1-primary-2",
+    "claimId": "clm_david-littleproud-20240923-1",
+    "sourceId": "src_ato-gov-au-law-view-document-629073",
+    "role": "primary",
+    "note": "Beer is subject to 10 per cent GST.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20240923-1-independent-1",
+    "claimId": "clm_david-littleproud-20240923-1",
+    "sourceId": "src_aap-com-au-factcheck-nationals-leader-wrong-to-say-over-50pct-of-beer--da0e4f",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20240818-1-original-1",
+    "claimId": "clm_david-littleproud-20240818-1",
+    "sourceId": "src_youtube-com-watch-7e002f",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20240818-1-primary-1",
+    "claimId": "clm_david-littleproud-20240818-1",
+    "sourceId": "src_energyco-nsw-gov-au-sites-default-files-2023-01-overview-strategic-ben-476338",
+    "role": "primary",
+    "note": "NSW scheme paying landholders about $200,000 per kilometre of transmission line hosted, in annual instalments over 20 years.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20240818-1-primary-2",
+    "claimId": "clm_david-littleproud-20240818-1",
+    "sourceId": "src_energy-vic-gov-au-data-assets-pdf-file-0013-700105-compensation-and-la-a7e994",
+    "role": "primary",
+    "note": "Victorian payments of about $200,000 per kilometre over 25 years.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20240818-1-primary-3",
+    "claimId": "clm_david-littleproud-20240818-1",
+    "sourceId": "src_powerlink-com-au-sites-default-files-2023-05-supergrid-landholder-paym-f6ff5e",
+    "role": "primary",
+    "note": "Queensland framework with a baseline scenario of about $300,000 per kilometre, subject to land value.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20240818-1-primary-4",
+    "claimId": "clm_david-littleproud-20240818-1",
+    "sourceId": "src_dcceew-gov-au-energy-renewable-community-engagement-transmission-724f40",
+    "role": "primary",
+    "note": "Landholders with an easement on their property are compensated by transmission companies, which must negotiate access.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20240818-1-primary-5",
+    "claimId": "clm_david-littleproud-20240818-1",
+    "sourceId": "src_aeic-gov-au-observations-and-recommendations-chapter-1-host-landowner--5c8659",
+    "role": "primary",
+    "note": "How host landholders are paid for wind, solar and transmission projects.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-littleproud-20240818-1-independent-1",
+    "claimId": "clm_david-littleproud-20240818-1",
+    "sourceId": "src_aap-com-au-factcheck-nationals-leader-misses-the-mark-on-transmission--51a30b",
+    "role": "independent",
+    "note": "Verdict as published: Mostly False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20241201-1-original-1",
+    "claimId": "clm_pauline-hanson-20241201-1",
+    "sourceId": "src_mvau-lt-media-1d7a7c42-50ab-4f33-ad85-a6ad300953a0-349ab5",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20241201-1-primary-1",
+    "claimId": "clm_pauline-hanson-20241201-1",
+    "sourceId": "src_abs-gov-au-statistics-economy-national-accounts-australian-national-ac-808033",
+    "role": "primary",
+    "note": "GDP per capita fell 0.3 per cent in the quarter and 1.5 per cent over the year: seven consecutive quarterly declines.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20241201-1-primary-2",
+    "claimId": "clm_pauline-hanson-20241201-1",
+    "sourceId": "src_abs-gov-au-statistics-labour-employment-and-unemployment-labour-force--888333",
+    "role": "primary",
+    "note": "Unemployment of 4 per cent in November 2024, against peaks of 11.1 per cent in 1992 and 10.4 per cent in 1983.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20241201-1-primary-3",
+    "claimId": "clm_pauline-hanson-20241201-1",
+    "sourceId": "src_rba-gov-au-publications-rdp-2001-2001-07-1890s-depression-html-8bc2d8",
+    "role": "primary",
+    "note": "Real GDP fell about 17 per cent in the 1890s depression.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20241201-1-independent-1",
+    "claimId": "clm_pauline-hanson-20241201-1",
+    "sourceId": "src_aap-com-au-factcheck-pauline-hansons-worst-per-capita-recession-claim--45f97b",
+    "role": "independent",
+    "note": "Verdict as published: Mostly false.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260617-1-original-1",
+    "claimId": "clm_pauline-hanson-20260617-1",
+    "sourceId": "src_youtu-be-wkz9q3kogr8-3c1786",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260617-1-primary-1",
+    "claimId": "clm_pauline-hanson-20260617-1",
+    "sourceId": "src_abs-gov-au-statistics-people-population-national-state-and-territory-p-886b02",
+    "role": "primary",
+    "note": "Net overseas migration data available when the statement was made: about 1,122 a day over three years.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260617-1-primary-2",
+    "claimId": "clm_pauline-hanson-20260617-1",
+    "sourceId": "src_abs-gov-au-statistics-people-population-national-state-and-territory-p-74c5ec",
+    "role": "primary",
+    "note": "Net overseas migration averaged 825 a day in 2025 and about 1,060 a day over three years.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260617-1-primary-3",
+    "claimId": "clm_pauline-hanson-20260617-1",
+    "sourceId": "src_population-gov-au-population-topics-topic-natural-increase-a9bbba",
+    "role": "primary",
+    "note": "Natural increase is births minus deaths, a component of population growth distinct from migration.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260617-1-independent-1",
+    "claimId": "clm_pauline-hanson-20260617-1",
+    "sourceId": "src_aap-com-au-factcheck-pauline-hanson-wrong-on-daily-migration-figure-8e0700",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260101-1-original-1",
+    "claimId": "clm_pauline-hanson-20260101-1",
+    "sourceId": "src_youtube-com-watch-1dfb1f",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260101-1-primary-1",
+    "claimId": "clm_pauline-hanson-20260101-1",
+    "sourceId": "src_austlii-edu-au-cgi-bin-viewdoc-au-legis-sa-consol-act-lga1999275-s17-h-7c7a34",
+    "role": "primary",
+    "note": "All council candidates must be Australian citizens enrolled to vote.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260101-1-primary-2",
+    "claimId": "clm_pauline-hanson-20260101-1",
+    "sourceId": "src_www6-austlii-edu-au-cgi-bin-viewdoc-au-legis-sa-consol-act-ea1985103-s-64663b",
+    "role": "primary",
+    "note": "State enrolment requires Australian citizenship or membership of the narrow British-subjects group enrolled before 26 January 1984.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260101-1-primary-3",
+    "claimId": "clm_pauline-hanson-20260101-1",
+    "sourceId": "src_legislation-sa-gov-au-lz-8f31e2",
+    "role": "primary",
+    "note": "Restricts council voting eligibility to citizens and the British-subjects group from 1 January 2026.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260101-1-primary-4",
+    "claimId": "clm_pauline-hanson-20260101-1",
+    "sourceId": "src_web-archive-org-web-20250504184956-https-www-councilelections-sa-gov-a-62ffd8",
+    "role": "primary",
+    "note": "Non-citizens aged 18 and over could enrol to vote in the 2022 council elections; the page does not say they could stand as candidates.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260101-1-independent-1",
+    "claimId": "clm_pauline-hanson-20260101-1",
+    "sourceId": "src_aap-com-au-factcheck-hansons-claim-about-non-citizens-on-local-council-0548ff",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260728-1-original-1",
+    "claimId": "clm_pauline-hanson-20260728-1",
+    "sourceId": "src_instagram-com-reels-dbwogr2zpyc-6b39dd",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260728-1-primary-1",
+    "claimId": "clm_pauline-hanson-20260728-1",
+    "sourceId": "src_abs-gov-au-statistics-people-population-overseas-migration-2022-23-fin-e33882",
+    "role": "primary",
+    "note": "737,000 arrivals in 2022–23, of which 83,700 were skilled-visa arrivals.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260728-1-primary-2",
+    "claimId": "clm_pauline-hanson-20260728-1",
+    "sourceId": "src_homeaffairs-gov-au-research-and-stats-files-migration-trends-2022-23-p-404a2b",
+    "role": "primary",
+    "note": "51,605 temporary skilled visas and 68,922 permanent skilled visas granted to primary applicants in 2022–23.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260728-1-primary-3",
+    "claimId": "clm_pauline-hanson-20260728-1",
+    "sourceId": "src_aph-gov-au-api-qon-downloadestimatesquestions-estimatesquestion-commit-9cccb9",
+    "role": "primary",
+    "note": "1,428 permanent visas for selected construction trades in 2023–24, but 11,349 visas across all construction-industry occupations.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260728-1-primary-4",
+    "claimId": "clm_pauline-hanson-20260728-1",
+    "sourceId": "src_data-gov-au-data-dataset-permanent-migration-program-skilled-family-re-644ea0",
+    "role": "primary",
+    "note": "1,626 permanent and 1,967 temporary skilled visas on the narrow trades list in 2022–23; 10,589 using the department's construction-industry classification.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260728-1-independent-1",
+    "claimId": "clm_pauline-hanson-20260728-1",
+    "sourceId": "src_aap-com-au-factcheck-pauline-hanson-muddles-data-in-misleading-migrati-4af22b",
+    "role": "independent",
+    "note": "Verdict as published: Misleading.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260617-2-original-1",
+    "claimId": "clm_pauline-hanson-20260617-2",
+    "sourceId": "src_youtu-be-n17g0mw43ya-3a1fa1",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260617-2-primary-1",
+    "claimId": "clm_pauline-hanson-20260617-2",
+    "sourceId": "src_abs-gov-au-statistics-people-housing-estimating-homelessness-census-la-5be1cf",
+    "role": "primary",
+    "note": "122,494 people homeless on census night 2021; 7,636 in improvised dwellings, tents or sleeping out; 47,895 in severely crowded dwellings.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260617-2-independent-1",
+    "claimId": "clm_pauline-hanson-20260617-2",
+    "sourceId": "src_aap-com-au-factcheck-what-pauline-hanson-got-wrong-in-press-club-speec-52fff0",
+    "role": "independent",
+    "note": "Verdict as published: Misleading (in-text assessment in a multi-claim article).",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260617-3-original-1",
+    "claimId": "clm_pauline-hanson-20260617-3",
+    "sourceId": "src_youtu-be-n17g0mw43ya-8196ef",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260617-3-primary-1",
+    "claimId": "clm_pauline-hanson-20260617-3",
+    "sourceId": "src_data-gov-au-data-dataset-taxation-statistics-2022-23-resource-a7f8226a-442a5e",
+    "role": "primary",
+    "note": "Net capital gains by age: 216,942 under 35 versus 717,658 over 35.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260617-3-primary-2",
+    "claimId": "clm_pauline-hanson-20260617-3",
+    "sourceId": "src_data-gov-au-data-dataset-taxation-statistics-2023-24-resource-fa246a26-ef630f",
+    "role": "primary",
+    "note": "Largest five-year group reporting a net capital gain was 35 to 39; 18 to 34-year-olds reported $1.94 billion in gains versus $9.78 billion for 35 to 49-year-olds.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260617-3-primary-3",
+    "claimId": "clm_pauline-hanson-20260617-3",
+    "sourceId": "src_treasury-gov-au-publication-p2026-781365-3384a8",
+    "role": "primary",
+    "note": "Proposal to replace the 50 per cent CGT discount with a minimum 30 per cent rate on capital gains from 1 July 2027.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_pauline-hanson-20260617-3-independent-1",
+    "claimId": "clm_pauline-hanson-20260617-3",
+    "sourceId": "src_aap-com-au-factcheck-what-pauline-hanson-got-wrong-in-press-club-speec-52fff0",
+    "role": "independent",
+    "note": "Verdict as published: False (in-text assessment in a multi-claim article).",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_malcolm-roberts-20240207-1-original-1",
+    "claimId": "clm_malcolm-roberts-20240207-1",
+    "sourceId": "src_youtube-com-watch-366f78",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_malcolm-roberts-20240207-1-primary-1",
+    "claimId": "clm_malcolm-roberts-20240207-1",
+    "sourceId": "src_dcceew-gov-au-sites-default-files-documents-nggi-quarterly-update-sept-cc2aa5",
+    "role": "primary",
+    "note": "Agriculture 17.9 per cent of national emissions in the year to September 2023; land sector offset 13.9 per cent.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_malcolm-roberts-20240207-1-primary-2",
+    "claimId": "clm_malcolm-roberts-20240207-1",
+    "sourceId": "src_unep-org-resources-factsheet-methane-emissions-5e65c8",
+    "role": "primary",
+    "note": "About 25 per cent of current warming comes from methane.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_malcolm-roberts-20240207-1-independent-1",
+    "claimId": "clm_malcolm-roberts-20240207-1",
+    "sourceId": "src_aap-com-au-factcheck-senator-wrong-with-agriculture-emissions-claim-909308",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_malcolm-roberts-20240130-1-original-1",
+    "claimId": "clm_malcolm-roberts-20240130-1",
+    "sourceId": "src_twitter-com-mrobertsqld-status-1752134978396360761-63cb4d",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_malcolm-roberts-20240130-1-primary-1",
+    "claimId": "clm_malcolm-roberts-20240130-1",
+    "sourceId": "src_abs-gov-au-statistics-people-population-population-clock-pyramid-b31ba8",
+    "role": "primary",
+    "note": "The clock projects the estimated resident population; it passed 27 million on 24 January 2024.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_malcolm-roberts-20240130-1-primary-2",
+    "claimId": "clm_malcolm-roberts-20240130-1",
+    "sourceId": "src_abs-gov-au-ausstats-abs-nsf-previousproducts-3412-0technical-20note120-edbd4c",
+    "role": "primary",
+    "note": "A person is counted in the resident population if in Australia for 12 months or more over a 16-month period, irrespective of visa.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_malcolm-roberts-20240130-1-primary-3",
+    "claimId": "clm_malcolm-roberts-20240130-1",
+    "sourceId": "src_data-gov-au-data-dataset-temporary-entrants-visa-holders-resource-54b2-9804d9",
+    "role": "primary",
+    "note": "2.76 million temporary visa holders, including 701,868 Special Category, 547,075 student and 601,051 visitor visa holders.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_malcolm-roberts-20240130-1-independent-1",
+    "claimId": "clm_malcolm-roberts-20240130-1",
+    "sourceId": "src_aap-com-au-factcheck-pollies-population-claim-fails-its-visa-check-20a0a7",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_malcolm-roberts-20240301-1-original-1",
+    "claimId": "clm_malcolm-roberts-20240301-1",
+    "sourceId": "src_malcolmrobertsqld-com-au-the-great-barrier-reef-is-not-dying-2-d0e1f2",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_malcolm-roberts-20240301-1-primary-1",
+    "claimId": "clm_malcolm-roberts-20240301-1",
+    "sourceId": "src_aims-gov-au-research-topics-environmental-issues-coral-bleaching-coral-43e78f",
+    "role": "primary",
+    "note": "Mass bleaching documented with full-scale surveys in 1998, 2002, 2016, 2017, 2020 and 2022.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_malcolm-roberts-20240301-1-primary-2",
+    "claimId": "clm_malcolm-roberts-20240301-1",
+    "sourceId": "src_sciencedirect-com-science-article-abs-pii-s0037073819302088-ebec68",
+    "role": "primary",
+    "note": "Per its co-author, the study assesses reef growth over 20,000 to 30,000-year cycles and does not examine bleaching.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_malcolm-roberts-20240301-1-independent-1",
+    "claimId": "clm_malcolm-roberts-20240301-1",
+    "sourceId": "src_aap-com-au-factcheck-experts-say-senators-reef-bleaching-claims-are-no-88d17f",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-farley-20260823-1-original-1",
+    "claimId": "clm_david-farley-20260823-1",
+    "sourceId": "src_youtu-be-umbrzuy2nbm-8fc073",
+    "role": "original",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-farley-20260823-1-primary-1",
+    "claimId": "clm_david-farley-20260823-1",
+    "sourceId": "src_abs-gov-au-statistics-industry-agriculture-value-agricultural-commodit-11b0bf",
+    "role": "primary",
+    "note": "Gross value of agricultural production by region; national total about $71 billion; Murray-Darling Basin about $30 billion.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-farley-20260823-1-primary-2",
+    "claimId": "clm_david-farley-20260823-1",
+    "sourceId": "src_mdba-gov-au-basin-7257d4",
+    "role": "primary",
+    "note": "Around 40 per cent of Australia's agricultural produce comes from the Basin.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-farley-20260823-1-primary-3",
+    "claimId": "clm_david-farley-20260823-1",
+    "sourceId": "src_aec-gov-au-profiles-nsw-farrer-htm-5c3793",
+    "role": "primary",
+    "note": "Farrer covers 126,563 square kilometres, about one-eighth of the Basin.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "cs_clm_david-farley-20260823-1-independent-1",
+    "claimId": "clm_david-farley-20260823-1",
+    "sourceId": "src_aap-com-au-factcheck-one-nation-mp-muddles-figures-on-food-production-d3f592",
+    "role": "independent",
+    "note": "Verdict as published: False.",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
   }
 ]

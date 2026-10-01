@@ -87,10 +87,9 @@ const VERDICT = [
 function mapVerdict(v) { for (const [re, s] of VERDICT) if (re.test(v.trim())) return s; return "mixed"; }
 
 const touched = new Set();
-let updSeq = 200;
+// Update IDs derive from the record they describe, so re-running the ingestion is idempotent.
 const addUpdate = (type, title, summary, relatedType, relatedId, politicianId) => {
-  updSeq += 1;
-  upsert(db.updates, { id: `upd_${RUN_DATE}-${updSeq}`, date: RUN_DATE, type, title, summary, relatedType, relatedId, politicianId, createdAt: NOW, updatedAt: NOW });
+  upsert(db.updates, { id: `upd_${RUN_DATE}-${relatedId.replace(/^[a-z]+_/, "")}`, date: RUN_DATE, type, title, summary, relatedType, relatedId, politicianId, createdAt: NOW, updatedAt: NOW });
 };
 const addChange = (recordType, recordId, politicianId, summary, reason) => {
   upsert(db.changeLog, { id: `chg_${recordId}-created`, date: RUN_DATE, kind: "record_created", recordType, recordId, politicianId, summary, reason, createdAt: NOW, updatedAt: NOW });
@@ -148,12 +147,16 @@ for (const c of records.careers ?? []) {
   pol.updatedAt = NOW;
   touched.add(pol.id);
 }
+// Matter IDs are numbered per politician and year in input order, so they are stable across re-runs.
+const matterSeq = new Map();
 function ingestMatter(kind, m) {
   const pol = politicianBySlug.get(m.politicianSlug);
   if (!pol) throw new Error(`unknown politician ${m.politicianSlug}`);
   const list = kind === "integrity" ? db.integrity : db.conduct;
-  const existing = list.filter((x) => x.politicianId === pol.id && !x.id.endsWith("__")).length;
-  const id = m.id ?? `${kind === "integrity" ? "int" : "cnd"}_${pol.slug}-${m.date.slice(0, 4)}-${existing + 1}`;
+  const seqKey = `${kind}:${pol.slug}:${m.date.slice(0, 4)}`;
+  const n = (matterSeq.get(seqKey) ?? 0) + 1;
+  matterSeq.set(seqKey, n);
+  const id = m.id ?? `${kind === "integrity" ? "int" : "cnd"}_${pol.slug}-${m.date.slice(0, 4)}-${n}`;
   const primary = (m.primarySources ?? []).map((s) => ensureSource(s));
   const independent = (m.independentSources ?? []).map((s) => ensureSource(s));
   let responseId;

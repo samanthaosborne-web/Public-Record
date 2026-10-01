@@ -177,5 +177,749 @@
     "updatedAt": "2026-06-03T15:00:00+10:00",
     "isDemonstration": true,
     "reviewedBy": "human"
+  },
+  {
+    "id": "int_katy-gallagher-2017-1",
+    "title": "High Court ruling that Senator Gallagher was ineligible to be elected at the 2016 election under section 44(i) of the Constitution (Re Gallagher)",
+    "politicianId": "pol_gallagher-katy",
+    "date": "2017-12-06",
+    "status": "official_finding",
+    "statusHistory": [
+      {
+        "status": "referral",
+        "date": "2017-12-06",
+        "note": "At her own request, the Senate resolved to refer questions concerning her eligibility at the 2016 election to the Court of Disputed Returns."
+      },
+      {
+        "status": "official_finding",
+        "date": "2018-05-09",
+        "note": "The Full Court (Kiefel CJ, Bell, Gageler, Keane, Nettle, Gordon and Edelman JJ) unanimously answered that there was a vacancy in her seat by reason of section 44(i), to be filled by a special count of the ballot papers."
+      },
+      {
+        "status": "official_finding",
+        "date": "2018-05-23",
+        "note": "Following the special count, David Smith was declared elected to the ACT Senate vacancy. The Parliament of Australia's record states 'Election ruled void 9.5.2018 under section 44 (i) of the Constitution'."
+      }
+    ],
+    "primarySourceIds": [
+      "src_eresources-hcourt-gov-au-showcase-2018-hca-17-cc1f9a",
+      "src_hcourt-gov-au-assets-publications-judgment-summaries-2018-hca17-2018-0-efdf5b",
+      "src_aph-gov-au-senators-and-members-parliamentarian-f59390"
+    ],
+    "independentSourceIds": [
+      "src_abc-net-au-news-2018-05-09-katy-gallagher-found-ineligible-to-serve-in-8c41df",
+      "src_abc-net-au-news-2018-05-23-david-smith-to-replace-ousted-senator-katy--9874d7",
+      "src_theconversation-com-four-mps-resign-as-citizenship-crisis-causes-more--e3fed6"
+    ],
+    "responseId": "rsp_int_katy-gallagher-2017-1",
+    "outcome": "Court's answers: whether section 44(i) created a vacancy, 'Yes'; how it should be filled, 'by a special count of the ballot papers'. The Parliament of Australia records her 2016 election as 'ruled void 9.5.2018 under section 44 (i) of the Constitution'. She was elected again at the 2019 election.",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "High Court of Australia sitting as the Court of Disputed Returns, on a reference from the Senate",
+    "description": "Senator Gallagher was a British citizen by descent. She signed a declaration of renunciation on 20 April 2016, lodged with the United Kingdom Home Office on 26 April 2016, but the Home Office did not register the renunciation until 16 August 2016, after nominations for the 2 July 2016 election had closed. On 6 December 2017, at her request, the Senate referred questions about her eligibility to the Court of Disputed Returns. On 9 May 2018 the High Court unanimously held that she was a citizen of a foreign power when nominated and was therefore incapable of being chosen as a senator under section 44(i), and that the exception for cases where foreign law irremediably prevents renunciation did not apply. The vacancy was filled by a special count and she returned to the Senate at the 2019 election. A section 44 ineligibility finding concerns constitutional eligibility; the court made no finding about her honesty or conduct."
+  },
+  {
+    "id": "int_richard-marles-2024-1",
+    "title": "Federal Court adverse-action claim by Mr Marles's former chief of staff against the Commonwealth, Mr Marles and the Prime Minister's chief of staff, settled without findings",
+    "politicianId": "pol_marles-richard",
+    "date": "2024-11-25",
+    "status": "no_finding",
+    "statusHistory": [
+      {
+        "status": "allegation",
+        "date": "2024-11-25",
+        "note": "Statement of claim filed in the Federal Court alleging adverse action under the Fair Work Act. Ms Tarnawsky had said publicly in October 2024 that she was sidelined after making a bullying complaint about a colleague."
+      },
+      {
+        "status": "no_finding",
+        "date": "2025-03-21",
+        "note": "Dispute settled on confidential terms before any hearing; the proceeding was discontinued. A government spokesperson said no adverse findings had been made against any person."
+      }
+    ],
+    "primarySourceIds": [],
+    "independentSourceIds": [
+      "src_abc-net-au-news-2024-11-25-chief-staff-tarnawsky-marles-legal-job-dism-4c46e7",
+      "src_theconversation-com-marles-staffer-launches-court-action-against-the-g-869e79",
+      "src_abc-net-au-news-2025-03-21-jo-tarnawsky-settles-dispute-with-governmen-341aa3"
+    ],
+    "responseId": "rsp_int_richard-marles-2024-1",
+    "outcome": "Settled confidentially before any hearing; no judgment and no findings. Government spokesperson, 21 March 2025: 'The welfare of all staff has been front of mind and remains so. The proceeding will be discontinued.' The spokesperson noted that no adverse findings had been made against any person.",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "Federal Court of Australia (proceeding under the Fair Work Act 2009)",
+    "description": "Jo Tarnawsky, chief of staff to the Deputy Prime Minister, said in October 2024 that she had raised a complaint of bullying and harassment by a senior colleague in Mr Marles's office and had subsequently been kept out of her role and left on leave. She did not allege that Mr Marles personally bullied her. In November 2024 she filed a Federal Court claim under the Fair Work Act alleging adverse action in response to her complaint, naming the Commonwealth, Mr Marles and the Prime Minister's chief of staff as respondents. In March 2025 the parties settled on confidential terms and the proceeding was discontinued; a government spokesperson said no adverse findings had been made against any person. There is no judgment."
+  },
+  {
+    "id": "int_angus-taylor-2019-1",
+    "title": "Police assessment of altered City of Sydney travel figures cited in Mr Taylor's 2019 letter to the Lord Mayor of Sydney; no further investigation by the Australian Federal Police",
+    "politicianId": "pol_taylor-angus",
+    "date": "2019-10-25",
+    "status": "no_finding",
+    "statusHistory": [
+      {
+        "status": "allegation",
+        "date": "2019-10-25",
+        "note": "The Shadow Attorney-General wrote to the NSW Police Commissioner alleging that figures in Mr Taylor's letter of 29 September 2019 to the Lord Mayor were drawn from an altered version of the City of Sydney's annual report. The same day Mr Taylor tabled a statement saying two versions of the report had appeared on the council's website."
+      },
+      {
+        "status": "formal_investigation",
+        "date": "2019-10-26",
+        "note": "NSW Police confirmed that Strike Force Garrad was investigating (date per the Commonwealth Ombudsman's chronology). On 31 October 2019 Mr Taylor wrote to the Lord Mayor acknowledging the figures were incorrect and apologising; on 25 November 2019 he told the House that neither he nor his staff had altered the document."
+      },
+      {
+        "status": "referral",
+        "date": "2019-12-17",
+        "note": "NSW Police referred the matter to the Australian Federal Police, as the alleged conduct occurred in Canberra, and finalised its own investigation. The AFP confirmed receipt of the referral on 2 January 2020."
+      },
+      {
+        "status": "no_finding",
+        "date": "2020-02-06",
+        "note": "The AFP announced it would not investigate further: there was 'no evidence to indicate the Minister for Energy and Emissions Reduction was involved in falsifying information' and further investigation was unlikely to obtain sufficient evidence to substantiate a Commonwealth offence. No charges were laid."
+      },
+      {
+        "status": "no_finding",
+        "date": "2020-11-16",
+        "note": "The Commonwealth Ombudsman reported on the AFP's handling of the referral, finding the AFP's decision was 'lawful and open to it' while observing that the AFP had not tested its resource concerns by seeking further information from the Minister's office by less formal means. The report made no finding about Mr Taylor."
+      }
+    ],
+    "primarySourceIds": [
+      "src_ombudsman-gov-au-data-assets-pdf-file-0017-112067-commonwealth-ombudsm-0c850c"
+    ],
+    "independentSourceIds": [
+      "src_abc-net-au-news-2020-02-06-angus-taylor-clover-moore-investigation-dro-9fd334",
+      "src_abc-net-au-news-2020-01-02-angus-taylor-investigation-referred-to-afp--92ef9f",
+      "src_sbs-com-au-news-nsw-police-refer-angus-taylor-document-investigation-t-58fd82"
+    ],
+    "responseId": "rsp_int_angus-taylor-2019-1",
+    "outcome": "No charges. Australian Federal Police, 6 February 2020: 'The AFP assessment of this matter identified there is no evidence to indicate the Minister for Energy and Emissions Reduction was involved in falsifying information ... the AFP has determined it is unlikely further investigation will result in obtaining sufficient evidence to substantiate a Commonwealth offence. The AFP now considers this matter finalised.' Commonwealth Ombudsman, 16 November 2020: it was 'lawful and open to it to refrain from further investigating the matter'.",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "NSW Police Force (Strike Force Garrad); Australian Federal Police; Commonwealth Ombudsman (review of the AFP's handling)",
+    "description": "In September 2019 Mr Taylor, then Minister for Energy and Emissions Reduction, wrote to the Lord Mayor of Sydney citing City of Sydney travel spending figures that did not match the council's published annual report; the figures were reported by The Daily Telegraph. After the Shadow Attorney-General referred the matter to NSW Police, Strike Force Garrad investigated and in December 2019 referred the matter to the Australian Federal Police because the alleged conduct occurred in Canberra. On 6 February 2020 the AFP announced it would not investigate further, stating there was no evidence to indicate the Minister was involved in falsifying information and citing the Minister's apology to the Lord Mayor, the low level of harm and the resources that further investigation would require. The Commonwealth Ombudsman later examined the AFP's handling and found its decision lawful, while noting that the AFP had not tested its resource concerns by seeking further information from the Minister's office. Mr Taylor denied that he or his staff altered the document and apologised for relying on incorrect figures."
+  },
+  {
+    "id": "int_angus-taylor-2021-1",
+    "title": "Auditor-General's performance audit of grants under the Supporting Reliable Energy Infrastructure Program, including the Collinsville feasibility-study grant approved by Mr Taylor as Minister",
+    "politicianId": "pol_taylor-angus",
+    "date": "2021-03-18",
+    "status": "official_finding",
+    "statusHistory": [
+      {
+        "status": "official_finding",
+        "date": "2021-03-18",
+        "note": "Report tabled. The ANAO noted that the two funding briefings 'provided a record of the basis for the Minister's decisions to award funding'; its recommendations were directed to the department."
+      }
+    ],
+    "primarySourceIds": [
+      "src_anao-gov-au-work-performance-audit-award-funding-under-the-supporting--830abf",
+      "src_anao-gov-au-sites-default-files-auditor-general-report-2020-21-31-pdf-893b0b"
+    ],
+    "independentSourceIds": [
+      "src_themandarin-com-au-151871-what-anaos-shine-energy-feasibility-study-me-b34c6d",
+      "src_reneweconomy-com-au-audit-office-questions-taylor-emails-as-it-slams-c-2ac9c5"
+    ],
+    "outcome": "ANAO conclusion: 'The award of funding under the Supporting Reliable Energy Infrastructure Program was not fully informed by an appropriate assessment process and sound advice on the award of grant funding. Aspects of the approach did not comply with the Commonwealth Grants Rules and Guidelines.' All three recommendations, directed to the department, were agreed. No finding was made against the Minister personally.",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "Australian National Audit Office (Auditor-General Report No. 31 of 2020-21)",
+    "description": "The Auditor-General examined whether the award of two grants under the $10 million Supporting Reliable Energy Infrastructure Program, including $3.61 million to Shine Energy for a feasibility study into a coal-fired power station at Collinsville, Queensland, was informed by an appropriate assessment process and sound advice consistent with the Commonwealth Grants Rules and Guidelines. Mr Taylor, then Minister for Energy and Emissions Reduction, approved the grants on departmental briefings. The report concluded that the award of funding 'was not fully informed by an appropriate assessment process and sound advice' and that aspects of the approach did not comply with the Grants Rules; it found conflict-of-interest and probity arrangements had not been implemented, that the department's advice on the Shine Energy grant was 'partially appropriate' and not consistent with its own assessment that some eligibility requirements and appraisal criteria had not been met, and that the briefings did not clearly identify the extent to which each application met the selection criteria. Its three recommendations were directed to the Department of Industry, Science, Energy and Resources, which agreed to them. The report made no finding of misconduct against the Minister."
+  },
+  {
+    "id": "int_angus-taylor-2019-2",
+    "title": "Senate committee majority report on Mr Taylor's 2017 representations about the grasslands listing while a compliance case was open against Jam Land Pty Ltd, a company in which he holds an indirect interest",
+    "politicianId": "pol_taylor-angus",
+    "date": "2019-07-29",
+    "status": "official_finding",
+    "statusHistory": [
+      {
+        "status": "allegation",
+        "date": "2019-07-29",
+        "note": "Following media reports about the March 2017 meeting, Mr Taylor made a statement to the House of Representatives. The following day a Senate motion to establish a dedicated inquiry was defeated 28 votes to 29."
+      },
+      {
+        "status": "official_finding",
+        "date": "2019-12-04",
+        "note": "Interim report of the Senate Environment and Communications References Committee inquiry into Australia's faunal extinction crisis (chapter 3). The Labor and Greens majority concluded Mr Taylor 'consciously used his position as an MP and Minister to make representations to Minister Frydenberg that were aimed at affecting the outcome of the Jam Land compliance case' and that this represented 'clear breaches of the Statement of Ministerial Standards'. Coalition senators dissented: 'The evidence provided by the Department confirms that Mr Taylor has acted appropriately and in accordance with the rules.' Date per reporting of the report's release."
+      },
+      {
+        "status": "official_finding",
+        "date": "2020-04-28",
+        "note": "A delegate of the Environment Minister issued Jam Land Pty Ltd a remediation determination under the EPBC Act over the spraying of a 28.5-hectare paddock in October 2016, requiring rehabilitation of 103 hectares of native grassland. This action concerned the company, not Mr Taylor."
+      },
+      {
+        "status": "official_finding",
+        "date": "2021-12-10",
+        "note": "The remediation determination was affirmed on ministerial reconsideration."
+      },
+      {
+        "status": "official_finding",
+        "date": "2022-09-12",
+        "note": "Jam Land Pty Ltd v Minister for the Environment [2022] FCA 1058: the Federal Court dismissed the company's application for judicial review with costs. Mr Taylor was not a party and is not mentioned in the judgment."
+      }
+    ],
+    "primarySourceIds": [
+      "src_aph-gov-au-parliamentary-business-committees-senate-environment-and-co-d5d1fd",
+      "src_aph-gov-au-parliamentary-business-committees-senate-environment-and-co-ca9053",
+      "src_judgments-fedcourt-gov-au-judgments-judgments-fca-single-2022-2022fca1-c767c9"
+    ],
+    "independentSourceIds": [
+      "src_abc-net-au-news-rural-2020-05-01-farmers-to-appeal-taylor-grassland-fi-6d0f56",
+      "src_abc-net-au-news-rural-2022-09-13-jam-land-federal-court-angus-taylor-c-da34da",
+      "src_canberratimes-com-au-story-6298893-why-is-angus-taylor-under-pressure--2eda92"
+    ],
+    "responseId": "rsp_int_angus-taylor-2019-2",
+    "outcome": "Senate committee majority, December 2019: Mr Taylor's conduct 'represents clear breaches of the Statement of Ministerial Standards'; recommended that the Prime Minister ask the Secretary of the Department of the Prime Minister and Cabinet to review the conduct of Mr Taylor and the then Treasurer in relation to the grasslands matter. Coalition senators' dissent: Mr Taylor 'has acted appropriately and in accordance with the rules'. No review by the Prime Minister's department and no finding by any police, integrity or judicial body about Mr Taylor has been located. Concerning the company: the department found Jam Land Pty Ltd breached the EPBC Act and the Federal Court dismissed its judicial review application.",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "Senate Environment and Communications References Committee; Department of the Environment and Energy (EPBC Act compliance, concerning the company); Federal Court of Australia (concerning the company)",
+    "description": "The federal Environment Department investigated the 2016 spraying of critically endangered native grassland on a Monaro property owned by Jam Land Pty Ltd, a company of which Mr Taylor's brother is a director and in which Mr Taylor holds an indirect interest through a family company. In March 2017, while that compliance case was open, Mr Taylor, then Assistant Minister for Cities, sought and attended a meeting with department officials about the listing of the grassland community and raised the listing with the then Environment Minister. This became public in 2019. In December 2019 a majority of the Senate Environment and Communications References Committee (Labor and Greens senators) concluded that his conduct breached the Statement of Ministerial Standards and recommended that the Prime Minister commission a review by the Secretary of the Department of the Prime Minister and Cabinet; Coalition senators dissented, citing departmental evidence that compliance matters were not discussed at the meeting. No review outcome and no finding by any police, integrity or judicial body about Mr Taylor has been located. Separately, the department issued Jam Land a remediation determination in April 2020, affirmed on reconsideration in December 2021, and the Federal Court dismissed the company's judicial review application in September 2022; Mr Taylor was not a party and is not mentioned in the judgment."
+  },
+  {
+    "id": "int_michaelia-cash-2017-1",
+    "title": "Australian Federal Police investigation into the disclosure to media of the October 2017 searches of Australian Workers' Union offices; no prosecution",
+    "politicianId": "pol_cash-michaelia",
+    "date": "2017-10-25",
+    "status": "no_finding",
+    "statusHistory": [
+      {
+        "status": "allegation",
+        "date": "2017-10-25",
+        "note": "Senator Cash corrected her evidence to Senate estimates after her senior media adviser admitted alerting journalists to the searches and resigned."
+      },
+      {
+        "status": "formal_investigation",
+        "date": "2017-10-27",
+        "note": "The AFP confirmed it was investigating the disclosure; Senator Cash had asked for the investigation."
+      },
+      {
+        "status": "referred_for_prosecution",
+        "date": "2018-07-01",
+        "note": "The AFP provided a brief of evidence to the Commonwealth Director of Public Prosecutions in July 2018 (exact date not published; reported by the ABC on 15 January 2019)."
+      },
+      {
+        "status": "no_finding",
+        "date": "2019-01-15",
+        "note": "AFP: 'The CDPP has advised they will not be proceeding with a prosecution as there are no reasonable prospects of conviction.' The AFP considered the investigation complete."
+      },
+      {
+        "status": "no_finding",
+        "date": "2019-02-19",
+        "note": "At Senate estimates the AFP said it had wanted formal witness statements from Ministers Cash and Keenan; both declined interviews and provided written statements. The CDPP's representative said there was prima facie evidence that an offence had occurred but no reasonable prospects of conviction."
+      }
+    ],
+    "primarySourceIds": [],
+    "independentSourceIds": [
+      "src_abc-net-au-news-2017-10-25-cash-staffer-resigns-over-awu-raids-9086214-a60d2d",
+      "src_abc-net-au-news-2017-10-27-afp-investigates-awu-raid-9091776-2a1f1c",
+      "src_abc-net-au-news-2019-01-15-no-criminal-charges-in-awu-raids-case-10714-465ae8",
+      "src_sbs-com-au-news-article-no-criminal-charges-over-awu-headquarters-raid-91c1ab",
+      "src_abc-net-au-news-2019-02-19-crime-appears-to-have-been-committed-in-awu-654193"
+    ],
+    "responseId": "rsp_int_michaelia-cash-2017-1",
+    "outcome": "No charges against anyone. Australian Federal Police, 15 January 2019: 'The AFP can confirm the CDPP has advised they will not be proceeding with a prosecution as there are no reasonable prospects of conviction.'",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "Australian Federal Police; Commonwealth Director of Public Prosecutions",
+    "description": "On 24 October 2017 the Australian Federal Police, acting for the Registered Organisations Commission, searched Australian Workers' Union offices in Sydney and Melbourne; television crews were in place before officers arrived. At Senate estimates the next day Senator Cash, then Minister for Employment, said several times that her office had not alerted the media, then returned to correct her evidence after her senior media adviser admitted tipping off journalists and resigned. At her request the AFP investigated the disclosure and in mid-2018 provided a brief of evidence to the Commonwealth Director of Public Prosecutions. On 15 January 2019 the AFP announced that the CDPP would not prosecute because there were no reasonable prospects of conviction. No charges were laid against anyone. Senator Cash's office said neither she nor her office had been under investigation; at estimates in February 2019 the AFP said it had sought formal witness statements from Senator Cash and Minister Keenan, who declined interviews and provided written statements."
+  },
+  {
+    "id": "int_michaelia-cash-2019-1",
+    "title": "Federal Court findings in the Australian Workers' Union's challenge to the Registered Organisations Commission investigation, including the allegation that it was commenced for an improper political purpose connected to the Minister",
+    "politicianId": "pol_cash-michaelia",
+    "date": "2019-02-11",
+    "status": "cleared",
+    "statusHistory": [
+      {
+        "status": "allegation",
+        "date": "2019-02-11",
+        "note": "In its judicial review proceedings against the Commission, the AWU alleged a 'misuse of government powers by Minister Michaelia Cash, to commence an investigation into her perceived political enemies'; Senator Cash and former staff were subpoenaed to give evidence."
+      },
+      {
+        "status": "cleared",
+        "date": "2019-10-11",
+        "note": "Australian Workers' Union v Registered Organisations Commissioner (No 9) [2019] FCA 1671: Bromberg J found the alleged improper purpose was 'not demonstrated on the evidence', while holding one limb of the investigation invalid on a statutory ground."
+      },
+      {
+        "status": "cleared",
+        "date": "2020-11-20",
+        "note": "Registered Organisations Commissioner v Australian Workers' Union [2020] FCAFC 202: the Full Court allowed the Commission's appeal and found 'the interaction between the Minister and the delegate did not give rise to jurisdictional error'."
+      }
+    ],
+    "primarySourceIds": [
+      "src_judgments-fedcourt-gov-au-judgments-judgments-fca-single-2019-2019fca1-750fd0",
+      "src_judgments-fedcourt-gov-au-judgments-judgments-fca-full-2020-2020fcafc0-5537b6"
+    ],
+    "independentSourceIds": [
+      "src_abc-net-au-news-2019-02-11-why-is-michaelia-cash-in-court-over-the-awu-c55f3d"
+    ],
+    "responseId": "rsp_int_michaelia-cash-2019-1",
+    "outcome": "No adverse finding against Senator Cash. First instance: the alleged improper purpose was 'not demonstrated on the evidence'. Full Court: 'the interaction between the Minister and the delegate did not give rise to jurisdictional error'; appeal allowed.",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "Federal Court of Australia (Bromberg J; Full Court: Allsop CJ, Besanko and White JJ)",
+    "description": "After Senator Cash, as Minister for Employment, referred media reports about Australian Workers' Union donations to GetUp! to the Registered Organisations Commission in August 2017, the Commission opened an investigation that led to the October 2017 searches of AWU offices. The AWU challenged the investigation in the Federal Court, alleging among other things that it had been commenced for an improper political purpose connected to the Minister; Senator Cash and her former staff were subpoenaed and gave evidence. In October 2019 Justice Bromberg found the alleged improper purpose was 'not demonstrated on the evidence', while holding part of the investigation invalid on a statutory-interpretation ground. In November 2020 the Full Court allowed the Commission's appeal on that ground and found that 'the interaction between the Minister and the delegate did not give rise to jurisdictional error'. No adverse finding was made against Senator Cash in either judgment."
+  },
+  {
+    "id": "int_andrew-hastie-2016-1",
+    "title": "Termination of Mr Hastie's Standby Army Reserve service after he declined a Defence request to remove images of himself in uniform from 2016 election material",
+    "politicianId": "pol_hastie-andrew",
+    "date": "2016-06-09",
+    "status": "official_finding",
+    "statusHistory": [
+      {
+        "status": "official_finding",
+        "date": "2016-06-09",
+        "note": "Defence stated that the Army had issued Mr Hastie with a notice of intention to terminate his service 'because he had failed to comply with directions and Defence policy', and his service was terminated."
+      }
+    ],
+    "primarySourceIds": [],
+    "independentSourceIds": [
+      "src_abc-net-au-news-2016-06-09-canning-mp-andrew-hastie-dumped-by-army-ove-16ecf9"
+    ],
+    "responseId": "rsp_int_andrew-hastie-2016-1",
+    "outcome": "Department of Defence statement, as quoted by the ABC on 9 June 2016: 'Defence contacted Mr Hastie, a member of the standby Army Reserve, and requested he remove imagery of himself in uniform from election campaign material. Regrettably, Mr Hastie did not comply with this request. Accordingly, the Army issued Mr Hastie with a notice indicating the intention to terminate his service because he had failed to comply with directions and Defence policy.'",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "Australian Army / Department of Defence",
+    "description": "During the 2016 federal election campaign, Defence asked Mr Hastie, then the Member for Canning and a member of the Standby Army Reserve, to remove images of himself in uniform from campaign material, citing policy that Australian Defence Force members not engage in political activity in uniform without approval. Mr Hastie declined, saying the image reflected his personal and professional history and that as a former officer he was no longer under military authority. The Army issued a notice of intention to terminate his service for failing to comply with directions and Defence policy, and his reserve service was terminated."
+  },
+  {
+    "id": "int_matt-canavan-2017-1",
+    "title": "High Court ruling that Senator Canavan was not disqualified under section 44(i) of the Constitution (Re Canavan)",
+    "politicianId": "pol_canavan-matt",
+    "date": "2017-07-25",
+    "status": "cleared",
+    "statusHistory": [
+      {
+        "status": "allegation",
+        "date": "2017-07-25",
+        "note": "Senator Canavan announced that his mother had registered him as an Italian citizen in 2006 without his knowledge and stood aside from the ministry; the Attorney-General said the matter would be referred to the High Court."
+      },
+      {
+        "status": "referral",
+        "date": "2017-08-09",
+        "note": "The Senate referred questions concerning his qualification to the Court of Disputed Returns (the judgment records the President of the Senate's letter of 9 August 2017). His renunciation of any Italian citizenship took effect on 8 August 2017."
+      },
+      {
+        "status": "cleared",
+        "date": "2017-10-27",
+        "note": "The Full Court unanimously answered that there was no vacancy by reason of section 44(i) in the Queensland Senate place for which he was returned. He resumed his cabinet post the same day."
+      }
+    ],
+    "primarySourceIds": [
+      "src_eresources-hcourt-gov-au-showcase-2017-hca-45-94137e",
+      "src_hcourt-gov-au-assets-publications-judgment-summaries-2017-hca-45-2017--555306",
+      "src_aph-gov-au-senators-and-members-parliamentarian-69b224"
+    ],
+    "independentSourceIds": [
+      "src_abc-net-au-news-2017-07-25-matt-canavan-citizenship-crisis-resigns-fro-bce2ba",
+      "src_abc-net-au-news-2017-10-27-citizenship-decision-handed-down-by-high-co-2dd46e",
+      "src_theguardian-com-australia-news-2017-oct-12-matt-canavan-may-have-been--b42b3d"
+    ],
+    "responseId": "rsp_int_matt-canavan-2017-1",
+    "outcome": "Order of the Court of Disputed Returns: 'There is no vacancy by reason of s 44(i) of the Constitution in the representation of Queensland in the Senate for the place for which Senator the Hon Matthew Canavan was returned.' Reasons at [86]: 'On the evidence before the Court, one cannot be satisfied that Senator Canavan was a citizen of Italy.'",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "High Court of Australia sitting as the Court of Disputed Returns, on a reference from the Senate",
+    "description": "In July 2017 Senator Canavan disclosed that he might hold Italian citizenship by descent, registered by his mother in 2006 without his knowledge, and stood aside from the ministry while the question was tested. The Senate referred the question of whether he was incapable of being chosen under section 44(i) to the High Court sitting as the Court of Disputed Returns, alongside references concerning six other parliamentarians. On 27 October 2017 the court held that, on the evidence of Italian law before it, one could not be satisfied that he had ever been an Italian citizen, and answered that there was no vacancy in his Senate place. He returned to the ministry the same day."
+  },
+  {
+    "id": "int_bridget-mckenzie-2020-1",
+    "title": "Auditor-General's audit of the Community Sport Infrastructure Program and the finding by the Secretary of the Department of the Prime Minister and Cabinet that Senator McKenzie breached the Statement of Ministerial Standards",
+    "politicianId": "pol_mckenzie-bridget",
+    "date": "2020-01-15",
+    "status": "official_finding",
+    "statusHistory": [
+      {
+        "status": "official_finding",
+        "date": "2020-01-15",
+        "note": "Auditor-General's report presented to Parliament: the award of grant funding was not informed by an appropriate assessment process and sound advice, successful applications were not those assessed as most meritorious, there was evidence of distribution bias toward marginal and targeted electorates, and no evident legal authority for the minister to approve the grants."
+      },
+      {
+        "status": "formal_investigation",
+        "date": "2020-01-17",
+        "note": "The Prime Minister sought advice from the Secretary of the Department of the Prime Minister and Cabinet under paragraph 7.4 of the Statement of Ministerial Standards on any apparent breaches in relation to the minister's administration of the program."
+      },
+      {
+        "status": "official_finding",
+        "date": "2020-02-02",
+        "note": "The Prime Minister announced the Secretary's conclusion that Senator McKenzie had breached the Standards by failing to declare memberships of two organisations and had an actual, undeclared and unmanaged conflict of interest in awarding a grant to the Wangaratta Clay Target Club, while finding no breach with respect to fairness. She resigned from the ministry and as Deputy Leader of the Nationals the same day."
+      }
+    ],
+    "primarySourceIds": [
+      "src_anao-gov-au-work-performance-audit-award-funding-under-the-community-s-166740",
+      "src_aph-gov-au-documentstore-ashx-a81c72",
+      "src_aph-gov-au-parliamentary-business-committees-senate-administration-of--f93ecc"
+    ],
+    "independentSourceIds": [
+      "src_abc-net-au-news-2020-01-15-government-sport-grants-targeted-marginal-s-26d66a",
+      "src_theguardian-com-australia-news-2020-jan-15-coalition-gave-out-100m-ele-c81460",
+      "src_abc-net-au-news-2020-02-02-bridget-mckenzie-quits-over-ministerial-sta-1149d8",
+      "src_theconversation-com-remembrance-of-rorts-past-why-the-mckenzie-scandal-fc5f1f"
+    ],
+    "responseId": "rsp_int_bridget-mckenzie-2020-1",
+    "outcome": "Secretary of the Department of the Prime Minister and Cabinet, as stated in his submission to the Senate Select Committee: 'I concluded Senator McKenzie did not act in breach of the Standards with respect to fairness. I did find that Senator McKenzie breached the Standards by failing to declare her memberships of two organisations and that she had an actual conflict of interest when awarding funding to one of those organisations, the Wangaratta Clay Target Club, which was neither declared to the Prime Minister nor managed.' Senator McKenzie resigned from the ministry on 2 February 2020. The Secretary's full report has not been published.",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "Australian National Audit Office (Auditor-General Report No. 23 of 2019-20); Secretary of the Department of the Prime Minister and Cabinet, advising the Prime Minister under the Statement of Ministerial Standards",
+    "description": "On 15 January 2020 the Auditor-General reported on the $100 million Community Sport Infrastructure Program, administered by Sport Australia with Senator McKenzie, as Minister for Sport, approving the grants. The report found that funding decisions departed from Sport Australia's merit assessments, that the approach documented in the minister's office focused on marginal and targeted electorates, and that there was no evident legal authority for the minister's approval role. The Prime Minister asked the Secretary of the Department of the Prime Minister and Cabinet to advise whether the Statement of Ministerial Standards had been breached. The Secretary advised that she had acted within the program guidelines and had not breached the Standards with respect to fairness, but that she had breached them by failing to declare her membership of two organisations and had an actual, undeclared and unmanaged conflict of interest in awarding $35,980 to the Wangaratta Clay Target Club, of which she was a member. She resigned from the ministry and as Deputy Leader of the Nationals on 2 February 2020 and remained in the Senate."
+  },
+  {
+    "id": "int_bridget-mckenzie-2020-2",
+    "title": "Senate Select Committee on Administration of Sports Grants: inquiry, evidence by order of the Senate, and final report",
+    "politicianId": "pol_mckenzie-bridget",
+    "date": "2020-02-05",
+    "status": "official_finding",
+    "statusHistory": [
+      {
+        "status": "referral",
+        "date": "2020-02-05",
+        "note": "The Senate established the select committee and ordered production of the Secretary's report; the government claimed public interest immunity and the order was recorded as not complied with. A further order on 25 February 2020 met the same claim."
+      },
+      {
+        "status": "formal_investigation",
+        "date": "2020-12-09",
+        "note": "After the interim report of 1 December 2020, the Senate ordered Senator McKenzie to appear before the committee; she gave evidence on 12 February 2021."
+      },
+      {
+        "status": "official_finding",
+        "date": "2021-03-18",
+        "note": "Final report tabled with nine recommendations. The majority concluded the minister applied politically motivated considerations inconsistent with the guidelines; Coalition senators' minority report rejected this. The government's response was received on 21 May 2026."
+      }
+    ],
+    "primarySourceIds": [
+      "src_aph-gov-au-parliamentary-business-committees-senate-administration-of--8eaf00",
+      "src_aph-gov-au-parliamentary-business-committees-senate-administration-of--04757d",
+      "src_aph-gov-au-parliamentary-business-committees-senate-administration-of--8f318c",
+      "src_aph-gov-au-parliamentary-business-committees-senate-administration-of--ccb623",
+      "src_static-aph-gov-au-media-02-parliamentary-business-22-chamber-documents-9145f9",
+      "src_aph-gov-au-parliamentary-business-committees-senate-administration-of--239021"
+    ],
+    "independentSourceIds": [
+      "src_abc-net-au-news-2020-01-29-scott-morrison-distances-self-sports-grants-7fa6ff",
+      "src_theconversation-com-pauline-hanson-stymies-bid-to-hobble-mathias-corma-d00392"
+    ],
+    "responseId": "rsp_int_bridget-mckenzie-2020-2",
+    "outcome": "Majority report, paragraph 4.77: 'Given the minister has not been able to provide any credible or documented rationale for her decision making the committee can only conclude that she applied considerations that were politically motivated and inconsistent with the published guidelines.' Chapter 3: 'the question of the minister's legal authority to have made decisions on grants under the CSIG program remains under considerable doubt.' Coalition senators' minority report: the program 'was an outstanding success' and the senator's evidence 'was clear, confident and compelling'. No sanction was imposed by the Senate.",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "Senate of Australia; Senate Select Committee on Administration of Sports Grants",
+    "description": "On 5 February 2020 the Senate established a select committee to inquire into the administration and award of funding under the Community Sport Infrastructure Grant program, and separately ordered the production of the Secretary's report on Senator McKenzie, which the government declined to table on Cabinet-confidentiality grounds. The committee tabled an interim report on 1 December 2020 concerning public interest immunity claims and, by order of the Senate, took evidence from Senator McKenzie on 12 February 2021, when she told the committee she was solely responsible for the decisions. Its final report of 18 March 2021, supported by the Labor, Greens and crossbench majority, concluded that she applied politically motivated considerations inconsistent with the published guidelines and that her legal authority to make the decisions remained in doubt. Coalition senators dissented, describing the program as a success and relying on the Secretary's finding of no breach with respect to fairness. The Senate imposed no sanction, and no privileges or senators' interests committee matter was located."
+  },
+  {
+    "id": "int_pauline-hanson-1998-1",
+    "title": "Queensland prosecution over the 1997 registration of Pauline Hanson's One Nation: convictions quashed and acquittals entered",
+    "politicianId": "pol_hanson-pauline",
+    "date": "1998-07-10",
+    "status": "overturned_appealed",
+    "statusHistory": [
+      {
+        "status": "allegation",
+        "date": "1998-07-10",
+        "note": "A disendorsed candidate instituted Supreme Court proceedings challenging the Queensland registration of the party."
+      },
+      {
+        "status": "official_finding",
+        "date": "1999-08-18",
+        "note": "Civil proceedings: the Supreme Court set aside the decision to register the party, finding it had been induced by fraud or misrepresentation; upheld by the Court of Appeal on 10 March 2000."
+      },
+      {
+        "status": "referral",
+        "date": "1999-08-26",
+        "note": "Matter referred on behalf of the Electoral Commissioner to the Commissioner of Police."
+      },
+      {
+        "status": "charged",
+        "date": "2001-07-05",
+        "note": "Ms Hanson and Mr Ettridge charged with dishonestly inducing the Electoral Commissioner to register the party; Ms Hanson also charged with two counts of dishonestly obtaining property."
+      },
+      {
+        "status": "convicted",
+        "date": "2003-08-20",
+        "note": "A District Court jury found both guilty; each was sentenced to three years' imprisonment."
+      },
+      {
+        "status": "overturned_appealed",
+        "date": "2003-11-06",
+        "note": "The Court of Appeal quashed the convictions, set aside the sentences and directed that verdicts of acquittal be entered."
+      },
+      {
+        "status": "overturned_appealed",
+        "date": "2004-01-01",
+        "note": "January 2004: the Crime and Misconduct Commission found no misconduct or impropriety in the litigation or the police investigation, and no evidence of political pressure."
+      }
+    ],
+    "primarySourceIds": [
+      "src_queenslandjudgments-com-au-caselaw-qca-2003-488-ba53cd",
+      "src_documents-parliament-qld-gov-au-tp-2004-5104t2-pdf-510c6d"
+    ],
+    "independentSourceIds": [
+      "src_abc-net-au-news-2003-11-06-hanson-thanks-supporters-after-jail-release-f6ef15"
+    ],
+    "responseId": "rsp_int_pauline-hanson-1998-1",
+    "outcome": "Convictions quashed; verdicts of acquittal entered (Queensland Court of Appeal, 6 November 2003). No conviction stands. The Crime and Misconduct Commission (January 2004) found that 'no misconduct or other impropriety has been shown to have been associated with the conduct of the litigation concerning Ms Hanson and Mr Ettridge, or with the police investigations leading to the prosecution'.",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "Supreme Court of Queensland; Queensland Police Service; Queensland Director of Public Prosecutions; District Court of Queensland; Queensland Court of Appeal; Crime and Misconduct Commission (Queensland)",
+    "description": "In October 1997 Ms Hanson applied to register Pauline Hanson's One Nation as a Queensland political party on the basis that it had more than 500 members. After a civil challenge, the Supreme Court of Queensland set the registration aside in August 1999, finding the Electoral Commissioner's decision had been induced by fraud or misrepresentation. Following a police investigation, Ms Hanson and David Ettridge were charged in July 2001 with dishonestly inducing the registration, and Ms Hanson was also charged with dishonestly obtaining electoral reimbursements. A District Court jury convicted both on 20 August 2003 and each was sentenced to three years' imprisonment. On 6 November 2003 the Queensland Court of Appeal quashed the convictions, set aside the sentences and directed that verdicts of acquittal be entered. A Crime and Misconduct Commission inquiry requested by the Queensland Parliament found in January 2004 that no misconduct or impropriety was associated with the litigation or the police investigation."
+  },
+  {
+    "id": "int_pauline-hanson-2017-1",
+    "title": "Electoral Commission investigation into disclosure of the aircraft used in the party's 2016 campaign (party-level matter)",
+    "politicianId": "pol_hanson-pauline",
+    "date": "2017-04-03",
+    "status": "no_finding",
+    "statusHistory": [
+      {
+        "status": "allegation",
+        "date": "2017-04-03",
+        "note": "Four Corners aired allegations about the aircraft; the matter was referred to the AEC."
+      },
+      {
+        "status": "formal_investigation",
+        "date": "2017-05-26",
+        "note": "The Electoral Commissioner told Senate estimates the AEC had moved to compulsory notices."
+      },
+      {
+        "status": "no_finding",
+        "date": "2018-11-16",
+        "note": "AEC report concluded disclosure had been achieved through the returns lodged and closed the matter."
+      }
+    ],
+    "primarySourceIds": [
+      "src_aec-gov-au-parties-and-representatives-compliance-files-investigation--5f5651",
+      "src_aec-gov-au-parties-and-representatives-compliance-investigations-htm-918cd3"
+    ],
+    "independentSourceIds": [
+      "src_abc-net-au-news-2017-05-26-electoral-commission-investigates-one-natio-4c5359"
+    ],
+    "responseId": "rsp_int_pauline-hanson-2017-1",
+    "outcome": "AEC investigation report, 16 November 2018: 'As disclosure in relation to the plane has been achieved, the matter is considered closed.' No finding was made against Senator Hanson.",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "Australian Electoral Commission",
+    "description": "After an ABC Four Corners program on 3 April 2017 raised questions about the provision of an aircraft used by Pauline Hanson's One Nation during the 2016 campaign, the Australian Electoral Commission examined whether the disclosures required under Part XX of the Commonwealth Electoral Act 1918 had been made. The AEC issued 15 compulsory notices and sought advice from the Commonwealth Director of Public Prosecutions. During the investigation the party amended its 2015–16 return to disclose a $30,500 gift in kind, and other parties lodged donor returns. In its report of 16 November 2018 the AEC concluded that the returns and amended returns lodged provided the relevant disclosure and closed the matter. The report makes no finding about Senator Hanson personally; it is recorded here because she led the party concerned."
+  },
+  {
+    "id": "int_pauline-hanson-2021-1",
+    "title": "Electoral Commission review of the party's 2019 election funding claim: overpayment and enforceable undertaking given as party agent",
+    "politicianId": "pol_hanson-pauline",
+    "date": "2021-03-04",
+    "status": "official_finding",
+    "statusHistory": [
+      {
+        "status": "official_finding",
+        "date": "2021-03-04",
+        "note": "The Electoral Commissioner determined the party's entitlement after finding $165,442.03 had been overpaid on unsubstantiated items."
+      },
+      {
+        "status": "official_finding",
+        "date": "2021-06-15",
+        "note": "The Electoral Commissioner accepted an enforceable undertaking from Senator Hanson as party agent in respect of the record-keeping provision, section 317(1) of the Commonwealth Electoral Act."
+      }
+    ],
+    "primarySourceIds": [
+      "src_aec-gov-au-parties-and-representatives-financial-disclosure-transparen-bfab7f",
+      "src_aec-gov-au-parties-and-representatives-financial-disclosure-transparen-925709"
+    ],
+    "independentSourceIds": [],
+    "outcome": "Entitlement varied to $2,675,324.42 after an overpayment of $165,442.03 was identified; enforceable undertaking accepted on 15 June 2021. No civil penalty proceedings are recorded.",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "Australian Electoral Commission",
+    "description": "As registered agent for Pauline Hanson's One Nation, Senator Hanson lodged the party's final election funding claim for the 2019 federal election. On review, the AEC found the claim deficient because a number of expenditure items could not be substantiated, being either not electoral expenditure or expenditure that had not been incurred, resulting in an overpayment of $165,442.03. On 4 March 2021 the Electoral Commissioner varied the party's entitlement to $2,675,324.42. Senator Hanson then gave a written undertaking, accepted by the Electoral Commissioner on 15 June 2021 under the Regulatory Powers (Standard Provisions) Act 2014, that future claims would specify all electoral expenditure with invoices matched to evidence of payment. The undertaking was given in her capacity as party agent."
+  },
+  {
+    "id": "int_pauline-hanson-2024-1",
+    "title": "Federal Court finding that a September 2022 post to Senator Mehreen Faruqi contravened section 18C of the Racial Discrimination Act; appeal dismissed",
+    "politicianId": "pol_hanson-pauline",
+    "date": "2024-11-01",
+    "status": "official_finding",
+    "statusHistory": [
+      {
+        "status": "official_finding",
+        "date": "2024-11-01",
+        "note": "Justice Stewart found the post unlawful under section 18C and ordered its deletion and costs. Senator Hanson announced an appeal."
+      },
+      {
+        "status": "official_finding",
+        "date": "2026-07-27",
+        "note": "The Full Court dismissed the appeal; costs reserved. Senator Hanson said she would consider seeking leave to appeal to the High Court."
+      }
+    ],
+    "primarySourceIds": [
+      "src_judgments-fedcourt-gov-au-judgments-judgments-fca-single-2024-2024fca1-e62682",
+      "src_fedcourt-gov-au-services-access-to-files-and-transcripts-online-files--2aa016"
+    ],
+    "independentSourceIds": [
+      "src_abc-net-au-news-2024-11-01-pauline-hanson-mehreen-faruqi-racial-tweet--565159",
+      "src_abc-net-au-news-2026-07-27-nsw-pauline-hanson-appeal-mehreen-faruqi-ju-4e4d95"
+    ],
+    "responseId": "rsp_int_pauline-hanson-2024-1",
+    "outcome": "Appeal dismissed on 27 July 2026; the first-instance orders stand. No High Court application had been located as at 1 October 2026.",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "Federal Court of Australia; Full Court of the Federal Court of Australia",
+    "description": "After Senator Faruqi posted about the death of Queen Elizabeth II in September 2022, Senator Hanson replied on X telling her to 'piss off back to Pakistan', and Senator Faruqi brought proceedings under the Racial Discrimination Act 1975. On 1 November 2024 Justice Stewart found the post was reasonably likely to offend, insult, humiliate or intimidate on the basis of race, colour or national or ethnic origin, and ordered it deleted within seven days with costs. On 27 July 2026 the Full Court dismissed Senator Hanson's appeal, holding that none of the grounds was established and rejecting her argument that section 18C impermissibly burdens political communication."
+  },
+  {
+    "id": "int_pauline-hanson-2025-1",
+    "title": "Senate censure and seven-sitting-day suspension after wearing a burqa in the chamber",
+    "politicianId": "pol_hanson-pauline",
+    "date": "2025-11-24",
+    "status": "official_finding",
+    "statusHistory": [
+      {
+        "status": "official_finding",
+        "date": "2025-11-24",
+        "note": "Suspended for the remainder of the day's sitting."
+      },
+      {
+        "status": "official_finding",
+        "date": "2025-11-25",
+        "note": "Censured by resolution of the Senate and suspended for seven consecutive sitting days."
+      }
+    ],
+    "primarySourceIds": [
+      "src_parlinfo-aph-gov-au-parlinfo-download-chamber-journals-479c3311-d7fa-4-56e8e1"
+    ],
+    "independentSourceIds": [
+      "src_abc-net-au-news-2025-11-25-federal-politics-live-nov-25-106047174-a6933d",
+      "src_pbs-org-newshour-world-far-right-australian-senator-suspended-from-par-0f361f"
+    ],
+    "responseId": "rsp_int_pauline-hanson-2025-1",
+    "outcome": "Censured by the Senate and suspended for seven consecutive sitting days (25 November 2025).",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "Senate, Parliament of Australia",
+    "description": "On 24 November 2025, after the Senate declined to allow her to introduce a bill to ban full-face coverings, Senator Hanson entered the chamber wearing a burqa. Proceedings were halted and she was suspended for the rest of the day when she declined to remove it. On 25 November 2025 the Senate agreed to a censure motion moved by the Leader of the Government in the Senate, Senator Penny Wong, and suspended Senator Hanson for seven consecutive sitting days, a penalty that carried into the February 2026 sittings."
+  },
+  {
+    "id": "int_pauline-hanson-2026-1",
+    "title": "Australian Federal Police assessment of complaints about televised comments about Muslims: no offence threshold met",
+    "politicianId": "pol_hanson-pauline",
+    "date": "2026-02-01",
+    "status": "cleared",
+    "statusHistory": [
+      {
+        "status": "allegation",
+        "date": "2026-02-01",
+        "note": "February 2026: the AFP received complaints after the interview."
+      },
+      {
+        "status": "cleared",
+        "date": "2026-07-31",
+        "note": "The AFP said the comments did not meet the threshold for relevant offences and finalised the matter."
+      }
+    ],
+    "primarySourceIds": [],
+    "independentSourceIds": [
+      "src_sbs-com-au-news-article-pauline-hanson-afp-probe-no-good-muslims-comme-596447"
+    ],
+    "responseId": "rsp_int_pauline-hanson-2026-1",
+    "outcome": "AFP statement: 'The AFP has determined the comments do not meet the threshold for relevant offences, including within the Combatting Antisemitism, Hate and Extremism (Criminal and Migration Laws) Act 2026. The AFP has finalised this matter.'",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "Australian Federal Police",
+    "description": "After a February 2026 Sky News interview in which Senator Hanson questioned whether there were 'good Muslims' and made remarks about the Sydney suburb of Lakemba, the Australian Federal Police received several complaints. In a statement reported on 31 July 2026, the AFP said it had assessed the comments against relevant offences, including under the Combatting Antisemitism, Hate and Extremism (Criminal and Migration Laws) Act 2026, determined they did not meet the threshold for those offences, and finalised the matter."
+  },
+  {
+    "id": "int_malcolm-roberts-2017-1",
+    "title": "High Court ruling that the 2016 election was void under section 44(i) of the Constitution",
+    "politicianId": "pol_roberts-malcolm",
+    "date": "2017-08-09",
+    "status": "official_finding",
+    "statusHistory": [
+      {
+        "status": "referral",
+        "date": "2017-08-09",
+        "note": "The Senate referred questions about his eligibility to the Court of Disputed Returns."
+      },
+      {
+        "status": "official_finding",
+        "date": "2017-09-22",
+        "note": "Justice Keane's findings of fact on citizenship and renunciation."
+      },
+      {
+        "status": "official_finding",
+        "date": "2017-10-27",
+        "note": "The Full Court unanimously held he was ineligible to be elected and ordered a special count."
+      },
+      {
+        "status": "official_finding",
+        "date": "2019-06-24",
+        "note": "High Court order to pay $6,000 plus costs under the Common Informers (Parliamentary Disqualifications) Act, as reported by ABC News."
+      }
+    ],
+    "primarySourceIds": [
+      "src_austlii-edu-au-au-cases-cth-hca-2017-39-html-dac35b",
+      "src_austlii-edu-au-au-cases-cth-hca-2017-45-html-6ab2d2",
+      "src_aph-gov-au-senators-and-members-parliamentarian-6a0a18"
+    ],
+    "independentSourceIds": [
+      "src_abc-net-au-news-2017-10-27-citizenship-seven-rulings-winners-and-loser-5ea577",
+      "src_theconversation-com-hanson-set-to-refer-malcolm-roberts-to-the-high-co-e8f747",
+      "src_abc-net-au-news-2019-07-16-malcom-roberts-ordered-by-high-court-to-pay-7cb214"
+    ],
+    "responseId": "rsp_int_malcolm-roberts-2017-1",
+    "outcome": "Parliament of Australia record: 'Election ruled void 27.10.2017 under section 44 (i) of the Constitution; ruled ineligible from 2.7.2016.' The vacancy was filled by special count. Senator Roberts was elected again in 2019 and re-elected in 2025.",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "High Court of Australia sitting as the Court of Disputed Returns",
+    "description": "On 9 August 2017 the Senate referred questions about Senator Roberts's eligibility to the Court of Disputed Returns after reports that he held British citizenship by descent when he nominated for the 2016 election. On 22 September 2017 Justice Keane found that Senator Roberts was a British citizen at nomination, knew there was at least a real and substantial prospect that he was, and had not taken effective steps to renounce it before nominating; his renunciation took effect on 5 December 2016. On 27 October 2017 the Full Court unanimously held that he had been ineligible to be elected and ordered a special count, under which Fraser Anning was declared elected. In June 2019 the High Court ordered Senator Roberts to pay $6,000 plus costs in an action under the Common Informers (Parliamentary Disqualifications) Act 1975 for the sitting days on which he sat while ineligible. He was elected to the Senate again in 2019."
   }
 ]
