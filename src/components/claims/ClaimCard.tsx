@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { ClaimDetail, ClaimListItem } from "@/lib/data/repository";
-import { formatDate, truncate } from "@/lib/format";
+import { formatDate, formatDateWithPrecision, truncate } from "@/lib/format";
 import { EvidenceBadge, CorrectionBadge } from "@/components/ui/StatusBadge";
 import { PartyTag } from "@/components/ui/PartyTag";
 import { DemoBadge } from "@/components/ui/DemoBadge";
@@ -47,7 +47,7 @@ export function ClaimCard({
             <span className="mx-1.5 text-ink-faint">·</span>
           </>
         )}
-        <span>{formatDate(claim.date)}</span>
+        <span>{formatDateWithPrecision(claim.date, claim.datePrecision)}</span>
         <span className="mx-1.5 text-ink-faint">·</span>
         <span>{claim.context}</span>
       </p>

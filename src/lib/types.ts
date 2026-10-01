@@ -188,6 +188,8 @@ export interface Claim extends Timestamps {
   /** Short neutral restatement used in lists and search. */
   summary: string;
   date: ISODate;
+  /** How precisely the statement is dated. "month"/"year" dates are shown as e.g. "December 2024". */
+  datePrecision?: "day" | "month" | "year";
   /** e.g. "Press conference, Canberra" / "House of Representatives, Question Time". */
   context: string;
   /** Issue/topic IDs (see Issue). */

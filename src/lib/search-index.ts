@@ -6,7 +6,7 @@
  */
 import type { PublicRecordRepository } from "./data/repository";
 import { CONDUCT_STATUS, EVIDENCE_STATUS, INTEGRITY_STATUS, type Tone } from "./labels";
-import { formatDate, truncate } from "./format";
+import { formatDate, formatDateWithPrecision, truncate } from "./format";
 
 export type SearchDocType = "politician" | "claim" | "integrity" | "conduct" | "issue";
 
@@ -78,7 +78,7 @@ export async function buildSearchIndex(repo: PublicRecordRepository): Promise<Se
       party: { name: c.party.name, shortName: c.party.shortName, colour: c.party.accentColour },
       politician: { name: c.politician.fullName, slug: c.politician.slug },
       date: c.claim.date,
-      dateLabel: formatDate(c.claim.date),
+      dateLabel: formatDateWithPrecision(c.claim.date, c.claim.datePrecision),
       tags: c.issues.map((i) => i.name),
       demo: c.claim.isDemonstration,
       text: lower([c.claim.quote, c.claim.summary, c.claim.context, c.claim.date, formatDate(c.claim.date), c.assessment.findings, c.assessment.context, c.politician.fullName, c.party.name, c.party.shortName, ...c.issues.map((i) => `${i.name} ${i.keywords.join(" ")}`)]),

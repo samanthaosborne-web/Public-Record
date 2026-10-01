@@ -1,6 +1,6 @@
 import type { ClaimDetail } from "@/lib/data/repository";
 import { EVIDENCE_STATUS } from "@/lib/labels";
-import { formatDate } from "@/lib/format";
+import { formatDate, formatDateWithPrecision } from "@/lib/format";
 import { SourceList } from "@/components/sources/SourceList";
 import { SourceLink } from "@/components/ui/SourceLink";
 import { EvidenceBadge, CorrectionBadge } from "@/components/ui/StatusBadge";
@@ -43,7 +43,7 @@ export function EvidencePanel({ detail, defaultOpen = false, id }: { detail: Cla
         <Section title="Original statement">
           <blockquote className="font-serif text-lg leading-snug text-ink">“{claim.quote}”</blockquote>
           <p className="mt-2 text-xs text-ink-muted">
-            {formatDate(claim.date)} · {claim.context}
+            {formatDateWithPrecision(claim.date, claim.datePrecision)} · {claim.context}
           </p>
         </Section>
 

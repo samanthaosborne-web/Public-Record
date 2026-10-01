@@ -114,6 +114,7 @@ create table claims (
   quote                 text not null,
   summary               text not null,
   date                  date not null,
+  date_precision        text not null default 'day' check (date_precision in ('day','month','year')),
   context               text not null,
   issue_ids             text[] not null default '{}',     -- denormalised for the adapter; see claim_issues
   original_source_id    text not null references sources(id),

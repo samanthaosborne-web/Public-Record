@@ -1,0 +1,217 @@
+[
+  {
+    "politicianSlug": "pauline-hanson",
+    "quote": "The Albanese Labor Government's poor management of immigration, energy policy, and the economy has left Australians suffering through the worst per-capita recession in our nation's history.",
+    "summary": "Australia is in the worst per-capita recession in its history.",
+    "statementDate": "2024-12-01",
+    "datePrecision": "month",
+    "statementContext": "Post on Facebook (December 2024; exact date not stated in the fact-check)",
+    "originalSource": { "title": "Archived copy of the Facebook post", "publisher": "Pauline Hanson (Facebook), archived by AAP FactCheck", "url": "https://mvau.lt/media/1d7a7c42-50ab-4f33-ad85-a6ad300953a0", "tier": 3, "kind": "other" },
+    "factCheck": { "publisher": "AAP FactCheck", "title": "Pauline Hanson's 'worst' per capita recession claim is mostly false", "url": "https://www.aap.com.au/factcheck/pauline-hansons-worst-per-capita-recession-claim-is-mostly-false/", "publishedAt": "2025-01-08", "verdictAsPublished": "Mostly false" },
+    "status": "mixed",
+    "findings": "ABS national accounts to the September quarter 2024 recorded seven consecutive quarterly falls in GDP per capita, the longest run in the series that begins in 1973, with a cumulative fall of about 2.1 per cent since December 2022. Measured by depth, larger per-capita falls occurred in the June quarter 2020 (6.9 per cent), in 1981–83 (6.2 per cent) and in 1990–91 (3 per cent), and economic historians cited falls of around 20 per cent in 1929–31 and 17 per cent in the 1890s. The claim holds for the number of consecutive quarters but not for the size of the fall.",
+    "context": "'Worst' can be measured by duration or by depth. Senator Hanson's spokesperson told AAP FactCheck she was referring to the number of consecutive quarters of negative per-capita growth. AAP FactCheck rated the claim 'mostly false'; PUBLIC RECORD classifies it as mixed because it is accurate on one measure and inaccurate on the other.",
+    "primarySources": [
+      { "title": "Australian National Accounts: National Income, Expenditure and Product, September 2024", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/economy/national-accounts/australian-national-accounts-national-income-expenditure-and-product/latest-release", "whatItShows": "GDP per capita fell 0.3 per cent in the quarter and 1.5 per cent over the year: seven consecutive quarterly declines." },
+      { "title": "Labour Force, Australia, November 2024", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/nov-2024/6202001.xlsx", "whatItShows": "Unemployment of 4 per cent in November 2024, against peaks of 11.1 per cent in 1992 and 10.4 per cent in 1983." },
+      { "title": "Research Discussion Paper 2001-07: The 1890s depression", "publisher": "Reserve Bank of Australia", "url": "https://www.rba.gov.au/publications/rdp/2001/2001-07/1890s-depression.html", "whatItShows": "Real GDP fell about 17 per cent in the 1890s depression." }
+    ],
+    "politicianResponse": { "kind": "clarification", "summary": "A spokesperson told AAP FactCheck that Senator Hanson was referring to the number of consecutive quarters of negative per-capita GDP growth, citing a news.com.au graph and an Australian Institute of Company Directors article describing the run as the longest on record.", "date": "2025-01-08" },
+    "correction": { "status": "clarified", "date": "2025-01-08", "description": "Through a spokesperson, Senator Hanson clarified that the statement referred to the number of consecutive quarters of falling per-capita GDP rather than the depth of the fall. The original post was not amended as far as PUBLIC RECORD has located." },
+    "repeated": [],
+    "topics": ["economy"]
+  },
+  {
+    "politicianSlug": "pauline-hanson",
+    "quote": "Labor has been bringing more than 1375 people per day for the past three years",
+    "summary": "Net migration under Labor has exceeded 1,375 people a day for three years.",
+    "statementDate": "2026-06-17",
+    "statementContext": "Speech, National Press Club, Canberra",
+    "originalSource": { "title": "National Press Club address, 17 June 2026 (video, from 10:18)", "publisher": "National Press Club of Australia (YouTube)", "url": "https://youtu.be/wkZ9Q3kOgR8?t=618", "tier": 1, "kind": "transcript", "publishedAt": "2026-06-17" },
+    "factCheck": { "publisher": "AAP FactCheck", "title": "Pauline Hanson wrong on daily migration figure", "url": "https://www.aap.com.au/factcheck/pauline-hanson-wrong-on-daily-migration-figure/", "publishedAt": "2026-06-19", "verdictAsPublished": "False" },
+    "status": "contradicted",
+    "findings": "ABS net overseas migration data to September 2025 gave 1.23 million net migrants over the preceding three years, an average of about 1,122 a day. The 1,375 figure corresponds to total population growth per day in an analysis published by The Australian, which includes natural increase (births minus deaths); that analysis put daily net migration at 1,091. Later ABS data to December 2025 put the three-year average at about 1,060 a day.",
+    "context": "Population growth and net overseas migration are different measures. The same figure appeared in a 2GB interview on 16 June 2026 and in a One Nation Instagram graphic on 9 June 2026 that itself distinguished the 1,375 population figure from 1,091 for net migration.",
+    "primarySources": [
+      { "title": "National, state and territory population, September 2025", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/sep-2025", "whatItShows": "Net overseas migration data available when the statement was made: about 1,122 a day over three years." },
+      { "title": "National, state and territory population, December 2025", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/latest-release", "whatItShows": "Net overseas migration averaged 825 a day in 2025 and about 1,060 a day over three years." },
+      { "title": "Natural increase", "publisher": "Centre for Population, Australian Government", "url": "https://population.gov.au/population-topics/topic-natural-increase", "whatItShows": "Natural increase is births minus deaths, a component of population growth distinct from migration." }
+    ],
+    "politicianResponse": { "kind": "no_response_located", "summary": "AAP FactCheck asked the senator's office for evidence and did not receive a response.", "date": "2026-06-19" },
+    "correction": { "status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026." },
+    "repeated": [],
+    "topics": ["immigration"]
+  },
+  {
+    "politicianSlug": "pauline-hanson",
+    "quote": "Did you know in South Australia, I don't know if you know, they're allowing foreign students in the country or people on a visa here for three months to actually vote in your council elections ... So you've got people here on your councils who are not even Australian citizens, as the mayors, and positions on councils",
+    "summary": "South Australia lets short-term visa holders vote in council elections and non-citizens sit on councils as mayors and councillors.",
+    "statementDate": "2026-01-01",
+    "datePrecision": "month",
+    "statementContext": "Podcast interview published on YouTube (late January 2026; exact date not stated in the fact-check)",
+    "originalSource": { "title": "Podcast interview (video, from 1:23:16)", "publisher": "Podcast published on YouTube", "url": "https://www.youtube.com/watch?v=Kp2haz301Xs&t=4996s", "tier": 3, "kind": "other" },
+    "factCheck": { "publisher": "AAP FactCheck", "title": "Hanson's claim about non-citizens on local councils is wrong", "url": "https://www.aap.com.au/factcheck/hansons-claim-about-non-citizens-on-local-councils-is-wrong/", "publishedAt": "2026-03-16", "verdictAsPublished": "False" },
+    "status": "contradicted",
+    "findings": "Section 17 of South Australia's Local Government (Elections) Act 1999 requires council candidates to be Australian citizens enrolled to vote, and a provision that had allowed certain non-citizen former councillors to stand was removed in 2021. Non-citizen residents and ratepayers could previously enrol to vote in council elections, but an amendment effective 1 January 2026 restricted voting to citizens and a legacy group of British subjects enrolled before 26 January 1984. The SA Electoral Commissioner confirmed this to AAP FactCheck.",
+    "context": "Two by-elections called before the 1 January 2026 change were held in February 2026 under the old voting rules. Senator Hanson's office referred AAP FactCheck to an Electoral Commission of South Australia page for the 2022 elections describing non-citizen enrolment to vote; that page did not say non-citizens could stand as candidates.",
+    "primarySources": [
+      { "title": "Local Government (Elections) Act 1999 (SA), section 17", "publisher": "South Australian legislation via AustLII", "url": "https://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/sa/consol_act/lga1999275/s17.html", "whatItShows": "All council candidates must be Australian citizens enrolled to vote." },
+      { "title": "Electoral Act 1985 (SA), section 29", "publisher": "South Australian legislation via AustLII", "url": "https://www6.austlii.edu.au/cgi-bin/viewdoc/au/legis/sa/consol_act/ea1985103/s29.html", "whatItShows": "State enrolment requires Australian citizenship or membership of the narrow British-subjects group enrolled before 26 January 1984." },
+      { "title": "Statutes Amendment (Local Government Elections Review) Bill 2025", "publisher": "South Australian legislation", "url": "https://www.legislation.sa.gov.au/lz?path=/b/current/statutes%20amendment%20(local%20government%20elections%20review)%20bill%202025", "whatItShows": "Restricts council voting eligibility to citizens and the British-subjects group from 1 January 2026." },
+      { "title": "Non-Australian citizen enrolment, 2022 council elections (archived page)", "publisher": "Electoral Commission of South Australia", "url": "https://web.archive.org/web/20250504184956/https://www.councilelections.sa.gov.au/enrol/non-australian-citizen", "whatItShows": "Non-citizens aged 18 and over could enrol to vote in the 2022 council elections; the page does not say they could stand as candidates." }
+    ],
+    "politicianResponse": { "kind": "defence", "summary": "Senator Hanson's spokesperson provided AAP FactCheck with a link to Electoral Commission of South Australia information for the 2022 local government elections stating that non-citizens aged 18 and over were eligible to enrol to vote.", "date": "2026-03-16" },
+    "correction": { "status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026." },
+    "repeated": [],
+    "topics": ["immigration"]
+  },
+  {
+    "politicianSlug": "pauline-hanson",
+    "quote": "Of that 51,605, only 1800 were in the construction industry",
+    "summary": "Only 1,800 of 51,605 skilled migrants were in the construction industry.",
+    "statementDate": "2026-07-28",
+    "statementContext": "Video posted on Instagram, in which she said 739,000 people were brought in between 2022 and 2023 and only 51,605 were skilled",
+    "originalSource": { "title": "Instagram video, 28 July 2026", "publisher": "Pauline Hanson (Instagram)", "url": "https://www.instagram.com/reels/DbWogr2zpYc/", "tier": 3, "kind": "other", "publishedAt": "2026-07-28" },
+    "factCheck": { "publisher": "AAP FactCheck", "title": "Pauline Hanson muddles data in misleading migration claim", "url": "https://www.aap.com.au/factcheck/pauline-hanson-muddles-data-in-misleading-migration-claim/", "publishedAt": "2026-09-15", "verdictAsPublished": "Misleading" },
+    "status": "mixed",
+    "findings": "The figures come from three datasets that do not measure the same thing. ABS data record about 737,000 overseas arrivals in 2022–23, including returning Australians, of whom 83,700 held skilled visas. The 51,605 figure is the number of temporary skilled visas granted to primary applicants that year, not arrivals, and a further 68,922 permanent skilled visas were granted. The Department of Home Affairs told AAP FactCheck that 10,589 temporary and permanent visas were granted to construction-industry occupations in 2022–23; the 1,800 figure is close to the 1,626 permanent and 1,967 temporary visas granted on a narrower list of core construction trades.",
+    "context": "Whether 'construction industry' means all construction occupations or a short list of trades changes the figure by a factor of about six. Similar comments were made in an SBS interview in May 2026 and a News24 interview on 6 August 2026.",
+    "primarySources": [
+      { "title": "Overseas Migration, 2022-23 financial year", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/people/population/overseas-migration/2022-23-financial-year", "whatItShows": "737,000 arrivals in 2022–23, of which 83,700 were skilled-visa arrivals." },
+      { "title": "Migration Trends 2022-23", "publisher": "Department of Home Affairs", "url": "https://www.homeaffairs.gov.au/research-and-stats/files/migration-trends-2022-23.PDF", "whatItShows": "51,605 temporary skilled visas and 68,922 permanent skilled visas granted to primary applicants in 2022–23." },
+      { "title": "Answer to Senate estimates question on notice no. 499, October 2025", "publisher": "Department of Home Affairs via Parliament of Australia", "url": "https://www.aph.gov.au/api/qon/downloadestimatesquestions/EstimatesQuestion-CommitteeId6-EstimatesRoundId28-PortfolioId20-QuestionNumber499", "whatItShows": "1,428 permanent visas for selected construction trades in 2023–24, but 11,349 visas across all construction-industry occupations." },
+      { "title": "Permanent Migration Program: skilled and family (dataset)", "publisher": "Department of Home Affairs via data.gov.au", "url": "https://data.gov.au/data/dataset/permanent-migration-program-skilled-family/resource/832fe752-f672-4ce7-a5bc-bada2270496c", "whatItShows": "1,626 permanent and 1,967 temporary skilled visas on the narrow trades list in 2022–23; 10,589 using the department's construction-industry classification." }
+    ],
+    "politicianResponse": { "kind": "no_response_located", "summary": "Senator Hanson's office did not respond when AAP FactCheck asked about the basis of the figures.", "date": "2026-09-15" },
+    "correction": { "status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026." },
+    "repeated": [
+      { "date": "2026-08-06", "context": "News24 interview, similar comments (per AAP FactCheck)" }
+    ],
+    "topics": ["immigration", "housing"]
+  },
+  {
+    "politicianSlug": "pauline-hanson",
+    "quote": "around 130,000 Australians are sleeping rough every night",
+    "summary": "About 130,000 Australians sleep rough every night.",
+    "statementDate": "2026-06-17",
+    "statementContext": "Speech, National Press Club, Canberra",
+    "originalSource": { "title": "National Press Club address, 17 June 2026 (video, from 14:22)", "publisher": "National Press Club of Australia (YouTube)", "url": "https://youtu.be/N17G0Mw43YA?t=862", "tier": 1, "kind": "transcript", "publishedAt": "2026-06-17" },
+    "factCheck": { "publisher": "AAP FactCheck", "title": "What Pauline Hanson got wrong in Press Club speech", "url": "https://www.aap.com.au/factcheck/what-pauline-hanson-got-wrong-in-press-club-speech/", "publishedAt": "2026-06-25", "verdictAsPublished": "Misleading (in-text assessment in a multi-claim article)" },
+    "status": "mixed",
+    "findings": "The ABS 2021 Census estimated 122,494 people were homeless on census night, a figure close to the one used. Of those, 7,636 (6 per cent) were in the 'improvised dwellings, tents or sleeping out' category the ABS treats as sleeping rough; the largest group, 47,895 (39 per cent), were living in severely crowded dwellings. The number is approximately right for homelessness under the ABS definition and about 17 times the ABS figure for people sleeping rough.",
+    "context": "The ABS definition of homelessness is broader than 'rooflessness' and includes severely crowded dwellings, supported accommodation, boarding houses and staying temporarily with other households.",
+    "primarySources": [
+      { "title": "Estimating Homelessness: Census, 2021", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/people/housing/estimating-homelessness-census/latest-release", "whatItShows": "122,494 people homeless on census night 2021; 7,636 in improvised dwellings, tents or sleeping out; 47,895 in severely crowded dwellings." }
+    ],
+    "politicianResponse": { "kind": "no_response_located", "summary": "Senator Hanson's office was asked for evidence for each of the assessed claims and did not respond.", "date": "2026-06-25" },
+    "correction": { "status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026." },
+    "repeated": [],
+    "topics": ["housing"]
+  },
+  {
+    "politicianSlug": "pauline-hanson",
+    "quote": "The largest capital gains cohort is younger",
+    "summary": "People under 35 are the largest group reporting capital gains and would be most affected by the proposed CGT changes.",
+    "statementDate": "2026-06-17",
+    "statementContext": "Speech, National Press Club, Canberra (after citing figures on 18 to 34-year-olds reporting capital gains)",
+    "originalSource": { "title": "National Press Club address, 17 June 2026 (video, from 32:14)", "publisher": "National Press Club of Australia (YouTube)", "url": "https://youtu.be/N17G0Mw43YA?t=1934", "tier": 1, "kind": "transcript", "publishedAt": "2026-06-17" },
+    "factCheck": { "publisher": "AAP FactCheck", "title": "What Pauline Hanson got wrong in Press Club speech", "url": "https://www.aap.com.au/factcheck/what-pauline-hanson-got-wrong-in-press-club-speech/", "publishedAt": "2026-06-25", "verdictAsPublished": "False (in-text assessment in a multi-claim article)" },
+    "status": "contradicted",
+    "findings": "ATO taxation statistics for 2022–23 record 216,942 people under 35 reporting a net capital gain, compared with 286,870 aged 35 to 49 and 717,658 aged over 35 in total; the largest five-year age bracket was 35 to 39. In 2023–24, 18 to 34-year-olds reported $1.94 billion in net capital gains against $9.78 billion for 35 to 49-year-olds, and 5.2 per cent of 18 to 34-year-old tax filers reported a gain compared with 15.4 per cent of those over 65.",
+    "context": "The figures in the speech match an article in The Australian that described under-35s as the largest growth cohort over ten years, not the largest cohort. Economist Saul Eslake told AAP FactCheck older age groups would be most affected by the proposed changes.",
+    "primarySources": [
+      { "title": "Taxation statistics 2022-23, Table 3A", "publisher": "Australian Taxation Office via data.gov.au", "url": "https://data.gov.au/data/dataset/taxation-statistics-2022-23/resource/a7f8226a-af03-431a-80f3-cdca85a9d63e", "whatItShows": "Net capital gains by age: 216,942 under 35 versus 717,658 over 35." },
+      { "title": "Taxation statistics 2023-24, Table 3A", "publisher": "Australian Taxation Office via data.gov.au", "url": "https://data.gov.au/data/dataset/taxation-statistics-2023-24/resource/fa246a26-1317-443d-8f6e-6d7521453861", "whatItShows": "Largest five-year group reporting a net capital gain was 35 to 39; 18 to 34-year-olds reported $1.94 billion in gains versus $9.78 billion for 35 to 49-year-olds." },
+      { "title": "2026-27 Budget: capital gains tax changes", "publisher": "The Treasury", "url": "https://treasury.gov.au/publication/p2026-781365", "whatItShows": "Proposal to replace the 50 per cent CGT discount with a minimum 30 per cent rate on capital gains from 1 July 2027." }
+    ],
+    "politicianResponse": { "kind": "no_response_located", "summary": "Senator Hanson's office was asked for evidence for each of the assessed claims and did not respond.", "date": "2026-06-25" },
+    "correction": { "status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026." },
+    "repeated": [],
+    "topics": ["tax"]
+  },
+  {
+    "politicianSlug": "malcolm-roberts",
+    "quote": "Methane cycle, soil carbon sequestration and forest carbon sequestration absorbs all Australian agricultural emissions, meaning Australian agriculture contributes nothing to global emissions.",
+    "summary": "Australian agriculture contributes nothing to global emissions because natural cycles absorb all of its emissions.",
+    "statementDate": "2024-02-07",
+    "statementContext": "Senate, Question Time",
+    "originalSource": { "title": "Senate Question Time, 7 February 2024 (video, from 35:00)", "publisher": "Parliament of Australia (YouTube)", "url": "https://www.youtube.com/watch?v=hB-71EMfSoA", "tier": 1, "kind": "transcript", "publishedAt": "2024-02-07" },
+    "factCheck": { "publisher": "AAP FactCheck", "title": "Senator wrong with agriculture emissions claim", "url": "https://www.aap.com.au/factcheck/senator-wrong-with-agriculture-emissions-claim/", "publishedAt": "2024-03-04", "verdictAsPublished": "False" },
+    "status": "contradicted",
+    "findings": "The National Greenhouse Gas Inventory quarterly update to September 2023 attributes 17.9 per cent of Australia's emissions to agriculture, while the land use, land-use change and forestry sector offset 13.9 per cent of total emissions. Scientists from the CSIRO and the Global Carbon Project told AAP FactCheck that no single sector can count natural sinks as cancelling its own emissions.",
+    "context": "Atmospheric methane is more than 260 per cent above pre-industrial levels and the UN Environment Programme attributes about a quarter of current warming to it.",
+    "primarySources": [
+      { "title": "National Greenhouse Gas Inventory Quarterly Update: September 2023", "publisher": "Department of Climate Change, Energy, the Environment and Water", "url": "https://www.dcceew.gov.au/sites/default/files/documents/nggi-quarterly-update-sept-2023.pdf", "whatItShows": "Agriculture 17.9 per cent of national emissions in the year to September 2023; land sector offset 13.9 per cent." },
+      { "title": "Methane emissions factsheet", "publisher": "United Nations Environment Programme", "url": "https://www.unep.org/resources/factsheet/methane-emissions", "whatItShows": "About 25 per cent of current warming comes from methane." }
+    ],
+    "politicianResponse": { "kind": "defence", "summary": "A spokesperson for Senator Roberts referred AAP FactCheck to an article on the biogenic carbon cycle published by Australian Good Meat, a website operated by Meat and Livestock Australia.", "date": "2024-03-04" },
+    "correction": { "status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026." },
+    "repeated": [],
+    "topics": ["climate"]
+  },
+  {
+    "politicianSlug": "malcolm-roberts",
+    "quote": "...And this doesn't include the 2.7 million visa holders in Australia...",
+    "summary": "Australia's 27 million population figure does not include 2.7 million visa holders.",
+    "statementDate": "2024-01-30",
+    "statementContext": "Post on X, sharing an ABC News post about the population reaching 27 million",
+    "originalSource": { "title": "Post on X, 30 January 2024", "publisher": "Malcolm Roberts (X)", "url": "https://twitter.com/MRobertsQLD/status/1752134978396360761", "tier": 3, "kind": "other", "publishedAt": "2024-01-30" },
+    "factCheck": { "publisher": "AAP FactCheck", "title": "Pollie's population claim fails its visa check", "url": "https://www.aap.com.au/factcheck/pollies-population-claim-fails-its-visa-check/", "publishedAt": "2024-02-26", "verdictAsPublished": "False" },
+    "status": "contradicted",
+    "findings": "The ABS told AAP FactCheck that its estimated resident population, which underlies the population clock that passed 27 million on 24 January 2024, counts anyone in Australia for 12 of 16 months regardless of visa type. Most of the 2.76 million temporary visa holders recorded by the Department of Home Affairs at 31 December 2023, including 701,868 New Zealanders on Special Category visas and 547,075 student visa holders, are therefore already included; only the 601,051 visitor-visa holders would mostly be excluded.",
+    "context": "The ABS 12/16-month rule determines residency for population estimates independently of visa status.",
+    "primarySources": [
+      { "title": "Population clock and pyramid", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/people/population/population-clock-pyramid", "whatItShows": "The clock projects the estimated resident population; it passed 27 million on 24 January 2024." },
+      { "title": "Technical note: the 12/16 month rule for measuring overseas migration", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/AUSSTATS/abs@.nsf/Previousproducts/3412.0Technical%20Note12008-09?opendocument&tabname=Notes&prodno=3412.0&issue=2008-09", "whatItShows": "A person is counted in the resident population if in Australia for 12 months or more over a 16-month period, irrespective of visa." },
+      { "title": "Temporary entrants visa holders dataset, 31 December 2023", "publisher": "Department of Home Affairs via data.gov.au", "url": "https://data.gov.au/data/dataset/temporary-entrants-visa-holders/resource/54b2d02b-45bf-4c2d-a2bd-d9a9064f365c", "whatItShows": "2.76 million temporary visa holders, including 701,868 Special Category, 547,075 student and 601,051 visitor visa holders." }
+    ],
+    "politicianResponse": { "kind": "defence", "summary": "A representative for Senator Roberts directed AAP FactCheck to the ABS population clock and said it was the senator's understanding that temporary and visitor visa holders are not included. The ABS said this was incorrect.", "quote": "This is essentially a combination of natural population increase and net overseas migration (NOM)", "date": "2024-02-26" },
+    "correction": { "status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026." },
+    "repeated": [],
+    "topics": ["immigration", "housing"]
+  },
+  {
+    "politicianSlug": "malcolm-roberts",
+    "quote": "Scientific records show that bleaching has been a natural part of the Great Barrier Reef's cycles and other reef cycles for millennia ... That is fact.",
+    "summary": "Mass bleaching has been a natural part of Great Barrier Reef cycles for millennia.",
+    "statementDate": "2024-03-01",
+    "datePrecision": "month",
+    "statementContext": "Senate speech on a motion about the Great Barrier Reef (March 2024; published on the senator's website and as a video on X on 25 March 2024)",
+    "originalSource": { "title": "The Great Barrier Reef is not dying (speech text and video)", "publisher": "Senator Malcolm Roberts (website)", "url": "https://www.malcolmrobertsqld.com.au/the-great-barrier-reef-is-not-dying-2/", "tier": 1, "kind": "transcript" },
+    "factCheck": { "publisher": "AAP FactCheck", "title": "Experts say senator's reef bleaching claims are nonsense", "url": "https://www.aap.com.au/factcheck/experts-say-senators-reef-bleaching-claims-are-nonsense/", "publishedAt": "2024-04-19", "verdictAsPublished": "False" },
+    "status": "contradicted",
+    "findings": "Australian Institute of Marine Science records show mass bleaching on the reef was first documented with full-scale surveys in 1998, followed by 2002, 2016, 2017, 2020 and 2022, with the 2024 event the fifth in eight years. A University of Queensland coral scientist told AAP FactCheck that cores from corals hundreds of years old show no earlier mass bleaching events, and a co-author of the University of Sydney study cited in the speech said it examined reef growth over 20,000 to 30,000-year cycles and did not look at bleaching.",
+    "context": "The speech cited a University of Sydney study on reef growth cycles; its co-author told AAP FactCheck the study did not support the claim.",
+    "primarySources": [
+      { "title": "Coral bleaching events on the Great Barrier Reef", "publisher": "Australian Institute of Marine Science", "url": "https://www.aims.gov.au/research-topics/environmental-issues/coral-bleaching/coral-bleaching-events", "whatItShows": "Mass bleaching documented with full-scale surveys in 1998, 2002, 2016, 2017, 2020 and 2022." },
+      { "title": "University of Sydney reef-growth study cited in the speech", "publisher": "University of Sydney via ScienceDirect", "url": "https://www.sciencedirect.com/science/article/abs/pii/S0037073819302088", "whatItShows": "Per its co-author, the study assesses reef growth over 20,000 to 30,000-year cycles and does not examine bleaching." }
+    ],
+    "politicianResponse": { "kind": "no_response_located", "summary": "AAP FactCheck asked Senator Roberts for evidence and did not receive a response.", "date": "2024-04-19" },
+    "correction": { "status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026." },
+    "repeated": [
+      { "date": "2024-03-25", "context": "Post on X with the speech video", "source": { "title": "Post on X, 25 March 2024", "publisher": "Malcolm Roberts (X)", "url": "https://twitter.com/MRobertsQLD/status/1772139712230379566", "tier": 3, "kind": "other" } }
+    ],
+    "topics": ["climate"]
+  },
+  {
+    "politicianSlug": "david-farley",
+    "quote": "Forty per cent of the nation's food comes out of Farrer, so it's pretty important.",
+    "summary": "Forty per cent of Australia's food comes from the electorate of Farrer.",
+    "statementDate": "2026-08-23",
+    "statementContext": "Interview, ABC TV Insiders",
+    "originalSource": { "title": "Insiders, 23 August 2026 (video, from 27:45)", "publisher": "ABC News (YouTube)", "url": "https://youtu.be/UMBrZuy2NbM?t=1665", "tier": 2, "kind": "transcript", "publishedAt": "2026-08-23" },
+    "factCheck": { "publisher": "AAP FactCheck", "title": "One Nation MP muddles figures on food production", "url": "https://www.aap.com.au/factcheck/one-nation-mp-muddles-figures-on-food-production/", "publishedAt": "2026-08-28", "verdictAsPublished": "False" },
+    "status": "contradicted",
+    "findings": "Using ABS 2020–21 value-of-production data for the 48 statistical areas wholly or partly within Farrer, an analysis by Flinders University water economist Professor Sarah Wheeler for AAP FactCheck estimated the electorate's agricultural output at about $4.4 billion of a $71 billion national total, around 6 per cent. The 40 per cent figure matches the whole Murray-Darling Basin, which the Murray-Darling Basin Authority says produces around 40 per cent of Australia's agricultural output and which is roughly eight times the size of the electorate.",
+    "context": "In a Facebook video on 28 June 2026 Mr Farley applied the 40 per cent figure to the Southern Murray-Darling Basin, an area about four times larger than Farrer.",
+    "primarySources": [
+      { "title": "Value of Agricultural Commodities Produced, Australia, 2020-21", "publisher": "Australian Bureau of Statistics", "url": "https://www.abs.gov.au/statistics/industry/agriculture/value-agricultural-commodities-produced-australia/2020-21", "whatItShows": "Gross value of agricultural production by region; national total about $71 billion; Murray-Darling Basin about $30 billion." },
+      { "title": "The Basin", "publisher": "Murray-Darling Basin Authority", "url": "https://www.mdba.gov.au/basin", "whatItShows": "Around 40 per cent of Australia's agricultural produce comes from the Basin." },
+      { "title": "Profile of the electoral division of Farrer (NSW)", "publisher": "Australian Electoral Commission", "url": "https://www.aec.gov.au/profiles/nsw/farrer.htm", "whatItShows": "Farrer covers 126,563 square kilometres, about one-eighth of the Basin." }
+    ],
+    "politicianResponse": { "kind": "no_response_located", "summary": "Mr Farley did not respond when AAP FactCheck asked him to clarify the figures.", "date": "2026-08-28" },
+    "correction": { "status": "no_correction_located", "description": "No correction or clarification located as at 1 October 2026." },
+    "repeated": [],
+    "topics": ["economy", "infrastructure"]
+  }
+]

@@ -24,6 +24,8 @@ const NOW = `${RUN_DATE}T09:00:00+10:00`;
 const read = (f) => JSON.parse(fs.readFileSync(path.join(DATA, f), "utf8"));
 const write = (f, rows) => fs.writeFileSync(path.join(DATA, f), JSON.stringify(rows, null, 2) + "\n");
 const readInput = (f) => (fs.existsSync(path.join(dir, f)) ? JSON.parse(fs.readFileSync(path.join(dir, f), "utf8")) : null);
+/** Reads <stem>.json plus every <stem>-<party>.json in the research directory. */
+const readAll = (stem) => fs.readdirSync(dir).filter((f) => f === `${stem}.json` || (f.startsWith(`${stem}-`) && f.endsWith(".json"))).sort().map((f) => readInput(f));
 
 const db = {
   politicians: read("politicians.json"), sources: read("sources.json"), claims: read("claims.json"), assessments: read("claim-assessments.json"),
@@ -94,7 +96,7 @@ const addChange = (recordType, recordId, politicianId, summary, reason) => {
   upsert(db.changeLog, { id: `chg_${recordId}-created`, date: RUN_DATE, kind: "record_created", recordType, recordId, politicianId, summary, reason, createdAt: NOW, updatedAt: NOW });
 };
 
-const claimsIn = readInput("claims.json") ?? [];
+const claimsIn = readAll("claims").flat();
 const perPolDate = new Map();
 for (const c of claimsIn) {
   const pol = politicianBySlug.get(c.politicianSlug);
@@ -107,7 +109,7 @@ for (const c of claimsIn) {
   const status = c.status ?? mapVerdict(c.factCheck.verdictAsPublished);
   const originalSourceId = c.originalSource ? ensureSource(c.originalSource, "transcript") : ensureSource({ title: c.factCheck.title, publisher: c.factCheck.publisher, url: c.factCheck.url, publishedAt: c.factCheck.publishedAt, note: "Records the statement as quoted by the fact-checker." }, "fact_check");
   const issueIds = (c.topics ?? []).map((t) => issueBySlug.get(t)?.id).filter(Boolean);
-  upsert(db.claims, { id: claimId, politicianId: pol.id, quote: c.quote, summary: c.summary ?? c.quote, date: c.statementDate, context: c.statementContext, issueIds, originalSourceId, checkable: status !== "not_checkable", currentAssessmentId: asmId, isDemonstration: false, createdAt: NOW, updatedAt: NOW });
+  upsert(db.claims, { id: claimId, politicianId: pol.id, quote: c.quote, summary: c.summary ?? c.quote, date: c.statementDate, ...(c.datePrecision && c.datePrecision !== "day" ? { datePrecision: c.datePrecision } : {}), context: c.statementContext, issueIds, originalSourceId, checkable: status !== "not_checkable", currentAssessmentId: asmId, isDemonstration: false, createdAt: NOW, updatedAt: NOW });
   const asm = { id: asmId, claimId, version: 1, status, findings: c.findings, reviewedAt: RUN_DATE, reviewedBy: "ai_draft", createdAt: NOW, updatedAt: NOW };
   if (c.context) asm.context = c.context;
   upsert(db.assessments, asm);
@@ -136,7 +138,7 @@ for (const c of claimsIn) {
 }
 
 /* ---------------- careers, integrity, conduct ---------------- */
-const records = readInput("records.json") ?? {};
+const records = readAll("records").reduce((acc, r) => ({ careers: [...acc.careers, ...(r.careers ?? [])], integrityMatters: [...acc.integrityMatters, ...(r.integrityMatters ?? [])], conductMatters: [...acc.conductMatters, ...(r.conductMatters ?? [])] }), { careers: [], integrityMatters: [], conductMatters: [] });
 for (const c of records.careers ?? []) {
   const pol = politicianBySlug.get(c.politicianSlug);
   if (!pol) throw new Error(`unknown politician ${c.politicianSlug}`);

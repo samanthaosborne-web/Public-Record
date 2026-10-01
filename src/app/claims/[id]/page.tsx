@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getRepository } from "@/lib/data";
-import { formatDate } from "@/lib/format";
+import { formatDate, formatDateWithPrecision } from "@/lib/format";
 import { EVIDENCE_STATUS } from "@/lib/labels";
 import { Container } from "@/components/ui/Container";
 import { Breadcrumbs } from "@/components/ui/Breadcrumbs";
@@ -59,7 +59,7 @@ export default async function ClaimPage({ params }: { params: Promise<{ id: stri
           </div>
           <div>
             <dt className="label-caps text-ink-faint">Date</dt>
-            <dd className="mt-0.5">{formatDate(claim.date)}</dd>
+            <dd className="mt-0.5">{formatDateWithPrecision(claim.date, claim.datePrecision)}</dd>
           </div>
           <div>
             <dt className="label-caps text-ink-faint">Location / context</dt>

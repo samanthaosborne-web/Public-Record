@@ -12,6 +12,16 @@ export function formatDate(iso: string | undefined | null): string {
   return `${Number(d)} ${MONTHS[Number(mo) - 1]} ${y}`;
 }
 
+/** Formats a claim date according to its stated precision. */
+export function formatDateWithPrecision(iso: string | undefined | null, precision: "day" | "month" | "year" = "day"): string {
+  if (!iso) return "—";
+  const m = /^(\d{4})-(\d{2})/.exec(iso);
+  if (!m) return iso;
+  if (precision === "year") return m[1];
+  if (precision === "month") return `${MONTHS[Number(m[2]) - 1]} ${m[1]}`;
+  return formatDate(iso);
+}
+
 /** "2026-09-30" -> "30 Sep 2026". */
 export function formatDateShort(iso: string | undefined | null): string {
   if (!iso) return "—";

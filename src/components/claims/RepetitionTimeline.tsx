@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { ClaimDetail } from "@/lib/data/repository";
-import { formatDate } from "@/lib/format";
+import { formatDate, formatDateWithPrecision } from "@/lib/format";
 import { SourceLink } from "@/components/ui/SourceLink";
 import { EvidenceBadge } from "@/components/ui/StatusBadge";
 
@@ -31,7 +31,7 @@ export function RepetitionTimeline({ detail, sourcesById }: { detail: ClaimDetai
       <ol className="mt-2 space-y-2 text-sm">
         <li className="flex flex-wrap items-baseline gap-x-3">
           <span className="w-36 shrink-0 font-semibold text-ink">Claim first made</span>
-          <span className="text-ink">{formatDate(claim.date)}</span>
+          <span className="text-ink">{formatDateWithPrecision(claim.date, claim.datePrecision)}</span>
           <span className="text-ink-muted">{claim.context}</span>
         </li>
         {repetitions.map((r, i) => {
