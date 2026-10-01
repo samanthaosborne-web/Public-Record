@@ -47,6 +47,15 @@ npm run pipeline:dry-run       # run the daily-update pipeline offline (mock sta
 * **Claims**, **Issues**, **Integrity**, **Serious conduct**, **Today's Record**, **Methodology**,
   **Corrections log**, **Search**, **Submit a correction**, **Review queue (admin)**, **Source register**.
 
+## Hosted copy
+
+A static, read-only copy of the site is published to the `gh-pages` branch by
+`scripts/build-static-snapshot.mjs` (manually or by the GitHub Actions workflow in
+`.github/workflows/pages.yml`). With GitHub Pages set to serve that branch, it is available at
+https://samanthaosborne-web.github.io/Public-Record/ . The static copy cannot run live search,
+right-of-reply submissions or reviewer decisions; those need the running app or a server
+deployment (for example Vercel, which builds this repository with no extra configuration).
+
 ## Architecture
 
 See `docs/ARCHITECTURE.md` (data layer, pipeline, scheduling, safety rules) and `docs/DATA_MODEL.md`.
