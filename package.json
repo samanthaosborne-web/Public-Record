@@ -11,7 +11,8 @@
     "data:validate": "node scripts/validate-data.cjs",
     "data:build-politicians": "node scripts/build-politicians.cjs scripts/research/2026-09-30 && node scripts/validate-data.cjs",
     "pipeline:dry-run": "tsx src/pipeline/run-daily-update.ts",
-    "pipeline": "tsx src/pipeline/run-daily-update.ts --live"
+    "pipeline": "tsx src/pipeline/run-daily-update.ts --live",
+    "static:snapshot": "node scripts/build-static-snapshot.mjs --serve --out out-static"
   },
   "dependencies": {
     "next": "16.3.8",
