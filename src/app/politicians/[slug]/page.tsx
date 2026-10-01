@@ -20,6 +20,39 @@ import { ConductRecordCard } from "@/components/conduct/ConductRecord";
 import { SourceList } from "@/components/sources/SourceList";
 import { CorrectionBadge, EvidenceBadge } from "@/components/ui/StatusBadge";
 
+function CareerSection({ politician }: { politician: import("@/lib/types").Politician }) {
+  const career = (politician.career ?? []).slice().sort((a, b) => (b.from ?? "").localeCompare(a.from ?? ""));
+  if (!politician.parliamentaryService && career.length === 0 && !(politician.committees?.length)) return null;
+  return (
+    <section className="rounded-lg border border-line bg-surface p-4 sm:p-5">
+      <h2 className="label-caps text-ink-faint">Parliamentary career</h2>
+      {politician.parliamentaryService && <p className="mt-2 text-sm leading-relaxed">{politician.parliamentaryService}</p>}
+      {career.length > 0 && (
+        <ul className="mt-3 divide-y divide-line text-sm">
+          {career.map((c, i) => (
+            <li key={`${c.title}-${c.from ?? i}`} className="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-0.5 py-1.5">
+              <span>
+                {c.title} <span className="text-xs text-ink-faint">{POSITION_TYPE[c.type]}</span>
+              </span>
+              <span className="font-mono text-xs text-ink-muted">
+                {c.from ? formatDate(c.from) : "—"} – {c.to ? formatDate(c.to) : "present"}
+              </span>
+            </li>
+          ))}
+        </ul>
+      )}
+      {politician.committees && politician.committees.length > 0 && (
+        <p className="mt-3 text-xs text-ink-muted">
+          <span className="label-caps text-ink-faint">Current committees</span>
+          <br />
+          {politician.committees.join(" · ")}
+        </p>
+      )}
+      <p className="mt-3 text-[0.6875rem] text-ink-faint">Source: Parliament of Australia parliamentarian record, verified {formatDate(politician.verification.verifiedAt)}.</p>
+    </section>
+  );
+}
+
 const TABS = [
   { id: "overview", label: "Overview" },
   { id: "claims", label: "Claims" },
@@ -159,6 +192,7 @@ export default async function PoliticianPage({ params, searchParams }: { params:
         {tab === "overview" && (
           <div className="grid gap-6 lg:grid-cols-3">
             <div className="space-y-4 lg:col-span-2">
+              <CareerSection politician={politician} />
               <h2 className="label-caps text-ink-faint">Most recent claims</h2>
               {claims.length === 0 ? (
                 <EmptyState>

@@ -44,7 +44,7 @@ export default async function SearchPage({ searchParams }: { searchParams: Promi
         <SearchBar defaultValue={q} autoFocus={!q} />
       </div>
       {!q && (
-        <p className="mt-3 flex flex-wrap items-center gap-1.5 text-xs text-ink-muted">
+        <p data-search-examples className="mt-3 flex flex-wrap items-center gap-1.5 text-xs text-ink-muted">
           Try:
           {EXAMPLES.map((e) => (
             <Link key={e} href={`/search?q=${encodeURIComponent(e)}`} className="rounded bg-surface px-2 py-0.5 ring-1 ring-line hover:ring-ink">
@@ -54,6 +54,7 @@ export default async function SearchPage({ searchParams }: { searchParams: Promi
         </p>
       )}
 
+      <div data-search-results>
       {results && (
         <>
           <p className="mt-6 text-sm text-ink-muted">
@@ -108,6 +109,7 @@ export default async function SearchPage({ searchParams }: { searchParams: Promi
           </Group>
         </>
       )}
+      </div>
     </Container>
   );
 }

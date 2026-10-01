@@ -5,6 +5,7 @@ import { formatDate, truncate } from "@/lib/format";
 import { TONE } from "@/components/ui/StatusBadge";
 import { PartyTag } from "@/components/ui/PartyTag";
 import { DemoBadge } from "@/components/ui/DemoBadge";
+import { DraftBadge } from "@/components/ui/DraftBadge";
 import { SourceList } from "@/components/sources/SourceList";
 import { SourceLink } from "@/components/ui/SourceLink";
 import { StatusLifecycle } from "@/components/integrity/IntegrityRecord";
@@ -29,6 +30,7 @@ export function ConductRecordCard({ item, showPolitician = true }: { item: Condu
       <div className="flex flex-wrap items-center gap-2">
         <span className="label-caps text-ink-faint">Serious conduct matter</span>
         {matter.isDemonstration && <DemoBadge />}
+        {matter.reviewedBy === "ai_draft" && <DraftBadge />}
       </div>
       <h3 className="mt-2 font-serif text-xl leading-snug">
         <Link href={`/conduct/${matter.id}`} className="hover:underline hover:underline-offset-4">
@@ -120,7 +122,8 @@ export function ConductRecordDetail({ detail }: { detail: ConductMatterDetail })
       </section>
 
       <p className="text-xs text-ink-faint">
-        Date last checked: {formatDate(matter.lastCheckedAt)} · Publication approved by a human reviewer on {formatDate(matter.humanReviewedAt)} ·{" "}
+        Date last checked: {formatDate(matter.lastCheckedAt)} ·{" "}
+        {matter.reviewedBy === "human" && matter.humanReviewedAt ? `Publication approved by a human reviewer on ${formatDate(matter.humanReviewedAt)}` : "Drafted by AI from the official records cited above; awaiting editorial sign-off"} ·{" "}
         <Link href={`/submit?type=conduct&id=${matter.id}`} className="underline underline-offset-4">
           Submit correction or additional evidence
         </Link>

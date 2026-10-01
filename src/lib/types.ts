@@ -73,6 +73,13 @@ export interface Position {
   sourceId?: string;
 }
 
+export interface CareerEntry {
+  title: string;
+  type: PositionType;
+  from?: ISODate;
+  to?: ISODate;
+}
+
 export interface VerificationRecord {
   verifiedAt: ISODate;
   /** Source IDs used to verify name, party, seat and current office. */
@@ -100,6 +107,12 @@ export interface Politician extends Timestamps {
   positionSummary: string;
   /** Used to order profiles "by parliamentary position" (lower = more senior). */
   positionRank: number;
+  /** Neutral summary of parliamentary service, from the official record. */
+  parliamentaryService?: string;
+  /** Positions held (current and previous), from the official record. */
+  career?: CareerEntry[];
+  /** Current committee memberships. */
+  committees?: string[];
   /** Name as displayed on the APH profile, e.g. "Senator the Hon Penny Wong". */
   aphDisplayName?: string;
   aphId?: string;
@@ -293,8 +306,10 @@ export interface IntegrityMatter extends Timestamps {
   responseId?: string;
   outcome?: string;
   lastCheckedAt: ISODate;
-  /** Serious matters are never auto-published; this records that a human approved publication. */
-  humanReviewedAt: ISODate;
+  /** "human" once an editor has signed off; "ai_draft" while drafted from the cited records and awaiting sign-off. */
+  reviewedBy: "human" | "ai_draft";
+  /** Date a human approved publication. Required when reviewedBy is "human". */
+  humanReviewedAt?: ISODate;
   isDemonstration: boolean;
 }
 
@@ -335,7 +350,8 @@ export interface ConductMatter extends Timestamps {
   responseId?: string;
   outcome?: string;
   lastCheckedAt: ISODate;
-  humanReviewedAt: ISODate;
+  reviewedBy: "human" | "ai_draft";
+  humanReviewedAt?: ISODate;
   isDemonstration: boolean;
 }
 

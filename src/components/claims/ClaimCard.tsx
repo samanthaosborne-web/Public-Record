@@ -4,6 +4,7 @@ import { formatDate, truncate } from "@/lib/format";
 import { EvidenceBadge, CorrectionBadge } from "@/components/ui/StatusBadge";
 import { PartyTag } from "@/components/ui/PartyTag";
 import { DemoBadge } from "@/components/ui/DemoBadge";
+import { DraftBadge } from "@/components/ui/DraftBadge";
 import { EvidencePanel } from "./EvidencePanel";
 
 export function ClaimCard({
@@ -26,6 +27,7 @@ export function ClaimCard({
         {claim.repeatsClaimId && <span className="rounded bg-status-amber-bg px-1.5 py-0.5 text-[0.6875rem] font-semibold uppercase tracking-wide text-status-amber">Repeated claim</span>}
         {repetitionCount > 0 && <span className="text-xs text-ink-muted">Repeated {repetitionCount} time{repetitionCount === 1 ? "" : "s"}</span>}
         {claim.isDemonstration && <DemoBadge />}
+        {assessment.reviewedBy === "ai_draft" && <DraftBadge />}
       </div>
 
       <Heading className="mt-3 font-serif text-xl leading-snug text-ink">

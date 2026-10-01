@@ -51,6 +51,7 @@ try {
     const p = u.pathname;
     if (p.startsWith("/_next") || p.startsWith("/api") || p === "/favicon.ico") return false;
     const params = [...u.searchParams.keys()];
+    if (p === "/search") return params.length === 0; // queries are answered client-side (assets/search.js)
     if (p === "/claims") return params.length <= 1; // single filters only; combinations explode
     if (p === "/submit") return params.length <= 2;
     return params.length <= 1;
@@ -92,6 +93,11 @@ try {
   const crawled = [...pages.entries()].filter(([, h]) => h).map(([c]) => c);
   console.log(`crawled ${crawled.length} pages`);
 
+  // Search index for client-side live search.
+  const indexRes = await fetch(`${BASE}/api/search-index`);
+  if (!indexRes.ok) throw new Error(`search index: HTTP ${indexRes.status}`);
+  fs.writeFileSync(path.join(OUT, "assets", "search-index.json"), await indexRes.text());
+
   // Stylesheet: drop self-hosted @font-face rules (fonts come from Google Fonts in the static copy).
   const first = pages.get("/");
   const cssUrls = [...new Set([...first.matchAll(/<link[^>]+rel="stylesheet"[^>]+href="([^"]+\.css)"/g)].map((m) => m[1]))];
@@ -116,8 +122,7 @@ try {
   }
   console.log(`portraits: ${portraitOk.size}/${portraitIds.size}`);
 
-  const searchPages = Object.fromEntries(crawled.filter((c) => c.startsWith("/search?q=")).map((c) => [decodeURIComponent(new URL(c, BASE).searchParams.get("q")).toLowerCase(), fileFor(c)]));
-  const banner = `<div data-preview-banner class="bg-ink px-4 py-2 text-center text-xs text-paper">Static copy of the PUBLIC RECORD prototype, generated ${GENERATED}. Submitting corrections, reviewer decisions and live search need the running app.</div>`;
+  const banner = `<div data-preview-banner class="bg-ink px-4 py-2 text-center text-xs text-paper">Static copy of the PUBLIC RECORD prototype, generated ${GENERATED}. Submitting corrections and reviewer decisions need the running app.</div>`;
   const fonts = `<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap">`;
 
   function transform(canon, html) {
@@ -136,13 +141,14 @@ try {
       if (href.startsWith("//")) return m;
       const c = canonical(href);
       const hash = href.includes("#") ? href.slice(href.indexOf("#")) : "";
+      if (c.startsWith("/search?")) return `${attr}="${rel("search/index.html")}?${c.slice("/search?".length)}"`;
       if (pages.get(c)) return `${attr}="${rel(fileFor(c))}${hash}"`;
       if (href.startsWith("/_next") || href === "/favicon.ico") return m;
       return `${attr}="#" data-snapshot-missing="${href}"`;
     });
     out = out.replace("</head>", `${fonts}<link rel="stylesheet" href="${rel("assets/site.css")}"><style>${fontStyle}</style></head>`);
     out = out.replace(/<body([^>]*)>/, (m, attrs) => `<body${attrs}>${banner}`);
-    out = out.replace("</body>", `<script>window.__snapshot={root:${JSON.stringify(rootRel)},searches:${JSON.stringify(searchPages)}};</script><script src="${rel("assets/snapshot.js")}"></script></body>`);
+    out = out.replace("</body>", `<script>window.__snapshot={root:${JSON.stringify(rootRel)}};</script><script src="${rel("assets/snapshot.js")}"></script></body>`);
     return { file, out };
   }
 
@@ -198,14 +204,62 @@ try {
     toggle.addEventListener("click", function () { nav.hidden = !nav.hidden; toggle.setAttribute("aria-expanded", String(!nav.hidden)); });
   }
   function note(msg) { var n = document.createElement("div"); n.setAttribute("role", "status"); n.className = "fixed bottom-4 left-1/2 z-50 -translate-x-1/2 rounded bg-ink px-4 py-2 text-xs text-paper shadow"; n.textContent = msg; document.body.appendChild(n); setTimeout(function () { n.remove(); }, 4000); }
+  // Live search: every search form navigates to the search page; the search page scores the index in the browser.
   document.querySelectorAll('form[role="search"]').forEach(function (f) {
     f.addEventListener("submit", function (e) {
       e.preventDefault();
-      var q = (f.querySelector("input[name=q]").value || "").trim().toLowerCase();
-      var hit = S.searches[q];
-      if (hit) location.href = S.root + hit; else note("Live search needs the running app. This static copy includes the example searches listed on the search page.");
+      var q = (f.querySelector("input[name=q]").value || "").trim();
+      if (q) location.href = S.root + "search/index.html?q=" + encodeURIComponent(q);
     });
   });
+  var results = document.querySelector("[data-search-results]");
+  if (results) {
+    var q = (new URLSearchParams(location.search).get("q") || "").trim();
+    if (q) {
+      var input = document.querySelector('form[role="search"] input[name=q]');
+      if (input) input.value = q;
+      var examples = document.querySelector("[data-search-examples]");
+      if (examples) examples.hidden = true;
+      results.innerHTML = '<p class="mt-6 text-sm text-ink-muted">Searching…</p>';
+      fetch(S.root + "assets/search-index.json").then(function (r) { return r.json(); }).then(function (ix) { renderSearch(q, ix.docs, results); }).catch(function () { results.innerHTML = '<p class="mt-6 text-sm text-ink-muted">Search is unavailable right now.</p>'; });
+    }
+  }
+  function tokenize(t) { return t.toLowerCase().normalize("NFKD").replace(/[\u0300-\u036f]/g, "").replace(/[^\p{L}\p{N}\s]/gu, " ").split(/\s+/).filter(function (x) { return x.length > 1; }); }
+  function score(text, q, tokens) { var s = 0; if (q.length > 2 && text.indexOf(q) >= 0) s += 4; tokens.forEach(function (t) { if (text.indexOf(t) >= 0) s += 1; }); return s; }
+  function esc(v) { return String(v == null ? "" : v).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
+  var TONE = { green: ["bg-status-green-bg text-status-green", "bg-status-green"], "green-soft": ["bg-status-green-soft-bg text-status-green-soft", "bg-status-green-soft"], amber: ["bg-status-amber-bg text-status-amber", "bg-status-amber"], red: ["bg-status-red-bg text-status-red", "bg-status-red"], grey: ["bg-status-grey-bg text-status-grey", "bg-status-grey"], slate: ["bg-status-slate-bg text-status-slate", "bg-status-slate"], blue: ["bg-status-blue-bg text-status-blue", "bg-status-blue"] };
+  function badge(st, prominent) { var t = TONE[st.tone] || TONE.grey; return '<span class="inline-flex items-center gap-1.5 rounded font-semibold leading-tight px-2 py-0.5 text-xs ' + t[0] + (prominent ? ' border uppercase tracking-wide' : '') + '"><span class="h-1.5 w-1.5 shrink-0 rounded-full ' + t[1] + '"></span>' + esc(st.label) + '</span>'; }
+  function party(p) { return p ? '<span class="inline-flex items-center gap-1.5 text-xs text-ink-muted"><span class="h-2 w-2 shrink-0 rounded-full" style="background-color:' + esc(p.colour) + '"></span>' + esc(p.shortName) + '</span>' : ""; }
+  function demo(d) { return d ? '<span class="inline-flex items-center gap-1 rounded border border-dashed border-line-strong bg-paper px-1.5 py-0.5 text-[0.6875rem] font-semibold uppercase tracking-wide text-ink-muted">Demonstration data</span>' : ""; }
+  function href(d) { return S.root + d.href.replace(/^\//, "") + "/index.html"; }
+  function who(d) { return d.politician ? '<a href="' + S.root + "politicians/" + esc(d.politician.slug) + '/index.html" class="font-medium text-ink hover:underline">' + esc(d.politician.name) + '</a><span class="mx-1.5 text-ink-faint">·</span>' + party(d.party) + '<span class="mx-1.5 text-ink-faint">·</span>' : ""; }
+  function card(d) {
+    if (d.type === "politician") return '<li><a href="' + href(d) + '" class="flex h-full flex-col rounded-lg border border-line bg-surface p-4 shadow-card transition-colors hover:border-line-strong"><h3 class="font-semibold text-ink">' + esc(d.title) + '</h3><p class="mt-0.5">' + party(d.party) + '</p><p class="mt-1 text-xs text-ink-muted">' + esc(d.subtitle) + '</p><p class="mt-0.5 text-xs text-ink-faint">' + esc(d.excerpt) + '</p>' + (d.demo ? '<p class="mt-3">' + demo(true) + '</p>' : '') + '</a></li>';
+    if (d.type === "issue") return '<li><a href="' + href(d) + '" class="rounded-full border border-line-strong bg-surface px-3 py-1 text-sm hover:border-ink">' + esc(d.title) + '</a></li>';
+    var tags = (d.tags || []).map(function (t) { return '<span class="rounded bg-paper-deep px-1.5 py-0.5">' + esc(t) + '</span>'; }).join(" ");
+    var head = '<div class="flex flex-wrap items-center gap-2">' + (d.status ? badge(d.status, d.type !== "claim") : "") + demo(d.demo) + '</div>';
+    var title = '<h3 class="mt-3 font-serif text-xl leading-snug text-ink"><a href="' + href(d) + '" class="hover:underline hover:underline-offset-4">' + (d.type === "claim" ? "“" + esc(d.title) + "”" : esc(d.title)) + '</a></h3>';
+    var meta = '<p class="mt-2 text-xs text-ink-muted">' + who(d) + esc(d.dateLabel || "") + (d.subtitle ? '<span class="mx-1.5 text-ink-faint">·</span>' + esc(d.subtitle) : "") + '</p>';
+    var body = d.type === "claim"
+      ? '<div class="mt-3 border-l-2 border-line-strong pl-3"><p class="label-caps text-ink-faint">What the evidence shows</p><p class="mt-1 text-sm leading-relaxed text-ink">' + esc(d.excerpt) + '</p></div>'
+      : d.type === "conduct"
+        ? '<div class="mt-3 grid gap-3 md:grid-cols-2"><div><p class="label-caps text-ink-faint">What was alleged</p><p class="mt-1 text-sm leading-relaxed">' + esc(d.excerpt) + '</p></div><div class="rounded border px-3 py-2 ' + (TONE[d.status.tone] || TONE.grey)[0] + '"><p class="label-caps opacity-80">Current status</p><p class="mt-0.5 text-sm font-semibold uppercase tracking-wide">' + esc(d.status.banner) + '</p></div></div>'
+        : '<p class="mt-3 text-sm leading-relaxed text-ink">' + esc(d.excerpt) + '</p>';
+    var foot = '<div class="mt-3 flex flex-wrap items-center gap-x-4 gap-y-2 text-xs text-ink-muted">' + (tags ? '<span class="inline-flex flex-wrap items-center gap-1.5">' + tags + '</span>' : "") + '<a href="' + href(d) + '" class="ml-auto font-semibold tracking-wide text-ink hover:underline">SHOW THE EVIDENCE →</a></div>';
+    return '<li><article class="rounded-lg border border-line bg-surface p-4 shadow-card sm:p-5">' + head + title + meta + body + foot + '</article></li>';
+  }
+  function renderSearch(q, docs, el) {
+    var ql = q.toLowerCase(), tokens = tokenize(ql);
+    var hits = docs.map(function (d) { return { d: d, s: score(d.text, ql, tokens) }; }).filter(function (h) { return h.s > 0; }).sort(function (a, b) { return b.s - a.s || String(b.d.date || "").localeCompare(String(a.d.date || "")); }).map(function (h) { return h.d; });
+    var groups = [["politician", "Politicians", "grid gap-4 sm:grid-cols-2 lg:grid-cols-4"], ["issue", "Issues", "flex flex-wrap gap-2"], ["claim", "Claims", "space-y-4"], ["integrity", "Integrity matters", "space-y-4"], ["conduct", "Serious conduct matters", "space-y-4"]];
+    var html = '<p class="mt-6 text-sm text-ink-muted">' + (hits.length ? hits.length + " result" + (hits.length === 1 ? "" : "s") : "No results") + ' for “' + esc(q) + '”.</p>';
+    groups.forEach(function (g) {
+      var items = hits.filter(function (d) { return d.type === g[0]; });
+      if (!items.length) return;
+      html += '<section class="mt-8"><h2 class="label-caps mb-3 flex items-center gap-2 text-ink-faint">' + g[1] + ' <span class="font-mono text-ink-muted">' + items.length + '</span></h2><ul class="' + g[2] + '">' + items.map(card).join("") + '</ul></section>';
+    });
+    el.innerHTML = html;
+  }
   document.querySelectorAll("form:not([role=search])").forEach(function (f) {
     f.addEventListener("submit", function (e) { e.preventDefault(); note("Submissions and reviewer decisions need the running app."); });
   });

@@ -54,6 +54,9 @@ create table politicians (
   positions         jsonb not null default '[]'::jsonb,   -- [{title,type,since,sourceId}]
   position_summary  text not null,
   position_rank     integer not null default 50,
+  parliamentary_service text,
+  career            jsonb not null default '[]'::jsonb,   -- [{title,type,from,to}]
+  committees        text[] not null default '{}',
   aph_display_name  text,
   aph_id            text,
   aph_profile_url   text,
@@ -218,10 +221,12 @@ create table integrity_matters (
   response_id            text references responses(id),
   outcome                text,
   last_checked_at        date not null,
-  human_reviewed_at      date,                            -- required before publication
+  reviewed_by            text not null default 'ai_draft' check (reviewed_by in ('human','ai_draft')),
+  human_reviewed_at      date,                            -- required once reviewed_by = 'human'
   is_demonstration       boolean not null default false,
   created_at             timestamptz not null default now(),
-  updated_at             timestamptz not null default now()
+  updated_at             timestamptz not null default now(),
+  check (reviewed_by <> 'human' or human_reviewed_at is not null)
 );
 create index integrity_matters_politician_idx on integrity_matters(politician_id);
 
@@ -242,10 +247,12 @@ create table conduct_matters (
   response_id            text references responses(id),
   outcome                text,
   last_checked_at        date not null,
-  human_reviewed_at      date,                            -- required before publication
+  reviewed_by            text not null default 'ai_draft' check (reviewed_by in ('human','ai_draft')),
+  human_reviewed_at      date,                            -- required once reviewed_by = 'human'
   is_demonstration       boolean not null default false,
   created_at             timestamptz not null default now(),
-  updated_at             timestamptz not null default now()
+  updated_at             timestamptz not null default now(),
+  check (reviewed_by <> 'human' or human_reviewed_at is not null)
 );
 create index conduct_matters_politician_idx on conduct_matters(politician_id);
 

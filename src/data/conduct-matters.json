@@ -39,7 +39,8 @@
     "humanReviewedAt": "2026-03-06",
     "createdAt": "2026-03-06T17:00:00+11:00",
     "updatedAt": "2026-09-29T10:00:00+10:00",
-    "isDemonstration": true
+    "isDemonstration": true,
+    "reviewedBy": "human"
   },
   {
     "id": "cnd_demo-0002",
@@ -86,6 +87,7 @@
     "humanReviewedAt": "2025-06-19",
     "createdAt": "2025-06-19T10:00:00+10:00",
     "updatedAt": "2025-10-14T16:00:00+11:00",
-    "isDemonstration": true
+    "isDemonstration": true,
+    "reviewedBy": "human"
   }
 ]
