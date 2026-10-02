@@ -921,5 +921,61 @@
     "updatedAt": "2026-10-01T09:00:00+10:00",
     "organisation": "High Court of Australia sitting as the Court of Disputed Returns",
     "description": "On 9 August 2017 the Senate referred questions about Senator Roberts's eligibility to the Court of Disputed Returns after reports that he held British citizenship by descent when he nominated for the 2016 election. On 22 September 2017 Justice Keane found that Senator Roberts was a British citizen at nomination, knew there was at least a real and substantial prospect that he was, and had not taken effective steps to renounce it before nominating; his renunciation took effect on 5 December 2016. On 27 October 2017 the Full Court unanimously held that he had been ineligible to be elected and ordered a special count, under which Fraser Anning was declared elected. In June 2019 the High Court ordered Senator Roberts to pay $6,000 plus costs in an action under the Common Informers (Parliamentary Disqualifications) Act 1975 for the sitting days on which he sat while ineligible. He was elected to the Senate again in 2019."
+  },
+  {
+    "id": "int_mehreen-faruqi-2025-1",
+    "title": "Senate resolution on the conduct of senators after Senator Faruqi's sign protest during the Governor-General's address opening the 48th Parliament",
+    "politicianId": "pol_faruqi-mehreen",
+    "date": "2025-07-22",
+    "status": "official_finding",
+    "statusHistory": [
+      {
+        "status": "official_finding",
+        "date": "2025-07-23",
+        "note": "The Senate Daily Summary records the motion 'Conduct of senators', moved by Senator Wong, as agreed to, and a statement by the President about the conduct of senators during the Governor-General's address. The text of the resolution in the Journals of the Senate has not yet been retrieved; its terms are taken from Guardian Australia's report."
+      }
+    ],
+    "primarySourceIds": [
+      "src_static-aph-gov-au-media-02-parliamentary-business-22-chamber-documents-6ab63d"
+    ],
+    "independentSourceIds": [
+      "src_theguardian-com-australia-news-2025-jul-23-mehreen-faruqi-sanctioned-f-2e41c3"
+    ],
+    "responseId": "rsp_int_mehreen-faruqi-2025-1",
+    "outcome": "Motion on the conduct of senators agreed to by the Senate on 23 July 2025. According to Guardian Australia, Senator Faruqi is excluded from overseas parliamentary delegations for the remainder of the 48th Parliament.",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "Senate of Australia (motion moved by the Leader of the Government in the Senate)",
+    "description": "On 22 July 2025, during the Governor-General's address at the opening of the 48th Parliament, Senator Faruqi held up a sign referring to Gaza and calling for sanctions on Israel, and as the Prime Minister left the chamber asked whether he would sanction Israel. On 23 July 2025 the Senate agreed to a motion on the conduct of senators moved by Senator Wong, and the President made a statement about conduct during the address. Guardian Australia reported that the resolution described the protest as 'utterly disrespectful' and excluded Senator Faruqi from overseas parliamentary delegations for the remainder of the 48th Parliament, and that a Coalition amendment that would also have suspended her from the Senate for the rest of the week was unsuccessful. This was a resolution of the Senate, not a matter referred to the Privileges Committee."
+  },
+  {
+    "id": "int_david-shoebridge-2020-1",
+    "title": "Censure by the New South Wales Legislative Council over his response to a staff member's alleged vandalism of a Captain Cook statue and his attendance at a forest protest (2020)",
+    "politicianId": "pol_shoebridge-david",
+    "date": "2020-06-16",
+    "status": "official_finding",
+    "statusHistory": [
+      {
+        "status": "official_finding",
+        "date": "2020-06-16",
+        "note": "Censure motion carried by the Legislative Council, as reported by The Sydney Morning Herald. The Legislative Council's own record of the motion and vote has not yet been retrieved."
+      }
+    ],
+    "primarySourceIds": [],
+    "independentSourceIds": [
+      "src_smh-com-au-politics-nsw-shoebridge-stands-by-staffer-accused-of-cook-s-8f1aa0"
+    ],
+    "responseId": "rsp_int_david-shoebridge-2020-1",
+    "outcome": "Censure motion carried by the New South Wales Legislative Council with government, Labor and One Nation support (The Sydney Morning Herald, 16 June 2020). A censure is an expression of the chamber's disapproval and carries no other penalty.",
+    "lastCheckedAt": "2026-10-01",
+    "reviewedBy": "ai_draft",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "organisation": "Legislative Council of New South Wales",
+    "description": "In June 2020, while Mr Shoebridge was a member of the New South Wales Legislative Council, a part-time member of his parliamentary staff was charged over the alleged spray-painting of a statue of Captain Cook in Hyde Park, Sydney. On 16 June 2020 the Legislative Council passed a government censure motion, supported by Labor and One Nation members, that condemned Mr Shoebridge for what it described as his failure to publicly address community concerns about his staff member's alleged involvement in defacing a public monument, and for travelling to a protest against logging in Nambucca State Forest after attending a Black Lives Matter rally in Sydney during the COVID-19 restrictions. Mr Shoebridge told the chamber he would not dismiss the staff member, whose alleged conduct occurred outside work hours, and said he attended the forest protest at the request of Gumbaynggirr elders. The criminal matter concerned the staff member, not Mr Shoebridge."
   }
 ]

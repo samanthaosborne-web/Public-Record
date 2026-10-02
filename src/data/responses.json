@@ -886,5 +886,31 @@
     "summary": "Mr Farley did not respond when AAP FactCheck asked him to clarify the figures.",
     "createdAt": "2026-10-01T09:00:00+10:00",
     "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "rsp_int_mehreen-faruqi-2025-1",
+    "politicianId": "pol_faruqi-mehreen",
+    "relatedType": "integrity",
+    "relatedId": "int_mehreen-faruqi-2025-1",
+    "date": "2025-07-23",
+    "kind": "defence",
+    "summary": "Senator Faruqi told the Senate she would not back down, and said the sanction showed the government was cracking down on people who speak out about Gaza.",
+    "quote": "Labor and the Coalition in this chamber wants to avoid the truth. You don't want to see it or hear it.",
+    "sourceId": "src_theguardian-com-australia-news-2025-jul-23-mehreen-faruqi-sanctioned-f-2e41c3",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "rsp_int_david-shoebridge-2020-1",
+    "politicianId": "pol_shoebridge-david",
+    "relatedType": "integrity",
+    "relatedId": "int_david-shoebridge-2020-1",
+    "date": "2020-06-16",
+    "kind": "defence",
+    "summary": "Mr Shoebridge said he would not dismiss his staff member, criticised the attacks on her, and defended his attendance at the Nambucca forest protest.",
+    "quote": "I will not be sacking my staffer for what she did.",
+    "sourceId": "src_smh-com-au-politics-nsw-shoebridge-stands-by-staffer-accused-of-cook-s-8f1aa0",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
   }
 ]

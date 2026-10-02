@@ -1,0 +1,175 @@
+{
+  "careers": [
+    {
+      "politicianSlug": "david-shoebridge",
+      "parliamentaryService": "The Parliament of Australia records state service as a Member of the New South Wales Legislative Council from 2010 to 2022, and local government service as a Woollahra councillor from 2004 to 2012. Federally, he was elected to the Senate for New South Wales at the 2022 election; his Australian Greens service is recorded from 1 July 2022. The Australian Greens announced on 30 September 2026 that the party room had elected him Leader; the Parliament of Australia record had not yet been updated when checked on 2 October 2026.",
+      "positionsHeld": [
+        {"title": "Leader of the Australian Greens (per the party's announcement of 30 September 2026; not yet recorded by APH)", "from": "2026-09-30", "type": "party"},
+        {"title": "Australian Greens Spokesperson for Foreign Affairs, Peace and Nuclear Disarmament, Defence and Veterans' Affairs, Home Affairs, Immigration, Citizenship and Multicultural Affairs, Justice, Digital Rights and IT", "from": "2025-06-04", "type": "party"},
+        {"title": "Australian Greens Spokesperson for Defence and Veterans' Affairs, Digital Rights and IT, Home Affairs, Immigration, Citizenship and Multicultural Affairs and Justice", "from": "2024-03-25", "to": "2025-06-04", "type": "party"},
+        {"title": "Deputy Chair, Senate Select Committee on Adopting Artificial Intelligence", "from": "2024-03-27", "to": "2024-11-26", "type": "parliamentary"},
+        {"title": "Australian Greens Spokesperson for Justice, Defence, Veterans' Affairs, Digital Rights and Science", "from": "2023-05-15", "to": "2024-03-25", "type": "party"},
+        {"title": "Australian Greens Spokesperson for Justice, Defence and Veterans' Affairs and Digital Rights", "from": "2022-06-17", "to": "2023-05-15", "type": "party"}
+      ],
+      "currentCommittees": [
+        "Joint Standing Committee on the Implementation of the National Redress Scheme",
+        "Joint Standing Committee on Migration",
+        "Joint Standing Committee on Foreign Affairs, Defence and Trade",
+        "Parliamentary Joint Committee on Law Enforcement",
+        "Parliamentary Joint Committee on the National Anti-Corruption Commission",
+        "Parliamentary Joint Committee on Human Rights",
+        "Senate Legal and Constitutional Affairs Legislation Committee",
+        "Senate Legal and Constitutional Affairs References Committee",
+        "Senate Foreign Affairs, Defence and Trade Legislation Committee",
+        "Senate Foreign Affairs, Defence and Trade References Committee"
+      ]
+    },
+    {
+      "politicianSlug": "steph-hodgins-may",
+      "parliamentaryService": "The Parliament of Australia records that she was chosen by the Parliament of Victoria on 1 May 2024, under section 15 of the Constitution, to fill the Senate casual vacancy caused by the resignation of Senator Janet Rice, and that she was elected to the Senate for Victoria at the 2025 election. Her Australian Greens service is recorded from 1 May 2024. She has no state parliamentary service. The Australian Greens announced on 30 September 2026 that the party room had elected her Deputy Leader; the Parliament of Australia record had not yet been updated when checked on 2 October 2026.",
+      "positionsHeld": [
+        {"title": "Deputy Leader of the Australian Greens (per the party's announcement of 30 September 2026; not yet recorded by APH)", "from": "2026-09-30", "type": "party"},
+        {"title": "Chair, Senate Select Committee on the Taxation of Gas Resources", "from": "2026-04-01", "type": "parliamentary"},
+        {"title": "Temporary Chair of Committees", "from": "2025-07-28", "type": "parliamentary"},
+        {"title": "Australian Greens Spokesperson for Early Childhood Education, Democracy, Resources, Assistant for Climate Change and Energy, and Transport, Infrastructure and Sustainable Cities in the Senate", "from": "2025-06-04", "type": "party"},
+        {"title": "Australian Greens Spokesperson for Early Childhood Education, Science, Industry and Innovation", "from": "2024-05-01", "to": "2025-06-04", "type": "party"}
+      ],
+      "currentCommittees": [
+        "Joint Standing Committee on Electoral Matters",
+        "Senate Select Committee on the Taxation of Gas Resources (Chair)",
+        "Senate Standing Committee of Senators' Interests",
+        "Senate Education and Employment Legislation Committee (substitute member)",
+        "Senate Education and Employment References Committee (substitute member)",
+        "Senate Rural and Regional Affairs and Transport References Committee (substitute member)"
+      ]
+    },
+    {
+      "politicianSlug": "mehreen-faruqi",
+      "parliamentaryService": "The Parliament of Australia records state service as a Member of the New South Wales Legislative Council for The Greens from 2013 to 2018. Federally, she was chosen by the Parliament of New South Wales on 15 August 2018, under section 15 of the Constitution, to fill the Senate casual vacancy caused by the resignation of Senator Lee Rhiannon; she was elected to the Senate for New South Wales at the 2019 election and re-elected in 2025. Her Australian Greens service is recorded from 15 August 2018. APH records her as Deputy Leader of the Federal Parliamentary Australian Greens from 10 June 2022; the party announced a new Deputy Leader on 30 September 2026.",
+      "positionsHeld": [
+        {"title": "Australian Greens Spokesperson for Education (Tertiary), Anti-Racism, Climate Adaptation, Resilience and Emergency Management, International Aid and Global Justice, Animal Welfare and Republic", "from": "2025-06-04", "type": "party"},
+        {"title": "Chair, Senate Select Committee on the Impact of Climate Risk on Insurance Premiums and Availability", "from": "2024-05-20", "to": "2024-11-26", "type": "parliamentary"},
+        {"title": "Australian Greens Spokesperson for Animal Welfare, Anti-Racism, Climate Adaptation and Resilience, International Aid and Global Justice, Republic and Tertiary Education", "from": "2024-03-25", "to": "2025-06-04", "type": "party"},
+        {"title": "Australian Greens Spokesperson for Education, Anti-Racism, International Aid, Global Justice and Animal Welfare", "from": "2022-06-17", "to": "2024-03-25", "type": "party"},
+        {"title": "Deputy Leader of the Federal Parliamentary Australian Greens", "from": "2022-06-10", "to": "2026-09-30", "type": "party"},
+        {"title": "Australian Greens Spokesperson for Education, Housing, Industry, Anti-racism, Animal Welfare, International Aid and Development, and Employment and Workplace Relations", "from": "2020-09-09", "to": "2022-06-17", "type": "party"},
+        {"title": "Temporary Chair of Committees", "from": "2019-07-02", "to": "2022-07-26", "type": "parliamentary"},
+        {"title": "Australian Greens Spokesperson for Education, Local Government, Housing, Industry, Animal Welfare, Gun Control, International Development and Employment and Workplace Relations", "from": "2018-08-15", "to": "2020-09-09", "type": "party"}
+      ],
+      "currentCommittees": [
+        "Senate Education and Employment Legislation Committee",
+        "Senate Education and Employment References Committee",
+        "Senate Rural and Regional Affairs and Transport Legislation Committee",
+        "Senate Legal and Constitutional Affairs References Committee",
+        "Senate Legal and Constitutional Affairs Legislation Committee (substitute member)"
+      ]
+    },
+    {
+      "politicianSlug": "sarah-hanson-young",
+      "parliamentaryService": "The Parliament of Australia records that she was elected to the Senate for South Australia at the 2007 election, with her term beginning on 1 July 2008, and re-elected in 2013, 2016, 2019 and 2025. Her Australian Greens service is recorded from 1 July 2008. She has no state parliamentary service.",
+      "positionsHeld": [
+        {"title": "Deputy Chair, Joint Select Committee on Social Media and Australian Society", "from": "2024-05-30", "to": "2024-11-18", "type": "parliamentary"},
+        {"title": "Australian Greens Spokesperson on Environment, Water, Arts and Communications", "from": "2022-06-17", "type": "party"},
+        {"title": "Manager of Greens Business in the Senate", "from": "2022-06-10", "type": "party"},
+        {"title": "Australian Greens Spokesperson on Arts, Media and Communications, Environment and Water, Tourism, Gambling, Transport and Infrastructure", "from": "2021-09-15", "to": "2022-06-17", "type": "party"},
+        {"title": "Australian Greens Spokesperson on Dental Health, Arts, Media and Communications, Environment and Water and Tourism", "from": "2020-09-09", "to": "2021-09-15", "type": "party"},
+        {"title": "Australian Greens Spokesperson on Environment and Biodiversity, Water and Murray Darling Basin, Arts, Media and Communications, Dental Health and Tourism", "from": "2020-02-27", "to": "2020-09-09", "type": "party"},
+        {"title": "Chair, Senate Environment and Communications References Committee", "from": "2019-09-19", "type": "parliamentary"},
+        {"title": "Deputy Chair, Senate Environment and Communications Legislation Committee", "from": "2019-09-19", "type": "parliamentary"},
+        {"title": "Australian Greens Spokesperson on Environment and Biodiversity, Water and Murray Darling Basin, Arts, Media and Communications and Nuclear Issues", "from": "2019-07-05", "to": "2020-02-27", "type": "party"},
+        {"title": "Chair, Senate Select Committee on Fair Dinkum Power", "from": "2018-12-06", "to": "2019-06-28", "type": "parliamentary"},
+        {"title": "Chair, Senate Select Committee into the Resilience of Electricity Infrastructure in a Warming World", "from": "2016-10-13", "to": "2017-04-07", "type": "parliamentary"},
+        {"title": "Australian Greens Spokesperson on Lifelong Learning (Early Childhood, Schools, VET and Higher Education), Finance and Trade, Water and Murray Darling Basin, Arts, Youth", "from": "2016-08-25", "to": "2019-07-05", "type": "party"},
+        {"title": "Australian Greens Spokesperson on Immigration and Citizenship, Early Childhood Education and Care, Youth", "from": "2015-05-25", "to": "2016-08-25", "type": "party"},
+        {"title": "Australian Greens Spokesperson on Early Childhood Education and Care, Immigration and Citizenship, Lesbian, Bisexual, Transgender and Intersex Issues and Marriage Equality", "from": "2014-07-01", "to": "2015-05-25", "type": "party"},
+        {"title": "Australian Greens Spokesperson on Immigration and Citizenship, Consumer Affairs, Water and the Murray Darling Basin, Human Rights, Gay, Lesbian, Bisexual, Transgender and Intersex Issues, Youth, Early Childhood Education and Care", "from": "2013-11-11", "to": "2014-07-01", "type": "party"},
+        {"title": "Australian Greens Spokesperson on Consumer Affairs, Human Rights, Immigration and Citizenship, Gay, Lesbian, Bisexual, Transgender and Intersex Issues, Murray Darling Basin, Tibet, Water", "from": "2012-07-01", "to": "2013-11-11", "type": "party"},
+        {"title": "Australian Greens Party Room Chair", "from": "2011-07-01", "to": "2022-06-10", "type": "party"}
+      ],
+      "currentCommittees": [
+        "Senate Environment and Communications References Committee (Chair)",
+        "Senate Environment and Communications Legislation Committee (Deputy Chair)",
+        "Senate Standing Committee on Procedure",
+        "Joint Standing Committee on Treaties",
+        "Joint Standing Committee on Trade and Investment Growth"
+      ]
+    },
+    {
+      "politicianSlug": "nick-mckim",
+      "parliamentaryService": "The Parliament of Australia records state service as a Member of the Tasmanian House of Assembly for Franklin from the 2002 election until his resignation on 2 August 2015, including as Leader of the Tasmanian Greens from 7 July 2008 to 2014 and as a Tasmanian minister from April 2010 in portfolios including Human Services and Community Development and Sustainable Transport. Federally, he was chosen by the Parliament of Tasmania on 19 August 2015, under section 15 of the Constitution, to fill the Senate casual vacancy caused by the resignation of Senator Christine Milne; he was elected to the Senate for Tasmania at the 2016 election and re-elected in 2019 and 2025. His Australian Greens service is recorded from 19 August 2015.",
+      "positionsHeld": [
+        {"title": "Chair, Senate Select Committee on the Operation of the Capital Gains Tax Discount", "from": "2025-11-12", "to": "2026-03-17", "type": "parliamentary"},
+        {"title": "Australian Greens Spokesperson for Economic Justice and Treasury, Forests and LGBTIQA+", "from": "2025-06-04", "type": "party"},
+        {"title": "Australian Greens Spokesperson for Economic Justice and Treasury, Emergency Management and Forests", "from": "2024-03-25", "to": "2025-06-04", "type": "party"},
+        {"title": "Chair, Senate Select Committee on Supermarket Prices", "from": "2023-12-07", "to": "2024-05-07", "type": "parliamentary"},
+        {"title": "Australian Greens Spokesperson on Economic Justice, Treasury, Home Affairs, Immigration, Citizenship and Multicultural Affairs", "from": "2022-06-17", "to": "2024-03-25", "type": "party"},
+        {"title": "Australian Greens Whip in the Senate", "from": "2021-10-18", "type": "party"},
+        {"title": "Australian Greens Spokesperson on Treasury, Finance and Economic Justice, Immigration and Citizenship, Digital Rights, IT and NBN", "from": "2020-09-09", "to": "2022-06-17", "type": "party"},
+        {"title": "Co-Deputy Leader of the Federal Parliamentary Australian Greens", "from": "2020-02-04", "to": "2022-06-10", "type": "party"},
+        {"title": "Australian Greens Spokesperson for Justice, Immigration and Citizenship and Digital Rights and Information Technology", "from": "2019-07-05", "to": "2020-09-09", "type": "party"},
+        {"title": "Australian Greens Spokesperson on Attorney-General, Immigration and Citizenship, Small Business", "from": "2016-08-25", "to": "2019-07-05", "type": "party"},
+        {"title": "Australian Greens Spokesperson on Attorney-General, Schools, Innovation, Competition Policy and Small Business", "from": "2015-09-15", "to": "2016-08-25", "type": "party"}
+      ],
+      "currentCommittees": [
+        "Senate Economics Legislation Committee",
+        "Senate Economics References Committee",
+        "Senate Rural and Regional Affairs and Transport Legislation Committee",
+        "Senate Standing Committee of Privileges",
+        "Senate Standing Committee for the Selection of Bills",
+        "Senate Standing Committee for the Scrutiny of Bills",
+        "Parliamentary Joint Committee on Parliamentary Standards"
+      ]
+    }
+  ],
+  "integrityMatters": [
+    {
+      "politicianSlug": "mehreen-faruqi",
+      "title": "Senate resolution on the conduct of senators after Senator Faruqi's sign protest during the Governor-General's address opening the 48th Parliament",
+      "date": "2025-07-22",
+      "organisation": "Senate of Australia (motion moved by the Leader of the Government in the Senate)",
+      "description": "On 22 July 2025, during the Governor-General's address at the opening of the 48th Parliament, Senator Faruqi held up a sign referring to Gaza and calling for sanctions on Israel, and as the Prime Minister left the chamber asked whether he would sanction Israel. On 23 July 2025 the Senate agreed to a motion on the conduct of senators moved by Senator Wong, and the President made a statement about conduct during the address. Guardian Australia reported that the resolution described the protest as 'utterly disrespectful' and excluded Senator Faruqi from overseas parliamentary delegations for the remainder of the 48th Parliament, and that a Coalition amendment that would also have suspended her from the Senate for the rest of the week was unsuccessful. This was a resolution of the Senate, not a matter referred to the Privileges Committee.",
+      "status": "official_finding",
+      "statusHistory": [
+        {"status": "official_finding", "date": "2025-07-23", "note": "The Senate Daily Summary records the motion 'Conduct of senators', moved by Senator Wong, as agreed to, and a statement by the President about the conduct of senators during the Governor-General's address. The text of the resolution in the Journals of the Senate has not yet been retrieved; its terms are taken from Guardian Australia's report."}
+      ],
+      "outcome": "Motion on the conduct of senators agreed to by the Senate on 23 July 2025. According to Guardian Australia, Senator Faruqi is excluded from overseas parliamentary delegations for the remainder of the 48th Parliament.",
+      "primarySources": [
+        {"title": "Senate Daily Summary, Wednesday 23 July 2025", "publisher": "Department of the Senate, Parliament of Australia", "url": "https://static.aph.gov.au/-/media/02_Parliamentary_Business/22_Chamber_Documents/221_Senate/The_Senate_Daily_Summary/2025/SDS_-_23_July_2025.pdf", "publishedAt": "2025-07-23"}
+      ],
+      "independentSources": [
+        {"title": "Mehreen Faruqi sanctioned for Gaza sign protest as Greens senator accused of 'street theatre'", "publisher": "Guardian Australia", "url": "https://www.theguardian.com/australia-news/2025/jul/23/mehreen-faruqi-sanctioned-for-gaza-sign-protest-ntwnfb", "publishedAt": "2025-07-23"}
+      ],
+      "politicianResponse": {
+        "kind": "defence",
+        "date": "2025-07-23",
+        "summary": "Senator Faruqi told the Senate she would not back down, and said the sanction showed the government was cracking down on people who speak out about Gaza.",
+        "quote": "Labor and the Coalition in this chamber wants to avoid the truth. You don't want to see it or hear it.",
+        "source": {"title": "Mehreen Faruqi sanctioned for Gaza sign protest as Greens senator accused of 'street theatre'", "publisher": "Guardian Australia", "url": "https://www.theguardian.com/australia-news/2025/jul/23/mehreen-faruqi-sanctioned-for-gaza-sign-protest-ntwnfb", "publishedAt": "2025-07-23"}
+      }
+    },
+    {
+      "politicianSlug": "david-shoebridge",
+      "title": "Censure by the New South Wales Legislative Council over his response to a staff member's alleged vandalism of a Captain Cook statue and his attendance at a forest protest (2020)",
+      "date": "2020-06-16",
+      "organisation": "Legislative Council of New South Wales",
+      "description": "In June 2020, while Mr Shoebridge was a member of the New South Wales Legislative Council, a part-time member of his parliamentary staff was charged over the alleged spray-painting of a statue of Captain Cook in Hyde Park, Sydney. On 16 June 2020 the Legislative Council passed a government censure motion, supported by Labor and One Nation members, that condemned Mr Shoebridge for what it described as his failure to publicly address community concerns about his staff member's alleged involvement in defacing a public monument, and for travelling to a protest against logging in Nambucca State Forest after attending a Black Lives Matter rally in Sydney during the COVID-19 restrictions. Mr Shoebridge told the chamber he would not dismiss the staff member, whose alleged conduct occurred outside work hours, and said he attended the forest protest at the request of Gumbaynggirr elders. The criminal matter concerned the staff member, not Mr Shoebridge.",
+      "status": "official_finding",
+      "statusHistory": [
+        {"status": "official_finding", "date": "2020-06-16", "note": "Censure motion carried by the Legislative Council, as reported by The Sydney Morning Herald. The Legislative Council's own record of the motion and vote has not yet been retrieved."}
+      ],
+      "outcome": "Censure motion carried by the New South Wales Legislative Council with government, Labor and One Nation support (The Sydney Morning Herald, 16 June 2020). A censure is an expression of the chamber's disapproval and carries no other penalty.",
+      "primarySources": [],
+      "independentSources": [
+        {"title": "Shoebridge stands by staffer accused of Cook statue vandalism", "publisher": "The Sydney Morning Herald", "url": "https://www.smh.com.au/politics/nsw/shoebridge-stands-by-staffer-accused-of-cook-statue-vandalism-20200616-p5536r.html", "publishedAt": "2020-06-16"}
+      ],
+      "politicianResponse": {
+        "kind": "defence",
+        "date": "2020-06-16",
+        "summary": "Mr Shoebridge said he would not dismiss his staff member, criticised the attacks on her, and defended his attendance at the Nambucca forest protest.",
+        "quote": "I will not be sacking my staffer for what she did.",
+        "source": {"title": "Shoebridge stands by staffer accused of Cook statue vandalism", "publisher": "The Sydney Morning Herald", "url": "https://www.smh.com.au/politics/nsw/shoebridge-stands-by-staffer-accused-of-cook-statue-vandalism-20200616-p5536r.html", "publishedAt": "2020-06-16"}
+      }
+    }
+  ],
+  "conductMatters": []
+}

@@ -1342,5 +1342,29 @@
     "politicianId": "pol_hanson-pauline",
     "createdAt": "2026-10-01T09:00:00+10:00",
     "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "upd_2026-10-01-mehreen-faruqi-2025-1",
+    "date": "2026-10-01",
+    "type": "investigation_closed",
+    "title": "Integrity record: Senate resolution on the conduct of senators after Senator Faruqi's sign protest during the Governor-General's address opening the 48th Parliament",
+    "summary": "Senate of Australia (motion moved by the Leader of the Government in the Senate) Outcome: Motion on the conduct of senators agreed to by the Senate on 23 July 2025. According to Guardian Australia, Senator Faruqi is excluded from AI draft pending editorial review.",
+    "relatedType": "integrity",
+    "relatedId": "int_mehreen-faruqi-2025-1",
+    "politicianId": "pol_faruqi-mehreen",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "upd_2026-10-01-david-shoebridge-2020-1",
+    "date": "2026-10-01",
+    "type": "investigation_closed",
+    "title": "Integrity record: Censure by the New South Wales Legislative Council over his response to a staff member's alleged vandalism of a Captain Cook statue and his attendance at a forest protest (2020)",
+    "summary": "Legislative Council of New South Wales Outcome: Censure motion carried by the New South Wales Legislative Council with government, Labor and One Nation support (The Sydney Morning Herald, AI draft pending editorial review.",
+    "relatedType": "integrity",
+    "relatedId": "int_david-shoebridge-2020-1",
+    "politicianId": "pol_shoebridge-david",
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00"
   }
 ]

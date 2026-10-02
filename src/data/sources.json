@@ -6049,5 +6049,44 @@
     "createdAt": "2026-10-01T09:00:00+10:00",
     "updatedAt": "2026-10-01T09:00:00+10:00",
     "publishedAt": "2019-02-14"
+  },
+  {
+    "id": "src_static-aph-gov-au-media-02-parliamentary-business-22-chamber-documents-6ab63d",
+    "title": "Senate Daily Summary, Wednesday 23 July 2025",
+    "publisher": "Department of the Senate, Parliament of Australia",
+    "url": "https://static.aph.gov.au/-/media/02_Parliamentary_Business/22_Chamber_Documents/221_Senate/The_Senate_Daily_Summary/2025/SDS_-_23_July_2025.pdf",
+    "tier": 1,
+    "kind": "parliamentary_document",
+    "accessedAt": "2026-10-01",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "publishedAt": "2025-07-23"
+  },
+  {
+    "id": "src_theguardian-com-australia-news-2025-jul-23-mehreen-faruqi-sanctioned-f-2e41c3",
+    "title": "Mehreen Faruqi sanctioned for Gaza sign protest as Greens senator accused of 'street theatre'",
+    "publisher": "Guardian Australia",
+    "url": "https://www.theguardian.com/australia-news/2025/jul/23/mehreen-faruqi-sanctioned-for-gaza-sign-protest-ntwnfb",
+    "tier": 3,
+    "kind": "other",
+    "accessedAt": "2026-10-01",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "publishedAt": "2025-07-23"
+  },
+  {
+    "id": "src_smh-com-au-politics-nsw-shoebridge-stands-by-staffer-accused-of-cook-s-8f1aa0",
+    "title": "Shoebridge stands by staffer accused of Cook statue vandalism",
+    "publisher": "The Sydney Morning Herald",
+    "url": "https://www.smh.com.au/politics/nsw/shoebridge-stands-by-staffer-accused-of-cook-statue-vandalism-20200616-p5536r.html",
+    "tier": 3,
+    "kind": "other",
+    "accessedAt": "2026-10-01",
+    "isDemonstration": false,
+    "createdAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "publishedAt": "2020-06-16"
   }
 ]
