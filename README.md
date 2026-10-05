@@ -56,6 +56,16 @@ npm run pipeline:dry-run       # run the daily-update pipeline offline (mock sta
 * **Claims**, **Issues**, **Integrity**, **Serious conduct**, **Today's Record**, **Methodology**,
   **Corrections log**, **Search**, **Submit a correction**, **Review queue (admin)**, **Source register**.
 
+## Editorial review
+
+AI-drafted records are published with the label **AI draft · pending editorial review** until a
+person approves them. The review happens in `review/REVIEW.md`, which lists every pending record
+with a link to its page on the live site. Change a record's **Decision** cell to `approve`,
+`approve as <status>`, `reject` or `hold`, add a note if you like, and commit; the Pages workflow
+runs `node scripts/apply-review.cjs`, which applies the decisions to `src/data`, logs them in
+`review/decisions-log.json` and the site's corrections log, commits the result back to the branch
+and republishes the site. `npm run review:apply` does the same locally.
+
 ## Hosted copy
 
 A static, read-only copy of the site is published to the `gh-pages` branch by

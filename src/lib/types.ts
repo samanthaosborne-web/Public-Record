@@ -489,6 +489,7 @@ export type ChangeKind =
   | "evidence_added"
   | "record_created"
   | "record_amended"
+  | "record_withdrawn"
   | "status_changed"
   | "response_added"
   | "profile_updated";

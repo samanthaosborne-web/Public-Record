@@ -15,6 +15,7 @@ const KIND: Record<ChangeKind, { label: string; tone: Tone }> = {
   evidence_added: { label: "Evidence added", tone: "blue" },
   record_created: { label: "Record created", tone: "grey" },
   record_amended: { label: "Record amended", tone: "blue" },
+  record_withdrawn: { label: "Record withdrawn", tone: "slate" },
   status_changed: { label: "Status changed", tone: "slate" },
   response_added: { label: "Response added", tone: "green" },
   profile_updated: { label: "Profile updated", tone: "grey" },
