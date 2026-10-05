@@ -365,10 +365,10 @@
     "version": 1,
     "status": "supported",
     "findings": "The National Indigenous Australians Agency told CheckMate that the Uluru Statement from the Heart is a one-page document, as confirmed by its authors. The 26-page document cited by critics was one of several documents released on the agency's freedom-of-information disclosure log in March 2023; it contains the one-page statement together with background material from the Referendum Council's regional dialogues, which the council's 2017 final report also reproduces.",
-    "reviewedAt": "2026-10-01",
-    "reviewedBy": "ai_draft",
+    "reviewedAt": "2026-10-05",
+    "reviewedBy": "human",
     "createdAt": "2026-10-01T09:00:00+10:00",
-    "updatedAt": "2026-10-01T09:00:00+10:00",
+    "updatedAt": "2026-10-05T09:00:00+10:00",
     "context": "The statement was made after a Sky News presenter and the Shadow Minister for Indigenous Australians said a 26-page version of the Uluru Statement had been 'exposed' through freedom of information. The dispute was part of the 2023 Voice referendum campaign. CheckMate did not use a one-word verdict label; its finding is quoted as the verdict."
   },
   {

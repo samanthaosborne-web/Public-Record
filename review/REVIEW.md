@@ -14,13 +14,12 @@ Records drafted by the automated pipeline stay labelled **AI draft · pending ed
 
 The site rebuilds itself within a few minutes, the decisions are applied to the data files and this sheet is regenerated. Decisions are also recorded in `review/decisions-log.json` and in the site's corrections log. Anything that cannot be read is left pending and reported in the build log.
 
-## Pending review (74 records)
+## Pending review (73 records)
 
-### Anthony Albanese (8)
+### Anthony Albanese (7)
 
 | ID | Record | Decision | Note |
 |---|---|---|---|
-| `clm_anthony-albanese-20230808-1` | Claim · 8 Aug 2023 · *Supported* — “That is the Uluru Statement from the Heart on an A4 bit of paper. That is it.” · [view](https://samanthaosborne-web.github.io/Public-Record/claims/clm_anthony-albanese-20230808-1/) | approve |  |
 | `clm_anthony-albanese-20230905-1` | Claim · 5 Sep 2023 · *Mostly supported* — “In between I will have the first bilateral visit by an Australian leader to the Philippines in over two decades” · [view](https://samanthaosborne-web.github.io/Public-Record/claims/clm_anthony-albanese-20230905-1/) | pending |  |
 | `clm_anthony-albanese-20240326-1` | Claim · 26 Mar 2024 · *Mixed / context required* — “That's 790,000 new jobs created. More than any first term government on record.” · [view](https://samanthaosborne-web.github.io/Public-Record/claims/clm_anthony-albanese-20240326-1/) | pending |  |
 | `clm_anthony-albanese-20250204-1` | Claim · 4 Feb 2025 · *Mixed / context required* — “If the Leader of the Opposition and the shadow treasurer had their way, Australian families would be $7200 worse off than they are today” · [view](https://samanthaosborne-web.github.io/Public-Record/claims/clm_anthony-albanese-20250204-1/) | pending |  |
@@ -180,6 +179,8 @@ The site rebuilds itself within a few minutes, the decisions are applied to the 
 |---|---|---|---|
 | `clm_david-farley-20260823-1` | Claim · 23 Aug 2026 · *Contradicted by evidence* — “Forty per cent of the nation's food comes out of Farrer, so it's pretty important.” · [view](https://samanthaosborne-web.github.io/Public-Record/claims/clm_david-farley-20260823-1/) | pending |  |
 
-## Applied decisions (0)
+## Applied decisions (1)
 
-No decisions have been applied yet.
+| ID | Record | Decision | Note |
+|---|---|---|---|
+| `clm_anthony-albanese-20230808-1` | Anthony Albanese · Claim · 8 Aug 2023 — “The Uluru Statement from the Heart is a one-page document.” | ✓ approved 2026-10-05 |  |

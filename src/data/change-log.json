@@ -1205,5 +1205,17 @@
     "reason": "Entered on 2026-10-01; drafted by AI; awaiting editorial sign-off.",
     "createdAt": "2026-10-01T09:00:00+10:00",
     "updatedAt": "2026-10-01T09:00:00+10:00"
+  },
+  {
+    "id": "chg_clm_anthony-albanese-20230808-1-record_amended-2026-10-05",
+    "date": "2026-10-05",
+    "kind": "record_amended",
+    "recordType": "claim",
+    "recordId": "clm_anthony-albanese-20230808-1",
+    "politicianId": "pol_albanese-anthony",
+    "summary": "Approved for publication after editorial review.",
+    "reason": "Human review completed.",
+    "createdAt": "2026-10-05T09:00:00+10:00",
+    "updatedAt": "2026-10-05T09:00:00+10:00"
   }
 ]
